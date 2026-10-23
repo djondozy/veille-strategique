@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Brief Stratégique Bénin</title>
+<meta name="apple-mobile-web-app-title" content="Brief DG">
 <meta name="description" content="Veille stratégique hebdomadaire sur la banque au Bénin : concurrence, réglementation, économie et tendances, à partir d'informations publiques.">
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#FFFFFF">
@@ -122,6 +123,33 @@ section.band{background:var(--band)}
 footer{border-top:1px solid var(--line);padding-block:30px calc(36px + env(safe-area-inset-bottom,0px));font-size:13.5px;color:var(--muted)}
 footer p{margin:0 0 6px;max-width:80ch}
 .empty{color:var(--muted)}
+
+/* Personal greeting and quick access */
+.hello{background:linear-gradient(180deg,#EEF2F8 0%,#FFFFFF 100%);border-bottom:1px solid var(--line)}
+.hello .wrap{padding-block:48px 40px}
+.greet{font:500 clamp(36px,6vw,64px)/1.05 var(--serif);margin:0 0 10px}
+.sub{font-size:18px;color:var(--muted);margin:0 0 28px;max-width:56ch}
+.headline{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px 24px;box-shadow:0 12px 34px -22px rgba(19,33,58,.35);max-width:820px}
+.hk{margin:0 0 6px;font-size:14px;font-weight:600;color:var(--brass)}
+.ht{margin:0;font:500 clamp(22px,2.8vw,30px)/1.25 var(--serif);text-wrap:balance}
+.headline .meta{margin-top:14px}
+.quick{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;margin-top:22px}
+.qt{display:flex;flex-direction:column;gap:6px;text-decoration:none;background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px;transition:border-color .15s,transform .15s}
+.qt:hover{border-color:#C9B48F;transform:translateY(-2px)}
+.qt svg{width:22px;height:22px;color:var(--brass)}
+.qt b{font:500 22px/1 var(--serif)}
+.qt span{font-size:13.5px;color:var(--muted);line-height:1.3}
+.qt.hot b{color:var(--alert)}
+@media (max-width:900px){.quick{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:480px){.quick{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.s30{padding-block:40px 0}
+.s30h{font-size:clamp(26px,3.2vw,32px);margin-bottom:14px}
+.s30l{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.s30l li a{display:flex;gap:12px;align-items:flex-start;text-decoration:none;background:var(--brass-soft);border-radius:14px;padding:16px;height:100%;font-weight:500;line-height:1.4}
+.s30l li a:hover{background:#F1E4CC}
+.s30l .n{font:500 26px/1 var(--serif);color:var(--brass)}
+@media (max-width:820px){.s30l{grid-template-columns:1fr}}
+.bp{scroll-margin-top:80px}
 </style>
 </head>
 <body>
@@ -135,12 +163,22 @@ footer p{margin:0 0 6px;max-width:80ch}
 </header>
 
 <main>
-  <div class="wrap mast">
+  <div class="hello"><div class="wrap">
     <p class="dateline" id="dateline">Brief stratégique</p>
-    <h1 id="title">Le brief de la semaine</h1>
-    <p class="intro" id="intro"></p>
-    <div class="meta" id="meta"></div>
-  </div>
+    <h1 class="greet" id="greet">Bonjour Monsieur Noulekou,</h1>
+    <p class="sub">Voici ce qu'il faut savoir cette semaine sur l'environnement de la banque au Bénin.</p>
+    <div class="headline">
+      <p class="hk">À la une</p>
+      <p class="ht" id="title">Le brief de la semaine</p>
+      <div class="meta" id="meta"></div>
+    </div>
+    <div class="quick" id="quick"></div>
+  </div></div>
+
+  <section class="s30" id="trente" hidden><div class="wrap">
+    <h2 class="s30h">En 30 secondes</h2>
+    <ol class="s30l" id="s30"></ol>
+  </div></section>
 
   <section class="s" id="brief"><div class="wrap">
     <div class="sh"><h2>L'essentiel de la semaine</h2><p>Classé par importance pour la banque. Chaque point indique ce qu'il implique pour nous.</p></div>
@@ -197,11 +235,29 @@ const byDate=(a,b)=>String(b.date).localeCompare(String(a.date));
 function render(d){
   const m=new Date(d.derniereMaj),now=new Date();
   $("#dateline").innerHTML=`<b>${esc(d.brief?.periode||"Brief stratégique")}</b> · ${now.toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}`;
-  if(d.brief){$("#title").textContent=d.brief.titre;$("#intro").textContent=d.brief.intro||""}
+  const h=now.getHours();$("#greet").textContent=(h>=18||h<4?"Bonsoir":"Bonjour")+" Monsieur Noulekou,";
+  if(d.brief){$("#title").textContent=d.brief.titre}
+  const pts=(d.brief?.points||[]);
+  if(pts.length){$("#trente").hidden=false;$("#s30").innerHTML=pts.slice(0,3).map((p,i)=>`<li><a href="#p${i+1}"><span class="n">${i+1}</span><span>${esc(p.titre)}</span></a></li>`).join("")}
+  const I={cal:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',ppl:'<circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.5a3.5 3.5 0 0 1 0 7M18 14a5 5 0 0 1 3.5 6"/>',law:'<path d="M12 3v18M5 21h14M4 8h16M4 8l-2 6a3 3 0 0 0 6 0zM20 8l-2 6a3 3 0 0 0 6 0z"/>',chart:'<path d="M3 21h18M6 17V11M11 17V7M16 17v-4M20 17V5"/>',bank:'<path d="M3 10 12 4l9 6M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 20h18"/>',globe:'<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/>'};
+  const ic=k=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${I[k]}</svg>`;
+  const nx=(d.echeances||[]).filter(e=>D(e.date)>=T0&&!e.dateApprox).sort((a,b)=>String(a.date).localeCompare(String(b.date)))[0];
+  const nd=nx?Math.round((D(nx.date)-T0)/864e5):null;
+  const recent=l=>(l||[]).filter(x=>D(x.date)>=new Date(T0-30*864e5)).length;
+  const compN=(d.concurrents||[]).reduce((s,c)=>s+recent(c.actus),0);
+  const growth=(d.economie?.indicateurs||[])[0];
+  $("#quick").innerHTML=[
+    ["#echeances","cal",nx?`J-${nd}`:"–",nx?esc(nx.titre):"Échéances",nx&&nd<=30],
+    ["#concurrence","ppl",compN,"annonces concurrentes ce mois-ci"],
+    ["#reglementation","law",recent(d.reglementation),"décisions réglementaires ce mois-ci"],
+    ["#economie","chart",growth?esc(growth.valeur):"–",growth?esc(growth.label):"Économie"],
+    ["#groupe","bank",(d.groupe||[]).length,"nouvelles du groupe"],
+    ["#tendances","globe",(d.tendances||[]).length,"tendances mondiales"]
+  ].map(([h,k,v,l,hot])=>`<a class="qt${hot?" hot":""}" href="${h}">${ic(k)}<b class="num">${v}</b><span>${l}</span></a>`).join("");
   const nb=(d.brief?.points||[]).length;
   $("#meta").innerHTML=`<span><strong>${nb} points</strong> à retenir</span><span>Lecture : <strong>${Math.max(2,Math.round(nb*0.7))} minutes</strong></span>${isNaN(m)?"":`<span>Mis à jour le <strong>${m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})}</strong></span>`}`;
 
-  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp"><span class="rank">${i+1}</span><div><h3>${esc(p.titre)}</h3><p>${esc(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${esc(p.implication)}</div>`:""}${src(p)}</div></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
+  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><div><h3>${esc(p.titre)}</h3><p>${esc(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${esc(p.implication)}</div>`:""}${src(p)}</div></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
 
   const dl=(d.echeances||[]).filter(e=>D(e.date)>=new Date(T0-6*864e5)).sort((a,b)=>String(a.date).localeCompare(String(b.date)));
   $("#echeances").hidden=!dl.length;
