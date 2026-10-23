@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T00:40:00Z",
+ "derniereMaj": "2026-10-23T05:18:10Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -74,6 +74,13 @@
  },
  "echeances": [
   {
+   "date": "2026-10-29",
+   "titre": "Décision de taux de la BCE",
+   "detail": "Réunion de politique monétaire de la Banque centrale européenne, à suivre du fait de l'arrimage du FCFA à l'euro.",
+   "source": "Admirals",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/central-bank-super-week-october-2026"
+  },
+  {
    "date": "2026-11-01",
    "titre": "Swift : fin des adresses non structurées",
    "detail": "Après novembre 2026, les adresses non structurées ne sont plus acceptées dans les paiements transfrontaliers ISO 20022 (date précise du mois à confirmer).",
@@ -111,10 +118,10 @@
    "resume": "Banque béninoise cotée à la BRVM depuis avril 2025.",
    "actus": [
     {
-     "date": "2026-10-20",
-     "texte": "L'action clôture à 8 400 FCFA, en repli d'environ 20 % depuis son plus haut de septembre (10 450 FCFA).",
+     "date": "2026-10-22",
+     "texte": "L'action clôture à 8 500 FCFA, stable sur la séance, soit environ 19 % sous son plus haut de septembre (10 450 FCFA).",
      "source": "BRVM",
-     "url": "https://www.brvm.org/en/pays-societes-cotees/benin"
+     "url": "https://www.brvm.org/fr/cours-actions/0"
     },
     {
      "date": "2026-09-23",
@@ -123,16 +130,22 @@
      "url": "https://www.financialafrik.com/2026/09/23/banques-hausse-de-19-du-produit-net-bancaire-de-la-banque-internationale-pour-lindustrie-et-le-commerce-du-benin-au-premier-semestre-2026/"
     },
     {
-     "date": "2026-06-22",
-     "texte": "Résultat net 2025 de 36,2 milliards FCFA (+24,7 %) en normes IFRS, produit net bancaire de 52,8 milliards (+16,5 %).",
-     "source": "Agence Ecofin",
-     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
-    },
-    {
      "date": "2026-09-14",
      "texte": "Capitalisation boursière d'environ 604 milliards FCFA ; l'action a presque doublé depuis l'introduction en bourse.",
      "source": "Agence Ecofin",
      "url": "https://www.ecofinagency.com/news-finances/1409-58851-benin-s-biic-tops-1-billion-market-cap-as-share-price-nearly-doubles-since-2025-ipo"
+    },
+    {
+     "date": "2026-07-31",
+     "texte": "Absente de la liste BCEAO des établissements autorisés à ouvrir PI-SPI au public au 31 juillet 2026, comme Société Générale Bénin et Bange Bank Bénin.",
+     "source": "BCEAO / La Marina",
+     "url": "https://lamarina.bj/2026/08/14/marche-beninois-du-pi-spi-qui-manque-encore-a-lappel-du-paiement-instantane-de-la-bceao/"
+    },
+    {
+     "date": "2026-06-22",
+     "texte": "Résultat net 2025 de 36,2 milliards FCFA (+24,7 %) en normes IFRS, produit net bancaire de 52,8 milliards (+16,5 %).",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
     }
    ]
   },
@@ -142,6 +155,12 @@
    "type": "Banque",
    "resume": "Filiale du groupe Bank of Africa, cotée à la BRVM.",
    "actus": [
+    {
+     "date": "2026-10-22",
+     "texte": "L'action clôture à 9 025 FCFA (−0,72 % sur la séance).",
+     "source": "BRVM",
+     "url": "https://www.brvm.org/fr/cours-actions/0"
+    },
     {
      "date": "2026-06-11",
      "texte": "La BERD accorde une ligne de 20 millions de dollars pour le financement du commerce (importations, exportations, distribution).",
@@ -169,10 +188,22 @@
    "resume": "Filiale du groupe ivoirien NSIA.",
    "actus": [
     {
+     "date": "2026-10-05",
+     "texte": "Obtient devant le tribunal de commerce de Dakar la condamnation d'une société débitrice à lui verser 111 millions FCFA, pour une créance bancaire d'environ 102 millions.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/05/senegal-nsia-banque-benin-fait-condamner-africa-business-services-a-111-millions-fcfa/"
+    },
+    {
      "date": "2026-10-01",
      "texte": "Edmond Koukou Adjikpè prend la direction générale ; Nina-Armelle Vignon Guendehou est reconduite comme directrice générale adjointe.",
      "source": "Financial Afrik",
      "url": "https://www.financialafrik.com/2026/10/06/nsia-banque-benin-edmond-koukou-adjikpe-et-nina-armelle-vignon-guendehou-un-duo-pour-accelerer/"
+    },
+    {
+     "date": "2026-07-31",
+     "texte": "Figure désormais sur la liste BCEAO des établissements autorisés à ouvrir PI-SPI au public au Bénin.",
+     "source": "BCEAO",
+     "url": "https://www.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf"
     },
     {
      "date": "2026-03-13",
@@ -209,6 +240,12 @@
    "resume": "Premier opérateur de mobile money au Bénin.",
    "actus": [
     {
+     "date": "2026-07-31",
+     "texte": "MTN figure, avec Moov Money, sur la liste BCEAO des participants autorisés à ouvrir PI-SPI au public au Bénin ; Celtiis Cash n'y apparaît pas.",
+     "source": "BCEAO / La Marina",
+     "url": "https://lamarina.bj/2026/08/14/marche-beninois-du-pi-spi-qui-manque-encore-a-lappel-du-paiement-instantane-de-la-bceao/"
+    },
+    {
      "date": "2025-10-20",
      "texte": "Lancement de MoMo Kash avec UBA et Jumo : microcrédit par téléphone, taux de remboursement supérieur à 95 % en phase de test.",
      "source": "Cadre Co",
@@ -230,6 +267,12 @@
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
     {
+     "date": "2026-10-14",
+     "texte": "Le groupe Coris Bank International publie un bénéfice net cumulé de ses filiales de 113,96 milliards FCFA en 2025, en hausse de 48,6 %.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/14/coris-bank-international-le-benefice-net-bondit-de-49-en-2025/"
+    },
+    {
      "date": "2026-10-09",
      "texte": "Forum digital pour ses 10 ans au Bénin : mise en avant de ses applications My Coris Bank (particuliers et entreprises), de PI-SPI et du wallet Coris Money.",
      "source": "Matin Libre",
@@ -243,9 +286,72 @@
    "type": "Mobile money",
    "resume": "Service de mobile money de Moov Africa Bénin.",
    "actus": []
+  },
+  {
+   "id": "bsic",
+   "nom": "BSIC Bénin",
+   "type": "Banque",
+   "resume": "Filiale de la Banque sahélo-saharienne pour l'investissement et le commerce.",
+   "actus": [
+    {
+     "date": "2026-01-23",
+     "texte": "Ouverture d'un centre d'affaires dans la zone industrielle de Glo-Djigbé (GDIZ), 13e point de service du réseau, dédié au financement du commerce, aux crédits documentaires et aux garanties.",
+     "source": "Cadre Co",
+     "url": "https://cadreco.media/entreprises/2026/gdiz-la-bsic-benin-installe-un-centre-daffaires"
+    }
+   ]
+  },
+  {
+   "id": "sgb",
+   "nom": "Société Générale Bénin",
+   "type": "Banque",
+   "resume": "Ancienne filiale du groupe Société Générale, dont l'État béninois a annoncé le rachat.",
+   "actus": [
+    {
+     "date": "2026-07-31",
+     "texte": "Absente de la liste BCEAO des établissements autorisés à ouvrir PI-SPI au public au 31 juillet 2026.",
+     "source": "BCEAO / La Marina",
+     "url": "https://lamarina.bj/2026/08/14/marche-beninois-du-pi-spi-qui-manque-encore-a-lappel-du-paiement-instantane-de-la-bceao/"
+    },
+    {
+     "date": "2026-07-05",
+     "texte": "Nouvelles conditions tarifaires applicables à partir du 5 juillet 2026.",
+     "source": "Matin Libre",
+     "url": "https://matinlibre.com/2026/07/06/societe-generale-benin-publie-ses-nouveaux-tarifs-bancaires-applicables-des-le-5-juillet-2026/"
+    }
+   ]
+  },
+  {
+   "id": "fedapay",
+   "nom": "FedaPay",
+   "type": "Fintech",
+   "resume": "Agrégateur de paiements en ligne béninois.",
+   "actus": [
+    {
+     "date": "2026-04-02",
+     "texte": "FedaPay Bénin est agréé comme établissement de paiement le 2 avril 2026 ; le Bénin compte quatre établissements de paiement agréés à fin août (avec Julaya, Open SI et QOS Integrated Center).",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/"
+    }
+   ]
   }
  ],
  "reglementation": [
+  {
+   "date": "2026-10-15",
+   "organisme": "Commission bancaire de l'UMOA",
+   "titre": "Blâmes et amendes de 300 millions FCFA pour deux banques",
+   "resume": "Lors de sa session des 29 et 30 septembre, la Commission a sanctionné une banque en Côte d'Ivoire et une au Niger pour des faiblesses de gouvernance, de gestion des risques et de lutte contre le blanchiment.",
+   "implication": "Le niveau des amendes montre que les manquements en gouvernance et en conformité LBC/FT sont désormais sanctionnés lourdement, y compris pour une filiale de groupe.",
+   "pistes": [
+    "Mener une revue interne de la conformité LBC/FT sur les flux à risque (transferts, mobile money, PI-SPI) avant la hausse des volumes de novembre.",
+    "Faire un point en comité des risques sur la gouvernance et la documentation des décisions de crédit.",
+    "Former les équipes d'agence aux obligations de vigilance sur les nouveaux clients et les opérations inhabituelles."
+   ],
+   "vigilance": "Une sanction publique pèserait sur l'image et sur la relation avec les correspondants bancaires.",
+   "source": "AllAfrica / Le Journal de l'Économie Sénégalaise",
+   "url": "https://fr.allafrica.com/stories/202610150642.html"
+  },
   {
    "date": "2026-10-08",
    "organisme": "BCEAO",
@@ -256,7 +362,8 @@
    "url": "https://www.togofirst.com/fr/finance/1210-20307-uemoa-la-bceao-double-le-plafond-des-comptes-mobile-money-a-l-heure-de-pi-spi",
    "pistes": [
     "Proposer des transferts gratuits ou à faible coût entre le compte et les wallets.",
-    "Lancer un produit d'épargne connecté au mobile money."
+    "Lancer un produit d'épargne connecté au mobile money.",
+    "Étudier une offre de compte bancaire simplifié destinée aux clients dont le solde wallet approche les nouveaux plafonds."
    ],
    "vigilance": "Baisse des dépôts de la clientèle de détail."
   },
@@ -270,7 +377,8 @@
    "url": "https://www.financialafrik.com/2026/10/04/la-bceao-rend-pi-spi-obligatoire-revoit-ses-tarifs-et-pose-enfin-la-question-de-nouveaux-services-financiers-adosses-a-la-plateforme/",
    "pistes": [
     "Préparer une offre de paiement marchand par QR code adossée à PI-SPI.",
-    "Proposer aux entreprises et à l'État le paiement des salaires en instantané."
+    "Proposer aux entreprises et à l'État le paiement des salaires en instantané.",
+    "Valoriser auprès des entreprises l'API PI-SPI Business de la banque, seule approuvée au Bénin selon la presse."
    ],
    "vigilance": "Concurrence frontale des wallets sur les virements du quotidien."
   },
@@ -284,7 +392,8 @@
    "url": "https://www.financialafrik.com/2026/09/09/uemoa-la-bceao-maintient-ses-taux-directeurs-linflation-attendue-a-1-en-2026/",
    "pistes": [
     "Profiter de la stabilité du refinancement pour relancer le crédit aux entreprises.",
-    "Revoir la rémunération des dépôts à terme pour rester compétitif face à UBA ou BSIC."
+    "Revoir la rémunération des dépôts à terme pour rester compétitif face à UBA ou BSIC.",
+    "Suivre la décision de la BCE du 29 octobre pour ajuster la politique de taux des dépôts."
    ],
    "vigilance": "Hausse des taux de la BCE : écart à surveiller pour la trésorerie en devises."
   },
@@ -298,7 +407,8 @@
    "url": "https://l-integration.com/2026/08/31/la-commission-bancaire-de-lumoa-durcit-les-sanctions/",
    "pistes": [
     "Faire un point sur la qualité et les délais des déclarations réglementaires.",
-    "Renforcer les contrôles de conformité sur les nouveaux produits numériques."
+    "Renforcer les contrôles de conformité sur les nouveaux produits numériques.",
+    "Désigner un responsable du suivi des recommandations des missions de supervision."
    ],
    "vigilance": "Risque d'image en cas de sanction publique."
   },
@@ -312,7 +422,8 @@
    "url": "https://www.financialafrik.com/2026/01/29/uemoa-les-cartes-visa-et-mastercard-ont-90-jours-pour-se-conformer/",
    "pistes": [
     "Vérifier l'impact sur les coûts de traitement des cartes Visa et Mastercard.",
-    "Promouvoir les cartes et l'e-commerce régional traités dans la zone."
+    "Promouvoir les cartes et l'e-commerce régional traités dans la zone.",
+    "Négocier avec les réseaux de cartes les conditions tarifaires du traitement régional."
    ],
    "vigilance": "Interruptions de service possibles pendant les migrations techniques."
   }
@@ -360,9 +471,58 @@
     "detail": "En 2025, contre +5,5 % en moyenne dans l'UMOA",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/secteur-bancaire-dans-lumoa-le-benin-consolide-ses-actifs-et-surpasse-la-moyenne-regionale-en-octroi-de-credit/"
+   },
+   {
+    "label": "Note souveraine Moody's",
+    "valeur": "Ba3",
+    "detail": "Relevée de B1 en août 2026, perspective stable",
+    "source": "Finances AO",
+    "url": "https://financesao.com/benin-moodys-releve-la-note-souveraine-a-ba3-avec-perspective-stable/"
+   },
+   {
+    "label": "Budget 2027 proposé",
+    "valeur": "4 757 Md FCFA",
+    "detail": "+14,7 % ; déficit prévu à 2,8 % du PIB",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
+   },
+   {
+    "label": "Inflation dans l'UEMOA",
+    "valeur": "1,7 %",
+    "detail": "En août 2026, après 1,2 % en juillet (BCEAO)",
+    "source": "Pi Business Info",
+    "url": "https://www.pibusinessinfo.com/inflation-dans-l-uemoa-bceao-hausse-prix-aout-2026/"
    }
   ],
   "actus": [
+   {
+    "date": "2026-10-22",
+    "titre": "Le FMI projette une croissance supérieure à 7 % jusqu'en 2028",
+    "resume": "La croissance du Bénin passerait de 7 % en 2026 à 7,3 % en 2028, avec comme risques les prix de l'énergie et des aliments et le coût de la dette.",
+    "source": "Matin Libre",
+    "url": "https://matinlibre.com/2026/10/22/rapport-fmi-une-croissance-economique-superieure-a-7-projetee-au-benin-dici-2028/"
+   },
+   {
+    "date": "2026-10-16",
+    "titre": "Banque mondiale : 7,7 % de croissance au Bénin en 2027",
+    "resume": "L'UEMOA croîtrait d'environ 5,7 % en 2027 et 2028, le Bénin de 7,7 % puis 7,5 %.",
+    "source": "Agence Ecofin",
+    "url": "https://www.agenceecofin.com/actualites/1610-142510-uemoa-la-banque-mondiale-table-sur-une-croissance-de-5-7-en-2027-et-2028"
+   },
+   {
+    "date": "2026-10-13",
+    "titre": "249,5 milliards FCFA mobilisés auprès de la BID et de la BADEA",
+    "resume": "Trois accords pour les routes, l'agriculture et l'énergie ont été signés à Bangkok en marge des Assemblées annuelles BM/FMI.",
+    "source": "Capmad",
+    "url": "https://www.capmad.com/article/benin-2495-milliards-de-fcfa-mobilises-en-marge-des-assemblees-annuelles-bmfmi"
+   },
+   {
+    "date": "2026-10-08",
+    "titre": "Projet de budget 2027 à 4 757 milliards FCFA",
+    "resume": "Hausse de 14,7 % par rapport au budget rectifié 2026, avec un déficit prévu à 2,8 % du PIB et une inflation de 2 %.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
+   },
    {
     "date": "2026-10-01",
     "titre": "Le Bénin dans le top 5 des croissances d'Afrique subsaharienne",
@@ -372,11 +532,25 @@
     "dateApprox": true
    },
    {
+    "date": "2026-09-29",
+    "titre": "Prêt bancaire international de 500 millions d'euros garanti par le FAD",
+    "resume": "Le Bénin a conclu un prêt de 12 ans auprès de banques internationales, couvert par une garantie partielle du Fonds africain de développement.",
+    "source": "BAD",
+    "url": "https://www.afdb.org/fr/news-and-events/press-releases/le-benin-mobilise-un-financement-international-de-500-millions-deuros-avec-lappui-du-fonds-africain-de-developpement-97125"
+   },
+   {
     "date": "2026-08-25",
     "titre": "Banques de l'UMOA : bilan en hausse de 14 % en 2025",
     "resume": "Le total bilan atteint 82 299 milliards FCFA, le résultat net progresse de 25,5 % et le ratio de solvabilité moyen monte à 15,6 %.",
     "source": "Finances AO",
     "url": "https://financesao.com/umoa-les-actifs-bancaires-atteignent-82-299-milliards-fcfa-en-2025/"
+   },
+   {
+    "date": "2026-08-10",
+    "titre": "Moody's relève la note du Bénin à Ba3",
+    "resume": "La note souveraine passe de B1 à Ba3 avec une perspective stable, après une croissance de 8,1 % en 2025.",
+    "source": "Finances AO",
+    "url": "https://financesao.com/benin-moodys-releve-la-note-souveraine-a-ba3-avec-perspective-stable/"
    },
    {
     "date": "2026-07-29",
@@ -403,11 +577,18 @@
    "url": "https://fr.apanews.net/benin/benin-ecobank-va-injecter-1385-mds-f-aux-projets-de-letat/"
   },
   {
-   "date": "2026-05-13",
-   "titre": "Ecobank Bénin : résultat net 2025 de 18,96 milliards FCFA",
-   "resume": "Total bilan de 717,4 milliards FCFA dans les comptes publiés ; dividende de 15,17 milliards FCFA, soit 75 850 FCFA brut par action (+19 %).",
-   "source": "La Nation",
-   "url": "https://lanation.bj/economie/performances-bancaires-ecobank-benin-confirme-sa-solidite"
+   "date": "2026-10-12",
+   "titre": "Le groupe va rejoindre le système chinois de paiements CIPS",
+   "resume": "Ecobank deviendrait participant direct au système de règlement en yuan et vise d'ici fin 2026 un produit de conversion directe des monnaies locales en yuan.",
+   "source": "PaymentExpert",
+   "url": "https://paymentexpert.com/2026/10/12/cips-ecobank-yuan-settlement/"
+  },
+  {
+   "date": "2026-09-10",
+   "titre": "Ecobank Bénin, meilleur spécialiste en valeurs du Trésor de l'UEMOA pour 2024",
+   "resume": "La filiale est aussi classée première des SVT au Bénin pour 2024.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/09/10/ecobank-benin-meilleur-specialiste-en-valeurs-du-tresor-de-luemoa-2024/"
   },
   {
    "date": "2026-07-30",
@@ -422,9 +603,30 @@
    "resume": "Hausse d'environ 33 % sur un an ; le groupe a aussi émis une obligation « Nature » de 450 millions de dollars à Londres.",
    "source": "Finances AO",
    "url": "https://financesao.com/ecobank-les-transactions-digitales-bondissent-a-785-milliards-au-1er-semestre-2026/"
+  },
+  {
+   "date": "2026-05-13",
+   "titre": "Ecobank Bénin : résultat net 2025 de 18,96 milliards FCFA",
+   "resume": "Total bilan de 717,4 milliards FCFA dans les comptes publiés ; dividende de 15,17 milliards FCFA, soit 75 850 FCFA brut par action (+19 %).",
+   "source": "La Nation",
+   "url": "https://lanation.bj/economie/performances-bancaires-ecobank-benin-confirme-sa-solidite"
   }
  ],
  "tendances": [
+  {
+   "date": "2026-10-22",
+   "titre": "Money20/20 : stablecoins et paiements transfrontaliers au premier plan",
+   "resume": "Mastercard a présenté un service de sécurisation des paiements en stablecoins pour le B2B et l'international, attendu mondialement en 2027 ; Thunes et Coinbase s'allient pour des paiements en temps réel dans plus de 140 pays.",
+   "implication": "Les grands réseaux industrialisent les transferts internationaux en stablecoins : la concurrence sur les flux de la diaspora et le commerce extérieur va s'intensifier.",
+   "pistes": [
+    "Cartographier les flux de transferts entrants de la diaspora et leur coût actuel pour le client.",
+    "Étudier avec le groupe un partenariat avec un acteur de transferts internationaux connecté à PI-SPI.",
+    "Préparer une offre de paiements internationaux rapides pour les importateurs qui commercent avec l'Asie."
+   ],
+   "vigilance": "Le cadre de la BCEAO sur les crypto-actifs reste à préciser : aucune offre sans validation réglementaire.",
+   "source": "FinTech Futures",
+   "url": "https://www.fintechfutures.com/fintech/money20-20-usa-2026-wraps-with-cross-border-payments-and-open-banking-in-focus"
+  },
   {
    "date": "2026-10-20",
    "titre": "Premiers paiements réels par agents d'intelligence artificielle",
@@ -433,7 +635,9 @@
    "source": "Fintechnize",
    "url": "https://fintechnize.substack.com/p/visas-first-live-b2b-agent-payments",
    "pistes": [
-    "Suivre les standards de Visa et Mastercard pour être prêts quand les entreprises clientes en demanderont."
+    "Suivre les standards de Visa et Mastercard pour être prêts quand les entreprises clientes en demanderont.",
+    "Identifier les grandes entreprises clientes qui automatisent déjà le paiement de leurs fournisseurs.",
+    "Renforcer les contrôles d'authentification sur les paiements initiés par des logiciels."
    ],
    "vigilance": "Questions de sécurité et de consentement encore ouvertes."
   },
@@ -445,9 +649,23 @@
    "source": "Crowdfund Insider",
    "url": "https://www.crowdfundinsider.com/2026/10/319204-amex-marqeta-visa-paypal-among-giants-announcing-fintech-products-and-partnerships-last-week/",
    "pistes": [
-    "Étudier des partenariats pour les transferts de la diaspora avant que des fintechs ne prennent ce marché."
+    "Étudier des partenariats pour les transferts de la diaspora avant que des fintechs ne prennent ce marché.",
+    "Suivre les travaux de la BCEAO sur les crypto-actifs pour anticiper le cadre applicable."
    ],
    "vigilance": "Cadre réglementaire de l'UEMOA encore flou sur ces actifs."
+  },
+  {
+   "date": "2026-10-07",
+   "titre": "Les régulateurs passent de l'accès à l'usage des paiements numériques",
+   "resume": "La Banque du Ghana a demandé aux acteurs technologiques de privilégier l'usage réel des portefeuilles numériques plutôt que le nombre d'ouvertures de comptes.",
+   "implication": "Après l'équipement, la bataille se joue sur la fréquence d'usage : les clients actifs feront la différence, pas les comptes dormants.",
+   "pistes": [
+    "Suivre le taux de clients actifs sur l'application mobile plutôt que le nombre de téléchargements.",
+    "Lancer des usages du quotidien (factures, marchands, salaires) pour ancrer les paiements dans l'application."
+   ],
+   "vigilance": "Des clients équipés mais inactifs coûtent sans rapporter.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/10/09/ghana-la-banque-centrale-pousse-les-fintechs-vers-lusage-reel-des-paiements-numeriques/"
   },
   {
    "date": "2026-09-11",
@@ -457,7 +675,8 @@
    "source": "Financial Afrik",
    "url": "https://www.financialafrik.com/2026/09/11/politique-monetaire-la-bceao-temporise-la-bce-hausse-le-ton/",
    "pistes": [
-    "Revoir la gestion de la trésorerie en euros et des placements en devises."
+    "Revoir la gestion de la trésorerie en euros et des placements en devises.",
+    "Simuler l'effet d'une nouvelle hausse de la BCE le 29 octobre sur le coût des ressources en devises."
    ],
    "vigilance": "Risque de sorties de capitaux si l'écart de taux se creuse."
   },
@@ -470,7 +689,8 @@
    "url": "https://osiris.sn/fraude-dopee-a-l-ia-comment-visa-arme-sa-defense.html",
    "pistes": [
     "Renforcer la détection de fraude en temps réel avant la montée des paiements instantanés.",
-    "Sensibiliser les clients aux arnaques par téléphone et par message."
+    "Sensibiliser les clients aux arnaques par téléphone et par message.",
+    "Relayer auprès des clients les alertes de la BCEAO sur les faux sites de « sécurisation de cartes »."
    ],
    "vigilance": "Pertes et atteinte à la confiance en cas de fraude massive."
   }
@@ -729,7 +949,7 @@
    {
     "nom": "NSIA Banque Bénin",
     "v": [
-     0,
+     1,
      0,
      0,
      0,
@@ -762,7 +982,7 @@
    {
     "nom": "MTN Mobile Money",
     "v": [
-     0,
+     1,
      1,
      1,
      0,
@@ -783,6 +1003,10 @@
    }
   ],
   "sources": [
+   {
+    "source": "BCEAO, participants PI-SPI au 31 juillet 2026",
+    "url": "https://www.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf"
+   },
    {
     "source": "Ecobank Bénin : offres de la banque (application Ecobank Mobile, cartes prépayées)",
     "url": "https://ecobank.com/bj"
@@ -806,39 +1030,57 @@
    {
     "source": "BOA Bénin, conditions de banque 2026",
     "url": "https://www.boabenin.com/wp-content/uploads/2026/04/BN_C.B-2026_Web-PART.pdf"
+   },
+   {
+    "source": "Bénin Web TV, API PI-SPI Business approuvées (septembre 2026)",
+    "url": "https://beninwebtv.com/en/benin-eleven-institutions-authorized-to-open-pi-spi-only-one-approved-business-api-2/"
    }
   ],
-  "lecture": "Sur la liste PI-SPI du 2 avril 2026, la BIIC et NSIA Banque Bénin n'apparaissaient pas encore. En dehors d'UBA, nous n'avons trouvé aucune communication publique d'une banque béninoise sur le paiement par téléphone ou sur un crédit 100 % numérique : deux terrains encore peu occupés."
+  "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-10-20",
+  "date": "2026-10-22",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "8 400",
-    "detail": "10 450 FCFA le 11 septembre, soit environ −20 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
+    "cours": "8 500",
+    "detail": "Stable le 22 octobre ; 10 450 FCFA le 11 septembre, soit environ −19 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 200",
-    "detail": "23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
+    "cours": "9 025",
+    "detail": "−0,72 % sur la séance du 22 octobre ; 23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
     "url": "https://www.financialafrik.com/2026/04/20/dividendes-2025-la-boa-benin-allouera-a-ses-actionnaires-23728-milliards-de-fcfa-le-15-mai-2026/"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
-    "cours": "65",
-    "detail": "22 FCFA en début d'année, soit près de trois fois plus en 2026 ; dividende de 0,92 FCFA par action approuvé en juin.",
+    "cours": "64",
+    "detail": "22 FCFA en début d'année, soit près de trois fois plus en 2026 ; le groupe prépare la publication de ses résultats du troisième trimestre.",
     "url": "https://dabafinance.com/fr/nouvelles/ecobank-etit-actions-brvm-rebond"
    }
   ],
-  "source": "BRVM, cours de clôture du 20 octobre 2026",
-  "url": "https://www.brvm.org/en/pays-societes-cotees/benin"
+  "source": "BRVM, cours de clôture du 22 octobre 2026",
+  "url": "https://www.brvm.org/fr/cours-actions/0"
  },
  "opportunites": [
+  {
+   "date": "2026-10-21",
+   "titre": "Zones économiques spéciales : Afreximbank mobilise les investisseurs à Cotonou",
+   "resume": "Au forum organisé avec la SIPI-Bénin, la GDIZ a annoncé une centrale thermique de plus de 225 MW et des projets solaires ; Afreximbank a syndiqué 69,3 millions d'euros pour la zone.",
+   "implication": "Les industriels et fournisseurs de la GDIZ auront besoin de financement du commerce, de garanties et de gestion de flux en devises.",
+   "pistes": [
+    "Recenser les entreprises installées ou annoncées à la GDIZ et leur proposer une offre dédiée (comptes, crédits documentaires, change).",
+    "Étudier une participation aux financements syndiqués d'Afreximbank sur les projets énergétiques de la zone.",
+    "Proposer la domiciliation des salaires des plus de 25 000 employés de la zone avec paiement par PI-SPI."
+   ],
+   "vigilance": "BSIC Bénin dispose déjà d'un centre d'affaires dans la zone depuis janvier.",
+   "source": "Matin Libre",
+   "url": "https://matinlibre.com/2026/10/22/pour-dynamiser-les-zones-economiques-speciales-afreximbank-et-la-sipi-benin-reunissent-acteurs-economiques-et-decideurs-a-cotonou/"
+  },
   {
    "date": "2026-10-16",
    "titre": "138,5 milliards FCFA de projets publics à financer",
@@ -848,9 +1090,24 @@
    "url": "https://fr.apanews.net/benin/benin-ecobank-va-injecter-1385-mds-f-aux-projets-de-letat/",
    "pistes": [
     "Identifier les adjudicataires des marchés et les approcher en amont.",
-    "Préparer une offre complète : cautions, préfinancement, gestion des paiements fournisseurs."
+    "Préparer une offre complète : cautions, préfinancement, gestion des paiements fournisseurs.",
+    "Coordonner avec le groupe le calendrier des décaissements pour préparer les lignes de crédit locales."
    ],
    "vigilance": "Délais de paiement de l'État et concentration du risque."
+  },
+  {
+   "date": "2026-10-13",
+   "titre": "249,5 milliards FCFA de la BID et de la BADEA pour les routes et l'électrification",
+   "resume": "Trois accords signés en marge des Assemblées annuelles BM/FMI financeront notamment l'élargissement de la route Godomey-Ouidah-Hillacondji et l'électrification de plus de 100 localités.",
+   "implication": "De nouveaux marchés publics de BTP et d'énergie vont générer des besoins de cautions, de préfinancement et de paiements fournisseurs.",
+   "pistes": [
+    "Suivre les appels d'offres de ces projets pour approcher les entreprises adjudicataires en amont.",
+    "Proposer des cautions de soumission et de bonne exécution aux entreprises de BTP locales.",
+    "Étudier une offre conforme à la finance islamique, exigée par certains projets financés par la BID."
+   ],
+   "vigilance": "Délais de décaissement des bailleurs pouvant retarder les paiements aux entreprises.",
+   "source": "Capmad",
+   "url": "https://www.capmad.com/article/benin-2495-milliards-de-fcfa-mobilises-en-marge-des-assemblees-annuelles-bmfmi"
   },
   {
    "date": "2026-10-12",
@@ -861,22 +1118,24 @@
    "url": "https://www.capmad.com/article/finances-publiques-la-cote-divoire-adopte-les-paiements-instantanes-de-la-bceao",
    "pistes": [
     "Se positionner auprès du Trésor béninois pour être prêts dès sa bascule.",
-    "Proposer aux employeurs privés le paiement des salaires par PI-SPI."
+    "Proposer aux employeurs privés le paiement des salaires par PI-SPI.",
+    "Mettre en avant l'API PI-SPI Business de la banque auprès des administrations."
    ],
    "vigilance": "Les banques non prêtes risquent de perdre des flux de domiciliation de salaires."
   },
   {
-   "date": "2026-07-09",
-   "titre": "Titres publics béninois : forte demande, rendements en baisse",
-   "resume": "Le Trésor a levé 22 milliards FCFA à 91 jours à 3,2 % en juillet, avec une couverture de 219 % ; en janvier, le bon à 182 jours rapportait 5,32 % pour une couverture de 292 %.",
-   "implication": "La concurrence entre banques pour les titres de l'État comprime les rendements : la marge sur la trésorerie investie se resserre.",
-   "source": "AllAfrica / Sika Finance",
-   "url": "https://fr.allafrica.com/stories/202607100293.html",
+   "date": "2026-10-08",
+   "titre": "Budget 2027 en hausse de 14,7 %",
+   "resume": "Le projet de loi de finances 2027 s'élève à 4 757 milliards FCFA, avec une croissance attendue de 7,5 % et un déficit de 2,8 % du PIB ; les dépenses sociales atteignent près de 1 598 milliards.",
+   "implication": "Une commande publique et des dépenses sociales en hausse soutiendront l'activité des entreprises et les flux de paiement de l'État.",
    "pistes": [
-    "Diversifier le placement de la trésorerie (crédit aux entreprises, titres d'autres États de l'UEMOA).",
-    "Proposer aux clients fortunés et institutionnels des placements en titres publics."
+    "Cibler les fournisseurs de l'État dans les secteurs prioritaires du budget avec des offres d'affacturage et d'avances sur marchés.",
+    "Se positionner sur les paiements de masse des programmes sociaux (bourses, transferts) via PI-SPI.",
+    "Anticiper les émissions de titres publics de 2027 dans la gestion de la trésorerie."
    ],
-   "vigilance": "Marge sur la trésorerie investie qui se resserre."
+   "vigilance": "Hausse des besoins de financement de l'État pouvant peser sur la liquidité bancaire.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
   },
   {
    "date": "2026-07-29",
@@ -890,6 +1149,19 @@
     "Monter des cofinancements avec les bailleurs sur les projets d'infrastructures."
    ],
    "vigilance": "Exigences fortes des bailleurs en matière de normes environnementales et sociales."
+  },
+  {
+   "date": "2026-07-09",
+   "titre": "Titres publics béninois : forte demande, rendements en baisse",
+   "resume": "Le Trésor a levé 22 milliards FCFA à 91 jours à 3,2 % en juillet, avec une couverture de 219 % ; en janvier, le bon à 182 jours rapportait 5,32 % pour une couverture de 292 %.",
+   "implication": "La concurrence entre banques pour les titres de l'État comprime les rendements : la marge sur la trésorerie investie se resserre.",
+   "source": "AllAfrica / Sika Finance",
+   "url": "https://fr.allafrica.com/stories/202607100293.html",
+   "pistes": [
+    "Diversifier le placement de la trésorerie (crédit aux entreprises, titres d'autres États de l'UEMOA).",
+    "Proposer aux clients fortunés et institutionnels des placements en titres publics."
+   ],
+   "vigilance": "Marge sur la trésorerie investie qui se resserre."
   }
  ],
  "historique": {
@@ -916,6 +1188,12 @@
     "BICB": 8400,
     "BOAB": 9200,
     "ETIT": 65
+   },
+   {
+    "date": "2026-10-22",
+    "BICB": 8500,
+    "BOAB": 9025,
+    "ETIT": 64
    }
   ]
  },
@@ -941,6 +1219,14 @@
   "taux de couverture": "Rapport entre les offres reçues et le montant demandé lors d'une émission : 200 % signifie deux fois plus d'offres que nécessaire.",
   "Décision n°31": "Texte de l'UEMOA qui impose de traiter dans la zone les paiements domestiques faits avec des cartes Visa, Mastercard ou UnionPay.",
   "wallet": "Portefeuille électronique sur téléphone (mobile money, Apple Pay, Google Pay…).",
-  "eurobond": "Emprunt obligataire émis par un État sur les marchés internationaux, en euros ou en dollars."
+  "eurobond": "Emprunt obligataire émis par un État sur les marchés internationaux, en euros ou en dollars.",
+  "API PI-SPI Business": "Interface technique qui permet à une entreprise de connecter son logiciel à PI-SPI pour émettre ou recevoir des paiements instantanés en masse.",
+  "établissement de paiement": "Société agréée par la BCEAO pour fournir des services de paiement (encaissement, transferts) sans être une banque.",
+  "SVT": "Spécialiste en valeurs du Trésor : banque sélectionnée par un État pour animer le marché de ses titres publics.",
+  "CIPS": "Système chinois de paiements interbancaires transfrontaliers, utilisé pour régler des opérations en yuan.",
+  "LBC/FT": "Lutte contre le blanchiment de capitaux et le financement du terrorisme.",
+  "zone économique spéciale": "Espace industriel doté d'un régime fiscal et douanier avantageux pour attirer les investisseurs, comme la GDIZ à Glo-Djigbé.",
+  "prêt syndiqué": "Crédit accordé conjointement par plusieurs banques qui se partagent le montant et le risque.",
+  "garantie partielle de crédit": "Engagement d'un bailleur à rembourser une partie d'un prêt en cas de défaut de l'emprunteur, ce qui réduit le risque pour les prêteurs."
  }
 }
