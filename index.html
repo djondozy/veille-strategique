@@ -8,6 +8,7 @@
 <meta name="description" content="Veille stratégique hebdomadaire sur la banque au Bénin : concurrence, réglementation, économie et tendances, à partir d'informations publiques.">
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#FFFFFF">
+<script data-goatcounter="https://brief-dg.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -619,7 +620,10 @@ function route(){
   if(el&&v==="accueil"){const det=el.querySelector("details");if(det)det.open=true;requestAnimationFrame(()=>el.scrollIntoView({block:"start"}))}
   else if(changed||pick)window.scrollTo({top:0});
 }
-addEventListener("hashchange",route);
+addEventListener("hashchange",()=>{route();
+  /* Compte aussi les rubriques ouvertes (Marché, Concurrence…) */
+  try{const v=document.body.dataset.view;if(window.goatcounter&&window.goatcounter.count&&v&&v!=="accueil")window.goatcounter.count({path:"/veille-strategique/"+v,title:"Rubrique : "+v,event:false})}catch(_){}
+});
 document.addEventListener("click",e=>{const g=e.target.closest("[data-go]");if(g){location.hash=g.dataset.go}});
 
 /* ---------- Écouter le brief ---------- */
