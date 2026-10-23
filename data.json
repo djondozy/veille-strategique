@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T12:17:09Z",
+ "derniereMaj": "2026-10-23T12:39:43Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -160,6 +160,13 @@
      "texte": "L'action clôture à 9 025 FCFA (−0,72 % sur la séance).",
      "source": "BRVM",
      "url": "https://www.brvm.org/fr/cours-actions/0"
+    },
+    {
+     "date": "2026-10-01",
+     "dateApprox": true,
+     "texte": "Mobilise avec la BOAD 33,2 milliards FCFA pour une usine de ciment à Sèmè-Podji ; la BOAD avait approuvé en juin un prêt de 16,6 milliards FCFA à la Société des Ciments pour ce site.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
     },
     {
      "date": "2026-06-11",
@@ -568,6 +575,22 @@
     "dateApprox": true
    },
    {
+    "date": "2026-10-01",
+    "dateApprox": true,
+    "titre": "Pauvreté modérée attendue à 34,5 % en 2028",
+    "resume": "La Banque mondiale prévoit une baisse progressive du taux de pauvreté modérée au Bénin, à 34,5 % d'ici 2028.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-la-banque-mondiale-prevoit-une-baisse-du-taux-de-pauvrete-moderee-a-345-dici-2028/"
+   },
+   {
+    "date": "2026-10-01",
+    "dateApprox": true,
+    "titre": "Le Bénin rejoint le Mécanisme de financement mondial (GFF)",
+    "resume": "Le pays devient le 37e partenaire de ce fonds hébergé par la Banque mondiale, qui finance la santé des femmes, des enfants et des adolescents.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/sante-le-benin-devient-le-37e-pays-partenaire-du-gff-de-la-banque-mondiale/"
+   },
+   {
     "date": "2026-09-29",
     "titre": "Prêt bancaire international de 500 millions d'euros garanti par le FAD",
     "resume": "Le Bénin a conclu un prêt de 12 ans auprès de banques internationales, couvert par une garantie partielle du Fonds africain de développement.",
@@ -683,6 +706,20 @@
    "vigilance": "Aucune offre liée aux crypto-actifs sans cadre explicite de la BCEAO.",
    "source": "Banking Dive",
    "url": "https://www.bankingdive.com/news/occ-final-rule-genius-stablecoin-yield-gould-bessent-icba/833638/"
+  },
+  {
+   "date": "2026-10-20",
+   "titre": "Afrique du Sud : les non-banques vont accéder au système de paiement",
+   "resume": "La banque centrale sud-africaine pousse les paiements numériques pour réduire l'usage coûteux des espèces et prévoit d'ouvrir l'accès direct au système de paiement à des acteurs non bancaires à partir de 2027.",
+   "implication": "Une autre grande banque centrale africaine suit la même voie que PI-SPI : la concurrence des fintechs et des opérateurs mobiles sur les paiements courants va s'installer durablement.",
+   "pistes": [
+    "Positionner la banque comme partenaire de règlement et de trésorerie des établissements de paiement béninois plutôt que comme simple concurrent.",
+    "Réduire le coût et la durée des paiements numériques du quotidien pour les particuliers afin de défendre les flux domiciliés.",
+    "Suivre les choix sud-africains (accès, tarifs, sécurité) comme repère pour anticiper les prochaines évolutions de la BCEAO."
+   ],
+   "vigilance": "Une ouverture plus large aux non-banques peut réduire les revenus de commissions sur les transferts : à mesurer dans les prévisions.",
+   "source": "TimesLIVE",
+   "url": "https://www.timeslive.co.za/news/south-africa/2026-10-20-reserve-bank-pushes-digital-payments-to-cut-cash-use/"
   },
   {
    "date": "2026-10-20",
@@ -1223,6 +1260,21 @@
    "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
   },
   {
+   "date": "2026-10-01",
+   "dateApprox": true,
+   "titre": "Industrie : un concurrent cofinance une cimenterie avec la BOAD",
+   "resume": "Bank of Africa Bénin et la BOAD réunissent 33,2 milliards FCFA pour une usine de ciment à Sèmè-Podji, projet pour lequel la BOAD avait approuvé 16,6 milliards FCFA en juin.",
+   "implication": "Les banques locales se positionnent en cofinanceurs des projets industriels soutenus par la BOAD : ces dossiers échappent à la banque si elle n'est pas présente en amont.",
+   "pistes": [
+    "Recenser les projets béninois approuvés par la BOAD et les autres bailleurs (BAD, SFI, Afreximbank) et contacter leurs promoteurs pour proposer une part de cofinancement.",
+    "Proposer aux industriels du BTP et des matériaux des services autour du projet : cautions, crédit documentaire pour les équipements importés, gestion de trésorerie.",
+    "Étudier avec le groupe des lignes de refinancement ou de garantie de la BOAD adaptées aux crédits industriels de long terme."
+   ],
+   "vigilance": "Les crédits industriels longs pèsent sur la concentration du risque et la transformation : les montages doivent rester dans les limites prudentielles.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
+  },
+  {
    "date": "2026-07-29",
    "titre": "2,4 milliards de dollars de besoins de financement par an",
    "resume": "Selon la BAD, le Bénin doit mobiliser environ 2,43 milliards de dollars par an jusqu'en 2030 pour financer sa transformation économique.",
@@ -1315,6 +1367,8 @@
   "garantie partielle de crédit": "Engagement d'un bailleur à rembourser une partie d'un prêt en cas de défaut de l'emprunteur, ce qui réduit le risque pour les prêteurs.",
   "pacte de convergence": "Ensemble de règles communes de l'UEMOA qui fixe des plafonds de déficit budgétaire, de dette et d'inflation aux États membres.",
   "OCC": "Office of the Comptroller of the Currency, autorité fédérale américaine qui agrée et supervise les banques nationales.",
-  "intentions d'émission": "Montants que les États annoncent prévoir de lever sur le marché régional des titres publics au cours d'une période."
+  "intentions d'émission": "Montants que les États annoncent prévoir de lever sur le marché régional des titres publics au cours d'une période.",
+  "GFF": "Mécanisme de financement mondial hébergé par la Banque mondiale, qui aide les pays à financer la santé des mères, des enfants et des adolescents.",
+  "BOAD": "Banque ouest-africaine de développement : banque de développement de l'UEMOA qui prête aux États et aux entreprises pour des projets de long terme."
  }
 }
