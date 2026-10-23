@@ -642,18 +642,24 @@ function setupListen(d){
       if(/natural|neural|premium|enhanced|amélioré|online/i.test(n))sc+=40;if(/^fr(-|_)FR/i.test(x.lang))sc+=10;return sc};
     picked=v.slice().sort((a,b)=>score(b)-score(a))[0];return picked};
   if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
-  const stop=()=>{speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter le brief"};
+  const stop=()=>{gen++;speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter le brief"};
   const clean=t=>t.replace(/Noulekou/gi,"Noulékou").replace(/FCFA/g,"francs CFA").replace(/PI-SPI/gi,"pi S P I").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/UMOA/g,"U M O A").replace(/BIIC/g,"B I I C").replace(/BRVM/g,"B R V M");
-  const queue=[].concat(...parts.map(p=>clean(p).split(/(?<=[.!?:])\s+/))).filter(x=>x.trim());
+  // Chaque phrase devient un élément : plus lent et avec des pauses pour les points énumérés
+  const queue=[];parts.forEach(p=>{const list=/^Point \d/.test(p);const ss=clean(p).split(/(?<=[.!?:])\s+/).filter(x=>x.trim());
+    ss.forEach((t,j)=>queue.push({t,rate:list?0.86:0.94,gap:j===ss.length-1?(list?750:450):(list?320:220)}))});
   let idx=0,started=false,watch=null;
   const help=$("#listen-help");
+  let gen=0;
   function next(){
     if(!speaking)return;
     if(idx>=queue.length){stop();return}
-    const u=new SpeechSynthesisUtterance(queue[idx++]);u.lang=(voice()&&voice().lang)||"fr-FR";const v=voice();if(v)u.voice=v;u.rate=1;u.volume=1;
+    if(speechSynthesis.speaking||speechSynthesis.pending){setTimeout(next,150);return}   // jamais deux phrases en même temps
+    const it=queue[idx++],my=gen;let done=false;
+    const u=new SpeechSynthesisUtterance(it.t);const v=voice();u.lang=(v&&v.lang)||"fr-FR";if(v)u.voice=v;u.rate=it.rate;u.volume=1;
+    const fin=()=>{if(done||my!==gen)return;done=true;setTimeout(next,it.gap)};
     u.onstart=()=>{started=true;help.hidden=true};
-    u.onend=()=>next();
-    u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;next()};
+    u.onend=fin;
+    u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;fin()};
     speechSynthesis.speak(u);
   }
   btn.addEventListener("click",()=>{
