@@ -799,5 +799,56 @@
    "source": "AllAfrica",
    "url": "https://allafrica.com/stories/202609260003.html"
   }
- ]
+ ],
+ "historique": {
+  "bourse": [
+   {
+    "date": "2025-04-28",
+    "BICB": 5600
+   },
+   {
+    "date": "2026-01-02",
+    "ETIT": 22,
+    "dateApprox": true
+   },
+   {
+    "date": "2026-07-07",
+    "ETIT": 53
+   },
+   {
+    "date": "2026-09-11",
+    "BICB": 10450
+   },
+   {
+    "date": "2026-10-20",
+    "BICB": 8400,
+    "BOAB": 9200,
+    "ETIT": 65
+   }
+  ]
+ },
+ "archives": [],
+ "alerte": null,
+ "lexique": {
+  "PI-SPI": "Plateforme interopérable du système de paiement instantané de la BCEAO : elle permet des virements en quelques secondes, 24h/24, entre banques, wallets et établissements de paiement de l'UEMOA.",
+  "BCEAO": "Banque centrale des États de l'Afrique de l'Ouest : elle émet le franc CFA, fixe les taux directeurs et supervise les systèmes de paiement de l'UEMOA.",
+  "Commission bancaire": "Autorité de supervision des banques de l'UMOA : elle contrôle leur solidité et peut prononcer des sanctions.",
+  "GIM-UEMOA": "Groupement interbancaire monétique de l'UEMOA : il gère le réseau régional de cartes et le traitement des paiements par carte dans la zone.",
+  "BRVM": "Bourse régionale des valeurs mobilières, basée à Abidjan, où sont cotées les actions et obligations des pays de l'UEMOA.",
+  "UMOA-Titres": "Agence qui organise les émissions de bons et d'obligations des Trésors publics de l'UEMOA, souscrits principalement par les banques.",
+  "total bilan": "Somme de tout ce que possède la banque (crédits, titres, liquidités) : c'est la mesure habituelle de sa taille.",
+  "produit net bancaire": "L'équivalent du chiffre d'affaires d'une banque : intérêts reçus moins intérêts versés, plus les commissions.",
+  "dépôts à terme": "Épargne bloquée pour une durée fixée à l'avance, rémunérée à un taux convenu.",
+  "taux directeur": "Taux auquel la banque centrale prête aux banques ; il influence le coût du crédit dans toute l'économie.",
+  "tokenisation": "Remplacement du numéro de carte par un code de substitution lié à un téléphone : c'est ce qui permet de payer avec son smartphone en toute sécurité.",
+  "ISO 20022": "Norme internationale des messages de paiement, plus riche en informations que les anciens formats ; Swift l'a rendue obligatoire pour les virements internationaux.",
+  "stablecoins": "Cryptomonnaies adossées à une devise comme le dollar, utilisées pour des transferts internationaux rapides.",
+  "mobile money": "Compte de monnaie électronique sur téléphone, proposé par les opérateurs (MTN, Moov…) et certaines banques.",
+  "titrisation": "Transformation d'un paquet de crédits en titres vendus à des investisseurs, ce qui libère des ressources pour la banque.",
+  "IFRS": "Normes comptables internationales ; leurs résultats peuvent différer de ceux publiés selon le référentiel bancaire de l'UMOA.",
+  "taux de couverture": "Rapport entre les offres reçues et le montant demandé lors d'une émission : 200 % signifie deux fois plus d'offres que nécessaire.",
+  "Décision n°31": "Texte de l'UEMOA qui impose de traiter dans la zone les paiements domestiques faits avec des cartes Visa, Mastercard ou UnionPay.",
+  "wallet": "Portefeuille électronique sur téléphone (mobile money, Apple Pay, Google Pay…).",
+  "eurobond": "Emprunt obligataire émis par un État sur les marchés internationaux, en euros ou en dollars."
+ }
 }

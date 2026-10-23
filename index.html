@@ -291,6 +291,61 @@ table.rt{min-width:0}
   #print td{padding:3pt 4pt;border-bottom:.5pt solid #E3E8EF}
   #print .ft{margin-top:12pt;font-size:8pt;color:#5D6B80}
 }
+
+/* New badges, share, calendar, glossary */
+.nb{display:inline-block;font:600 11px var(--sans);letter-spacing:.02em;color:#fff;background:var(--alert);border-radius:999px;padding:2px 8px;margin-right:8px;vertical-align:middle}
+.tabbadge{display:inline-grid;place-items:center;min-width:17px;height:17px;padding:0 4px;border-radius:999px;background:var(--alert);color:#fff;font:600 10.5px var(--sans);margin-left:5px}
+.bottom a{position:relative}
+.bottom .tabbadge{position:absolute;top:2px;right:calc(50% - 22px);margin:0}
+.ft2{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin-top:10px}
+.ft2 .src{margin-top:0}
+.shr,.cal{display:inline-flex;align-items:center;gap:6px;font:600 13px var(--sans);color:var(--ink);background:var(--band);border:0;border-radius:999px;padding:6px 11px;cursor:pointer}
+.shr svg,.cal svg{width:15px;height:15px}
+.cal{margin-top:10px;background:var(--brass-soft);color:#7A5419;width:fit-content}
+.lx{all:unset;cursor:help;border-bottom:1.5px dotted var(--brass);color:inherit}
+.lx:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
+.lexpop{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(90px + env(safe-area-inset-bottom,0px));z-index:40;width:min(520px,calc(100% - 28px));background:var(--ink);color:#fff;border-radius:16px;padding:16px 18px;box-shadow:0 20px 50px rgba(19,33,58,.35)}
+.lexpop b{font:500 18px var(--serif);color:#E7C58B;display:block;margin-bottom:4px}
+.lexpop p{margin:0 0 10px;font-size:15px;line-height:1.5}
+.lexpop button{font:600 13px var(--sans);background:rgba(255,255,255,.12);color:#fff;border:0;border-radius:999px;padding:6px 12px;cursor:pointer}
+/* Alert */
+.alert{display:flex;gap:12px;align-items:flex-start;background:#FBEAE6;border:1px solid #F1C3B8;color:#7A2717;border-radius:14px;padding:12px 16px;margin-bottom:20px;font-size:15px}
+.alert b{font-weight:700}
+.alert a{color:inherit;font-weight:600}
+.alert .dot{width:10px;height:10px;border-radius:50%;background:var(--alert);margin-top:6px;flex:none;animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.alert .dot{animation:none}}
+/* Archives */
+.arch details{border:1px solid var(--line);border-radius:14px;background:#fff;margin-bottom:10px}
+.arch summary{cursor:pointer;padding:14px 16px;font-weight:600;list-style:none;display:flex;justify-content:space-between;gap:12px}
+.arch summary::-webkit-details-marker{display:none}
+.arch summary span{color:var(--muted);font-weight:500;font-size:14px}
+.arch ol{margin:0;padding:0 16px 14px 36px}
+.arch li{margin-bottom:6px;font-size:15px}
+.arch .empty{padding:16px;border:1px dashed var(--line);border-radius:14px}
+/* Charts */
+.charts{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.chart{background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px}
+.chart h4{margin:0 0 4px;font:600 15px var(--sans)}
+.chart .chg{font-size:13px;color:var(--muted);margin:0 0 8px}
+.chart svg{width:100%;height:auto;display:block}
+.chart svg text{font:11px var(--sans);fill:var(--muted)}
+/* Presentation */
+.deck{position:fixed;inset:0;z-index:60;background:#13213A;color:#fff;display:flex;flex-direction:column}
+.deck[hidden]{display:none!important}
+.slide{flex:1;display:flex;flex-direction:column;justify-content:center;padding:max(32px,env(safe-area-inset-top,0px)) max(28px,6vw) 24px;max-width:1200px;margin:0 auto;width:100%;box-sizing:border-box;overflow:auto}
+.slide .k{font:600 15px var(--sans);color:#E7C58B;margin:0 0 14px;letter-spacing:.02em}
+.slide h2{font:500 clamp(30px,5vw,64px)/1.08 var(--serif);margin:0 0 22px;text-wrap:balance}
+.slide p{font-size:clamp(17px,2.1vw,24px);line-height:1.5;margin:0 0 18px;max-width:60ch;color:#D9E0EA}
+.slide .imp{background:rgba(231,197,139,.14);border-left:4px solid #E7C58B;border-radius:8px;padding:14px 18px;color:#fff}
+.slide .big{font:500 clamp(70px,14vw,170px)/1 var(--serif);color:#E7C58B}
+.slide ul{list-style:none;padding:0;margin:0;display:grid;gap:12px;font-size:clamp(17px,2vw,23px)}
+.slide ul li{display:flex;gap:16px;align-items:baseline;border-bottom:1px solid rgba(255,255,255,.12);padding-bottom:10px}
+.slide ul b{color:#E7C58B;min-width:8ch;font-weight:600}
+.dctl{display:flex;align-items:center;justify-content:center;gap:14px;padding:12px 16px calc(14px + env(safe-area-inset-bottom,0px))}
+.dctl button{font:600 22px var(--sans);background:rgba(255,255,255,.1);color:#fff;border:0;border-radius:999px;width:48px;height:48px;cursor:pointer}
+.dctl .dx{width:auto;padding:0 18px;font-size:14px;margin-left:16px}
+.dctl span{font-size:14px;color:#AFC0D6;min-width:56px;text-align:center}
 </style>
 </head>
 <body data-view="accueil">
@@ -303,6 +358,7 @@ table.rt{min-width:0}
 
 <main>
   <div class="hello" data-v="accueil"><div class="wrap">
+    <div class="alert" id="alert" hidden></div>
     <p class="dateline" id="dateline">Brief stratégique</p>
     <h1 class="greet" id="greet">Bonjour Monsieur Noulekou,</h1>
     <p class="sub">Voici ce qu'il faut savoir cette semaine sur l'environnement de la banque au Bénin.</p>
@@ -311,6 +367,7 @@ table.rt{min-width:0}
       <p class="ht" id="title">Le brief de la semaine</p>
       <div class="meta" id="meta"></div>
       <div class="acts">
+        <button class="act" type="button" id="present"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="12" rx="1.5"/><path d="M12 16v4M8 20h8"/></svg><span>Présenter en comité</span></button>
         <button class="act main" type="button" id="listen" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 14v-2a8 8 0 0 1 16 0v2"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg><span>Écouter le brief</span></button>
         <button class="act" type="button" id="install" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M12 7v7M9 11l3 3 3-3"/></svg><span>Installer l'application</span></button>
       </div>
@@ -328,6 +385,11 @@ table.rt{min-width:0}
   <section class="s" data-v="accueil" id="brief"><div class="wrap">
     <div class="sh"><h2>L'essentiel de la semaine</h2><p>Classé par importance pour la banque. Chaque point indique ce qu'il implique pour nous.</p></div>
     <ol class="brief" id="points"></ol>
+  </div></section>
+
+  <section class="s" data-v="accueil" id="archives"><div class="wrap">
+    <div class="sh"><h2>Briefs précédents</h2><p>Retrouvez l'essentiel des semaines passées.</p></div>
+    <div class="arch" id="arch"></div>
   </div></section>
 
   <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Les dates à préparer, les décisions des régulateurs et les affaires qui s'ouvrent.</p><div class="subnav" id="sub-agenda"></div></div></div>
@@ -377,6 +439,9 @@ table.rt{min-width:0}
   <section class="s" data-v="marche" id="bourse"><div class="wrap">
     <div class="sh"><h2>En bourse</h2><p id="bourse-sub">Les banques béninoises cotées et le titre du groupe à la BRVM.</p></div>
     <div class="stocks" id="stocks"></div>
+    <h3 class="h3s">Évolution des cours</h3>
+    <div class="charts" id="charts"></div>
+    <p class="note">Les courbes s'enrichissent automatiquement à chaque mise à jour.</p>
   </div></section>
 
   <section class="s" data-v="agenda" id="opportunites"><div class="wrap">
@@ -407,6 +472,11 @@ table.rt{min-width:0}
   </div></section>
 </main>
 <div id="print" aria-hidden="true"></div>
+<div class="deck" id="deck" hidden role="dialog" aria-modal="true" aria-label="Présentation du brief">
+  <div class="slide" id="slide"></div>
+  <div class="dctl"><button type="button" id="dprev" aria-label="Diapositive précédente">‹</button><span id="dpos"></span><button type="button" id="dnext" aria-label="Diapositive suivante">›</button><button type="button" id="dclose" class="dx">Fermer</button></div>
+</div>
+<div class="lexpop" id="lexpop" hidden role="dialog" aria-label="Définition"><b id="lexk"></b><p id="lexv"></p><button type="button" id="lexx">Fermer</button></div>
 <nav class="bottom" aria-label="Rubriques"><a href="#accueil" data-tab="accueil"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10"/></svg><span>Accueil</span></a><a href="#marche" data-tab="marche"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18M6 17V11M11 17V7M16 17v-4M20 17V5"/></svg><span>Marché</span></a><a href="#concurrence" data-tab="concurrence"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.5a3.5 3.5 0 0 1 0 7M18 14a5 5 0 0 1 3.5 6"/></svg><span>Concurrence</span></a><a href="#agenda" data-tab="agenda"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span>Agenda</span></a><a href="#contexte" data-tab="contexte"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Contexte</span></a></nav>
 
 <footer><div class="wrap">
@@ -423,8 +493,21 @@ const T0=(()=>{const t=new Date();t.setHours(0,0,0,0);return t})();
 const fmt=(x,approx)=>{const d=D(x.date??x);if(isNaN(d))return esc(x.date??x);return approx||x.dateApprox?d.toLocaleDateString("fr-FR",{month:"long",year:"numeric"}):d.toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})};
 const src=x=>okUrl(x.url)?`<a class="src" href="${esc(x.url)}" target="_blank" rel="noopener">Source : ${esc(x.source||"lien")}</a>`:(x.source?`<span class="src">Source : ${esc(x.source)}</span>`:"");
 const byDate=(a,b)=>String(b.date).localeCompare(String(a.date));
+/* Dernière visite : ce qui est plus récent est marqué « Nouveau » */
+const LAST=(()=>{try{return localStorage.getItem("brief-last-visit")}catch(_){return null}})();
+const isNw=x=>!!(LAST&&x&&x.date&&String(x.date)>LAST);
+const NEWB=x=>isNw(x)?'<span class="nb">Nouveau</span>':"";
+setTimeout(()=>{try{localStorage.setItem("brief-last-visit",new Date().toISOString().slice(0,10))}catch(_){}},4000);
+/* Lexique : les termes techniques deviennent cliquables */
+let LX={},LXRE=null;
+const L=t=>{const e=esc(t);if(!LXRE)return e;return e.replace(LXRE,m=>`<button type="button" class="lx" data-lx="${esc(Object.keys(LX).find(k=>k.toLowerCase()===m.toLowerCase())||m)}">${m}</button>`)};
+/* Partage */
+const SHARES=[];
+const SH=(titre,texte,hash)=>{SHARES.push({titre,texte,hash});return `<button type="button" class="shr" data-share="${SHARES.length-1}" aria-label="Partager"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Partager</button>`};
 
 function render(d){
+  LX=d.lexique||{};const ks=Object.keys(LX).sort((a,b)=>b.length-a.length).map(k=>k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"));
+  LXRE=ks.length?new RegExp(`(?<![\\wÀ-ÿ-])(${ks.join("|")})(?![\\wÀ-ÿ-])`,"gi"):null;
   const m=new Date(d.derniereMaj),now=new Date();
   $("#dateline").innerHTML=`<b>${esc(d.brief?.periode||"Brief stratégique")}</b> · ${now.toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}`;
   const h=now.getHours();$("#greet").textContent=(h>=18||h<4?"Bonsoir":"Bonjour")+" Monsieur Noulekou,";
@@ -449,25 +532,25 @@ function render(d){
   const nb=(d.brief?.points||[]).length;
   $("#meta").innerHTML=`<span><strong>${nb} points</strong> à retenir</span><span>Lecture : <strong>${Math.max(2,Math.round(nb*0.7))} minutes</strong></span>${isNaN(m)?"":`<span>Mis à jour le <strong>${m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})}</strong></span>`}`;
 
-  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><details${i===0?" open":""}><summary><h3>${esc(p.titre)}</h3><span class="more">Lire le détail</span></summary><div class="body"><p>${esc(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${esc(p.implication)}</div>`:""}${src(p)}</div></details></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
+  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><details${i===0?" open":""}><summary><h3>${esc(p.titre)}</h3><span class="more">Lire le détail</span></summary><div class="body"><p>${L(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${L(p.implication)}</div>`:""}<div class="ft2">${src(p)}${SH(p.titre,p.texte+" Pour la banque : "+(p.implication||""),"p"+(i+1))}</div></div></details></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
 
   const dl=(d.echeances||[]).filter(e=>D(e.date)>=new Date(T0-6*864e5)).sort((a,b)=>String(a.date).localeCompare(String(b.date)));
   $("#echeances").hidden=!dl.length;
   $("#dls").innerHTML=dl.map(e=>{const n=Math.round((D(e.date)-T0)/864e5);const lbl=e.dateApprox?"courant "+fmt(e):n<0?"échue":n===0?"aujourd'hui":n===1?"demain":"jours";
-    return `<div class="dl${n<=30?" soon":""}"><span class="cd">${e.dateApprox||n<=1?`<b>${esc(lbl.charAt(0).toUpperCase()+lbl.slice(1))}</b>`:`<b class="num">J-${n}</b>${fmt(e)}`}</span><h3>${esc(e.titre)}</h3>${e.detail?`<p>${esc(e.detail)}</p>`:""}${src(e)}</div>`}).join("");
+    return `<div class="dl${n<=30?" soon":""}"><span class="cd">${e.dateApprox||n<=1?`<b>${esc(lbl.charAt(0).toUpperCase()+lbl.slice(1))}</b>`:`<b class="num">J-${n}</b>${fmt(e)}`}</span><h3>${NEWB(e)}${esc(e.titre)}</h3>${e.detail?`<p>${L(e.detail)}</p>`:""}${src(e)}${n>=0&&!e.dateApprox?`<button type="button" class="cal" data-ics="${esc(JSON.stringify({date:e.date,titre:e.titre,detail:e.detail||"",url:e.url||""}))}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>Ajouter à mon agenda</button>`:""}</div>`}).join("");
 
   $("#comp").innerHTML=(d.concurrents||[]).slice().sort((a,b)=>((b.actus||[])[0]?.date||"").localeCompare((a.actus||[])[0]?.date||"")).map(c=>{
     const ac=(c.actus||[]).slice().sort(byDate).slice(0,3);
     return `<article class="cc"><header><h3>${esc(c.nom)}</h3><span class="tag">${esc(c.type)}</span></header>${c.resume?`<p class="rs">${esc(c.resume)}</p>`:""}
-    ${ac.length?`<ul>${ac.map(a=>`<li>${esc(a.texte)}<small>${fmt(a)}${okUrl(a.url)?` · <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a>`:""}</small></li>`).join("")}</ul>`:`<p class="none">Aucune annonce publique relevée récemment.</p>`}</article>`}).join("");
+    ${ac.length?`<ul>${ac.map(a=>`<li>${NEWB(a)}${L(a.texte)}<small>${fmt(a)}${okUrl(a.url)?` · <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a>`:""}</small></li>`).join("")}</ul>`:`<p class="none">Aucune annonce publique relevée récemment.</p>`}</article>`}).join("");
 
-  const rows=(l,withFor)=>l.slice().sort(byDate).map(r=>`<li class="row"><div class="d">${fmt(r)}${r.organisme?`<b>${esc(r.organisme)}</b>`:""}</div><div><h3>${esc(r.titre)}</h3><p>${esc(r.resume)}</p>${withFor&&r.implication?`<div class="for"><b>Pour la banque :</b> ${esc(r.implication)}</div>`:""}${src(r)}</div></li>`).join("");
+  const rows=(l,withFor)=>l.slice().sort(byDate).map(r=>`<li class="row"><div class="d">${fmt(r)}${r.organisme?`<b>${esc(r.organisme)}</b>`:""}</div><div><h3>${NEWB(r)}${esc(r.titre)}</h3><p>${L(r.resume)}</p>${withFor&&r.implication?`<div class="for"><b>Pour la banque :</b> ${L(r.implication)}</div>`:""}<div class="ft2">${src(r)}${SH(r.titre,r.resume,"")}</div></div></li>`).join("");
   $("#reg").innerHTML=rows(d.reglementation||[],true);
   $("#kpis").innerHTML=(d.economie?.indicateurs||[]).map(k=>`<div class="kpi"><span class="v">${esc(k.valeur)}</span><span class="l">${esc(k.label)}</span><span class="x">${esc(k.detail||"")}</span>${okUrl(k.url)?`<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.source)}</a>`:""}</div>`).join("");
   $("#eco").innerHTML=rows(d.economie?.actus||[],false);
   $("#grp").innerHTML=rows(d.groupe||[],false);
   $("#tendances").hidden=!(d.tendances||[]).length;
-  $("#trends").innerHTML=(d.tendances||[]).slice().sort(byDate).map(t=>`<article class="tr"><span class="d">${fmt(t)}</span><h3>${esc(t.titre)}</h3><p>${esc(t.resume)}</p>${t.implication?`<div class="for"><b>Pour nous :</b> ${esc(t.implication)}</div>`:""}${src(t)}</article>`).join("");
+  $("#trends").innerHTML=(d.tendances||[]).slice().sort(byDate).map(t=>`<article class="tr"><span class="d">${fmt(t)}</span><h3>${NEWB(t)}${esc(t.titre)}</h3><p>${L(t.resume)}</p>${t.implication?`<div class="for"><b>Pour nous :</b> ${L(t.implication)}</div>`:""}<div class="ft2">${src(t)}${SH(t.titre,t.resume,"tendances")}</div></article>`).join("");
   const nf=n=>Number(n).toLocaleString("fr-FR",{maximumFractionDigits:1});
   const M=d.marche;
   if(M){$("#pos-lead").textContent=M.lecture||"";const mx=Math.max(...M.banques.map(b=>b.bilan));
@@ -625,8 +708,87 @@ function setupCompare(d){
   $("#pick").addEventListener("click",e=>{const b=e.target.closest("[data-cmp]");if(b){cur=b.dataset.cmp;draw()}});
   draw();
 }
+
+/* ---------- Alerte ---------- */
+function setupAlert(d){
+  const a=d.alerte;let html="";
+  if(a&&a.texte&&(!a.jusquau||D(a.jusquau)>=T0)){html=`<span class="dot"></span><div><b>${esc(a.titre||"À noter")} :</b> ${L(a.texte)}${okUrl(a.url)?` <a href="${esc(a.url)}" target="_blank" rel="noopener">Source</a>`:""}</div>`}
+  else{const e=(d.echeances||[]).filter(x=>!x.dateApprox).map(x=>({...x,n:Math.round((D(x.date)-T0)/864e5)})).filter(x=>x.n>=0&&x.n<=7).sort((x,y)=>x.n-y.n)[0];
+    if(e)html=`<span class="dot"></span><div><b>${e.n===0?"Aujourd'hui":e.n===1?"Demain":"Dans "+e.n+" jours"} :</b> ${esc(e.titre)}. <a href="#echeances">Voir l'échéance</a></div>`}
+  if(html){$("#alert").innerHTML=html;$("#alert").hidden=false}
+}
+/* ---------- Archives ---------- */
+function setupArchives(d){
+  const a=(d.archives||[]).slice().reverse();
+  $("#arch").innerHTML=a.length?a.map(b=>`<details><summary>${esc(b.titre||"")}<span>${esc(b.periode||"")}</span></summary><ol>${(b.points||[]).map(p=>`<li><b>${esc(p.titre)}</b>${p.implication?` — ${esc(p.implication)}`:""}</li>`).join("")}</ol></details>`).join("")
+    :`<p class="empty">Les briefs des semaines passées s'ajouteront ici automatiquement, à partir de lundi prochain.</p>`;
+}
+/* ---------- Courbes ---------- */
+function drawCharts(d){
+  const H=(d.historique&&d.historique.bourse)||[];const names={BICB:"BIIC",BOAB:"Bank of Africa Bénin",ETIT:"Ecobank Transnational"};
+  const out=Object.keys(names).map(code=>{
+    const pts=H.filter(p=>p[code]!=null).map(p=>({t:D(p.date).getTime(),v:+p[code],date:p.date,dateApprox:p.dateApprox})).sort((a,b)=>a.t-b.t);
+    if(pts.length<2)return `<div class="chart"><h4>${names[code]} (${code})</h4><p class="chg">${pts.length?`${pts[0].v.toLocaleString("fr-FR")} FCFA au ${fmt(pts[0])}. `:""}La courbe apparaîtra dès le prochain relevé.</p></div>`;
+    const W=320,Hh=130,pl=8,pr=8,pt=12,pb=22;
+    const t0=pts[0].t,t1=pts[pts.length-1].t,vmin=Math.min(...pts.map(p=>p.v)),vmax=Math.max(...pts.map(p=>p.v));
+    const X=t=>pl+(t-t0)/(t1-t0||1)*(W-pl-pr),Y=v=>pt+(1-(v-vmin)/((vmax-vmin)||1))*(Hh-pt-pb);
+    const line=pts.map((p,i)=>(i?"L":"M")+X(p.t).toFixed(1)+" "+Y(p.v).toFixed(1)).join(" ");
+    const area=line+` L${X(t1).toFixed(1)} ${Hh-pb} L${X(t0).toFixed(1)} ${Hh-pb} Z`;
+    const first=pts[0],last=pts[pts.length-1],ch=(last.v/first.v-1)*100;
+    return `<div class="chart"><h4>${names[code]} (${code})</h4><p class="chg">${last.v.toLocaleString("fr-FR")} FCFA · <span class="${ch>=0?"up":"down"}">${ch>=0?"+":""}${ch.toFixed(0)} %</span> depuis ${fmt(first)}</p>
+    <svg viewBox="0 0 ${W} ${Hh}" role="img" aria-label="Évolution du cours ${names[code]}"><line x1="${pl}" x2="${W-pr}" y1="${Hh-pb}" y2="${Hh-pb}" stroke="#E3E8EF"/>
+    <path d="${area}" fill="${code==="ETIT"?"#F7EFE1":"#E8EDF5"}"/><path d="${line}" fill="none" stroke="${code==="ETIT"?"#9A6B25":"#13213A"}" stroke-width="2.2" stroke-linejoin="round"/>
+    ${pts.map(p=>`<circle cx="${X(p.t).toFixed(1)}" cy="${Y(p.v).toFixed(1)}" r="3" fill="#fff" stroke="${code==="ETIT"?"#9A6B25":"#13213A"}" stroke-width="1.6"/>`).join("")}
+    <text x="${pl}" y="${Hh-6}">${D(first.date).toLocaleDateString("fr-FR",{month:"short",year:"2-digit"})}</text><text x="${W-pr}" y="${Hh-6}" text-anchor="end">${D(last.date).toLocaleDateString("fr-FR",{month:"short",year:"2-digit"})}</text></svg></div>`});
+  $("#charts").innerHTML=out.join("");
+}
+/* ---------- Présentation ---------- */
+function setupPresent(d){
+  const pts=d.brief?.points||[];const M=d.marche,us=(M?.banques||[]).find(b=>b.nous),rk=(M?.banques||[]).findIndex(b=>b.nous)+1;
+  const dl=(d.echeances||[]).filter(e=>D(e.date)>=T0).sort((a,b)=>String(a.date).localeCompare(String(b.date))).slice(0,4);
+  const slides=[`<p class="k">Brief stratégique · ${esc(d.brief?.periode||"")}</p><h2>${esc(d.brief?.titre||"")}</h2><p>Les ${pts.length} informations de la semaine qui comptent pour la banque au Bénin.</p>`]
+   .concat(pts.map((p,i)=>`<p class="k">Point ${i+1} sur ${pts.length}</p><h2>${esc(p.titre)}</h2><p>${esc(p.texte)}</p>${p.implication?`<p class="imp"><b>Pour la banque :</b> ${esc(p.implication)}</p>`:""}`));
+  if(us)slides.push(`<p class="k">Notre position</p><div class="big">${rk}<sup style="font-size:.4em">e</sup></div><p>Ecobank Bénin, ${String(us.bilan).replace(".",",")} milliards FCFA de total bilan fin 2025, soit ${String(us.part).replace(".",",")} % du marché${us.evol!=null?` (${us.evol>0?"+":""}${String(us.evol).replace(".",",")} % sur un an)`:""}.</p>`);
+  if(dl.length)slides.push(`<p class="k">Échéances</p><h2>Les dates à préparer</h2><ul>${dl.map(e=>`<li><b>${e.dateApprox?fmt(e):D(e.date).toLocaleDateString("fr-FR",{day:"numeric",month:"short"})}</b>${esc(e.titre)}</li>`).join("")}</ul>`);
+  let i=0;const deck=$("#deck");
+  const show=()=>{$("#slide").innerHTML=slides[i];$("#dpos").textContent=`${i+1} / ${slides.length}`;$("#dprev").disabled=i===0;$("#dnext").disabled=i===slides.length-1};
+  const open=()=>{i=0;show();deck.hidden=false;document.body.style.overflow="hidden";const r=deck.requestFullscreen?.bind(deck)||deck.webkitRequestFullscreen?.bind(deck);if(r)try{r().catch(()=>{})}catch(_){};};
+  const close=()=>{deck.hidden=true;document.body.style.overflow="";if(document.fullscreenElement)document.exitFullscreen().catch(()=>{})};
+  const go=k=>{i=Math.max(0,Math.min(slides.length-1,i+k));show()};
+  $("#present").addEventListener("click",open);$("#dclose").addEventListener("click",close);
+  $("#dprev").addEventListener("click",()=>go(-1));$("#dnext").addEventListener("click",()=>go(1));
+  addEventListener("keydown",e=>{if(deck.hidden)return;if(e.key==="ArrowRight"||e.key===" "||e.key==="PageDown"){e.preventDefault();go(1)}else if(e.key==="ArrowLeft"||e.key==="PageUp")go(-1);else if(e.key==="Escape")close()});
+  let sx=null;deck.addEventListener("touchstart",e=>{sx=e.touches[0].clientX},{passive:true});
+  deck.addEventListener("touchend",e=>{if(sx==null)return;const dx=e.changedTouches[0].clientX-sx;if(Math.abs(dx)>50)go(dx<0?1:-1);sx=null});
+  document.addEventListener("fullscreenchange",()=>{if(!document.fullscreenElement&&!deck.hidden){}});
+}
+/* ---------- Partage, agenda, lexique ---------- */
+const SITE="https://djondozy.github.io/veille-strategique/";
+document.addEventListener("click",async e=>{
+  const sh=e.target.closest("[data-share]");
+  if(sh){const p=SHARES[+sh.dataset.share];const url=SITE+(p.hash?"#"+p.hash:"");const text=`${p.titre}\n\n${p.texte}\n\n`;
+    if(navigator.share){try{await navigator.share({title:p.titre,text,url});return}catch(err){if(err&&err.name==="AbortError")return}}
+    window.open("https://wa.me/?text="+encodeURIComponent(text+url),"_blank","noopener");return}
+  const c=e.target.closest("[data-ics]");
+  if(c){const x=JSON.parse(c.dataset.ics);const dt=x.date.replace(/-/g,"");const n=new Date(D(x.date).getTime()+864e5).toISOString().slice(0,10).replace(/-/g,"");
+    const escI=t=>String(t).replace(/\\/g,"\\\\").replace(/;/g,"\;").replace(/,/g,"\\,").replace(/\n/g,"\\n");
+    const ics=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Brief Strategique//FR","CALSCALE:GREGORIAN","BEGIN:VEVENT",`UID:${dt}-${Math.random().toString(36).slice(2)}@brief`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,"").slice(0,15)}Z`,`DTSTART;VALUE=DATE:${dt}`,`DTEND;VALUE=DATE:${n}`,`SUMMARY:${escI(x.titre)}`,`DESCRIPTION:${escI(x.detail+(x.url?" "+x.url:""))}`,"BEGIN:VALARM","ACTION:DISPLAY",`DESCRIPTION:${escI(x.titre)}`,"TRIGGER:-P7D","END:VALARM","BEGIN:VALARM","ACTION:DISPLAY",`DESCRIPTION:${escI(x.titre)}`,"TRIGGER:-PT15H","END:VALARM","END:VEVENT","END:VCALENDAR"].join("\r\n");
+    const blob=new Blob([ics],{type:"text/calendar;charset=utf-8"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`echeance-${dt}.ics`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500);return}
+  const lx=e.target.closest("[data-lx]");
+  if(lx){e.preventDefault();e.stopPropagation();const k=lx.dataset.lx;$("#lexk").textContent=k;$("#lexv").textContent=LX[k]||"";$("#lexpop").hidden=false;return}
+  if(e.target.id==="lexx"||(!$("#lexpop").hidden&&!e.target.closest("#lexpop")))$("#lexpop").hidden=true;
+},true);
+/* ---------- Compteurs « nouveau » sur les onglets ---------- */
+function badges(){
+  if(!LAST)return;
+  ["marche","concurrence","agenda","contexte","accueil"].forEach(v=>{
+    const n=[...document.querySelectorAll(`[data-v="${v}"] .nb`)].length;
+    document.querySelectorAll(`[data-tab="${v}"] .tabbadge`).forEach(x=>x.remove());
+    if(n)document.querySelectorAll(`[data-tab="${v}"]`).forEach(a=>{const b=document.createElement("span");b.className="tabbadge";b.textContent=n;(a.querySelector("span")||a).after?a.appendChild(b):a.appendChild(b)});
+  });
+}
 setupInstall();
-fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{render(d);setupCompare(d);setupListen(d);subnavs();route()})
+fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{render(d);setupCompare(d);setupListen(d);setupAlert(d);setupArchives(d);drawCharts(d);setupPresent(d);subnavs();route();badges()})
  .catch(()=>{$("#points").innerHTML=`<li class="empty">Le brief ne s'est pas chargé. Vérifiez la connexion puis rechargez la page.</li>`});
 </script>
 </body>

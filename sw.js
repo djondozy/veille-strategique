@@ -1,5 +1,5 @@
 // Brief DG : la page fonctionne hors connexion avec la dernière version enregistrée.
-const CACHE = "brief-dg-v1";
+const CACHE = "brief-dg-v2";
 const CORE = ["./", "./index.html", "./data.json", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
