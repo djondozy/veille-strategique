@@ -534,7 +534,7 @@ function setupListen(d){
     picked=v.slice().sort((a,b)=>score(b)-score(a))[0];return picked};
   if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
   const stop=()=>{speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter le brief"};
-  const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/g,"pi spi").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/UMOA/g,"U M O A").replace(/BIIC/g,"B I I C").replace(/BRVM/g,"B R V M");
+  const clean=t=>t.replace(/Noulekou/gi,"Noulékou").replace(/FCFA/g,"francs CFA").replace(/PI-SPI/g,"pi spi").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/UMOA/g,"U M O A").replace(/BIIC/g,"B I I C").replace(/BRVM/g,"B R V M");
   const queue=[].concat(...parts.map(p=>clean(p).split(/(?<=[.!?:])\s+/))).filter(x=>x.trim());
   let idx=0,started=false,watch=null;
   const help=$("#listen-help");
