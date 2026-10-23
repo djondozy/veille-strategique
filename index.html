@@ -39,7 +39,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.01em;margin:0
 .nav::-webkit-scrollbar{display:none}
 .nav a{font-size:14px;color:var(--muted);text-decoration:none;padding:7px 11px;border-radius:8px;white-space:nowrap}
 .nav a:hover{background:var(--band);color:var(--ink)}
-@media (max-width:700px){.mark span{display:none}.nav{margin-left:0}}
+@media (max-width:700px){.nav{margin-left:0}}
 
 .mast{padding-block:56px 40px;border-bottom:1px solid var(--line)}
 .dateline{font-size:14.5px;color:var(--muted);margin:0 0 18px}
@@ -180,7 +180,7 @@ table.mx{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px}
 .mx .no{color:#C3CBD6}
 .tf td{text-align:left}
 .h3s{font:500 24px var(--serif);margin:36px 0 14px}
-.rates{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
+.rates{display:block;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
 .rate{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:14.5px}
 .rate.us{border-color:#D9C29A;background:var(--brass-soft)}
 .rate .nm{font-weight:600}
@@ -194,20 +194,56 @@ table.mx{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px}
 .stk .px small{font:500 14px var(--sans);color:var(--muted)}
 .stk p{margin:0;font-size:14.5px;color:var(--muted)}
 .stk a{font-size:13px;color:var(--muted)}
+
+/* App-like views */
+[data-v]{display:none}
+body[data-view="accueil"] [data-v="accueil"],body[data-view="marche"] [data-v="marche"],body[data-view="concurrence"] [data-v="concurrence"],body[data-view="agenda"] [data-v="agenda"],body[data-view="contexte"] [data-v="contexte"]{display:block}
+body[data-view="accueil"] #trente[hidden]{display:none}
+.tabsv a[aria-current="page"],.bottom a[aria-current="page"]{color:var(--ink);background:var(--band);font-weight:600}
+.vhead{background:linear-gradient(180deg,#EEF2F8,#fff);border-bottom:1px solid var(--line)}
+.vhead .wrap{padding-block:28px 22px}
+.vhead h1{font-size:clamp(34px,5vw,50px);margin:6px 0 6px}
+.vhead p{margin:0;color:var(--muted);max-width:60ch}
+.back{background:none;border:0;padding:0;font:500 14px var(--sans);color:var(--muted);cursor:pointer}
+.back:hover{color:var(--ink)}
+.subnav{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.subnav a{font-size:14px;text-decoration:none;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 13px;color:var(--ink)}
+.subnav a:hover{border-color:#C9B48F}
+.subnav a[aria-current]{background:var(--ink);border-color:var(--ink);color:#fff}
+section.s.off{display:none!important}
+[data-v] section.s,section.s[data-v]{padding-block:40px}
+.bottom{display:none}
+@media (max-width:760px){
+  .top .nav{display:none}
+  .bottom{display:grid;grid-template-columns:repeat(5,1fr);position:fixed;left:0;right:0;bottom:0;z-index:20;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding:6px max(6px,env(safe-area-inset-right,0px)) calc(6px + env(safe-area-inset-bottom,0px)) max(6px,env(safe-area-inset-left,0px))}
+  .bottom a{display:flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;color:var(--muted);font-size:11px;padding:6px 2px;border-radius:10px}
+  .bottom svg{width:22px;height:22px}
+  .bottom a[aria-current="page"]{color:var(--brass);background:var(--brass-soft)}
+  body{padding-bottom:76px}
+}
+/* Collapsible brief points */
+.bp details summary{list-style:none;cursor:pointer}
+.bp details summary::-webkit-details-marker{display:none}
+.bp details summary h3{margin-bottom:4px}
+.bp .more{font-size:14px;font-weight:600;color:var(--brass)}
+.bp details[open] .more{display:none}
+.bp details .body{margin-top:8px}
+/* Compact rates table */
+table.rt{min-width:0}
+.rt td,.rt th{text-align:right}
+.rt td:first-child,.rt th:first-child{text-align:left}
 </style>
 </head>
-<body>
+<body data-view="accueil">
 <header class="top">
   <div class="wrap">
     <a class="mark" href="#"><svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#13213A"/><path d="M10 22V10h5.5a3 3 0 0 1 0 6H10h6.5a3 3 0 0 1 0 6H10" fill="none" stroke="#E7C58B" stroke-width="2.4"/></svg><span>Brief Stratégique</span></a>
-    <nav class="nav" aria-label="Sections">
-      <a href="#brief">L'essentiel</a><a href="#position">Position</a><a href="#concurrence">Concurrence</a><a href="#offres">Offres</a><a href="#prix">Taux et tarifs</a><a href="#bourse">Bourse</a><a href="#opportunites">Opportunités</a><a href="#reglementation">Réglementation</a><a href="#economie">Économie</a><a href="#tendances">Tendances</a>
-    </nav>
+    <nav class="nav tabsv" aria-label="Rubriques"><a href="#accueil" data-tab="accueil">Accueil</a><a href="#marche" data-tab="marche">Marché</a><a href="#concurrence" data-tab="concurrence">Concurrence</a><a href="#agenda" data-tab="agenda">Agenda</a><a href="#contexte" data-tab="contexte">Contexte</a></nav>
   </div>
 </header>
 
 <main>
-  <div class="hello"><div class="wrap">
+  <div class="hello" data-v="accueil"><div class="wrap">
     <p class="dateline" id="dateline">Brief stratégique</p>
     <h1 class="greet" id="greet">Bonjour Monsieur Noulekou,</h1>
     <p class="sub">Voici ce qu'il faut savoir cette semaine sur l'environnement de la banque au Bénin.</p>
@@ -219,22 +255,24 @@ table.mx{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px}
     <div class="quick" id="quick"></div>
   </div></div>
 
-  <section class="s30" id="trente" hidden><div class="wrap">
+  <section class="s30" data-v="accueil" id="trente" hidden><div class="wrap">
     <h2 class="s30h">En 30 secondes</h2>
     <ol class="s30l" id="s30"></ol>
   </div></section>
 
-  <section class="s" id="brief"><div class="wrap">
+  <section class="s" data-v="accueil" id="brief"><div class="wrap">
     <div class="sh"><h2>L'essentiel de la semaine</h2><p>Classé par importance pour la banque. Chaque point indique ce qu'il implique pour nous.</p></div>
     <ol class="brief" id="points"></ol>
   </div></section>
 
-  <section class="s band" id="echeances"><div class="wrap">
+  <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Les dates à préparer, les décisions des régulateurs et les affaires qui s'ouvrent.</p><div class="subnav" id="sub-agenda"></div></div></div>
+  <section class="s" data-v="agenda" id="echeances"><div class="wrap">
     <div class="sh"><h2>Échéances à venir</h2><p>Dates réglementaires et de marché à préparer.</p></div>
     <div class="dls" id="dls"></div>
   </div></section>
 
-  <section class="s" id="position"><div class="wrap">
+  <div class="vhead" data-v="marche"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>Le marché</h1><p>Notre position, ce que proposent les concurrents, leurs taux, leurs tarifs et la bourse.</p><div class="subnav" id="sub-marche"></div></div></div>
+  <section class="s" data-v="marche" id="position"><div class="wrap">
     <div class="sh"><h2>Notre position sur le marché</h2><p>Classement des banques au Bénin par total bilan, parts de marché et évolution sur un an.</p></div>
     <p class="lead" id="pos-lead"></p>
     <div class="bars" id="bars"></div>
@@ -242,19 +280,20 @@ table.mx{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px}
     <div class="aside" id="digital"></div>
   </div></section>
 
-  <section class="s band" id="concurrence"><div class="wrap">
+  <div class="vhead" data-v="concurrence"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>La concurrence</h1><p>Les dernières annonces publiques de chaque concurrent.</p><div class="subnav" id="sub-concurrence"></div></div></div>
+  <section class="s" data-v="concurrence" id="concurrence"><div class="wrap">
     <div class="sh"><h2>Concurrence au Bénin</h2><p>Annonces publiques des banques, opérateurs de mobile money et fintechs : produits, résultats, financements, dirigeants.</p></div>
     <div class="comp" id="comp"></div>
   </div></section>
 
-  <section class="s" id="offres"><div class="wrap">
+  <section class="s" data-v="marche" id="offres"><div class="wrap">
     <div class="sh"><h2>Qui propose quoi</h2><p>Les services numériques confirmés publiquement, banque par banque.</p></div>
     <p class="lead" id="off-lead"></p>
     <div class="tscroll"><table class="mx" id="mx"></table></div>
     <p class="note" id="off-note"></p>
   </div></section>
 
-  <section class="s band" id="prix"><div class="wrap">
+  <section class="s" data-v="marche" id="prix"><div class="wrap">
     <div class="sh"><h2>Taux et tarifs</h2><p>Ce que les concurrents affichent pour rémunérer l'épargne, prêter et facturer leurs services.</p></div>
     <p class="lead" id="taux-lead"></p>
     <div class="rates" id="rates"></div>
@@ -264,37 +303,39 @@ table.mx{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px}
     <p class="note" id="tarifs-note"></p>
   </div></section>
 
-  <section class="s" id="bourse"><div class="wrap">
+  <section class="s" data-v="marche" id="bourse"><div class="wrap">
     <div class="sh"><h2>En bourse</h2><p id="bourse-sub">Les banques béninoises cotées et le titre du groupe à la BRVM.</p></div>
     <div class="stocks" id="stocks"></div>
   </div></section>
 
-  <section class="s band" id="opportunites"><div class="wrap">
+  <section class="s" data-v="agenda" id="opportunites"><div class="wrap">
     <div class="sh"><h2>Opportunités d'affaires</h2><p>Les financements, flux et marchés qui s'ouvrent, et ce que la banque peut y gagner.</p></div>
     <ul class="rows" id="opps"></ul>
   </div></section>
 
-  <section class="s" id="reglementation"><div class="wrap">
+  <section class="s" data-v="agenda" id="reglementation"><div class="wrap">
     <div class="sh"><h2>Réglementation</h2><p>Décisions de la BCEAO, de la Commission bancaire, du GIM-UEMOA et des autorités béninoises.</p></div>
     <ul class="rows" id="reg"></ul>
   </div></section>
 
-  <section class="s band" id="economie"><div class="wrap">
+  <div class="vhead" data-v="contexte"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>Le contexte</h1><p>L'économie du Bénin et de l'UEMOA, l'actualité du groupe et les grandes tendances mondiales.</p><div class="subnav" id="sub-contexte"></div></div></div>
+  <section class="s" data-v="contexte" id="economie"><div class="wrap">
     <div class="sh"><h2>Environnement économique</h2><p>Les chiffres clés du Bénin et de l'UEMOA, et les grands financements en cours.</p></div>
     <div class="kpis" id="kpis"></div>
     <ul class="rows" id="eco"></ul>
   </div></section>
 
-  <section class="s" id="groupe"><div class="wrap">
+  <section class="s" data-v="contexte" id="groupe"><div class="wrap">
     <div class="sh"><h2>Le groupe et la filiale</h2><p>Ce que la presse et les publications officielles disent du groupe Ecobank et de sa présence au Bénin.</p></div>
     <ul class="rows" id="grp"></ul>
   </div></section>
 
-  <section class="s band" id="tendances"><div class="wrap">
+  <section class="s" data-v="contexte" id="tendances"><div class="wrap">
     <div class="sh"><h2>Tendances mondiales</h2><p>Ce qui change dans la banque et les paiements ailleurs, et ce que cela annonce pour nous.</p></div>
     <div class="trends" id="trends"></div>
   </div></section>
 </main>
+<nav class="bottom" aria-label="Rubriques"><a href="#accueil" data-tab="accueil"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10"/></svg><span>Accueil</span></a><a href="#marche" data-tab="marche"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18M6 17V11M11 17V7M16 17v-4M20 17V5"/></svg><span>Marché</span></a><a href="#concurrence" data-tab="concurrence"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.5a3.5 3.5 0 0 1 0 7M18 14a5 5 0 0 1 3.5 6"/></svg><span>Concurrence</span></a><a href="#agenda" data-tab="agenda"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span>Agenda</span></a><a href="#contexte" data-tab="contexte"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Contexte</span></a></nav>
 
 <footer><div class="wrap">
   <p>Veille personnelle préparée à partir d'informations publiques et vérifiées, mise à jour chaque matin ; l'essentiel de la semaine est réécrit chaque lundi.</p>
@@ -336,7 +377,7 @@ function render(d){
   const nb=(d.brief?.points||[]).length;
   $("#meta").innerHTML=`<span><strong>${nb} points</strong> à retenir</span><span>Lecture : <strong>${Math.max(2,Math.round(nb*0.7))} minutes</strong></span>${isNaN(m)?"":`<span>Mis à jour le <strong>${m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})}</strong></span>`}`;
 
-  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><div><h3>${esc(p.titre)}</h3><p>${esc(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${esc(p.implication)}</div>`:""}${src(p)}</div></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
+  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><details${i===0?" open":""}><summary><h3>${esc(p.titre)}</h3><span class="more">Lire le détail</span></summary><div class="body"><p>${esc(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${esc(p.implication)}</div>`:""}${src(p)}</div></details></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
 
   const dl=(d.echeances||[]).filter(e=>D(e.date)>=new Date(T0-6*864e5)).sort((a,b)=>String(a.date).localeCompare(String(b.date)));
   $("#echeances").hidden=!dl.length;
@@ -369,7 +410,7 @@ function render(d){
   }else $("#offres").hidden=true;
   const R=d.taux;
   if(R){$("#taux-lead").textContent=R.lecture||"";
-    $("#rates").innerHTML=R.banques.slice().sort((a,b)=>b.dat-a.dat).map(b=>`<div class="rate${b.nous?" us":""}"><span class="nm">${esc(b.nom)}</span><span class="dat">${Number(b.dat).toLocaleString("fr-FR",{minimumFractionDigits:2})} %</span><span class="sm">Dépôt à terme, taux max</span><span class="sm" style="text-align:right">Crédit max ${Number(b.deb).toLocaleString("fr-FR",{minimumFractionDigits:2})} %</span></div>`).join("");
+    const pc=x=>Number(x).toLocaleString("fr-FR",{minimumFractionDigits:2})+" %";$("#rates").innerHTML=`<div class="tscroll"><table class="mx rt"><thead><tr><th>Banque</th><th>Dépôt à terme, taux max</th><th>Crédit, taux max</th></tr></thead><tbody>${R.banques.slice().sort((a,b)=>b.dat-a.dat).map(b=>`<tr class="${b.nous?"us":""}"><td>${esc(b.nom)}</td><td class="num">${pc(b.dat)}</td><td class="num">${pc(b.deb)}</td></tr>`).join("")}</tbody></table></div>`;
     $("#taux-note").innerHTML=`${esc(R.note)} Source : <a href="${esc(R.url)}" target="_blank" rel="noopener">${esc(R.source)}</a>.`}
   const TF=d.tarifs;
   if(TF){$("#tarifs").innerHTML=`<thead><tr><th>Banque</th>${TF.colonnes.map(c=>`<th>${esc(c)}</th>`).join("")}<th>Grille</th></tr></thead><tbody>${TF.banques.map(b=>`<tr><td>${esc(b.nom)}</td>${b.valeurs.map(v=>`<td>${esc(v)}</td>`).join("")}<td><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.date)}</a></td></tr>`).join("")}</tbody>`;
@@ -382,7 +423,28 @@ function render(d){
   $("#opportunites").hidden=!(d.opportunites||[]).length;
 }
 
-fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(render)
+
+const VIEWS=["accueil","marche","concurrence","agenda","contexte"];
+function subnavs(){VIEWS.forEach(v=>{const box=document.getElementById("sub-"+v);if(!box)return;
+  box.innerHTML=[...document.querySelectorAll(`section[data-v="${v}"]`)].filter(x=>!x.hidden).map(x=>{const h=x.querySelector(".sh h2");return h?`<a href="#${x.id}">${esc(h.textContent)}</a>`:""}).join("")})}
+function route(){
+  const h=decodeURIComponent(location.hash.slice(1))||"accueil";
+  let v=VIEWS.includes(h)?h:null,el=null;
+  if(!v){el=document.getElementById(h);v=el?.closest("[data-v]")?.dataset.v||"accueil"}
+  const changed=document.body.dataset.view!==v;
+  document.body.dataset.view=v;
+  document.querySelectorAll("[data-tab]").forEach(a=>{if(a.dataset.tab===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")});
+  const secs=[...document.querySelectorAll(`section.s[data-v="${v}"]`)].filter(x=>!x.hidden);
+  const target=el?(el.matches("section.s")?el:el.closest("section.s")):null;
+  const pick=v==="accueil"?null:(target&&secs.includes(target)?target:(secs.find(x=>x.id===(window._last||{})[v])||secs[0]));
+  if(pick){secs.forEach(x=>x.classList.toggle("off",x!==pick));(window._last=window._last||{})[v]=pick.id;
+    document.querySelectorAll(`#sub-${v} a`).forEach(a=>{if(a.getAttribute("href")==="#"+pick.id)a.setAttribute("aria-current","true");else a.removeAttribute("aria-current")})}
+  if(el&&v==="accueil"){const det=el.querySelector("details");if(det)det.open=true;requestAnimationFrame(()=>el.scrollIntoView({block:"start"}))}
+  else if(changed||pick)window.scrollTo({top:0});
+}
+addEventListener("hashchange",route);
+document.addEventListener("click",e=>{const g=e.target.closest("[data-go]");if(g){location.hash=g.dataset.go}});
+fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{render(d);subnavs();route()})
  .catch(()=>{$("#points").innerHTML=`<li class="empty">Le brief ne s'est pas chargé. Vérifiez la connexion puis rechargez la page.</li>`});
 </script>
 </body>
