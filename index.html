@@ -342,10 +342,26 @@ table.rt{min-width:0}
 .slide ul{list-style:none;padding:0;margin:0;display:grid;gap:12px;font-size:clamp(17px,2vw,23px)}
 .slide ul li{display:flex;gap:16px;align-items:baseline;border-bottom:1px solid rgba(255,255,255,.12);padding-bottom:10px}
 .slide ul b{color:#E7C58B;min-width:8ch;font-weight:600}
+.slide ul.pl{font-size:clamp(15px,1.7vw,20px);gap:8px;margin-top:4px}
+.slide ul.pl li{border:0;padding:0 0 0 22px;position:relative;color:#D9E0EA;display:block}
+.slide ul.pl li::before{content:"✓";position:absolute;left:0;color:#E7C58B}
 .dctl{display:flex;align-items:center;justify-content:center;gap:14px;padding:12px 16px calc(14px + env(safe-area-inset-bottom,0px))}
 .dctl button{font:600 22px var(--sans);background:rgba(255,255,255,.1);color:#fff;border:0;border-radius:999px;width:48px;height:48px;cursor:pointer}
 .dctl .dx{width:auto;padding:0 18px;font-size:14px;margin-left:16px}
 .dctl span{font-size:14px;color:#AFC0D6;min-width:56px;text-align:center}
+
+/* Impact block */
+.impact{margin-top:14px;border:1px solid #E8D6B4;background:linear-gradient(180deg,#FBF5EA,#FFFFFF);border-radius:16px;padding:16px 18px;max-width:72ch}
+.impact .ih{display:flex;align-items:center;gap:8px;font:600 13.5px var(--sans);color:var(--brass);letter-spacing:.01em;margin-bottom:8px}
+.impact .ih svg{width:18px;height:18px}
+.impact .il{margin:0 0 10px;font:500 17px/1.45 var(--serif);color:var(--ink)}
+.impact .ik{margin:12px 0 6px;font:600 13px var(--sans);color:var(--ink)}
+.impact .ip{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.impact .ip li{position:relative;padding-left:28px;font-size:15px;line-height:1.5}
+.impact .ip li::before{content:"";position:absolute;left:0;top:2px;width:19px;height:19px;border-radius:50%;background:#E3F1EA url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232F7D5B' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 12 4 4 8-8'/%3E%3C/svg%3E") center/12px no-repeat}
+.impact .iv{margin:12px 0 0;font-size:14.5px;background:#FBEAE6;color:#7A2717;border-radius:10px;padding:9px 12px}
+.impact .iv b{font-weight:600}
+.tr .impact{margin-top:auto}
 </style>
 </head>
 <body data-view="accueil">
@@ -501,6 +517,12 @@ setTimeout(()=>{try{localStorage.setItem("brief-last-visit",new Date().toISOStri
 /* Lexique : les termes techniques deviennent cliquables */
 let LX={},LXRE=null;
 const L=t=>{const e=esc(t);if(!LXRE)return e;return e.replace(LXRE,m=>`<button type="button" class="lx" data-lx="${esc(Object.keys(LX).find(k=>k.toLowerCase()===m.toLowerCase())||m)}">${m}</button>`)};
+/* Bloc « Pour la banque » enrichi */
+const IMP=(x,label="Pour la banque")=>{if(!x.implication&&!(x.pistes||[]).length)return "";
+  return `<div class="impact"><div class="ih"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10 12 4l9 6M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 20h18"/></svg>${label}</div>
+  ${x.implication?`<p class="il">${L(x.implication)}</p>`:""}
+  ${(x.pistes||[]).length?`<p class="ik">Pistes à étudier</p><ul class="ip">${x.pistes.map(p=>`<li>${L(p)}</li>`).join("")}</ul>`:""}
+  ${x.vigilance?`<p class="iv"><b>À surveiller :</b> ${L(x.vigilance)}</p>`:""}</div>`};
 /* Partage */
 const SHARES=[];
 const SH=(titre,texte,hash)=>{SHARES.push({titre,texte,hash});return `<button type="button" class="shr" data-share="${SHARES.length-1}" aria-label="Partager"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Partager</button>`};
@@ -532,7 +554,7 @@ function render(d){
   const nb=(d.brief?.points||[]).length;
   $("#meta").innerHTML=`<span><strong>${nb} points</strong> à retenir</span><span>Lecture : <strong>${Math.max(2,Math.round(nb*0.7))} minutes</strong></span>${isNaN(m)?"":`<span>Mis à jour le <strong>${m.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})}</strong></span>`}`;
 
-  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><details${i===0?" open":""}><summary><h3>${esc(p.titre)}</h3><span class="more">Lire le détail</span></summary><div class="body"><p>${L(p.texte)}</p>${p.implication?`<div class="for"><b>Pour la banque :</b> ${L(p.implication)}</div>`:""}<div class="ft2">${src(p)}${SH(p.titre,p.texte+" Pour la banque : "+(p.implication||""),"p"+(i+1))}</div></div></details></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
+  $("#points").innerHTML=(d.brief?.points||[]).map((p,i)=>`<li class="bp" id="p${i+1}"><span class="rank">${i+1}</span><details${i===0?" open":""}><summary><h3>${esc(p.titre)}</h3><span class="more">Lire le détail</span></summary><div class="body"><p>${L(p.texte)}</p>${IMP(p)}<div class="ft2">${src(p)}${SH(p.titre,p.texte+" Pour la banque : "+(p.implication||""),"p"+(i+1))}</div></div></details></li>`).join("")||`<li class="empty">Le brief de la semaine arrive lundi matin.</li>`;
 
   const dl=(d.echeances||[]).filter(e=>D(e.date)>=new Date(T0-6*864e5)).sort((a,b)=>String(a.date).localeCompare(String(b.date)));
   $("#echeances").hidden=!dl.length;
@@ -544,13 +566,13 @@ function render(d){
     return `<article class="cc"><header><h3>${esc(c.nom)}</h3><span class="tag">${esc(c.type)}</span></header>${c.resume?`<p class="rs">${esc(c.resume)}</p>`:""}
     ${ac.length?`<ul>${ac.map(a=>`<li>${NEWB(a)}${L(a.texte)}<small>${fmt(a)}${okUrl(a.url)?` · <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a>`:""}</small></li>`).join("")}</ul>`:`<p class="none">Aucune annonce publique relevée récemment.</p>`}</article>`}).join("");
 
-  const rows=(l,withFor)=>l.slice().sort(byDate).map(r=>`<li class="row"><div class="d">${fmt(r)}${r.organisme?`<b>${esc(r.organisme)}</b>`:""}</div><div><h3>${NEWB(r)}${esc(r.titre)}</h3><p>${L(r.resume)}</p>${withFor&&r.implication?`<div class="for"><b>Pour la banque :</b> ${L(r.implication)}</div>`:""}<div class="ft2">${src(r)}${SH(r.titre,r.resume,"")}</div></div></li>`).join("");
+  const rows=(l,withFor)=>l.slice().sort(byDate).map(r=>`<li class="row"><div class="d">${fmt(r)}${r.organisme?`<b>${esc(r.organisme)}</b>`:""}</div><div><h3>${NEWB(r)}${esc(r.titre)}</h3><p>${L(r.resume)}</p>${withFor?IMP(r):""}<div class="ft2">${src(r)}${SH(r.titre,r.resume,"")}</div></div></li>`).join("");
   $("#reg").innerHTML=rows(d.reglementation||[],true);
   $("#kpis").innerHTML=(d.economie?.indicateurs||[]).map(k=>`<div class="kpi"><span class="v">${esc(k.valeur)}</span><span class="l">${esc(k.label)}</span><span class="x">${esc(k.detail||"")}</span>${okUrl(k.url)?`<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.source)}</a>`:""}</div>`).join("");
   $("#eco").innerHTML=rows(d.economie?.actus||[],false);
   $("#grp").innerHTML=rows(d.groupe||[],false);
   $("#tendances").hidden=!(d.tendances||[]).length;
-  $("#trends").innerHTML=(d.tendances||[]).slice().sort(byDate).map(t=>`<article class="tr"><span class="d">${fmt(t)}</span><h3>${NEWB(t)}${esc(t.titre)}</h3><p>${L(t.resume)}</p>${t.implication?`<div class="for"><b>Pour nous :</b> ${L(t.implication)}</div>`:""}<div class="ft2">${src(t)}${SH(t.titre,t.resume,"tendances")}</div></article>`).join("");
+  $("#trends").innerHTML=(d.tendances||[]).slice().sort(byDate).map(t=>`<article class="tr"><span class="d">${fmt(t)}</span><h3>${NEWB(t)}${esc(t.titre)}</h3><p>${L(t.resume)}</p>${IMP(t,"Pour nous")}<div class="ft2">${src(t)}${SH(t.titre,t.resume,"tendances")}</div></article>`).join("");
   const nf=n=>Number(n).toLocaleString("fr-FR",{maximumFractionDigits:1});
   const M=d.marche;
   if(M){$("#pos-lead").textContent=M.lecture||"";const mx=Math.max(...M.banques.map(b=>b.bilan));
@@ -747,7 +769,7 @@ function setupPresent(d){
   const pts=d.brief?.points||[];const M=d.marche,us=(M?.banques||[]).find(b=>b.nous),rk=(M?.banques||[]).findIndex(b=>b.nous)+1;
   const dl=(d.echeances||[]).filter(e=>D(e.date)>=T0).sort((a,b)=>String(a.date).localeCompare(String(b.date))).slice(0,4);
   const slides=[`<p class="k">Brief stratégique · ${esc(d.brief?.periode||"")}</p><h2>${esc(d.brief?.titre||"")}</h2><p>Les ${pts.length} informations de la semaine qui comptent pour la banque au Bénin.</p>`]
-   .concat(pts.map((p,i)=>`<p class="k">Point ${i+1} sur ${pts.length}</p><h2>${esc(p.titre)}</h2><p>${esc(p.texte)}</p>${p.implication?`<p class="imp"><b>Pour la banque :</b> ${esc(p.implication)}</p>`:""}`));
+   .concat(pts.map((p,i)=>`<p class="k">Point ${i+1} sur ${pts.length}</p><h2>${esc(p.titre)}</h2><p>${esc(p.texte)}</p>${p.implication?`<p class="imp"><b>Pour la banque :</b> ${esc(p.implication)}</p>`:""}${(p.pistes||[]).length?`<ul class="pl">${p.pistes.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:""}`));
   if(us)slides.push(`<p class="k">Notre position</p><div class="big">${rk}<sup style="font-size:.4em">e</sup></div><p>Ecobank Bénin, ${String(us.bilan).replace(".",",")} milliards FCFA de total bilan fin 2025, soit ${String(us.part).replace(".",",")} % du marché${us.evol!=null?` (${us.evol>0?"+":""}${String(us.evol).replace(".",",")} % sur un an)`:""}.</p>`);
   if(dl.length)slides.push(`<p class="k">Échéances</p><h2>Les dates à préparer</h2><ul>${dl.map(e=>`<li><b>${e.dateApprox?fmt(e):D(e.date).toLocaleDateString("fr-FR",{day:"numeric",month:"short"})}</b>${esc(e.titre)}</li>`).join("")}</ul>`);
   let i=0;const deck=$("#deck");
