@@ -312,7 +312,6 @@ table.rt{min-width:0}
       <div class="meta" id="meta"></div>
       <div class="acts">
         <button class="act main" type="button" id="listen" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 14v-2a8 8 0 0 1 16 0v2"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg><span>Écouter le brief</span></button>
-        <button class="act" type="button" id="committee"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4M9 12h6M9 16h6"/></svg><span>Préparer mon comité (PDF)</span></button>
         <button class="act" type="button" id="install" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M12 7v7M9 11l3 3 3-3"/></svg><span>Installer l'application</span></button>
       </div>
       <p class="tip warn" id="listen-help" hidden>Pas de son ? Vérifiez que le téléphone n'est pas en <b>mode silencieux</b> (sur iPhone, le bouton sur le côté), montez le volume, et ouvrez le lien dans <b>Safari ou Chrome</b> plutôt que dans WhatsApp.</p>
@@ -526,18 +525,34 @@ function setupListen(d){
   const parts=[`${$("#greet").textContent} voici le brief stratégique de la ${String(d.brief.periode||"semaine").toLowerCase()}.`,`À la une : ${d.brief.titre}.`]
     .concat(pts.map((p,i)=>`Point ${i+1}. ${p.titre}. ${p.texte} Pour la banque : ${p.implication||""}`))
     .concat(["Fin du brief. Bonne semaine."]);
-  const voice=()=>{const v=speechSynthesis.getVoices();return v.find(x=>/^fr(-|_)FR/i.test(x.lang)&&/google|premium|enhanced|amélie|thomas/i.test(x.name))||v.find(x=>/^fr/i.test(x.lang))};
+  const FEM=["denise","vivienne","eloise","audrey","aurélie","aurelie","amélie","amelie","marie","céline","celine","léa","lea","chantal","julie","hortense","sylvie","virginie","google français","google francais"];
+  const MASC=/thomas|henri|paul|nicolas|daniel|remy|rémy|claude|antoine|jacques|jean|male|homme|guillaume|yannick|fabrice/i;
+  let picked=null;
+  const voice=()=>{if(picked)return picked;const v=speechSynthesis.getVoices().filter(x=>/^fr/i.test(x.lang));if(!v.length)return null;
+    const score=x=>{const n=x.name.toLowerCase();let sc=0;const i=FEM.findIndex(f=>n.includes(f));if(i>=0)sc+=100-i;if(MASC.test(n))sc-=200;
+      if(/natural|neural|premium|enhanced|amélioré|online/i.test(n))sc+=40;if(/^fr(-|_)FR/i.test(x.lang))sc+=10;return sc};
+    picked=v.slice().sort((a,b)=>score(b)-score(a))[0];return picked};
+  if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
   const stop=()=>{speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter le brief"};
-  const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/g,"pi spi").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/UMOA/g,"U M O A").replace(/BIIC/g,"B I I C").replace(/BRVM/g,"B R V M");
+  const clean=t=>t
+    .replace(/(\d)\s(?=\d{3}\b)/g,"$1")
+    .replace(/(\d+),(\d+)\s?%/g,"$1 virgule $2 pour cent").replace(/(\d+)\s?%/g,"$1 pour cent")
+    .replace(/(\d+),(\d+)/g,"$1 virgule $2")
+    .replace(/\bmilliards FCFA\b/g,"milliards de francs CFA").replace(/\bMd\b/g,"milliards").replace(/FCFA/g,"francs CFA")
+    .replace(/\b1er\b/g,"premier").replace(/\b(\d+)e\b/g,"$1ème")
+    .replace(/PI-SPI/g,"pi-spi").replace(/BCEAO/g,"B.C.E.A.O.").replace(/UEMOA/g,"U.E.M.O.A.").replace(/UMOA/g,"U.M.O.A.")
+    .replace(/BIIC/g,"B.I.I.C.").replace(/BRVM/g,"B.R.V.M.").replace(/\bFMI\b/g,"F.M.I.").replace(/\bBAD\b/g,"B.A.D.").replace(/\bBCE\b/g,"B.C.E.")
+    .replace(/\bGIM\b/g,"guim").replace(/\bIA\b/g,"intelligence artificielle").replace(/\bM\. /g,"Monsieur ")
+    .replace(/ : /g,", ").replace(/ ; /g,", ").replace(/\s+/g," ");
   const queue=[].concat(...parts.map(p=>clean(p).split(/(?<=[.!?:])\s+/))).filter(x=>x.trim());
   let idx=0,started=false,watch=null;
   const help=$("#listen-help");
   function next(){
     if(!speaking)return;
     if(idx>=queue.length){stop();return}
-    const u=new SpeechSynthesisUtterance(queue[idx++]);u.lang="fr-FR";const v=voice();if(v)u.voice=v;u.rate=1;u.volume=1;
+    const u=new SpeechSynthesisUtterance(queue[idx++]);u.lang=(voice()&&voice().lang)||"fr-FR";const v=voice();if(v)u.voice=v;u.rate=0.9;u.pitch=1.05;u.volume=1;
     u.onstart=()=>{started=true;help.hidden=true};
-    u.onend=()=>next();
+    u.onend=()=>{const longer=/^(Point \d|À la une|Fin du brief)/.test(queue[idx]||"");setTimeout(next,longer?700:250)};
     u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;next()};
     speechSynthesis.speak(u);
   }
@@ -620,7 +635,7 @@ function setupCompare(d){
   draw();
 }
 setupInstall();
-fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{render(d);setupCompare(d);setupListen(d);setupCommittee(d);subnavs();route()})
+fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{render(d);setupCompare(d);setupListen(d);subnavs();route()})
  .catch(()=>{$("#points").innerHTML=`<li class="empty">Le brief ne s'est pas chargé. Vérifiez la connexion puis rechargez la page.</li>`});
 </script>
 </body>
