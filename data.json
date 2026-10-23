@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T12:39:43Z",
+ "derniereMaj": "2026-10-23T12:41:37Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -163,8 +163,7 @@
     },
     {
      "date": "2026-10-01",
-     "dateApprox": true,
-     "texte": "Mobilise avec la BOAD 33,2 milliards FCFA pour une usine de ciment à Sèmè-Podji ; la BOAD avait approuvé en juin un prêt de 16,6 milliards FCFA à la Société des Ciments pour ce site.",
+     "texte": "Signe le 1er octobre à Cotonou, avec la BOAD, un document de garantie lié à un prêt de 33,2 milliards FCFA à la Société des Ciments du Bénin (Ciment Bouclier) pour une unité de broyage d'un million de tonnes à Sèmè-Podji.",
      "source": "La Nouvelle Tribune",
      "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
     },
@@ -346,6 +345,21 @@
  "reglementation": [
   {
    "date": "2026-10-22",
+   "organisme": "BCEAO",
+   "titre": "Appel à candidatures pour le Laboratoire d'innovation financière",
+   "resume": "La BCEAO lance un appel à candidatures pour constituer la première cohorte de fintechs de son Laboratoire d'innovation financière.",
+   "implication": "Des fintechs vont pouvoir tester leurs services sous le regard du régulateur : de nouveaux concurrents ou partenaires pourront arriver plus vite sur le marché béninois.",
+   "pistes": [
+    "Identifier les fintechs béninoises candidates et leur proposer un partenariat bancaire (comptes de cantonnement, règlement, accès à PI-SPI).",
+    "Étudier un projet commun avec une fintech, par exemple de crédit numérique aux petits commerçants, pour profiter de cet espace de test.",
+    "Suivre les règles de sortie du laboratoire pour anticiper les services qui seront ensuite autorisés à grande échelle."
+   ],
+   "vigilance": "Un partenariat avec une fintech en phase de test engage la réputation de la banque : contrôle de conformité et de sécurité indispensable.",
+   "source": "24 Heures au Bénin",
+   "url": "https://www.24haubenin.info/?Les-FinTech-invitees-a-rejoindre-le-Laboratoire-d-Innovation-Financiere"
+  },
+  {
+   "date": "2026-10-22",
    "organisme": "UEMOA",
    "titre": "Le pacte de convergence de l'UEMOA rétabli",
    "resume": "Le président ivoirien, président en exercice de l'Union, a signé à Abidjan l'acte additionnel instituant le pacte de convergence, de stabilité, de croissance et de solidarité, suspendu depuis 2020. Les autres chefs d'État doivent encore le signer et les nouveaux critères n'ont pas été rendus publics.",
@@ -518,6 +532,13 @@
   ],
   "actus": [
    {
+    "date": "2026-10-23",
+    "titre": "Liberté économique : le Bénin 11e en Afrique",
+    "resume": "Le rapport 2026 de l'Institut Fraser sur la liberté économique classe le Bénin au 11e rang africain.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/liberte-economique-en-2026-le-benin-se-hisse-a-la-11%e1%b5%89-place-africaine-selon-le-rapport-de-linstitut-fraser/"
+   },
+   {
     "date": "2026-10-22",
     "titre": "Le FMI projette une croissance supérieure à 7 % jusqu'en 2028",
     "resume": "La croissance du Bénin passerait de 7 % en 2026 à 7,3 % en 2028, avec comme risques les prix de l'énergie et des aliments et le coût de la dette.",
@@ -560,6 +581,13 @@
     "url": "https://www.capmad.com/article/benin-2495-milliards-de-fcfa-mobilises-en-marge-des-assemblees-annuelles-bmfmi"
    },
    {
+    "date": "2026-10-09",
+    "titre": "Pauvreté modérée attendue à 34,5 % en 2028",
+    "resume": "Selon une note de la Banque mondiale, la pauvreté mesurée au seuil de 4,20 dollars par jour passerait de 41,1 % en 2024 à 34,5 % en 2028, avec une croissance moyenne attendue de 7,6 % en 2027-2028.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-la-banque-mondiale-prevoit-une-baisse-du-taux-de-pauvrete-moderee-a-345-dici-2028/"
+   },
+   {
     "date": "2026-10-08",
     "titre": "Projet de budget 2027 à 4 757 milliards FCFA",
     "resume": "Hausse de 14,7 % par rapport au budget rectifié 2026, avec un déficit prévu à 2,8 % du PIB et une inflation de 2 %.",
@@ -573,22 +601,6 @@
     "source": "La Nouvelle Tribune",
     "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/",
     "dateApprox": true
-   },
-   {
-    "date": "2026-10-01",
-    "dateApprox": true,
-    "titre": "Pauvreté modérée attendue à 34,5 % en 2028",
-    "resume": "La Banque mondiale prévoit une baisse progressive du taux de pauvreté modérée au Bénin, à 34,5 % d'ici 2028.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-la-banque-mondiale-prevoit-une-baisse-du-taux-de-pauvrete-moderee-a-345-dici-2028/"
-   },
-   {
-    "date": "2026-10-01",
-    "dateApprox": true,
-    "titre": "Le Bénin rejoint le Mécanisme de financement mondial (GFF)",
-    "resume": "Le pays devient le 37e partenaire de ce fonds hébergé par la Banque mondiale, qui finance la santé des femmes, des enfants et des adolescents.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/sante-le-benin-devient-le-37e-pays-partenaire-du-gff-de-la-banque-mondiale/"
    },
    {
     "date": "2026-09-29",
@@ -1261,10 +1273,9 @@
   },
   {
    "date": "2026-10-01",
-   "dateApprox": true,
-   "titre": "Industrie : un concurrent cofinance une cimenterie avec la BOAD",
-   "resume": "Bank of Africa Bénin et la BOAD réunissent 33,2 milliards FCFA pour une usine de ciment à Sèmè-Podji, projet pour lequel la BOAD avait approuvé 16,6 milliards FCFA en juin.",
-   "implication": "Les banques locales se positionnent en cofinanceurs des projets industriels soutenus par la BOAD : ces dossiers échappent à la banque si elle n'est pas présente en amont.",
+   "titre": "Industrie : un concurrent s'associe à la BOAD sur une cimenterie",
+   "resume": "Bank of Africa Bénin et la BOAD ont signé le 1er octobre un document de garantie lié à un prêt de 33,2 milliards FCFA à la Société des Ciments du Bénin, pour une unité de broyage d'un million de tonnes à Sèmè-Podji.",
+   "implication": "Les banques locales s'associent aux garanties et prêts de la BOAD sur les grands projets industriels : ces dossiers échappent à la banque si elle n'est pas présente en amont.",
    "pistes": [
     "Recenser les projets béninois approuvés par la BOAD et les autres bailleurs (BAD, SFI, Afreximbank) et contacter leurs promoteurs pour proposer une part de cofinancement.",
     "Proposer aux industriels du BTP et des matériaux des services autour du projet : cautions, crédit documentaire pour les équipements importés, gestion de trésorerie.",
@@ -1368,7 +1379,7 @@
   "pacte de convergence": "Ensemble de règles communes de l'UEMOA qui fixe des plafonds de déficit budgétaire, de dette et d'inflation aux États membres.",
   "OCC": "Office of the Comptroller of the Currency, autorité fédérale américaine qui agrée et supervise les banques nationales.",
   "intentions d'émission": "Montants que les États annoncent prévoir de lever sur le marché régional des titres publics au cours d'une période.",
-  "GFF": "Mécanisme de financement mondial hébergé par la Banque mondiale, qui aide les pays à financer la santé des mères, des enfants et des adolescents.",
-  "BOAD": "Banque ouest-africaine de développement : banque de développement de l'UEMOA qui prête aux États et aux entreprises pour des projets de long terme."
+  "BOAD": "Banque ouest-africaine de développement : banque de développement de l'UEMOA qui prête aux États et aux entreprises pour des projets de long terme.",
+  "Laboratoire d'innovation financière": "Espace mis en place par la BCEAO où des fintechs testent de nouveaux services financiers sous le contrôle du régulateur avant un éventuel agrément."
  }
 }
