@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T00:10:00Z",
+ "derniereMaj": "2026-10-23T00:40:00Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -81,10 +81,22 @@
    "resume": "Banque béninoise cotée à la BRVM depuis avril 2025.",
    "actus": [
     {
+     "date": "2026-10-20",
+     "texte": "L'action clôture à 8 400 FCFA, en repli d'environ 20 % depuis son plus haut de septembre (10 450 FCFA).",
+     "source": "BRVM",
+     "url": "https://www.brvm.org/en/pays-societes-cotees/benin"
+    },
+    {
      "date": "2026-09-23",
      "texte": "Produit net bancaire en hausse de 19 % au premier semestre 2026.",
      "source": "Financial Afrik",
      "url": "https://www.financialafrik.com/2026/09/23/banques-hausse-de-19-du-produit-net-bancaire-de-la-banque-internationale-pour-lindustrie-et-le-commerce-du-benin-au-premier-semestre-2026/"
+    },
+    {
+     "date": "2026-06-22",
+     "texte": "Résultat net 2025 de 36,2 milliards FCFA (+24,7 %) en normes IFRS, produit net bancaire de 52,8 milliards (+16,5 %).",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
     },
     {
      "date": "2026-09-14",
@@ -126,6 +138,12 @@
    "type": "Banque",
    "resume": "Filiale du groupe ivoirien NSIA.",
    "actus": [
+    {
+     "date": "2026-10-01",
+     "texte": "Edmond Koukou Adjikpè prend la direction générale ; Nina-Armelle Vignon Guendehou est reconduite comme directrice générale adjointe.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/06/nsia-banque-benin-edmond-koukou-adjikpe-et-nina-armelle-vignon-guendehou-un-duo-pour-accelerer/"
+    },
     {
      "date": "2026-03-13",
      "texte": "Les obligations du fonds de titrisation « Keur Samba NSIA Banque Bénin » (44 milliards FCFA) sont admises à la BRVM : une source de ressources longues.",
@@ -180,7 +198,14 @@
    "nom": "Coris Bank Bénin",
    "type": "Banque",
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
-   "actus": []
+   "actus": [
+    {
+     "date": "2026-10-09",
+     "texte": "Forum digital pour ses 10 ans au Bénin : mise en avant de ses applications My Coris Bank (particuliers et entreprises), de PI-SPI et du wallet Coris Money.",
+     "source": "Matin Libre",
+     "url": "https://matinlibre.com/2026/10/15/10-ans-dengagement-au-service-des-particuliers-et-entreprises-coris-bank-accelere-sa-transformation-digitale/"
+    }
+   ]
   },
   {
    "id": "moov",
@@ -323,6 +348,13 @@
    "url": "https://fr.apanews.net/benin/benin-ecobank-va-injecter-1385-mds-f-aux-projets-de-letat/"
   },
   {
+   "date": "2026-05-13",
+   "titre": "Ecobank Bénin : résultat net 2025 de 18,96 milliards FCFA",
+   "resume": "Total bilan de 717,4 milliards FCFA dans les comptes publiés ; dividende de 15,17 milliards FCFA, soit 75 850 FCFA brut par action (+19 %).",
+   "source": "La Nation",
+   "url": "https://lanation.bj/economie/performances-bancaires-ecobank-benin-confirme-sa-solidite"
+  },
+  {
    "date": "2026-07-30",
    "titre": "Produit net bancaire du groupe en hausse de 7,45 % au premier semestre",
    "resume": "ETI publie un produit net bancaire de 721,3 milliards FCFA sur le semestre.",
@@ -369,6 +401,403 @@
    "implication": "La lutte contre la fraude devient un investissement prioritaire avec l'arrivée des paiements instantanés.",
    "source": "Osiris / Agence Ecofin",
    "url": "https://osiris.sn/fraude-dopee-a-l-ia-comment-visa-arme-sa-defense.html"
+  }
+ ],
+ "marche": {
+  "titre": "Total bilan des banques au Bénin, fin 2025",
+  "note": "Parts de marché calculées sur 7 607,6 milliards FCFA d'actifs bancaires au Bénin. Les rangs 8 à 10 (Société Générale Bénin, Orabank Bénin, BGFI Bank Bénin) se situent entre 316 et 338 milliards FCFA.",
+  "lecture": "Ecobank Bénin est 5e avec 720,9 milliards FCFA, à 115 milliards de NSIA Banque Bénin (4e). C'est la seule banque du top 5 dont le bilan a reculé en 2025 (−4,1 %), quand la BIIC a progressé de 24,7 % et Coris Bank de 10,3 %.",
+  "banques": [
+   {
+    "nom": "BIIC",
+    "bilan": 1885.9,
+    "bilan2024": 1511.9,
+    "part": 24.8,
+    "evol": 24.7,
+    "nous": false
+   },
+   {
+    "nom": "Bank of Africa Bénin",
+    "bilan": 966.7,
+    "bilan2024": 939.2,
+    "part": 12.7,
+    "evol": 2.9,
+    "nous": false
+   },
+   {
+    "nom": "Coris Bank Bénin",
+    "bilan": 850.3,
+    "bilan2024": 771.1,
+    "part": 11.2,
+    "evol": 10.3,
+    "nous": false
+   },
+   {
+    "nom": "NSIA Banque Bénin",
+    "bilan": 835.5,
+    "bilan2024": 792.7,
+    "part": 11.0,
+    "evol": 5.4,
+    "nous": false
+   },
+   {
+    "nom": "Ecobank Bénin",
+    "bilan": 720.9,
+    "bilan2024": 751.6,
+    "part": 9.5,
+    "evol": -4.1,
+    "nous": true
+   },
+   {
+    "nom": "UBA Bénin",
+    "bilan": 467.4,
+    "bilan2024": null,
+    "part": 6.1,
+    "evol": null,
+    "nous": false
+   },
+   {
+    "nom": "BSIC Bénin",
+    "bilan": 466.5,
+    "bilan2024": null,
+    "part": 6.1,
+    "evol": null,
+    "nous": false
+   }
+  ],
+  "sources": [
+   {
+    "source": "lameteo.info (rapport de la Commission bancaire de l'UMOA)",
+    "url": "https://www.lameteo.info/classement-2025-des-banques-au-benin-la-biic-domine-avec-pres-de-920-milliards-fcfa-de-plus-que-ses-concurrentes/",
+    "date": "2026-08-27"
+   },
+   {
+    "source": "Afrique sur 7 (données APBEF Bénin, évolution 2024-2025)",
+    "url": "https://www.afrique-sur7.fr/bilans-annuels-top-5-des-banques-en-2025-au-benin",
+    "date": "2026-02-18"
+   }
+  ],
+  "digital": {
+   "texte": "Baromètre de la présence digitale des banques au Bénin (avril 2026) : Ecobank Bénin est 1re en recherches Google sur son nom (8 600 par mois, devant UBA à 3 210) mais 4e en abonnés sur les réseaux sociaux (64 496, loin derrière UBA à 150 230).",
+   "source": "Pandore",
+   "url": "https://pandore.co/barometre-de-la-presence-digitale-des-banques-au-benin-en-avril-2026/",
+   "date": "2026-04-06"
+  }
+ },
+ "taux": {
+  "titre": "Conditions de banque publiées par la BCEAO (1er semestre 2025)",
+  "note": "Taux débiteur maximum et rémunération maximale des dépôts à terme déclarés par chaque banque. Ce sont des plafonds, pas des taux moyens pratiqués.",
+  "lecture": "Ecobank Bénin affiche la rémunération maximale des dépôts à terme la plus basse du marché avec BGFI (5,00 %), contre 7,00 % chez UBA et 6,75 % chez BSIC. Son taux débiteur maximum (15 %) est parmi les plus élevés.",
+  "banques": [
+   {
+    "nom": "UBA Bénin",
+    "deb": 14.0,
+    "dat": 7.0
+   },
+   {
+    "nom": "Banque Atlantique",
+    "deb": 14.0,
+    "dat": 6.8
+   },
+   {
+    "nom": "BSIC Bénin",
+    "deb": 15.0,
+    "dat": 6.75
+   },
+   {
+    "nom": "NSIA Banque Bénin",
+    "deb": 12.0,
+    "dat": 6.5
+   },
+   {
+    "nom": "BIIC",
+    "deb": 15.0,
+    "dat": 6.5
+   },
+   {
+    "nom": "Coris Bank Bénin",
+    "deb": 14.0,
+    "dat": 6.5
+   },
+   {
+    "nom": "Société Générale Bénin",
+    "deb": 13.0,
+    "dat": 6.1
+   },
+   {
+    "nom": "CBAO",
+    "deb": 14.0,
+    "dat": 5.75
+   },
+   {
+    "nom": "Orabank Bénin",
+    "deb": 15.0,
+    "dat": 5.5
+   },
+   {
+    "nom": "Bank of Africa Bénin",
+    "deb": 13.0,
+    "dat": 5.5
+   },
+   {
+    "nom": "Ecobank Bénin",
+    "deb": 15.0,
+    "dat": 5.0,
+    "nous": true
+   },
+   {
+    "nom": "BGFI Bank Bénin",
+    "deb": 15.0,
+    "dat": 5.0
+   }
+  ],
+  "source": "BCEAO, Conditions de banque, premier semestre 2025",
+  "url": "https://www.bceao.int/sites/default/files/2026-04/Conditions-de-banque-Premier-semestre-2025.pdf"
+ },
+ "tarifs": {
+  "note": "Tarifs publics des grilles officielles des banques (particuliers). Montants en FCFA ; vérifier HT ou TTC dans chaque grille.",
+  "colonnes": [
+   "Tenue de compte courant",
+   "Banque en ligne et mobile",
+   "Virement vers une autre banque",
+   "Retrait au GAB d'une autre banque"
+  ],
+  "banques": [
+   {
+    "nom": "Bank of Africa Bénin",
+    "valeurs": [
+     "2 500 / mois",
+     "Gratuit",
+     "5 000 (jusqu'à 500 000)",
+     "500 à 550 TTC"
+    ],
+    "date": "16 février 2026",
+    "url": "https://www.boabenin.com/wp-content/uploads/2026/04/BN_C.B-2026_Web-PART.pdf"
+   },
+   {
+    "nom": "Coris Bank Bénin",
+    "valeurs": [
+     "1 500 / mois",
+     "Gratuit",
+     "5 000",
+     "500 TTC (UEMOA), gratuit réseau Coris"
+    ],
+    "date": "1er juillet 2025",
+    "url": "https://benin.coris.bank/wp-content/uploads/2025/09/FORMAT-PLAQUETTE.pdf"
+   },
+   {
+    "nom": "Société Générale Bénin",
+    "valeurs": [
+     "2 000 / mois HT",
+     "1 000 / mois",
+     "2 750 HT",
+     "455 HT"
+    ],
+    "date": "4 juillet 2025",
+    "url": "https://societegenerale.bj/fileadmin/user_upload/benin/CGB_BENIN_JUILLET_2025_VF.pdf"
+   }
+  ]
+ },
+ "offres": {
+  "note": "Ne sont cochées que les offres confirmées par une source publique. Une case vide signifie « non confirmé publiquement », pas forcément « absent ».",
+  "colonnes": [
+   "Virement instantané PI-SPI",
+   "Banque mobile",
+   "Wallet propre",
+   "Paiement par téléphone (wallet)",
+   "Crédit 100 % numérique",
+   "Carte prépayée"
+  ],
+  "lignes": [
+   {
+    "nom": "Ecobank Bénin",
+    "nous": true,
+    "v": [
+     1,
+     1,
+     0,
+     0,
+     0,
+     1
+    ]
+   },
+   {
+    "nom": "BIIC",
+    "v": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "nom": "Bank of Africa Bénin",
+    "v": [
+     1,
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "nom": "Coris Bank Bénin",
+    "v": [
+     1,
+     1,
+     1,
+     0,
+     0,
+     1
+    ]
+   },
+   {
+    "nom": "NSIA Banque Bénin",
+    "v": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "nom": "UBA Bénin",
+    "v": [
+     1,
+     0,
+     0,
+     1,
+     1,
+     1
+    ]
+   },
+   {
+    "nom": "Orabank Bénin",
+    "v": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "nom": "MTN MoMo",
+    "v": [
+     0,
+     1,
+     1,
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "nom": "Moov Money",
+    "v": [
+     1,
+     1,
+     1,
+     0,
+     0,
+     0
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "Ecobank Bénin : offres de la banque (application Ecobank Mobile, cartes prépayées)",
+    "url": "https://ecobank.com/bj"
+   },
+   {
+    "source": "BCEAO, participants PI-SPI au 2 avril 2026",
+    "url": "https://www.bceao.int/sites/default/files/2026-04/Liste-des-participants_PI-SPI_2%20avril_2026.pdf"
+   },
+   {
+    "source": "Matin Libre, Coris Bank (application, Coris Money, PI-SPI)",
+    "url": "https://matinlibre.com/2026/10/15/10-ans-dengagement-au-service-des-particuliers-et-entreprises-coris-bank-accelere-sa-transformation-digitale/"
+   },
+   {
+    "source": "Onafriq, UBA Bénin (paiement Visa par téléphone, cartes prépayées)",
+    "url": "https://onafriq.com/article/weve-enabled-visa-digital-wallet-tokenisation-for-card-issuers-across-cemea"
+   },
+   {
+    "source": "Cadre Co, MoMo Kash (MTN, UBA)",
+    "url": "https://cadreco.media/evenement/2025/momo-kash-le-nouveau-produit-de-mtn-mobile-money-pour-transformer-lacces-au-credit-au-benin"
+   },
+   {
+    "source": "BOA Bénin, conditions de banque 2026",
+    "url": "https://www.boabenin.com/wp-content/uploads/2026/04/BN_C.B-2026_Web-PART.pdf"
+   }
+  ],
+  "lecture": "Sur la liste PI-SPI du 2 avril 2026, la BIIC et NSIA Banque Bénin n'apparaissaient pas encore. En dehors d'UBA, nous n'avons trouvé aucune communication publique d'une banque béninoise sur le paiement par téléphone ou sur un crédit 100 % numérique : deux terrains encore peu occupés."
+ },
+ "bourse": {
+  "date": "2026-10-20",
+  "titres": [
+   {
+    "nom": "BIIC",
+    "code": "BICB",
+    "cours": "8 400",
+    "detail": "10 450 FCFA le 11 septembre, soit environ −20 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
+    "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
+   },
+   {
+    "nom": "Bank of Africa Bénin",
+    "code": "BOAB",
+    "cours": "9 200",
+    "detail": "23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
+    "url": "https://www.financialafrik.com/2026/04/20/dividendes-2025-la-boa-benin-allouera-a-ses-actionnaires-23728-milliards-de-fcfa-le-15-mai-2026/"
+   },
+   {
+    "nom": "Ecobank Transnational (groupe)",
+    "code": "ETIT",
+    "cours": "65",
+    "detail": "22 FCFA en début d'année, soit près de trois fois plus en 2026 ; dividende de 0,92 FCFA par action approuvé en juin.",
+    "url": "https://dabafinance.com/fr/nouvelles/ecobank-etit-actions-brvm-rebond"
+   }
+  ],
+  "source": "BRVM, cours de clôture du 20 octobre 2026",
+  "url": "https://www.brvm.org/en/pays-societes-cotees/benin"
+ },
+ "opportunites": [
+  {
+   "date": "2026-10-16",
+   "titre": "138,5 milliards FCFA de projets publics à financer",
+   "resume": "L'accord de principe entre le groupe et l'État porte sur des infrastructures et le développement agricole.",
+   "implication": "Montages, garanties et services de trésorerie à proposer aux entreprises qui exécuteront ces projets.",
+   "source": "APA News",
+   "url": "https://fr.apanews.net/benin/benin-ecobank-va-injecter-1385-mds-f-aux-projets-de-letat/"
+  },
+  {
+   "date": "2026-10-12",
+   "titre": "Les paiements de masse de l'État passent au paiement instantané",
+   "resume": "Le Trésor ivoirien paie salaires, bourses et transferts sociaux via PI-SPI ; les sept autres Trésors de l'Union doivent suivre.",
+   "implication": "Le jour où le Trésor béninois bascule, les banques prêtes capteront les flux de salaires et d'allocations.",
+   "source": "Capmad",
+   "url": "https://www.capmad.com/article/finances-publiques-la-cote-divoire-adopte-les-paiements-instantanes-de-la-bceao"
+  },
+  {
+   "date": "2026-07-09",
+   "titre": "Titres publics béninois : forte demande, rendements en baisse",
+   "resume": "Le Trésor a levé 22 milliards FCFA à 91 jours à 3,2 % en juillet, avec une couverture de 219 % ; en janvier, le bon à 182 jours rapportait 5,32 % pour une couverture de 292 %.",
+   "implication": "La concurrence entre banques pour les titres de l'État comprime les rendements : la marge sur la trésorerie investie se resserre.",
+   "source": "AllAfrica / Sika Finance",
+   "url": "https://fr.allafrica.com/stories/202607100293.html"
+  },
+  {
+   "date": "2026-07-29",
+   "titre": "2,4 milliards de dollars de besoins de financement par an",
+   "resume": "Selon la BAD, le Bénin doit mobiliser environ 2,43 milliards de dollars par an jusqu'en 2030 pour financer sa transformation économique.",
+   "implication": "Cofinancements avec les bailleurs (BAD, Banque mondiale, BERD) et lignes de garantie à rechercher, comme BOA Bénin avec la BERD.",
+   "source": "AllAfrica",
+   "url": "https://allafrica.com/stories/202609260003.html"
   }
  ]
 }

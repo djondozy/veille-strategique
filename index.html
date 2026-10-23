@@ -150,6 +150,50 @@ footer p{margin:0 0 6px;max-width:80ch}
 .s30l .n{font:500 26px/1 var(--serif);color:var(--brass)}
 @media (max-width:820px){.s30l{grid-template-columns:1fr}}
 .bp{scroll-margin-top:80px}
+
+/* Position, offers, rates, stocks */
+.lead{font:500 clamp(19px,2.2vw,23px)/1.4 var(--serif);max-width:62ch;margin:0 0 24px}
+.note{font-size:13.5px;color:var(--muted);margin:14px 0 0;max-width:80ch}
+.note a{color:var(--muted)}
+.bars{display:flex;flex-direction:column;gap:10px}
+.bar{display:grid;grid-template-columns:200px minmax(0,1fr) 130px;gap:14px;align-items:center;font-size:15px}
+.bar .nm{font-weight:500}
+.bar .tr2{height:26px;background:var(--band);border-radius:6px;overflow:hidden}
+.bar .fill{height:100%;background:#9FB0C8;border-radius:6px}
+.bar.us .fill{background:var(--brass)}
+.bar.us .nm{font-weight:700}
+.bar .val{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.bar .val small{display:block;font-size:12.5px}
+.up{color:var(--ok)} .down{color:var(--alert)}
+@media (max-width:640px){.bar{grid-template-columns:1fr auto;gap:4px 10px}.bar .tr2{grid-column:1/-1;grid-row:2;height:14px}}
+.aside{margin-top:24px;background:var(--navy-soft);border-radius:14px;padding:16px 18px;font-size:15px;max-width:820px}
+.aside a{color:var(--muted);font-size:13.5px}
+.tscroll{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:#fff}
+table.mx{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px}
+.mx th,.mx td{padding:12px 14px;border-bottom:1px solid var(--line);text-align:center;vertical-align:middle}
+.mx th{font-size:13px;font-weight:600;color:var(--muted);background:var(--band)}
+.mx th:first-child,.mx td:first-child{text-align:left;position:sticky;left:0;background:inherit}
+.mx tr:last-child td{border-bottom:0}
+.mx td:first-child{font-weight:500;background:#fff}
+.mx tr.us td{background:var(--brass-soft)}
+.mx .yes{display:inline-grid;place-items:center;width:24px;height:24px;border-radius:50%;background:#E3F1EA;color:var(--ok);font-weight:700}
+.mx .no{color:#C3CBD6}
+.tf td{text-align:left}
+.h3s{font:500 24px var(--serif);margin:36px 0 14px}
+.rates{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
+.rate{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:14.5px}
+.rate.us{border-color:#D9C29A;background:var(--brass-soft)}
+.rate .nm{font-weight:600}
+.rate .dat{font:500 20px var(--serif);text-align:right}
+.rate .sm{font-size:12.5px;color:var(--muted)}
+.stocks{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.stk{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;display:flex;flex-direction:column;gap:6px}
+.stk .cd{font-size:13px;font-weight:600;color:var(--muted)}
+.stk h3{font-size:21px}
+.stk .px{font:500 36px/1 var(--serif);font-variant-numeric:tabular-nums}
+.stk .px small{font:500 14px var(--sans);color:var(--muted)}
+.stk p{margin:0;font-size:14.5px;color:var(--muted)}
+.stk a{font-size:13px;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -157,7 +201,7 @@ footer p{margin:0 0 6px;max-width:80ch}
   <div class="wrap">
     <a class="mark" href="#"><svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#13213A"/><path d="M10 22V10h5.5a3 3 0 0 1 0 6H10h6.5a3 3 0 0 1 0 6H10" fill="none" stroke="#E7C58B" stroke-width="2.4"/></svg><span>Brief Stratégique</span></a>
     <nav class="nav" aria-label="Sections">
-      <a href="#brief">L'essentiel</a><a href="#echeances">Échéances</a><a href="#concurrence">Concurrence</a><a href="#reglementation">Réglementation</a><a href="#economie">Économie</a><a href="#groupe">Groupe</a><a href="#tendances">Tendances</a>
+      <a href="#brief">L'essentiel</a><a href="#position">Position</a><a href="#concurrence">Concurrence</a><a href="#offres">Offres</a><a href="#prix">Taux et tarifs</a><a href="#bourse">Bourse</a><a href="#opportunites">Opportunités</a><a href="#reglementation">Réglementation</a><a href="#economie">Économie</a><a href="#tendances">Tendances</a>
     </nav>
   </div>
 </header>
@@ -190,28 +234,63 @@ footer p{margin:0 0 6px;max-width:80ch}
     <div class="dls" id="dls"></div>
   </div></section>
 
-  <section class="s" id="concurrence"><div class="wrap">
-    <div class="sh"><h2>Concurrence au Bénin</h2><p>Annonces publiques des banques, opérateurs de mobile money et fintechs : produits, résultats, financements, partenariats.</p></div>
+  <section class="s" id="position"><div class="wrap">
+    <div class="sh"><h2>Notre position sur le marché</h2><p>Classement des banques au Bénin par total bilan, parts de marché et évolution sur un an.</p></div>
+    <p class="lead" id="pos-lead"></p>
+    <div class="bars" id="bars"></div>
+    <p class="note" id="pos-note"></p>
+    <div class="aside" id="digital"></div>
+  </div></section>
+
+  <section class="s band" id="concurrence"><div class="wrap">
+    <div class="sh"><h2>Concurrence au Bénin</h2><p>Annonces publiques des banques, opérateurs de mobile money et fintechs : produits, résultats, financements, dirigeants.</p></div>
     <div class="comp" id="comp"></div>
   </div></section>
 
-  <section class="s band" id="reglementation"><div class="wrap">
+  <section class="s" id="offres"><div class="wrap">
+    <div class="sh"><h2>Qui propose quoi</h2><p>Les services numériques confirmés publiquement, banque par banque.</p></div>
+    <p class="lead" id="off-lead"></p>
+    <div class="tscroll"><table class="mx" id="mx"></table></div>
+    <p class="note" id="off-note"></p>
+  </div></section>
+
+  <section class="s band" id="prix"><div class="wrap">
+    <div class="sh"><h2>Taux et tarifs</h2><p>Ce que les concurrents affichent pour rémunérer l'épargne, prêter et facturer leurs services.</p></div>
+    <p class="lead" id="taux-lead"></p>
+    <div class="rates" id="rates"></div>
+    <p class="note" id="taux-note"></p>
+    <h3 class="h3s">Tarifs publics aux particuliers</h3>
+    <div class="tscroll"><table class="mx tf" id="tarifs"></table></div>
+    <p class="note" id="tarifs-note"></p>
+  </div></section>
+
+  <section class="s" id="bourse"><div class="wrap">
+    <div class="sh"><h2>En bourse</h2><p id="bourse-sub">Les banques béninoises cotées et le titre du groupe à la BRVM.</p></div>
+    <div class="stocks" id="stocks"></div>
+  </div></section>
+
+  <section class="s band" id="opportunites"><div class="wrap">
+    <div class="sh"><h2>Opportunités d'affaires</h2><p>Les financements, flux et marchés qui s'ouvrent, et ce que la banque peut y gagner.</p></div>
+    <ul class="rows" id="opps"></ul>
+  </div></section>
+
+  <section class="s" id="reglementation"><div class="wrap">
     <div class="sh"><h2>Réglementation</h2><p>Décisions de la BCEAO, de la Commission bancaire, du GIM-UEMOA et des autorités béninoises.</p></div>
     <ul class="rows" id="reg"></ul>
   </div></section>
 
-  <section class="s" id="economie"><div class="wrap">
+  <section class="s band" id="economie"><div class="wrap">
     <div class="sh"><h2>Environnement économique</h2><p>Les chiffres clés du Bénin et de l'UEMOA, et les grands financements en cours.</p></div>
     <div class="kpis" id="kpis"></div>
     <ul class="rows" id="eco"></ul>
   </div></section>
 
-  <section class="s band" id="groupe"><div class="wrap">
+  <section class="s" id="groupe"><div class="wrap">
     <div class="sh"><h2>Le groupe et la filiale</h2><p>Ce que la presse et les publications officielles disent du groupe Ecobank et de sa présence au Bénin.</p></div>
     <ul class="rows" id="grp"></ul>
   </div></section>
 
-  <section class="s" id="tendances"><div class="wrap">
+  <section class="s band" id="tendances"><div class="wrap">
     <div class="sh"><h2>Tendances mondiales</h2><p>Ce qui change dans la banque et les paiements ailleurs, et ce que cela annonce pour nous.</p></div>
     <div class="trends" id="trends"></div>
   </div></section>
@@ -251,7 +330,7 @@ function render(d){
     ["#concurrence","ppl",compN,"annonces concurrentes ce mois-ci"],
     ["#reglementation","law",recent(d.reglementation),"décisions réglementaires ce mois-ci"],
     ["#economie","chart",growth?esc(growth.valeur):"–",growth?esc(growth.label):"Économie"],
-    ["#groupe","bank",(d.groupe||[]).length,"nouvelles du groupe"],
+    ["#position","bank",(()=>{const l=d.marche?.banques||[];const i=l.findIndex(b=>b.nous);return i>=0?(i+1)+"<sup>e</sup>":"–"})(),"rang au Bénin par total bilan"],
     ["#tendances","globe",(d.tendances||[]).length,"tendances mondiales"]
   ].map(([h,k,v,l,hot])=>`<a class="qt${hot?" hot":""}" href="${h}">${ic(k)}<b class="num">${v}</b><span>${l}</span></a>`).join("");
   const nb=(d.brief?.points||[]).length;
@@ -276,6 +355,31 @@ function render(d){
   $("#grp").innerHTML=rows(d.groupe||[],false);
   $("#tendances").hidden=!(d.tendances||[]).length;
   $("#trends").innerHTML=(d.tendances||[]).slice().sort(byDate).map(t=>`<article class="tr"><span class="d">${fmt(t)}</span><h3>${esc(t.titre)}</h3><p>${esc(t.resume)}</p>${t.implication?`<div class="for"><b>Pour nous :</b> ${esc(t.implication)}</div>`:""}${src(t)}</article>`).join("");
+  const nf=n=>Number(n).toLocaleString("fr-FR",{maximumFractionDigits:1});
+  const M=d.marche;
+  if(M){$("#pos-lead").textContent=M.lecture||"";const mx=Math.max(...M.banques.map(b=>b.bilan));
+    $("#bars").innerHTML=M.banques.map((b,i)=>`<div class="bar${b.nous?" us":""}"><span class="nm">${i+1}. ${esc(b.nom)}</span><div class="tr2"><div class="fill" style="width:${(b.bilan/mx*100).toFixed(1)}%"></div></div><span class="val">${nf(b.bilan)} Md · ${nf(b.part)} %${b.evol!=null?`<small class="${b.evol>=0?"up":"down"}">${b.evol>=0?"+":""}${nf(b.evol)} % sur un an</small>`:""}</span></div>`).join("");
+    $("#pos-note").innerHTML=esc(M.note)+" Sources : "+(M.sources||[]).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.source)}</a>`).join(" ; ")+".";
+    if(M.digital)$("#digital").innerHTML=`${esc(M.digital.texte)} <a href="${esc(M.digital.url)}" target="_blank" rel="noopener">Source : ${esc(M.digital.source)}</a>`;
+  }else $("#position").hidden=true;
+  const O=d.offres;
+  if(O){$("#off-lead").textContent=O.lecture||"";
+    $("#mx").innerHTML=`<thead><tr><th>Établissement</th>${O.colonnes.map(c=>`<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>${O.lignes.map(l=>`<tr class="${l.nous?"us":""}"><td>${esc(l.nom)}</td>${l.v.map(v=>`<td>${v?'<span class="yes" aria-label="oui">✓</span>':'<span class="no" aria-label="non confirmé">–</span>'}</td>`).join("")}</tr>`).join("")}</tbody>`;
+    $("#off-note").innerHTML=esc(O.note)+" Sources : "+(O.sources||[]).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.source)}</a>`).join(" ; ")+".";
+  }else $("#offres").hidden=true;
+  const R=d.taux;
+  if(R){$("#taux-lead").textContent=R.lecture||"";
+    $("#rates").innerHTML=R.banques.slice().sort((a,b)=>b.dat-a.dat).map(b=>`<div class="rate${b.nous?" us":""}"><span class="nm">${esc(b.nom)}</span><span class="dat">${Number(b.dat).toLocaleString("fr-FR",{minimumFractionDigits:2})} %</span><span class="sm">Dépôt à terme, taux max</span><span class="sm" style="text-align:right">Crédit max ${Number(b.deb).toLocaleString("fr-FR",{minimumFractionDigits:2})} %</span></div>`).join("");
+    $("#taux-note").innerHTML=`${esc(R.note)} Source : <a href="${esc(R.url)}" target="_blank" rel="noopener">${esc(R.source)}</a>.`}
+  const TF=d.tarifs;
+  if(TF){$("#tarifs").innerHTML=`<thead><tr><th>Banque</th>${TF.colonnes.map(c=>`<th>${esc(c)}</th>`).join("")}<th>Grille</th></tr></thead><tbody>${TF.banques.map(b=>`<tr><td>${esc(b.nom)}</td>${b.valeurs.map(v=>`<td>${esc(v)}</td>`).join("")}<td><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.date)}</a></td></tr>`).join("")}</tbody>`;
+    $("#tarifs-note").textContent=TF.note}
+  const B=d.bourse;
+  if(B){$("#bourse-sub").textContent=`Cours de clôture à la BRVM au ${fmt(B.date)}.`;
+    $("#stocks").innerHTML=B.titres.map(t=>`<article class="stk"><span class="cd">${esc(t.code)}</span><h3>${esc(t.nom)}</h3><span class="px">${esc(t.cours)} <small>FCFA</small></span><p>${esc(t.detail)}</p>${okUrl(t.url)?`<a href="${esc(t.url)}" target="_blank" rel="noopener">En savoir plus</a>`:""}</article>`).join("")}
+  else $("#bourse").hidden=true;
+  $("#opps").innerHTML=rows(d.opportunites||[],true);
+  $("#opportunites").hidden=!(d.opportunites||[]).length;
 }
 
 fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(render)
