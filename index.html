@@ -534,25 +534,16 @@ function setupListen(d){
     picked=v.slice().sort((a,b)=>score(b)-score(a))[0];return picked};
   if(speechSynthesis.onvoiceschanged!==undefined)speechSynthesis.onvoiceschanged=()=>{picked=null};
   const stop=()=>{speechSynthesis.cancel();speaking=false;btn.classList.remove("on");lbl.textContent="Écouter le brief"};
-  const clean=t=>t
-    .replace(/(\d)\s(?=\d{3}\b)/g,"$1")
-    .replace(/(\d+),(\d+)\s?%/g,"$1 virgule $2 pour cent").replace(/(\d+)\s?%/g,"$1 pour cent")
-    .replace(/(\d+),(\d+)/g,"$1 virgule $2")
-    .replace(/\bmilliards FCFA\b/g,"milliards de francs CFA").replace(/\bMd\b/g,"milliards").replace(/FCFA/g,"francs CFA")
-    .replace(/\b1er\b/g,"premier").replace(/\b(\d+)e\b/g,"$1ème")
-    .replace(/PI-SPI/g,"pi-spi").replace(/BCEAO/g,"B.C.E.A.O.").replace(/UEMOA/g,"U.E.M.O.A.").replace(/UMOA/g,"U.M.O.A.")
-    .replace(/BIIC/g,"B.I.I.C.").replace(/BRVM/g,"B.R.V.M.").replace(/\bFMI\b/g,"F.M.I.").replace(/\bBAD\b/g,"B.A.D.").replace(/\bBCE\b/g,"B.C.E.")
-    .replace(/\bGIM\b/g,"guim").replace(/\bIA\b/g,"intelligence artificielle").replace(/\bM\. /g,"Monsieur ")
-    .replace(/ : /g,", ").replace(/ ; /g,", ").replace(/\s+/g," ");
+  const clean=t=>t.replace(/FCFA/g,"francs CFA").replace(/PI-SPI/g,"pi spi").replace(/BCEAO/g,"B C E A O").replace(/UEMOA/g,"U E M O A").replace(/UMOA/g,"U M O A").replace(/BIIC/g,"B I I C").replace(/BRVM/g,"B R V M");
   const queue=[].concat(...parts.map(p=>clean(p).split(/(?<=[.!?:])\s+/))).filter(x=>x.trim());
   let idx=0,started=false,watch=null;
   const help=$("#listen-help");
   function next(){
     if(!speaking)return;
     if(idx>=queue.length){stop();return}
-    const u=new SpeechSynthesisUtterance(queue[idx++]);u.lang=(voice()&&voice().lang)||"fr-FR";const v=voice();if(v)u.voice=v;u.rate=0.9;u.pitch=1.05;u.volume=1;
+    const u=new SpeechSynthesisUtterance(queue[idx++]);u.lang=(voice()&&voice().lang)||"fr-FR";const v=voice();if(v)u.voice=v;u.rate=1;u.volume=1;
     u.onstart=()=>{started=true;help.hidden=true};
-    u.onend=()=>{const longer=/^(Point \d|À la une|Fin du brief)/.test(queue[idx]||"");setTimeout(next,longer?700:250)};
+    u.onend=()=>next();
     u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")return;next()};
     speechSynthesis.speak(u);
   }
