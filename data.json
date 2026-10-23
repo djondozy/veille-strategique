@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T05:18:10Z",
+ "derniereMaj": "2026-10-23T12:17:09Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -338,6 +338,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-10-22",
+   "organisme": "UEMOA",
+   "titre": "Le pacte de convergence de l'UEMOA rétabli",
+   "resume": "Le président ivoirien, président en exercice de l'Union, a signé à Abidjan l'acte additionnel instituant le pacte de convergence, de stabilité, de croissance et de solidarité, suspendu depuis 2020. Les autres chefs d'État doivent encore le signer et les nouveaux critères n'ont pas été rendus publics.",
+   "implication": "Le retour d'une discipline budgétaire commune pèsera à terme sur le rythme d'endettement des États, donc sur l'offre de titres publics que la banque achète et sur la commande publique qu'elle finance.",
+   "pistes": [
+    "Suivre la publication des critères (déficit, dette) et simuler leur effet sur le portefeuille de titres d'État de la banque.",
+    "Préparer un relais de rendement vers le crédit aux entreprises privées si les émissions souveraines ralentissent.",
+    "Intégrer ce cadre dans le dialogue avec les clients fournisseurs de l'État sur les délais de paiement."
+   ],
+   "vigilance": "Les critères et la date d'entrée en vigueur restent inconnus : aucune conclusion chiffrée avant le texte officiel.",
+   "source": "Ouestaf",
+   "url": "https://www.ouestaf.com/uemoa-alassane-ouattara-signe-un-acte-pour-retablir-le-pacte-de-convergence-economique/"
+  },
+  {
    "date": "2026-10-15",
    "organisme": "Commission bancaire de l'UMOA",
    "titre": "Blâmes et amendes de 300 millions FCFA pour deux banques",
@@ -503,11 +518,32 @@
     "url": "https://matinlibre.com/2026/10/22/rapport-fmi-une-croissance-economique-superieure-a-7-projetee-au-benin-dici-2028/"
    },
    {
+    "date": "2026-10-22",
+    "titre": "Le Bénin absent du calendrier d'émissions du 4e trimestre",
+    "resume": "Sur 2 057 milliards FCFA d'émissions prévues dans l'UEMOA d'octobre à décembre, le Bénin n'inscrit aucun montant, signe d'un besoin de financement couvert pour 2026.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
+   },
+   {
+    "date": "2026-10-21",
+    "titre": "Dialogue Bénin–UE : énergie, port et PME",
+    "resume": "Cotonou et l'Union européenne ont tenu leur deuxième dialogue de partenariat, centré sur l'électricité, le port et l'accès des PME au financement, sans nouveau montant annoncé.",
+    "source": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172"
+   },
+   {
     "date": "2026-10-16",
     "titre": "Banque mondiale : 7,7 % de croissance au Bénin en 2027",
     "resume": "L'UEMOA croîtrait d'environ 5,7 % en 2027 et 2028, le Bénin de 7,7 % puis 7,5 %.",
     "source": "Agence Ecofin",
     "url": "https://www.agenceecofin.com/actualites/1610-142510-uemoa-la-banque-mondiale-table-sur-une-croissance-de-5-7-en-2027-et-2028"
+   },
+   {
+    "date": "2026-10-14",
+    "titre": "Indice Absa des marchés financiers : le Bénin 20e sur 29",
+    "resume": "Avec 51 points sur 100, le Bénin se classe juste derrière la Côte d'Ivoire (52) et devant le Sénégal (47) dans l'indice Absa-OMFIF 2026 qui mesure la profondeur et l'ouverture des marchés financiers.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/afrique-le-benin-classe-20e-marche-financier-le-plus-attractif-en-2026-selon-absa-group/"
    },
    {
     "date": "2026-10-13",
@@ -584,6 +620,13 @@
    "url": "https://paymentexpert.com/2026/10/12/cips-ecobank-yuan-settlement/"
   },
   {
+   "date": "2026-09-24",
+   "titre": "2,6 milliards de dollars promis aux femmes entrepreneures et à l'agro-industrie d'ici 2030",
+   "resume": "Annoncé à Lomé pour clore les 40 ans du groupe : 2 milliards de dollars via le programme Ellevate pour les entreprises dirigées par des femmes et 600 millions pour les PME agricoles, dans ses 34 pays.",
+   "source": "MyJoyOnline",
+   "url": "https://www.myjoyonline.com/ecobank-group-commits-us2-6bn-to-women-led-businesses-and-agribusinesses-across-africa/"
+  },
+  {
    "date": "2026-09-10",
    "titre": "Ecobank Bénin, meilleur spécialiste en valeurs du Trésor de l'UEMOA pour 2024",
    "resume": "La filiale est aussi classée première des SVT au Bénin pour 2024.",
@@ -626,6 +669,20 @@
    "vigilance": "Le cadre de la BCEAO sur les crypto-actifs reste à préciser : aucune offre sans validation réglementaire.",
    "source": "FinTech Futures",
    "url": "https://www.fintechfutures.com/fintech/money20-20-usa-2026-wraps-with-cross-border-payments-and-open-banking-in-focus"
+  },
+  {
+   "date": "2026-10-21",
+   "titre": "États-Unis : règle finale de l'OCC sur les stablecoins",
+   "resume": "Le régulateur bancaire américain interdit aux émetteurs de stablecoins de verser un rendement direct, mais examinera au cas par cas les récompenses passant par des intermédiaires ; les petites banques craignent une fuite des dépôts.",
+   "implication": "Le débat américain montre que les stablecoins peuvent concurrencer les dépôts bancaires : un risque à anticiper pour la collecte, même si l'UEMOA n'a pas de cadre équivalent.",
+   "pistes": [
+    "Suivre avec le groupe l'évolution des cadres réglementaires sur les stablecoins et leurs effets sur les dépôts.",
+    "Renforcer l'attractivité des comptes d'épargne et des dépôts à terme auprès des clients de la diaspora.",
+    "Étudier les usages de stablecoins réglementés pour les paiements internationaux des entreprises clientes."
+   ],
+   "vigilance": "Aucune offre liée aux crypto-actifs sans cadre explicite de la BCEAO.",
+   "source": "Banking Dive",
+   "url": "https://www.bankingdive.com/news/occ-final-rule-genius-stablecoin-yield-gould-bessent-icba/833638/"
   },
   {
    "date": "2026-10-20",
@@ -1068,6 +1125,20 @@
  },
  "opportunites": [
   {
+   "date": "2026-10-22",
+   "titre": "Aucune émission béninoise prévue sur UMOA-Titres au 4e trimestre",
+   "resume": "Les États de l'Union prévoient de lever 2 057 milliards FCFA de titres publics d'octobre à décembre, dont 1 632 milliards en obligations ; le Bénin n'annonce aucun montant, quand la Côte d'Ivoire vise 804 milliards et le Sénégal 478 milliards.",
+   "implication": "Sans nouveaux titres béninois d'ici fin 2026, la liquidité de la banque devra être placée sur d'autres signatures de l'Union ou redéployée en crédits.",
+   "pistes": [
+    "Arbitrer les placements vers les titres des autres États de l'Union selon leur rendement et leur risque.",
+    "Accélérer les crédits aux entreprises béninoises bien notées pour employer la liquidité disponible.",
+    "Proposer aux clients institutionnels des placements de trésorerie alternatifs (dépôts à terme, fonds) pour fidéliser leurs ressources."
+   ],
+   "vigilance": "Le risque souverain de certains émetteurs de l'Union est plus élevé que celui du Bénin : le rendement supplémentaire doit être pesé.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
+  },
+  {
    "date": "2026-10-21",
    "titre": "Zones économiques spéciales : Afreximbank mobilise les investisseurs à Cotonou",
    "resume": "Au forum organisé avec la SIPI-Bénin, la GDIZ a annoncé une centrale thermique de plus de 225 MW et des projets solaires ; Afreximbank a syndiqué 69,3 millions d'euros pour la zone.",
@@ -1080,6 +1151,20 @@
    "vigilance": "BSIC Bénin dispose déjà d'un centre d'affaires dans la zone depuis janvier.",
    "source": "Matin Libre",
    "url": "https://matinlibre.com/2026/10/22/pour-dynamiser-les-zones-economiques-speciales-afreximbank-et-la-sipi-benin-reunissent-acteurs-economiques-et-decideurs-a-cotonou/"
+  },
+  {
+   "date": "2026-10-21",
+   "titre": "Bénin–Union européenne : l'accès des PME au financement au menu",
+   "resume": "Le deuxième dialogue de partenariat tenu à Cotonou a porté sur le réseau électrique, la modernisation du port et le financement des PME, sans nouvel engagement chiffré annoncé.",
+   "implication": "Les programmes européens d'appui aux PME peuvent offrir des garanties ou des lignes qui réduisent le risque des crédits aux PME béninoises.",
+   "pistes": [
+    "Se rapprocher de la délégation de l'UE et des programmes existants pour se positionner comme banque partenaire.",
+    "Préparer une offre PME adossée à une garantie partielle de crédit d'un bailleur.",
+    "Cibler les sous-traitants du port et du réseau électrique pour les cautions et le préfinancement."
+   ],
+   "vigilance": "Aucun montant ni calendrier n'a été annoncé : éviter d'engager des moyens avant des appels à partenaires concrets.",
+   "source": "Sika Finance",
+   "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172"
   },
   {
    "date": "2026-10-16",
@@ -1227,6 +1312,9 @@
   "LBC/FT": "Lutte contre le blanchiment de capitaux et le financement du terrorisme.",
   "zone économique spéciale": "Espace industriel doté d'un régime fiscal et douanier avantageux pour attirer les investisseurs, comme la GDIZ à Glo-Djigbé.",
   "prêt syndiqué": "Crédit accordé conjointement par plusieurs banques qui se partagent le montant et le risque.",
-  "garantie partielle de crédit": "Engagement d'un bailleur à rembourser une partie d'un prêt en cas de défaut de l'emprunteur, ce qui réduit le risque pour les prêteurs."
+  "garantie partielle de crédit": "Engagement d'un bailleur à rembourser une partie d'un prêt en cas de défaut de l'emprunteur, ce qui réduit le risque pour les prêteurs.",
+  "pacte de convergence": "Ensemble de règles communes de l'UEMOA qui fixe des plafonds de déficit budgétaire, de dette et d'inflation aux États membres.",
+  "OCC": "Office of the Comptroller of the Currency, autorité fédérale américaine qui agrée et supervise les banques nationales.",
+  "intentions d'émission": "Montants que les États annoncent prévoir de lever sur le marché régional des titres publics au cours d'une période."
  }
 }
