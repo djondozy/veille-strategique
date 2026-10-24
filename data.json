@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-24T09:58:59Z",
+ "derniereMaj": "2026-10-24T10:11:37Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
@@ -290,6 +290,12 @@
    "type": "Banque",
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
+    {
+     "date": "2026-10-23",
+     "texte": "Le groupe nomme Michel Kodzo Gafan, jusqu'ici directeur régional UEMOA de la banque commerciale chez Ecobank Togo, à la direction générale de Coris Bank International Togo.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142691-togo-coris-bank-recrute-michel-kodzo-gafan-chez-ecobank-pour-sa-direction-generale"
+    },
     {
      "date": "2026-10-14",
      "texte": "Le groupe Coris Bank International publie un bénéfice net cumulé de ses filiales de 113,96 milliards FCFA en 2025, en hausse de 48,6 %.",
@@ -1486,5 +1492,101 @@
   "BCE": "Banque centrale européenne : elle fixe les taux de la zone euro, à laquelle le franc CFA est rattaché par une parité fixe.",
   "Swift": "Réseau mondial de messagerie sécurisée que les banques utilisent pour s'envoyer les ordres de virement internationaux.",
   "microfinance": "Établissement qui offre de petits crédits, de l'épargne et des services de paiement aux ménages et petites entreprises peu servis par les banques."
- }
+ },
+ "journal": [
+  {
+   "date": "2026-10-24",
+   "synthese": "Une journée dominée par le port de Cotonou, qui fonctionne désormais sans interruption, banques comprises, et par les premiers résultats trimestriels des banques de la région ; chez les concurrents, Coris Bank recrute un cadre d'Ecobank pour diriger sa filiale togolaise.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-10-23",
+     "titre": "Le port de Cotonou passe en service continu dès ce samedi",
+     "resume": "Depuis le 24 octobre, douane, manutentionnaires, consignataires et banques présentes au port assurent leurs services le week-end et les jours fériés, pour désengorger les quais et accélérer l'enlèvement des marchandises.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-22",
+     "titre": "Port : la douane annonce l'ouverture des services d'enlèvement le week-end",
+     "resume": "Le directeur général des douanes a précisé la liste des services concernés, dont les banques, et présenté la mesure comme une avancée pour les commissionnaires agréés et les importateurs.",
+     "source": "Koaci",
+     "url": "https://www.koaci.com/article/2026/10/22/benin/economie/benin-decongestion-du-port-de-cotonou-les-importateurs-se-sentent-ecoutes_201885.html"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-23",
+     "titre": "Agence africaine de notation : la crédibilité reste à construire",
+     "resume": "La Nation revient sur le lancement, le 7 octobre, de l'agence de notation de l'Union africaine (AfCRA), dont les notes devront encore être reconnues par les banques centrales et les régulateurs.",
+     "source": "La Nation",
+     "url": "https://www.lanation.bj/economie/creation-de-lagence-africaine-de-notation-le-defi-de-la-credibilite-a-relever"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-23",
+     "titre": "Coris Bank confie sa filiale togolaise à un ancien cadre d'Ecobank",
+     "resume": "Michel Kodzo Gafan, jusqu'ici directeur régional UEMOA de la banque commerciale chez Ecobank Togo, devient directeur général de Coris Bank International Togo ; son prédécesseur part diriger Coris Bank en Côte d'Ivoire.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142691-togo-coris-bank-recrute-michel-kodzo-gafan-chez-ecobank-pour-sa-direction-generale"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-23",
+     "titre": "NSIA Banque Côte d'Ivoire lève 100 millions d'euros pour les PME",
+     "resume": "Un crédit syndiqué mené par Citibank, avec FinDev Canada et KEXIM Global, financera pour moitié des PME, dont une part réservée aux entreprises dirigées par des femmes, et des projets solaires.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142676-nsia-banque-ci-mobilise-100-millions-pour-les-pme-et-la-transition-energetique"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-23",
+     "titre": "BOA Sénégal : bénéfice en hausse de 11 % à fin septembre",
+     "resume": "La filiale sénégalaise du groupe Bank of Africa annonce un résultat en progression de 11,01 % sur les neuf premiers mois de 2026, premier indice de la saison des résultats trimestriels du groupe.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/23/banques-hausse-de-1101-du-benefice-de-la-boa-senegal-au-troisieme-trimestre-2026/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "Mobile money : 219 151 milliards FCFA de transactions dans l'UEMOA en 2025",
+     "resume": "Selon le tableau de bord de la BCEAO, la valeur des transactions a progressé de près de 40 % ; le Bénin réalise 16 % des opérations de l'Union mais seulement 6 % de leur valeur.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142687-uemoa-les-transactions-de-mobile-money-atteignent-374-milliards-en-2025"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "UEMOA : le président ivoirien signe le nouveau pacte de convergence",
+     "resume": "Le président en exercice de l'Union a signé l'acte qui rétablit les règles budgétaires communes suspendues depuis 2020 ; les autres chefs d'État doivent encore le signer.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/23/uemoa-alassane-ouattara-signe-le-nouveau-pacte-de-convergence/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "BRVM : la bourse régionale termine la semaine en hausse",
+     "resume": "L'indice BRVM Composite a gagné 1,37 % le 23 octobre, à 529,14 points ; la BIIC a progressé de 1,06 %, Bank of Africa Bénin a reculé de 0,28 % et Ecobank Transnational est resté stable.",
+     "source": "Le Jecos et BRVM",
+     "url": "https://www.lejecos.com/BRVM-Hausse-de-264418-milliards-FCFA-de-la-capitalisation-boursiere-globale-en-fin-de-semaine_a31719.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "Togo : un budget 2027 en baisse de 2,5 %",
+     "resume": "Le gouvernement togolais prévoit 2 684 milliards FCFA de dépenses pour 2027, dont 490 milliards pour sa feuille de route 2026-2031, à l'inverse du Bénin qui augmente son budget de 14,7 %.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142689-togo-le-gouvernement-prevoit-un-budget-de-2684-milliards-fcfa-pour-2027-en-baisse-de-2-5"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-21",
+     "titre": "Identités numériques : le Bénin, le Ghana et le Rwanda réussissent un premier test",
+     "resume": "Dans le cadre de l'initiative Smart Africa, les trois pays ont vérifié en temps réel des identités entre leurs registres nationaux ; une phase pilote opérationnelle doit suivre.",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/marches/interoperabilite-des-identites-numeriques-nationales-benin-ghana-et-rwanda-reussissent-le-test-pilote_65141"
+    }
+   ]
+  }
+ ]
 }

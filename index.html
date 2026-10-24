@@ -398,6 +398,23 @@ table.rt{min-width:0}
 .nbd{display:inline-block;font:600 11px var(--sans);letter-spacing:.02em;color:#fff;background:var(--alert);border-radius:999px;padding:2px 8px;margin-right:4px;vertical-align:middle}
 .legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13.5px;color:var(--muted);margin:0 0 14px}
 .legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:baseline}
+.jr{max-width:900px}
+.jr .jd{font-size:14.5px;color:var(--muted);margin:0 0 8px}
+.jr .jd b{color:var(--brass);font-weight:600}
+.jr .js{font:500 clamp(18px,2vw,21px)/1.45 var(--serif);margin:0 0 18px}
+.jr h3.jt{margin:22px 0 8px;font:600 12.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--brass)}
+.jr ul.ja{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.jr ul.ja li{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.jr ul.ja h4{margin:0 0 4px;font:600 15.5px/1.4 var(--sans)}
+.jr ul.ja h4 a{text-decoration:none}.jr ul.ja h4 a:hover{text-decoration:underline}
+.jr ul.ja p{margin:0;font-size:14.5px;line-height:1.55}
+.jr ul.ja small{display:block;margin-top:6px;color:var(--muted);font-size:13px}
+.jr .old{margin-top:26px}
+.jr .old details{border:1px solid var(--line);border-radius:14px;background:#fff;margin-bottom:10px}
+.jr .old summary{cursor:pointer;padding:13px 16px;font-weight:600;list-style:none;display:flex;justify-content:space-between;gap:12px}
+.jr .old summary::-webkit-details-marker{display:none}
+.jr .old summary span{color:var(--muted);font-weight:500;font-size:14px;white-space:nowrap}
+.jr .old .in{padding:0 16px 14px}
 </style>
 </head>
 <body data-view="accueil">
@@ -429,7 +446,7 @@ table.rt{min-width:0}
     <div class="quick" id="quick"></div>
     <details class="guide" id="guide"><summary>Comment utiliser ce brief<span>Mode d'emploi</span></summary><div class="gb">
       <div><h4>Les cinq rubriques</h4><ul>
-        <li><b>Accueil</b> : les 5 informations de la semaine, classées de la plus importante (1) à la moins importante (5).</li>
+        <li><b>Accueil</b> : les 5 informations de la semaine, classées de la plus importante (1) à la moins importante (5), puis la <b>revue de presse</b> du jour.</li>
         <li><b>Marché</b> : notre rang parmi les banques, les services de chacune, leurs taux, leurs tarifs et la bourse.</li>
         <li><b>Concurrence</b> : Ecobank Bénin comparée à un concurrent au choix, puis les dernières annonces de chacun.</li>
         <li><b>Agenda</b> : les dates à préparer, les affaires qui s'ouvrent et les décisions des régulateurs.</li>
@@ -457,6 +474,11 @@ table.rt{min-width:0}
   <section class="s" data-v="accueil" id="brief"><div class="wrap">
     <div class="sh"><h2>L'essentiel de la semaine</h2><p>Le n° 1 est le plus important pour la banque. Touchez « Lire le détail » pour voir ce que cela change pour nous et les pistes à étudier.</p></div>
     <ol class="brief" id="points"></ol>
+  </div></section>
+
+  <section class="s" data-v="accueil" id="journal" hidden><div class="wrap">
+    <div class="sh"><h2>Revue de presse</h2><p>Chaque jour, les articles publics qui comptent pour la banque, classés par thème. Elle s'enrichit à chaque mise à jour du site, le matin et à midi.</p></div>
+    <div class="jr" id="jr"></div>
   </div></section>
 
   <section class="s" data-v="accueil" id="archives"><div class="wrap">
@@ -615,7 +637,7 @@ function render(d){
     ["#reglementation","law",recent(d.reglementation),"décisions des régulateurs sur les 30 derniers jours"],
     ["#economie","chart",growth?esc(growth.valeur):"–",growth?esc(growth.label):"Économie"],
     ["#position","bank",(()=>{const l=d.marche?.banques||[];const i=l.findIndex(b=>b.nous);return i>=0?(i+1)+"<sup>e</sup>":"–"})(),`rang d'Ecobank Bénin${d.marche?.nbBanques?" sur "+d.marche.nbBanques+" banques":""} (taille du bilan)`],
-    ["#tendances","globe",(d.tendances||[]).length,"tendances mondiales suivies"]
+    (()=>{const j=(d.journal||[]).slice().sort(byDate)[0];return j?["#journal","globe",(j.articles||[]).length,`articles dans la revue de presse du ${D(j.date).toLocaleDateString("fr-FR",{day:"numeric",month:"long"})}`]:["#tendances","globe",(d.tendances||[]).length,"tendances mondiales suivies"]})()
   ].map(([h,k,v,l,hot])=>`<a class="qt${hot?" hot":""}" href="${h}">${ic(k)}<b class="num">${v}</b><span>${l}</span></a>`).join("");
   if(!LAST)$("#guide").open=true;
   const nb=(d.brief?.points||[]).length;
@@ -666,6 +688,15 @@ function render(d){
   if(B){$("#bourse-sub").textContent=`Cours de clôture à la BRVM au ${fmt(B.date)}.`;
     $("#stocks").innerHTML=B.titres.map(t=>`<article class="stk"><span class="cd">${esc(t.code)}</span><h3>${esc(t.nom)}</h3><span class="px">${esc(t.cours)} <small>FCFA</small></span><p>${esc(t.detail)}</p>${okUrl(t.url)?`<a href="${esc(t.url)}" target="_blank" rel="noopener">En savoir plus</a>`:""}</article>`).join("")}
   else $("#bourse").hidden=true;
+  const JO=["Bénin","Banques et concurrents","Régulation et marchés","Ecobank","Afrique","Monde"];
+  const jday=x=>D(x).toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+  const jbody=j=>{const g={};(j.articles||[]).forEach(a=>{(g[a.theme||"Autres"]=g[a.theme||"Autres"]||[]).push(a)});
+    const ks=Object.keys(g).sort((a,b)=>((JO.indexOf(a)+99)%99)-((JO.indexOf(b)+99)%99));
+    return ks.map(k=>`<h3 class="jt">${esc(k)}</h3><ul class="ja">${g[k].map(a=>`<li><h4>${NEWB(a)}${okUrl(a.url)?`<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titre)}</a>`:esc(a.titre)}</h4><p>${L(a.resume)}</p><small>${esc(a.source||"")}${a.date?` · publié le ${fmt(a)}`:""}</small></li>`).join("")}</ul>`).join("")};
+  const JL=(d.journal||[]).slice().sort(byDate);
+  if(JL.length){$("#journal").hidden=false;const j0=JL[0];
+    $("#jr").innerHTML=`<p class="jd"><b>${jday(j0.date).replace(/^./,c=>c.toUpperCase())}</b> · ${(j0.articles||[]).length} articles</p>${j0.synthese?`<p class="js">${L(j0.synthese)}</p>`:""}${jbody(j0)}`
+      +(JL.length>1?`<div class="old"><h3 class="jt">Jours précédents</h3>${JL.slice(1).map(j=>`<details><summary>${jday(j.date).replace(/^./,c=>c.toUpperCase())}<span>${(j.articles||[]).length} articles</span></summary><div class="in">${j.synthese?`<p>${L(j.synthese)}</p>`:""}${jbody(j)}</div></details>`).join("")}</div>`:"")}
   $("#opps").innerHTML=rows(d.opportunites||[],true);
   $("#opportunites").hidden=!(d.opportunites||[]).length;
 }
