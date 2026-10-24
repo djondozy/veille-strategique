@@ -75,8 +75,18 @@ section.band{background:var(--band)}
 @media (max-width:600px){.bp{grid-template-columns:36px minmax(0,1fr);gap:12px}.rank{font-size:30px}}
 
 /* Deadlines */
-.dls{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
-.dl{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:6px}
+.dls{display:flex;flex-direction:column;gap:16px;max-width:900px}
+.dl{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px 20px;display:grid;grid-template-columns:150px minmax(0,1fr);gap:6px 22px}
+.dl .bd{display:flex;flex-direction:column;gap:4px;min-width:0}
+.dl.soon{border-left:4px solid var(--alert)}
+.dl .wd{display:block;font:500 13.5px var(--sans);color:var(--muted);margin-top:4px;}
+.dl .wd::first-letter{text-transform:uppercase}
+.dl .lb{margin:10px 0 2px;font:600 12.5px var(--sans);letter-spacing:.04em;text-transform:uppercase;color:var(--brass)}
+.dl p.tx{color:var(--ink);font-size:15px;line-height:1.55}
+.dl ul.pr{margin:0;padding-left:20px;font-size:15px;line-height:1.55;display:flex;flex-direction:column;gap:4px}
+.dl .acts2{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-top:8px}
+.dl .acts2 .cal{margin-top:0}
+@media (max-width:640px){.dl{grid-template-columns:1fr}}
 .dl .cd{font:600 15px var(--sans);color:var(--muted)}
 .dl.soon .cd{color:var(--alert)}
 .dl .cd b{font:500 34px/1 var(--serif);color:var(--ink);display:block;margin-bottom:2px}
@@ -454,7 +464,7 @@ table.rt{min-width:0}
     <div class="arch" id="arch"></div>
   </div></section>
 
-  <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Les dates à préparer, les décisions des régulateurs et les affaires qui s'ouvrent.</p><div class="subnav" id="sub-agenda"></div></div></div>
+  <div class="vhead" data-v="agenda"><div class="wrap"><button class="back" type="button" data-go="accueil">← Accueil</button><h1>L'agenda</h1><p>Trois parties : les dates à préparer (avec ce qu'elles changent pour nous et quoi anticiper), les affaires qui s'ouvrent, et les décisions des régulateurs.</p><div class="subnav" id="sub-agenda"></div></div></div>
   <section class="s" data-v="agenda" id="echeances"><div class="wrap">
     <div class="sh"><h2>Échéances à venir</h2><p>Dates réglementaires et de marché à préparer, de la plus proche à la plus lointaine.</p></div>
     <details class="howto"><summary>Comment lire ces échéances</summary><ul><li><b>J-9</b> signifie « dans 9 jours » ; en rouge, l'échéance tombe dans moins de 30 jours.</li><li>« Courant décembre » : seul le mois est connu, la date exacte n'est pas encore publiée.</li><li><b>Ajouter à mon agenda</b> place la date dans le calendrier du téléphone, avec un rappel 7 jours avant et un la veille.</li></ul></details>
@@ -616,7 +626,9 @@ function render(d){
   const dl=(d.echeances||[]).filter(e=>D(e.date)>=new Date(T0-6*864e5)).sort((a,b)=>String(a.date).localeCompare(String(b.date)));
   $("#echeances").hidden=!dl.length;
   $("#dls").innerHTML=dl.map(e=>{const n=Math.round((D(e.date)-T0)/864e5);const lbl=e.dateApprox?"courant "+fmt(e):n<0?"échue":n===0?"aujourd'hui":n===1?"demain":"jours";
-    return `<div class="dl${n<=30?" soon":""}"><span class="cd">${e.dateApprox||n<=1?`<b>${esc(lbl.charAt(0).toUpperCase()+lbl.slice(1))}</b>`:`<b class="num">J-${n}</b>${fmt(e)}`}</span><h3>${NEWB(e)}${esc(e.titre)}</h3>${e.detail?`<p>${L(e.detail)}</p>`:""}${src(e)}${n>=0&&!e.dateApprox?`<button type="button" class="cal" data-ics="${esc(JSON.stringify({date:e.date,titre:e.titre,detail:e.detail||"",url:e.url||""}))}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>Ajouter à mon agenda</button>`:""}</div>`}).join("");
+    const big=e.dateApprox?`<b style="font-size:24px">${esc(lbl.charAt(0).toUpperCase()+lbl.slice(1))}</b><span class="wd">date exacte à confirmer</span>`:n<=1?`<b style="font-size:26px">${esc(lbl.charAt(0).toUpperCase()+lbl.slice(1))}</b><span class="wd">${D(e.date).toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}</span>`:`<b class="num">J-${n}</b>soit dans ${n} jours<span class="wd">${D(e.date).toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}</span>`;
+    const cal=n>=0&&!e.dateApprox?`<button type="button" class="cal" data-ics="${esc(JSON.stringify({date:e.date,titre:e.titre,detail:(e.detail||"")+(e.pourquoi?" Pour nous : "+e.pourquoi:""),url:e.url||""}))}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>Ajouter à mon agenda</button>`:"";
+    return `<div class="dl${n<=30?" soon":""}"><span class="cd">${big}</span><div class="bd"><h3>${NEWB(e)}${esc(e.titre)}</h3>${e.detail?`<p class="lb">De quoi s'agit-il ?</p><p class="tx">${L(e.detail)}</p>`:""}${e.pourquoi?`<p class="lb">Ce que cela change pour nous</p><p class="tx">${L(e.pourquoi)}</p>`:""}${(e.preparer||[]).length?`<p class="lb">À préparer</p><ul class="pr">${e.preparer.map(x=>`<li>${L(x)}</li>`).join("")}</ul>`:""}<div class="acts2">${cal}${src(e)}</div></div></div>`}).join("");
 
   $("#comp").innerHTML=(d.concurrents||[]).slice().sort((a,b)=>((b.actus||[])[0]?.date||"").localeCompare((a.actus||[])[0]?.date||"")).map(c=>{
     const ac=(c.actus||[]).slice().sort(byDate).slice(0,3);

@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-24T09:29:47Z",
+ "derniereMaj": "2026-10-24T09:58:59Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
@@ -75,39 +75,69 @@
  "echeances": [
   {
    "date": "2026-10-29",
-   "titre": "Décision de taux de la BCE",
-   "detail": "Réunion de politique monétaire de la Banque centrale européenne, à suivre du fait de l'arrimage du FCFA à l'euro.",
+   "titre": "Décision de taux de la Banque centrale européenne",
+   "detail": "Le jeudi 29 octobre, la Banque centrale européenne (BCE) annonce ses taux directeurs. En septembre, elle les a relevés de 0,25 point, alors que la BCEAO a laissé son taux directeur à 3 %. Comme le franc CFA est arrimé à l'euro à parité fixe, les décisions de la BCE pèsent, avec un décalage, sur celles de la BCEAO.",
    "source": "Admirals",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/central-bank-super-week-october-2026"
+   "url": "https://admiralmarkets.com/analytics/traders-blog/central-bank-super-week-october-2026",
+   "pourquoi": "Une nouvelle hausse renchérirait les ressources et les crédits en euros, notamment pour les clients importateurs, et réduirait l'écart entre les taux de la zone euro et ceux de l'UEMOA, un élément que la BCEAO prend en compte pour ses propres décisions.",
+   "preparer": [
+    "Simuler l'effet d'une hausse de 0,25 point sur le coût des ressources en euros et sur les marges.",
+    "Repérer les clients importateurs financés en euros pour anticiper avec eux une éventuelle hausse de coût.",
+    "Lire le communiqué de la BCE du 29 octobre et suivre la prochaine réunion du comité de politique monétaire de la BCEAO."
+   ]
   },
   {
    "date": "2026-11-02",
-   "titre": "PI-SPI obligatoire et nouveaux plafonds mobile money",
-   "detail": "Transferts interopérables entre particuliers via PI-SPI ; plafond des wallets porté à 4 millions FCFA.",
+   "titre": "PI-SPI obligatoire et plafonds du mobile money doublés",
+   "detail": "À partir du lundi 2 novembre, tout transfert d'argent entre particuliers qui passe d'un établissement à un autre (par exemple de MTN MoMo vers Moov Money) doit transiter par PI-SPI, la plateforme de paiement instantané de la BCEAO. Ces transferts sont gratuits tant que le total envoyé dans la journée au Bénin ne dépasse pas 8 000 FCFA, et l'argent reçu est toujours gratuit. Le même jour, un compte mobile money pourra contenir jusqu'à 4 millions FCFA (contre 2 millions) et recevoir jusqu'à 15 millions FCFA de rechargements par mois (contre 10 millions).",
    "source": "Togo First",
-   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
+   "pourquoi": "Les petits transferts du quotidien deviennent instantanés et gratuits quel que soit l'établissement, et les wallets peuvent garder deux fois plus d'argent : la concurrence des opérateurs de mobile money sur les dépôts et les paiements des particuliers s'intensifie dès cette date.",
+   "preparer": [
+    "Former les agences et le centre de relation client à expliquer la gratuité jusqu'à 8 000 FCFA par jour et les frais éventuels au-delà.",
+    "Informer les clients de la possibilité d'envoyer de l'argent du compte vers les wallets, et l'inverse, en quelques secondes.",
+    "Renforcer la surveillance de la fraude sur les virements instantanés, exécutés en quelques secondes."
+   ]
   },
   {
    "date": "2026-12-01",
    "titre": "Swift : nouveau calendrier des adresses structurées attendu",
-   "detail": "L'obligation d'adresses structurées dans les paiements ISO 20022, prévue en novembre 2026, a été reportée ; Swift doit annoncer la nouvelle date d'ici décembre 2026 au plus tard.",
+   "detail": "Swift est le réseau mondial par lequel les banques s'échangent les ordres de virement internationaux. Il devait exiger dès novembre 2026 des adresses « structurées » (rue, ville et pays dans des champs séparés) dans les messages de paiement au nouveau format ISO 20022. Fin août, il a reporté cette obligation et doit annoncer la nouvelle date d'ici décembre 2026 au plus tard.",
    "source": "The Paypers",
    "url": "https://thepaypers.com/payments/news/swift-extends-iso-20022-structured-address-deadline",
-   "dateApprox": true
+   "dateApprox": true,
+   "pourquoi": "Une fois l'obligation en vigueur, les virements internationaux dont l'adresse du client n'est pas au bon format risquent d'être rejetés par les banques correspondantes ; le report laisse du temps pour mettre à niveau les fiches clients.",
+   "preparer": [
+    "Mesurer la part des fiches clients dont l'adresse n'est pas saisie de façon structurée.",
+    "Planifier avec le groupe la mise à jour des adresses des clients qui font des virements internationaux.",
+    "Surveiller l'annonce de Swift attendue d'ici décembre."
+   ]
   },
   {
    "date": "2027-06-01",
-   "titre": "Transferts PI-SPI entre pays de l'UEMOA au tarif national",
-   "detail": "Les transferts entre pays de l'Union suivront les mêmes conditions tarifaires que les transferts nationaux.",
+   "titre": "Transferts instantanés entre pays de l'UEMOA au même tarif qu'au Bénin",
+   "detail": "À partir du 1er juin 2027, un transfert instantané vers un autre pays de l'Union (par exemple de Cotonou vers Lomé, Niamey ou Abidjan) sera facturé aux mêmes conditions qu'un transfert à l'intérieur du Bénin, selon les règles de PI-SPI fixées par la BCEAO.",
    "source": "Togo First",
-   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
+   "pourquoi": "Les commissions tirées des envois d'argent vers les pays voisins vont baisser, mais ces flux deviennent plus faciles à capter, en particulier ceux des commerçants qui travaillent avec le Togo, le Niger ou le Burkina Faso.",
+   "preparer": [
+    "Chiffrer les commissions actuellement tirées des transferts vers les autres pays de l'UEMOA.",
+    "Étudier une offre pour les commerçants transfrontaliers (Dantokpa, axes Cotonou–Lomé et Cotonou–Niamey) fondée sur le paiement instantané régional.",
+    "S'appuyer sur la présence du groupe dans les huit pays de l'Union pour proposer un service régional unique."
+   ]
   },
   {
    "date": "2027-06-30",
-   "titre": "Raccordement des microfinances à PI-SPI",
-   "detail": "Date limite pour les institutions de microfinance.",
-   "source": "Agence Ecofin",
-   "url": "https://www.ecofinagency.com/news-finances/2506-56829-bceao-extends-pi-spi-instant-payment-platform-connection-deadline-to-september-30"
+   "titre": "Les microfinances raccordées au paiement instantané",
+   "detail": "Les institutions de microfinance supervisées par la Commission bancaire de l'UMOA ont jusqu'au 30 juin 2027 pour se connecter à PI-SPI. Les banques, les émetteurs de monnaie électronique et les établissements de paiement devaient l'être au 30 septembre 2026.",
+   "source": "BCEAO",
+   "url": "https://www.bceao.int/fr/communique-presse/prolongation-du-delai-de-connexion-a-pi-spi",
+   "pourquoi": "Une fois connectées, les microfinances pourront envoyer et recevoir des paiements instantanés comme les banques : elles deviennent à la fois des concurrentes plus agiles auprès des petits clients et des partenaires possibles.",
+   "preparer": [
+    "Repérer les principales microfinances béninoises concernées par l'échéance.",
+    "Leur proposer un accompagnement : accès à PI-SPI par l'intermédiaire de la banque, comptes de règlement, gestion de trésorerie.",
+    "Évaluer l'effet sur la clientèle des marchés et des zones rurales."
+   ]
   }
  ],
  "concurrents": [
@@ -1452,6 +1482,9 @@
   "Laboratoire d'innovation financière": "Espace mis en place par la BCEAO où des fintechs testent de nouveaux services financiers sous le contrôle du régulateur avant un éventuel agrément.",
   "AfCRA": "Agence africaine de notation de crédit lancée en 2026 sous l'égide de l'Union africaine pour noter les États et entreprises du continent.",
   "KYC": "« Connaissance du client » : vérifications d'identité et de profil qu'une banque doit faire avant et pendant la relation avec un client.",
-  "taux d'inclusion financière": "Part des adultes qui utilisent au moins un service financier formel (compte bancaire, mobile money, microfinance)."
+  "taux d'inclusion financière": "Part des adultes qui utilisent au moins un service financier formel (compte bancaire, mobile money, microfinance).",
+  "BCE": "Banque centrale européenne : elle fixe les taux de la zone euro, à laquelle le franc CFA est rattaché par une parité fixe.",
+  "Swift": "Réseau mondial de messagerie sécurisée que les banques utilisent pour s'envoyer les ordres de virement internationaux.",
+  "microfinance": "Établissement qui offre de petits crédits, de l'épargne et des services de paiement aux ménages et petites entreprises peu servis par les banques."
  }
 }
