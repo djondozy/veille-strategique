@@ -1,23 +1,10 @@
 {
- "derniereMaj": "2026-10-24T09:20:16Z",
+ "derniereMaj": "2026-10-24T09:29:47Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
-  "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
+  "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
   "intro": "Les cinq informations publiques de la semaine qui comptent le plus pour la banque au Bénin, classées par importance.",
   "points": [
-   {
-    "titre": "Le groupe Ecobank conclut un accord de principe de 138,5 milliards FCFA avec l'État béninois",
-    "texte": "Lors d'une visite officielle le 16 octobre, le directeur général du groupe a rencontré le président de la République. L'enveloppe porte à 630 milliards FCFA le plafond des financements et investissements du groupe au profit du Bénin.",
-    "implication": "Un signal fort de proximité avec l'État, à valoriser auprès des grands clients publics et parapublics, et des montages à structurer sur les projets d'infrastructures et agricoles.",
-    "source": "APA News",
-    "url": "https://fr.apanews.net/benin/benin-ecobank-va-injecter-1385-mds-f-aux-projets-de-letat/",
-    "pistes": [
-     "Cartographier les entreprises qui exécuteront les projets (BTP, agro-industrie, fournisseurs) et leur proposer comptes, cautions de marché et préfinancements.",
-     "Proposer la gestion des flux des projets : comptes séquestres, paiements fournisseurs, cash management.",
-     "Mettre en avant ce partenariat avec l'État dans la prospection des grands comptes publics et parapublics."
-    ],
-    "vigilance": "Concentration du risque sur l'État et ses projets : à suivre dans les limites prudentielles."
-   },
    {
     "titre": "PI-SPI devient obligatoire le 2 novembre",
     "texte": "Les transferts interopérables entre particuliers devront passer par la plateforme de paiement instantané de la BCEAO. Les transferts nationaux sont gratuits jusqu'à 8 000 FCFA cumulés par jour.",
@@ -45,17 +32,17 @@
     "vigilance": "Fuite de dépôts de la clientèle de détail vers les wallets, surtout pour les petits soldes."
    },
    {
-    "titre": "Le FMI prévoit 7 % de croissance au Bénin en 2026",
-    "texte": "Le pays se classe parmi les cinq économies à plus forte croissance d'Afrique subsaharienne selon les prévisions publiées en octobre.",
-    "implication": "Une demande de crédit soutenue à anticiper, notamment des entreprises liées aux grands projets publics.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/",
+    "titre": "Le port de Cotonou fonctionne désormais 24h/24 et 7j/7, banques comprises",
+    "texte": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés sans interruption, y compris le week-end et les jours fériés. Les banques installées dans l'enceinte portuaire font partie des acteurs appelés à assurer leurs prestations en continu.",
+    "implication": "Les importateurs et transitaires vont chercher une banque capable de régler droits et frais portuaires à toute heure : c'est un critère de choix nouveau sur les flux du commerce extérieur.",
     "pistes": [
-     "Cibler les secteurs porteurs (BTP, agro-industrie, logistique portuaire, énergie) avec des offres de crédit dédiées.",
-     "Accompagner les PME sous-traitantes des grands projets publics (préfinancement, affacturage, cautions).",
-     "Développer le financement du commerce (lettres de crédit, garanties) avec les importateurs."
+     "Vérifier que les paiements des droits de douane et frais portuaires sont possibles le soir et le week-end depuis la banque en ligne et via PI-SPI.",
+     "Proposer aux transitaires et commissionnaires agréés en douane un service de paiement et de caution disponible 7j/7, avec un interlocuteur dédié.",
+     "Étudier une permanence ou un point de service adapté au port pour capter les opérations hors heures ouvrables."
     ],
-    "vigilance": "Une croissance tirée par l'investissement public peut ralentir si le budget de l'État se resserre."
+    "vigilance": "Le fonctionnement continu suppose des contrôles de conformité et de fraude eux aussi actifs la nuit et le week-end.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
    },
    {
     "titre": "La BIIC dépasse 600 milliards FCFA de capitalisation boursière",
@@ -69,6 +56,19 @@
      "Valoriser publiquement les résultats et le dividende de la filiale pour soutenir l'image de solidité."
     ],
     "vigilance": "Une banque mieux capitalisée peut prêter davantage et proposer des conditions plus agressives."
+   },
+   {
+    "titre": "Le FMI prévoit 7 % de croissance au Bénin en 2026",
+    "texte": "Le pays se classe parmi les cinq économies à plus forte croissance d'Afrique subsaharienne selon les prévisions publiées en octobre.",
+    "implication": "Une demande de crédit soutenue à anticiper, notamment des entreprises liées aux grands projets publics.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/",
+    "pistes": [
+     "Cibler les secteurs porteurs (BTP, agro-industrie, logistique portuaire, énergie) avec des offres de crédit dédiées.",
+     "Accompagner les PME sous-traitantes des grands projets publics (préfinancement, affacturage, cautions).",
+     "Développer le financement du commerce (lettres de crédit, garanties) avec les importateurs."
+    ],
+    "vigilance": "Une croissance tirée par l'investissement public peut ralentir si le budget de l'État se resserre."
    }
   ]
  },
