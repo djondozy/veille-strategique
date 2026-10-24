@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-24T05:19:26Z",
+ "derniereMaj": "2026-10-24T09:16:16Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -839,9 +839,9 @@
   }
  ],
  "marche": {
-  "titre": "Total bilan des banques au Bénin, fin 2025",
-  "note": "Parts de marché calculées sur 7 607,6 milliards FCFA d'actifs bancaires au Bénin. Les rangs 8 à 10 (Société Générale Bénin, Orabank Bénin, BGFI Bank Bénin) se situent entre 316 et 338 milliards FCFA.",
-  "lecture": "Ecobank Bénin est 5e avec 720,9 milliards FCFA, à 115 milliards de NSIA Banque Bénin (4e). C'est la seule banque du top 5 dont le bilan a reculé en 2025 (−4,1 %), quand la BIIC a progressé de 24,7 % et Coris Bank de 10,3 %.",
+  "titre": "Total bilan des 14 banques agréées au Bénin, fin 2025 (milliards FCFA)",
+  "note": "Mode de calcul : chaque barre indique le total bilan au 31/12/2025 en milliards FCFA (Md) ; la part de marché correspond à ce bilan divisé par les 7 607,6 milliards FCFA d'actifs de l'ensemble des banques du Bénin ; l'évolution compare le bilan de fin 2025 à celui de fin 2024. Banques prises en compte : les 14 banques agréées au Bénin selon la BCEAO ; seules les 7 premières sont affichées. Viennent ensuite Société Générale Bénin, Orabank Bénin et BGFI Bank Bénin (rangs 8 à 10, entre 316 et 338 milliards FCFA chacune), puis Banque Atlantique Bénin et Bange Bank Bénin (montants individuels non publiés) ; CBAO (38,2 milliards) et Sonibank (22,4 milliards), deux succursales, ferment la marche. Ne sont pas comptés : les microfinances, les émetteurs de monnaie électronique (MTN MoMo, Moov Money, Celtiis Cash), les assurances et l'établissement financier AFGC, dont les bilans ne se comparent pas à ceux des banques.",
+  "lecture": "Classement par total bilan (ensemble des actifs) au 31 décembre 2025 : Ecobank Bénin est 5e sur les 14 banques agréées au Bénin, avec 720,9 milliards FCFA (9,5 % du total), à 115 milliards de NSIA Banque Bénin (4e). C'est la seule banque du top 5 dont le bilan a reculé en 2025 (−4,1 %), quand la BIIC a progressé de 24,7 % et Coris Bank de 10,3 %.",
   "banques": [
    {
     "nom": "BIIC",
@@ -909,6 +909,16 @@
    {
     "source": "Afrique sur 7 (données APBEF Bénin, évolution 2024-2025)",
     "url": "https://www.afrique-sur7.fr/bilans-annuels-top-5-des-banques-en-2025-au-benin",
+    "date": "2026-02-18"
+   },
+   {
+    "source": "BCEAO, liste des établissements de crédit agréés au 31/12/2025",
+    "url": "https://www.bceao.int/sites/default/files/2026-04/LISTE%20DES%20%C3%89TABLISSEMENTS%20DE%20CR%C3%89DIT%20AGR%C3%89%C3%89S%20DANS%20L'UMOA%20au%2031%20d%C3%A9cembre%202025.pdf",
+    "date": "2026-04-01"
+   },
+   {
+    "source": "L'Autre Afrique (données APBEF, CBAO et Sonibank)",
+    "url": "https://lautre-afrique.com/classement-des-banques-en-2025-au-benin-la-biic-toujours-en-tete-depuis-2022/",
     "date": "2026-02-18"
    }
   ],
