@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-23T12:41:37Z",
+ "derniereMaj": "2026-10-24T05:19:26Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "Un accord de 138,5 milliards avec l'État et PI-SPI obligatoire dans dix jours",
@@ -81,19 +81,19 @@
    "url": "https://admiralmarkets.com/analytics/traders-blog/central-bank-super-week-october-2026"
   },
   {
-   "date": "2026-11-01",
-   "titre": "Swift : fin des adresses non structurées",
-   "detail": "Après novembre 2026, les adresses non structurées ne sont plus acceptées dans les paiements transfrontaliers ISO 20022 (date précise du mois à confirmer).",
-   "source": "Payment Expert",
-   "url": "https://paymentexpert.com/2025/11/21/swifts-iso-20022-cutover-the-end-of-mt-and-a-20-year-promise/",
-   "dateApprox": true
-  },
-  {
    "date": "2026-11-02",
    "titre": "PI-SPI obligatoire et nouveaux plafonds mobile money",
    "detail": "Transferts interopérables entre particuliers via PI-SPI ; plafond des wallets porté à 4 millions FCFA.",
    "source": "Togo First",
    "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+  },
+  {
+   "date": "2026-12-01",
+   "titre": "Swift : nouveau calendrier des adresses structurées attendu",
+   "detail": "L'obligation d'adresses structurées dans les paiements ISO 20022, prévue en novembre 2026, a été reportée ; Swift doit annoncer la nouvelle date d'ici décembre 2026 au plus tard.",
+   "source": "The Paypers",
+   "url": "https://thepaypers.com/payments/news/swift-extends-iso-20022-structured-address-deadline",
+   "dateApprox": true
   },
   {
    "date": "2027-06-01",
@@ -117,12 +117,6 @@
    "type": "Banque",
    "resume": "Banque béninoise cotée à la BRVM depuis avril 2025.",
    "actus": [
-    {
-     "date": "2026-10-22",
-     "texte": "L'action clôture à 8 500 FCFA, stable sur la séance, soit environ 19 % sous son plus haut de septembre (10 450 FCFA).",
-     "source": "BRVM",
-     "url": "https://www.brvm.org/fr/cours-actions/0"
-    },
     {
      "date": "2026-09-23",
      "texte": "Produit net bancaire en hausse de 19 % au premier semestre 2026.",
@@ -155,12 +149,6 @@
    "type": "Banque",
    "resume": "Filiale du groupe Bank of Africa, cotée à la BRVM.",
    "actus": [
-    {
-     "date": "2026-10-22",
-     "texte": "L'action clôture à 9 025 FCFA (−0,72 % sur la séance).",
-     "source": "BRVM",
-     "url": "https://www.brvm.org/fr/cours-actions/0"
-    },
     {
      "date": "2026-10-01",
      "texte": "Signe le 1er octobre à Cotonou, avec la BOAD, un document de garantie lié à un prêt de 33,2 milliards FCFA à la Société des Ciments du Bénin (Ciment Bouclier) pour une unité de broyage d'un million de tonnes à Sèmè-Podji.",
@@ -528,6 +516,13 @@
     "detail": "En août 2026, après 1,2 % en juillet (BCEAO)",
     "source": "Pi Business Info",
     "url": "https://www.pibusinessinfo.com/inflation-dans-l-uemoa-bceao-hausse-prix-aout-2026/"
+   },
+   {
+    "label": "Inclusion financière UEMOA",
+    "valeur": "76,1 %",
+    "detail": "En 2025, selon le tableau de bord BCEAO du 20 octobre 2026",
+    "source": "Linfodrome",
+    "url": "https://www.linfodrome.com/economie/126722-mobile-money-uemoa-76-1-des-adultes-desormais-inclus-financierement"
    }
   ],
   "actus": [
@@ -558,6 +553,13 @@
     "resume": "Cotonou et l'Union européenne ont tenu leur deuxième dialogue de partenariat, centré sur l'électricité, le port et l'accès des PME au financement, sans nouveau montant annoncé.",
     "source": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172"
+   },
+   {
+    "date": "2026-10-20",
+    "titre": "Inclusion financière : 76,1 % dans l'UEMOA en 2025",
+    "resume": "Le tableau de bord de la BCEAO publié le 20 octobre situe le taux d'inclusion financière de l'Union à 76,1 % en 2025, porté par le mobile money.",
+    "source": "Linfodrome",
+    "url": "https://www.linfodrome.com/economie/126722-mobile-money-uemoa-76-1-des-adultes-desormais-inclus-financierement"
    },
    {
     "date": "2026-10-16",
@@ -593,6 +595,13 @@
     "resume": "Hausse de 14,7 % par rapport au budget rectifié 2026, avec un déficit prévu à 2,8 % du PIB et une inflation de 2 %.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
+   },
+   {
+    "date": "2026-10-07",
+    "titre": "Lancement d'une agence africaine de notation",
+    "resume": "L'agence de notation de crédit africaine AfCRA, portée par l'Union africaine, a été lancée le 7 octobre ; ses notes devront encore gagner la reconnaissance des banques centrales et des régulateurs.",
+    "source": "La Nation",
+    "url": "https://www.lanation.bj/economie/creation-de-lagence-africaine-de-notation-le-defi-de-la-credibilite-a-relever"
    },
    {
     "date": "2026-10-01",
@@ -718,6 +727,34 @@
    "vigilance": "Aucune offre liée aux crypto-actifs sans cadre explicite de la BCEAO.",
    "source": "Banking Dive",
    "url": "https://www.bankingdive.com/news/occ-final-rule-genius-stablecoin-yield-gould-bessent-icba/833638/"
+  },
+  {
+   "date": "2026-10-20",
+   "titre": "Identités numériques : le Bénin teste l'interopérabilité avec le Ghana et le Rwanda",
+   "resume": "Le Bénin, le Ghana et le Rwanda ont réussi une première phase de test d'interopérabilité de leurs identités numériques nationales dans le cadre de l'initiative Smart Africa soutenue par la ZLECAf ; une phase pilote opérationnelle doit suivre.",
+   "implication": "À terme, la vérification d'identité de clients étrangers pourrait se faire en temps réel auprès des registres officiels de leur pays, ce qui faciliterait l'ouverture de comptes transfrontalière.",
+   "pistes": [
+    "Suivre la phase pilote pour préparer un raccordement de l'entrée en relation client aux registres d'identité numérique.",
+    "Étudier avec le groupe une offre d'ouverture de compte simplifiée pour les clients ghanéens et nigérians actifs au Bénin.",
+    "Mesurer les gains possibles sur les délais et coûts de vérification KYC."
+   ],
+   "vigilance": "Le dispositif n'en est qu'au stade des tests : aucun usage bancaire n'est encore autorisé ni encadré.",
+   "source": "Sika Finance",
+   "url": "https://www.sikafinance.com/marches/interoperabilite-des-identites-numeriques-nationales-benin-ghana-et-rwanda-reussissent-le-test-pilote_65141"
+  },
+  {
+   "date": "2026-10-20",
+   "titre": "Mobile money UEMOA : 219 151 milliards FCFA de transactions en 2025",
+   "resume": "Selon le tableau de bord de l'inclusion financière publié par la BCEAO le 20 octobre, la valeur des transactions de mobile money a progressé de près de 40 % en 2025 et le taux d'inclusion financière de l'Union atteint 76,1 % ; le Bénin pèse 16,3 % du nombre de transactions mais seulement 6,4 % de leur valeur.",
+   "implication": "Au Bénin, le mobile money sert surtout à de petits montants très fréquents : la banque peut se positionner sur les flux de valeur plus élevée et sur le passage du wallet au compte.",
+   "pistes": [
+    "Proposer aux clients mobile money des passerelles simples vers un compte ou une épargne Ecobank (bank to wallet, wallet to bank).",
+    "Cibler les commerçants actifs en mobile money avec une offre d'encaissement et de crédit fondée sur leurs flux.",
+    "Exploiter le relèvement des plafonds de monnaie électronique pour des offres de trésorerie aux petits commerçants."
+   ],
+   "vigilance": "Près des deux tiers des comptes de mobile money sont inactifs : les volumes affichés ne reflètent pas tous un usage réel.",
+   "source": "Agence Ecofin",
+   "url": "https://www.agenceecofin.com/actualites-finance/2310-142687-uemoa-les-transactions-de-mobile-money-atteignent-374-milliards-en-2025"
   },
   {
    "date": "2026-10-20",
@@ -1145,34 +1182,48 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "8 500",
-    "detail": "Stable le 22 octobre ; 10 450 FCFA le 11 septembre, soit environ −19 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
+    "cours": "8 590",
+    "detail": "+1,06 % sur la séance du 23 octobre ; 10 450 FCFA le 11 septembre, soit environ −18 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 025",
-    "detail": "−0,72 % sur la séance du 22 octobre ; 23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
+    "cours": "9 000",
+    "detail": "−0,28 % sur la séance du 23 octobre ; 23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
     "url": "https://www.financialafrik.com/2026/04/20/dividendes-2025-la-boa-benin-allouera-a-ses-actionnaires-23728-milliards-de-fcfa-le-15-mai-2026/"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
     "cours": "64",
-    "detail": "22 FCFA en début d'année, soit près de trois fois plus en 2026 ; le groupe prépare la publication de ses résultats du troisième trimestre.",
+    "detail": "Stable le 23 octobre ; 22 FCFA en début d'année, soit près de trois fois plus en 2026 ; le groupe est en période de silence avant ses résultats du troisième trimestre.",
     "url": "https://dabafinance.com/fr/nouvelles/ecobank-etit-actions-brvm-rebond"
    }
   ],
-  "source": "BRVM, cours de clôture du 22 octobre 2026",
+  "source": "BRVM, cours de clôture du 23 octobre 2026 (BRVM Composite +1,37 % sur la séance)",
   "url": "https://www.brvm.org/fr/cours-actions/0"
  },
  "opportunites": [
+  {
+   "date": "2026-10-24",
+   "titre": "Le port de Cotonou passe en service continu, banques comprises",
+   "resume": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés 24h/24 et 7j/7 au port de Cotonou, y compris le week-end ; les banques installées dans l'enceinte portuaire font partie des acteurs appelés à assurer leurs prestations en continu.",
+   "implication": "Les importateurs et transitaires vont chercher une banque capable de régler droits et frais portuaires à toute heure : c'est un critère de choix nouveau sur les flux du commerce extérieur.",
+   "pistes": [
+    "Vérifier que les paiements des droits de douane et frais portuaires sont possibles le soir et le week-end depuis la banque en ligne et via PI-SPI.",
+    "Proposer aux transitaires et commissionnaires agréés en douane un service de paiement et de caution disponible 7j/7, avec un interlocuteur dédié.",
+    "Étudier une permanence ou un point de service adapté au port pour capter les opérations hors heures ouvrables."
+   ],
+   "vigilance": "Le fonctionnement continu suppose des contrôles de conformité et de fraude eux aussi actifs la nuit et le week-end.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
+  },
   {
    "date": "2026-10-22",
    "titre": "Aucune émission béninoise prévue sur UMOA-Titres au 4e trimestre",
@@ -1342,6 +1393,12 @@
     "BICB": 8500,
     "BOAB": 9025,
     "ETIT": 64
+   },
+   {
+    "date": "2026-10-23",
+    "BICB": 8590,
+    "BOAB": 9000,
+    "ETIT": 64
    }
   ]
  },
@@ -1380,6 +1437,9 @@
   "OCC": "Office of the Comptroller of the Currency, autorité fédérale américaine qui agrée et supervise les banques nationales.",
   "intentions d'émission": "Montants que les États annoncent prévoir de lever sur le marché régional des titres publics au cours d'une période.",
   "BOAD": "Banque ouest-africaine de développement : banque de développement de l'UEMOA qui prête aux États et aux entreprises pour des projets de long terme.",
-  "Laboratoire d'innovation financière": "Espace mis en place par la BCEAO où des fintechs testent de nouveaux services financiers sous le contrôle du régulateur avant un éventuel agrément."
+  "Laboratoire d'innovation financière": "Espace mis en place par la BCEAO où des fintechs testent de nouveaux services financiers sous le contrôle du régulateur avant un éventuel agrément.",
+  "AfCRA": "Agence africaine de notation de crédit lancée en 2026 sous l'égide de l'Union africaine pour noter les États et entreprises du continent.",
+  "KYC": "« Connaissance du client » : vérifications d'identité et de profil qu'une banque doit faire avant et pendant la relation avec un client.",
+  "taux d'inclusion financière": "Part des adultes qui utilisent au moins un service financier formel (compte bancaire, mobile money, microfinance)."
  }
 }
