@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-24T10:11:37Z",
+ "derniereMaj": "2026-10-24T12:17:25Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
@@ -74,6 +74,19 @@
  },
  "echeances": [
   {
+   "date": "2026-10-26",
+   "titre": "Nouvelle organisation du tribunal de commerce de Cotonou",
+   "detail": "À partir du lundi 26 octobre, le tribunal de commerce de Cotonou répartit ses dossiers entre six chambres spécialisées : par exemple, une chambre pour les procédures collectives (faillites, redressements) et les litiges financiers, une pour les saisies immobilières, une pour les référés (procédures d'urgence) et l'exécution des jugements. Les renvois d'audience sont limités à environ une semaine dans plusieurs procédures.",
+   "pourquoi": "Les dossiers de recouvrement et de saisie de la banque changent de chambre et pourraient avancer plus vite, à condition d'être prêts dès la première audience.",
+   "preparer": [
+    "Faire le point avec les avocats sur la nouvelle chambre de chaque dossier contentieux.",
+    "Compléter les pièces des dossiers de recouvrement prioritaires avant leur prochaine audience.",
+    "Suivre les premières décisions pour ajuster les prévisions de recouvrement."
+   ],
+   "source": "La Marina",
+   "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
+  },
+  {
    "date": "2026-10-29",
    "titre": "Décision de taux de la Banque centrale européenne",
    "detail": "Le jeudi 29 octobre, la Banque centrale européenne (BCE) annonce ses taux directeurs. En septembre, elle les a relevés de 0,25 point, alors que la BCEAO a laissé son taux directeur à 3 %. Comme le franc CFA est arrimé à l'euro à parité fixe, les décisions de la BCE pèsent, avec un décalage, sur celles de la BCEAO.",
@@ -98,6 +111,19 @@
     "Informer les clients de la possibilité d'envoyer de l'argent du compte vers les wallets, et l'inverse, en quelques secondes.",
     "Renforcer la surveillance de la fraude sur les virements instantanés, exécutés en quelques secondes."
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "titre": "Cyber Africa Forum à Cotonou (cybersécurité et confiance numérique)",
+   "detail": "Les 16 et 17 novembre, Cotonou accueille au Sofitel la 6e édition du Cyber Africa Forum, avec le soutien du ministère de l'Économie et des Finances et du ministère du Numérique. Plus de 1 500 participants (autorités, entreprises, experts) sont attendus sur l'intelligence artificielle, l'identité numérique, la protection des données et le financement de l'économie numérique.",
+   "pourquoi": "La fraude et les cyberattaques visant les services financiers progressent en Afrique : ce forum réunit à Cotonou les autorités et prestataires qui comptent pour la sécurité des paiements de la banque.",
+   "preparer": [
+    "Désigner un représentant de la sécurité informatique et de la conformité pour y assister.",
+    "Identifier les autorités béninoises du numérique (ASIN, CNIN) et les prestataires à rencontrer sur place.",
+    "Préparer un point sur les tentatives de fraude récentes pour nourrir les échanges."
+   ],
+   "source": "Afrique Sur 7",
+   "url": "https://www.afrique-sur7.fr/cyber-africa-forum-2026-les-16-et-17-novembre-cotonou-accueillera-les-leaders-africains-et-internationaux-du-numerique-autour-de-la-confiance-numerique"
   },
   {
    "date": "2026-12-01",
@@ -368,6 +394,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-10-21",
+   "organisme": "Tribunal de commerce de Cotonou",
+   "titre": "Le tribunal de commerce de Cotonou se réorganise en six chambres",
+   "resume": "Par ordonnance du 21 octobre, applicable le 26 octobre, le tribunal répartit les dossiers entre six chambres spécialisées (procédures collectives et litiges financiers, saisies immobilières, référés et exécution, etc.) et limite les renvois à environ une semaine dans plusieurs procédures.",
+   "implication": "Les dossiers de recouvrement, de saisie et de difficultés d'entreprises de la banque changeront de chambre et pourraient être jugés plus vite.",
+   "pistes": [
+    "Recenser les dossiers contentieux en cours et vérifier leur nouvelle chambre d'affectation avec les avocats de la banque.",
+    "Préparer des dossiers complets dès la première audience pour profiter des renvois limités à une semaine.",
+    "Revoir les délais de provisionnement des créances en contentieux si les jugements s'accélèrent."
+   ],
+   "vigilance": "Les dossiers transférés doivent être notifiés aux parties 48 heures avant l'audience : un oubli peut entraîner un renvoi.",
+   "source": "La Marina",
+   "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
+  },
+  {
    "date": "2026-10-22",
    "organisme": "BCEAO",
    "titre": "Appel à candidatures pour le Laboratoire d'innovation financière",
@@ -559,9 +600,23 @@
     "detail": "En 2025, selon le tableau de bord BCEAO du 20 octobre 2026",
     "source": "Linfodrome",
     "url": "https://www.linfodrome.com/economie/126722-mobile-money-uemoa-76-1-des-adultes-desormais-inclus-financierement"
+   },
+   {
+    "label": "Inclusion financière au Bénin",
+    "valeur": "92,8 %",
+    "detail": "En 2025, 1er de l'UEMOA ; 39,8 % des adultes ont un compte au sens strict (BCEAO)",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/10/22/inclusion-financiere-le-benin-leader-sous-pression-dans-luemoa/"
    }
   ],
   "actus": [
+   {
+    "date": "2026-10-22",
+    "titre": "Inclusion financière : le Bénin en tête, mais moins de poids dans le mobile money",
+    "resume": "Le Bénin a l'indice d'inclusion financière le plus élevé de l'UEMOA en 2025 et 21 % des cartes bancaires de l'Union, mais sa part dans la valeur des transactions de monnaie électronique est passée de 8,4 % en 2022 à 6,4 %.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/10/22/inclusion-financiere-le-benin-leader-sous-pression-dans-luemoa/"
+   },
    {
     "date": "2026-10-23",
     "titre": "Liberté économique : le Bénin 11e en Afrique",
@@ -736,6 +791,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-10-22",
+   "titre": "Agents d'intelligence artificielle : les banques américaines ferment la porte",
+   "resume": "Selon Axios, des banques comme JPMorgan, Bank of America et Citi ont détecté des assistants d'IA connectés aux comptes de clients avec leurs identifiants ; elles bloquent ces accès ou les limitent à la consultation, en l'absence de règles spécifiques des régulateurs.",
+   "implication": "Les clients béninois utiliseront eux aussi des assistants d'IA : la banque devra décider quels accès autoriser, et comment, sans perdre la relation client ni la sécurité.",
+   "pistes": [
+    "Rappeler aux clients, dans l'application et en agence, de ne jamais confier leurs identifiants, y compris à un assistant d'IA.",
+    "Renforcer la détection des connexions automatisées inhabituelles sur la banque en ligne.",
+    "Étudier avec le groupe un accès sécurisé en lecture seule (par API) pour les outils de gestion budgétaire des clients."
+   ],
+   "vigilance": "Un client qui a partagé ses identifiants peut contester une opération : les conditions générales doivent préciser les responsabilités.",
+   "source": "Techaeris (d'après Axios)",
+   "url": "https://techaeris.com/2026/10/22/ai-agents-in-banking-are-logging-in"
+  },
   {
    "date": "2026-10-22",
    "titre": "Money20/20 : stablecoins et paiements transfrontaliers au premier plan",
@@ -1259,6 +1328,20 @@
  },
  "opportunites": [
   {
+   "date": "2026-10-22",
+   "titre": "Grands chantiers publics : les garanties export britanniques en vitrine",
+   "resume": "Le Royaume-Uni a présenté sa garantie de 82 millions de livres (environ 53,7 milliards FCFA), accordée par UK Export Finance pour la Cité ministérielle de Cotonou, comme un modèle de son soutien aux projets en Afrique de l'Ouest ; 20 millions de livres concernent aussi un campus défense et sécurité.",
+   "implication": "Les agences de crédit à l'exportation financent de plus en plus les grands chantiers béninois : les banques locales peuvent capter les flux de paiement, les cautions et la trésorerie des entreprises qui y travaillent.",
+   "pistes": [
+    "Approcher les entreprises et sous-traitants des chantiers garantis par des agences export pour leurs comptes, cautions de marché et paiements de salaires.",
+    "Étudier avec le groupe un rôle de banque locale de paiement ou de co-prêteur dans les prochains financements garantis par UKEF ou d'autres agences.",
+    "Proposer des lignes d'avance sur marché aux PME béninoises sous-traitantes de ces chantiers."
+   ],
+   "vigilance": "Ces mécanismes sont souvent négociés entre États et grandes banques internationales : la part réservée aux banques locales reste à vérifier projet par projet.",
+   "source": "Le Matinal",
+   "url": "https://lematinal.bj/diplomatie-economique-le-royaume-uni-sappuie-sur-la-cite-ministerielle-de-cotonou/"
+  },
+  {
    "date": "2026-10-24",
    "titre": "Le port de Cotonou passe en service continu, banques comprises",
    "resume": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés 24h/24 et 7j/7 au port de Cotonou, y compris le week-end ; les banques installées dans l'enceinte portuaire font partie des acteurs appelés à assurer leurs prestations en continu.",
@@ -1491,12 +1574,16 @@
   "taux d'inclusion financière": "Part des adultes qui utilisent au moins un service financier formel (compte bancaire, mobile money, microfinance).",
   "BCE": "Banque centrale européenne : elle fixe les taux de la zone euro, à laquelle le franc CFA est rattaché par une parité fixe.",
   "Swift": "Réseau mondial de messagerie sécurisée que les banques utilisent pour s'envoyer les ordres de virement internationaux.",
-  "microfinance": "Établissement qui offre de petits crédits, de l'épargne et des services de paiement aux ménages et petites entreprises peu servis par les banques."
+  "microfinance": "Établissement qui offre de petits crédits, de l'épargne et des services de paiement aux ménages et petites entreprises peu servis par les banques.",
+  "agent IA": "Logiciel d'intelligence artificielle capable d'agir seul pour le compte d'une personne, par exemple se connecter à un site et y effectuer des opérations.",
+  "UKEF": "UK Export Finance, l'agence publique britannique qui garantit ou assure les crédits accordés pour des projets faisant appel à des entreprises britanniques.",
+  "procédure collective": "Procédure judiciaire (redressement ou liquidation) ouverte quand une entreprise ne peut plus payer ses dettes, qui organise le traitement de tous ses créanciers.",
+  "référé": "Procédure d'urgence devant le président du tribunal pour obtenir rapidement une décision provisoire."
  },
  "journal": [
   {
    "date": "2026-10-24",
-   "synthese": "Une journée dominée par le port de Cotonou, qui fonctionne désormais sans interruption, banques comprises, et par les premiers résultats trimestriels des banques de la région ; chez les concurrents, Coris Bank recrute un cadre d'Ecobank pour diriger sa filiale togolaise.",
+   "synthese": "La journée reste dominée par le port de Cotonou, désormais ouvert en continu, banques comprises, et par les résultats trimestriels des banques de la région ; s'y ajoutent la réorganisation du tribunal de commerce de Cotonou à partir du 26 octobre et de nouvelles données BCEAO qui placent le Bénin en tête de l'inclusion financière dans l'UEMOA.",
    "articles": [
     {
      "theme": "Bénin",
@@ -1585,6 +1672,70 @@
      "resume": "Dans le cadre de l'initiative Smart Africa, les trois pays ont vérifié en temps réel des identités entre leurs registres nationaux ; une phase pilote opérationnelle doit suivre.",
      "source": "Sika Finance",
      "url": "https://www.sikafinance.com/marches/interoperabilite-des-identites-numeriques-nationales-benin-ghana-et-rwanda-reussissent-le-test-pilote_65141"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-24",
+     "titre": "Le président Wadagni attendu aux Émirats arabes unis puis à Moscou",
+     "resume": "Selon la lettre Africa Intelligence, reprise par Bénin Web TV, le chef de l'État prépare une tournée aux Émirats puis en Russie pour le sommet Russie-Afrique ; les dates n'ont pas été précisées officiellement.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-romuald-wadagni-annonce-aux-emirats-arabes-unis-puis-a-moscou/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-22",
+     "titre": "Cité ministérielle : Londres met en avant sa garantie de 82 millions de livres",
+     "resume": "Au forum Royaume-Uni–Afrique francophone de Conakry, l'agence britannique d'assurance-crédit à l'exportation (UKEF) a cité sa garantie d'environ 53,7 milliards FCFA pour la Cité ministérielle de Cotonou, plus 20 millions de livres pour un campus défense et sécurité.",
+     "source": "Le Matinal",
+     "url": "https://lematinal.bj/diplomatie-economique-le-royaume-uni-sappuie-sur-la-cite-ministerielle-de-cotonou/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-23",
+     "titre": "Tribunal de commerce de Cotonou : six chambres spécialisées dès le 26 octobre",
+     "resume": "Une ordonnance du 21 octobre réorganise le tribunal : une chambre pour les procédures collectives et litiges financiers, une pour les saisies immobilières, une pour les référés et l'exécution, avec des renvois limités à une semaine dans plusieurs procédures.",
+     "source": "La Marina",
+     "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-23",
+     "titre": "BOA-Bénin et la BOAD derrière l'extension de la cimenterie de Sèmè-Podji",
+     "resume": "La Nouvelle Tribune détaille le financement de 33,2 milliards FCFA garanti le 1er octobre pour la Société des Ciments du Bénin (Ciment Bouclier) : une unité de broyage d'un million de tonnes et plusieurs centaines d'emplois attendus.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-22",
+     "titre": "Inclusion financière : le Bénin premier de l'UEMOA, mais le mobile money perd du poids",
+     "resume": "D'après les données BCEAO 2025, 92,8 % des adultes béninois utilisent un service financier et 39,8 % ont un compte au sens strict ; mais la part du Bénin dans la valeur des transactions de monnaie électronique de l'Union est tombée de 8,4 % en 2022 à 6,4 %.",
+     "source": "La Marina",
+     "url": "https://lamarina.bj/2026/10/22/inclusion-financiere-le-benin-leader-sous-pression-dans-luemoa/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "Les experts-comptables de l'UEMOA adoptent la « Déclaration de Cotonou »",
+     "resume": "Réunis les 21 et 22 octobre, ils s'engagent sur sept points, dont la fiabilité des états financiers, la lutte contre le blanchiment et une transformation numérique responsable.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/8e-congres-des-experts-comptables-de-luemoa-cotonou-adopte-une-declaration-pour-renforcer-la-souverainete-financiere/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "Nigeria : feu vert de principe pour une banque d'affaires de JPMorgan",
+     "resume": "La banque centrale du Nigeria (CBN) a accordé un accord de principe à JPMorgan Merchant Bank Nigeria et validé son futur directeur général ; la licence définitive dépend encore de plusieurs conditions.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/10/23/breaking-cbn-approves-jpmorgans-plan-to-establish-merchant-bank-in-nigeria/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-10-22",
+     "titre": "États-Unis : des agents d'IA se connectent aux comptes bancaires des clients",
+     "resume": "Selon Axios, de grandes banques américaines ont repéré des assistants d'intelligence artificielle utilisant les identifiants confiés par leurs clients ; plusieurs bloquent ou limitent désormais ces accès à la seule consultation.",
+     "source": "Techaeris (d'après Axios)",
+     "url": "https://techaeris.com/2026/10/22/ai-agents-in-banking-are-logging-in"
     }
    ]
   }
