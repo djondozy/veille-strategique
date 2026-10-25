@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-24T12:17:25Z",
+ "derniereMaj": "2026-10-25T05:30:39Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
@@ -113,6 +113,19 @@
    ]
   },
   {
+   "date": "2026-11-15",
+   "titre": "Retraités : dernier jour pour faire sa preuve de vie au Fonds national des retraites",
+   "detail": "Chaque retraité de l'État doit prouver qu'il est en vie pour continuer à toucher sa pension. Le Fonds national des retraites du Bénin (FNRB) a lancé le 13 octobre une application mobile « Preuve de vie » (empreinte digitale avec la caméra du téléphone) et des bornes biométriques ; il faut son numéro personnel d'identification (NPI) et son numéro de livret de pension. Plus de 15 000 opérations ont été faites la première semaine ; la campagne va du 15 octobre au 15 novembre.",
+   "pourquoi": "Beaucoup de pensions sont versées sur des comptes bancaires : un retraité qui oublie la démarche risque une suspension de pension, donc des comptes moins alimentés et des remboursements de crédit en retard.",
+   "preparer": [
+    "Informer les clients retraités par SMS et en agence de la date limite du 15 novembre.",
+    "Proposer en agence une aide simple pour télécharger l'application et faire la démarche.",
+    "Surveiller en décembre les comptes de retraités sans virement de pension pour anticiper les impayés sur prêts."
+   ],
+   "source": "La Nation",
+   "url": "https://lanation.bj/economie/fonds-national-des-retraites-du-benin-les-pensionnes-peuvent-desormais-faire-leur-preuve-de-vie-a-distance"
+  },
+  {
    "date": "2026-11-16",
    "titre": "Cyber Africa Forum à Cotonou (cybersécurité et confiance numérique)",
    "detail": "Les 16 et 17 novembre, Cotonou accueille au Sofitel la 6e édition du Cyber Africa Forum, avec le soutien du ministère de l'Économie et des Finances et du ministère du Numérique. Plus de 1 500 participants (autorités, entreprises, experts) sont attendus sur l'intelligence artificielle, l'identité numérique, la protection des données et le financement de l'économie numérique.",
@@ -206,6 +219,12 @@
    "resume": "Filiale du groupe Bank of Africa, cotée à la BRVM.",
    "actus": [
     {
+     "date": "2026-10-23",
+     "texte": "Au niveau du groupe : BOA Sénégal annonce un bénéfice en hausse de 11,01 % sur les neuf premiers mois de 2026, premier résultat trimestriel publié par une filiale cotée du groupe.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/23/banques-hausse-de-1101-du-benefice-de-la-boa-senegal-au-troisieme-trimestre-2026/"
+    },
+    {
      "date": "2026-10-01",
      "texte": "Signe le 1er octobre à Cotonou, avec la BOAD, un document de garantie lié à un prêt de 33,2 milliards FCFA à la Société des Ciments du Bénin (Ciment Bouclier) pour une unité de broyage d'un million de tonnes à Sèmè-Podji.",
      "source": "La Nouvelle Tribune",
@@ -237,6 +256,12 @@
    "type": "Banque",
    "resume": "Filiale du groupe ivoirien NSIA.",
    "actus": [
+    {
+     "date": "2026-10-23",
+     "texte": "Au niveau du groupe : NSIA Banque Côte d'Ivoire obtient un crédit syndiqué de 100 millions d'euros (mené par Citibank, avec FinDev Canada et KEXIM Global) pour financer des PME, notamment dirigées par des femmes, et des projets solaires.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142676-nsia-banque-ci-mobilise-100-millions-pour-les-pme-et-la-transition-energetique"
+    },
     {
      "date": "2026-10-05",
      "texte": "Obtient devant le tribunal de commerce de Dakar la condamnation d'une société débitrice à lui verser 111 millions FCFA, pour une créance bancaire d'environ 102 millions.",
@@ -393,6 +418,21 @@
   }
  ],
  "reglementation": [
+  {
+   "date": "2026-10-20",
+   "organisme": "Ministère de la Santé du Bénin",
+   "titre": "Ebola : le Bénin déclenche la phase de préalerte",
+   "resume": "Après la confirmation d'un cas d'Ebola au Nigeria, le ministère de la Santé a placé le pays en préalerte : caméras thermiques et salles d'isolement à l'aéroport de Cotonou, surveillance renforcée aux points d'entrée et activation de la plateforme « Une seule santé ». Aucun cas n'est signalé au Bénin.",
+   "implication": "Aucune mesure ne touche pour l'instant les banques ni le commerce avec le Nigeria, mais un cas au Bénin pourrait ralentir les échanges transfrontaliers et la fréquentation des agences.",
+   "pistes": [
+    "Mettre à jour le plan de continuité d'activité pour un scénario sanitaire : équipes de relève, télétravail des fonctions support, approvisionnement des agences en gel et thermomètres.",
+    "Préparer une communication clients qui oriente vers l'application, le virement instantané et le paiement marchand pour limiter les déplacements en agence si la situation se dégrade.",
+    "Recenser les clients importateurs et commerçants dépendants de la frontière de Sèmè-Kraké pour anticiper d'éventuels besoins de trésorerie."
+   ],
+   "vigilance": "Éviter toute mesure ou communication alarmiste tant qu'aucun cas n'est signalé : l'OMS déconseille les restrictions de voyage et de commerce.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/10/ebola-au-nigeria-le-benin-declenche-la-phase-de-prealerte/"
+  },
   {
    "date": "2026-10-21",
    "organisme": "Tribunal de commerce de Cotonou",
@@ -611,6 +651,41 @@
   ],
   "actus": [
    {
+    "date": "2026-10-23",
+    "titre": "Ebola : un cas importé au Nigeria, le Bénin en préalerte",
+    "resume": "Un cas confirmé le 20 octobre à Abuja chez une voyageuse venue d'Ouganda, 44 contacts suivis et aucun nouveau cas au 24 octobre ; l'OMS déconseille toute restriction de voyage ou de commerce, et le Bénin a renforcé la surveillance à ses points d'entrée.",
+    "source": "Organisation mondiale de la santé",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+   },
+   {
+    "date": "2026-10-22",
+    "titre": "Le naira perd 2,1 % en une séance",
+    "resume": "À 1 365 nairas pour un dollar le 22 octobre, la monnaie du Nigeria, premier partenaire commercial du Bénin, enregistre sa plus forte baisse quotidienne depuis avril 2025.",
+    "source": "Nairametrics",
+    "url": "https://nairametrics.com/2026/10/23/naira-weakens-to-n1365-records-sharpest-daily-decline-in-18-months/"
+   },
+   {
+    "date": "2026-10-22",
+    "titre": "Pétrole : le Brent au-dessus de 110 dollars",
+    "resume": "La flambée du baril après de nouvelles attaques en Arabie saoudite pèse sur la facture d'importation de carburant et sur l'inflation dans la région.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/petrole-le-brent-depasse-110-dollars-apres-de-nouvelles-attaques-en-arabie-saoudite/"
+   },
+   {
+    "date": "2026-10-21",
+    "titre": "État de droit : le Bénin 94e sur 143 pays",
+    "resume": "Le World Justice Project classe le Bénin 13e en Afrique avec un score de 0,47 ; la justice civile, qui conditionne le recouvrement des créances, reste au 108e rang mondial.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/etat-de-droit-le-benin-classe-94e-au-niveau-mondial-et-13e-en-afrique-en-2026-selon-le-wjp/"
+   },
+   {
+    "date": "2026-10-21",
+    "titre": "Parakou : budget communal 2027 en hausse de 34 %",
+    "resume": "5,29 milliards FCFA votés le 21 octobre pour l'éclairage solaire, la voirie, les écoles et la santé, signe d'une hausse des investissements des communes.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
+   },
+   {
     "date": "2026-10-22",
     "titre": "Inclusion financière : le Bénin en tête, mais moins de poids dans le mobile money",
     "resume": "Le Bénin a l'indice d'inclusion financière le plus élevé de l'UEMOA en 2025 et 21 % des cartes bancaires de l'Union, mais sa part dans la valeur des transactions de monnaie électronique est passée de 8,4 % en 2022 à 6,4 %.",
@@ -791,6 +866,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-10-23",
+   "titre": "Corée du Sud : les stablecoins reconnus comme moyens de paiement",
+   "resume": "Le gouvernement sud-coréen et la Banque de Corée préparent cette année une révision de la loi sur les changes pour traiter les stablecoins (cryptomonnaies adossées à une monnaie classique) comme des instruments de paiement, avec une surveillance renforcée des actifs virtuels et de leurs risques de blanchiment.",
+   "implication": "Après les États-Unis, une autre grande économie encadre les stablecoins : les transferts de la diaspora et les paiements commerciaux en stablecoins vont gagner en légitimité et concurrencer les virements internationaux classiques.",
+   "pistes": [
+    "Suivre la position de la BCEAO sur les stablecoins et préparer une note interne sur l'impact pour les transferts reçus de la diaspora.",
+    "Renforcer le contrôle des flux entre comptes clients et plateformes de cryptomonnaies dans le dispositif anti-blanchiment.",
+    "Mettre en avant la rapidité et le coût des transferts internationaux du groupe auprès des clients commerçants qui paient l'Asie."
+   ],
+   "vigilance": "Les stablecoins n'ont pas de cadre légal dans l'UEMOA : toute offre devra attendre une position claire de la BCEAO.",
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028"
+  },
   {
    "date": "2026-10-22",
    "titre": "Agents d'intelligence artificielle : les banques américaines ferment la porte",
@@ -1328,6 +1417,20 @@
  },
  "opportunites": [
   {
+   "date": "2026-10-21",
+   "titre": "Zone industrielle de Glo-Djigbé : plus de 625 MW d'électricité en projet",
+   "resume": "La SIPI-Bénin, qui gère la zone de Glo-Djigbé (GDIZ), annonce une centrale thermique au gaz de plus de 225 MW à déployer dans les prochains mois, 300 MW de centrales solaires (premier chantier sous 18 mois) et environ 100 MW de panneaux sur les toits des entrepôts ; aucun montant ni financeur n'est encore publié.",
+   "implication": "Ces chantiers vont créer des besoins de financement, de cautions et de paiements pour les constructeurs, les sous-traitants et les industriels de la zone, que les banques locales peuvent capter.",
+   "pistes": [
+    "Prendre contact avec la SIPI-Bénin pour connaître le calendrier des appels d'offres et se positionner sur les cautions de soumission et de bonne exécution.",
+    "Proposer aux industriels de la zone un financement de panneaux solaires sur toiture, remboursé par les économies d'électricité.",
+    "Étudier avec le groupe et des bailleurs (BOAD, SFI, Afreximbank) une participation à un prêt syndiqué pour les centrales solaires."
+   ],
+   "vigilance": "Les montants, les financeurs et les dates de mise en service ne sont pas encore publics : à confirmer avant tout engagement.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/10/benin-la-gdiz-prepare-une-offensive-energetique-de-plus-de-625-mw/"
+  },
+  {
    "date": "2026-10-22",
    "titre": "Grands chantiers publics : les garanties export britanniques en vitrine",
    "resume": "Le Royaume-Uni a présenté sa garantie de 82 millions de livres (environ 53,7 milliards FCFA), accordée par UK Export Finance pour la Cité ministérielle de Cotonou, comme un modèle de son soutien aux projets en Afrique de l'Ouest ; 20 millions de livres concernent aussi un campus défense et sécurité.",
@@ -1578,9 +1681,134 @@
   "agent IA": "Logiciel d'intelligence artificielle capable d'agir seul pour le compte d'une personne, par exemple se connecter à un site et y effectuer des opérations.",
   "UKEF": "UK Export Finance, l'agence publique britannique qui garantit ou assure les crédits accordés pour des projets faisant appel à des entreprises britanniques.",
   "procédure collective": "Procédure judiciaire (redressement ou liquidation) ouverte quand une entreprise ne peut plus payer ses dettes, qui organise le traitement de tous ses créanciers.",
-  "référé": "Procédure d'urgence devant le président du tribunal pour obtenir rapidement une décision provisoire."
+  "référé": "Procédure d'urgence devant le président du tribunal pour obtenir rapidement une décision provisoire.",
+  "COBAC": "Commission bancaire de l'Afrique centrale : le superviseur des banques des six pays de la CEMAC, équivalent de la Commission bancaire de l'UMOA.",
+  "CENTIF": "Cellule nationale de traitement des informations financières : service qui reçoit les déclarations de soupçon des banques et lutte contre le blanchiment dans chaque pays de l'UEMOA.",
+  "Brent": "Pétrole de la mer du Nord dont le prix sert de référence mondiale pour le baril.",
+  "World Justice Project (WJP)": "Organisation indépendante qui publie chaque année un indice de l'État de droit mesurant, pays par pays, la justice, la corruption et le respect des règles.",
+  "loi de finances rectificative": "Loi qui modifie en cours d'année le budget de l'État voté initialement (aussi appelée collectif budgétaire).",
+  "FNRB": "Fonds national des retraites du Bénin : il verse les pensions des anciens agents de l'État.",
+  "plan de continuité d'activité": "Plan qui prévoit comment la banque continue de servir ses clients en cas de crise (épidémie, panne, catastrophe)."
  },
  "journal": [
+  {
+   "date": "2026-10-25",
+   "synthese": "La journée est dominée par le premier cas d'Ebola au Nigeria : aucun nouveau cas, 44 contacts suivis et le Bénin en préalerte, sans restriction de commerce recommandée par l'OMS ; s'y ajoutent la chute du naira, un pétrole au-dessus de 110 dollars et l'ouverture de la session budgétaire à l'Assemblée nationale.",
+   "articles": [
+    {
+     "theme": "Afrique",
+     "date": "2026-10-24",
+     "titre": "Ebola au Nigeria : un seul cas confirmé, 44 contacts sous surveillance",
+     "resume": "Quatre jours après la confirmation à Abuja d'un cas importé (une voyageuse venue d'Ouganda), les autorités nigérianes ne signalent aucun nouveau cas ; 44 personnes ayant été en contact avec la patiente sont suivies.",
+     "source": "Channels Television",
+     "url": "https://www.channelstv.com/2026/10/24/one-case-44-contacts-nigerias-ebola-response-faces-a-test-of-trust/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "L'OMS déconseille de restreindre les voyages et le commerce malgré Ebola",
+     "resume": "Dans son point du 23 octobre, l'Organisation mondiale de la santé recense l'épidémie en RD Congo (plus de 9 700 cas confirmés), 9 cas au Kenya et 1 au Nigeria, et recommande de ne pas limiter les déplacements ni les échanges avec ces pays.",
+     "source": "Organisation mondiale de la santé",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-21",
+     "titre": "Ebola : le Bénin passe en phase de préalerte",
+     "resume": "Le ministère de la Santé a renforcé la surveillance aux points d'entrée, notamment à l'aéroport de Cotonou (caméras thermiques, salles d'isolement), et activé la plateforme multisectorielle « Une seule santé » ; aucun cas n'est signalé au Bénin.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/ebola-au-nigeria-le-benin-declenche-la-phase-de-prealerte/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-22",
+     "titre": "L'Assemblée nationale ouvre sa session budgétaire",
+     "resume": "La deuxième session ordinaire de 2026 s'est ouverte le 21 octobre ; les députés examineront notamment le projet de loi de finances 2027 et un nouveau Code de la route.",
+     "source": "Le Matinal",
+     "url": "https://lematinal.bj/assemblee-nationale-du-benin-joseph-djogbenou-lance-la-session-budgetaire-2026/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-24",
+     "titre": "Parakou adopte un budget 2027 en hausse de 34 %",
+     "resume": "Le conseil municipal a voté un budget de 5,29 milliards FCFA, contre 3,94 milliards en 2026, tourné vers l'éclairage solaire, la voirie, les écoles et la santé.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-23",
+     "titre": "État de droit : le Bénin 94e mondial et 13e africain",
+     "resume": "L'indice 2026 du World Justice Project donne au Bénin un score de 0,47, en légère hausse ; la justice civile (108e) et la transparence de l'administration (115e) restent ses points faibles.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/etat-de-droit-le-benin-classe-94e-au-niveau-mondial-et-13e-en-afrique-en-2026-selon-le-wjp/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-23",
+     "titre": "Retraités : plus de 15 000 preuves de vie en une semaine",
+     "resume": "La campagne du Fonds national des retraites, lancée le 15 octobre avec une application mobile et des bornes biométriques, a enregistré 15 189 opérations au 21 octobre ; elle se termine le 15 novembre.",
+     "source": "24 Heures au Bénin",
+     "url": "https://www.24haubenin.info/?Plus-de-15-000-operations-realisees-en-une-semaine"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-21",
+     "titre": "La zone industrielle de Glo-Djigbé prévoit plus de 625 MW d'électricité",
+     "resume": "La société qui gère la zone annonce une centrale thermique au gaz de plus de 225 MW, 300 MW de centrales solaires et environ 100 MW de panneaux sur les toits ; un gazoduc de 30 km la relie déjà à Maria-Gléta.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/benin-la-gdiz-prepare-une-offensive-energetique-de-plus-de-625-mw/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "Le naira subit sa plus forte baisse en un jour depuis 18 mois",
+     "resume": "La monnaie nigériane a perdu environ 2,1 % le 22 octobre, à 1 365 nairas pour un dollar, sur fond de forte demande de devises.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/10/23/naira-weakens-to-n1365-records-sharpest-daily-decline-in-18-months/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "Togo : le budget 2026 révisé à 2 744,2 milliards FCFA",
+     "resume": "Le gouvernement togolais a adopté une loi de finances rectificative qui réduit légèrement le budget 2026 et prévoit un déficit de 3,4 % du PIB, en invoquant la hausse des carburants et les tensions géopolitiques.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2310-20427-togo-un-projet-de-collectif-budgetaire-ramene-le-budget-2026-a-2744-2-milliards-fcfa"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "Togo : la cellule anti-blanchiment cible l'argent de la criminalité maritime",
+     "resume": "La CENTIF-Togo réunit environ 80 acteurs publics et privés, dont les banques, pour valider une évaluation des risques de blanchiment liés au trafic, à la contrebande et à la pêche illégale autour du port de Lomé.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2310-20431-togo-la-centif-cible-les-flux-financiers-de-la-criminalite-maritime"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "Afrique centrale : 17 retraits d'agrément prononcés par le superviseur en 2025",
+     "resume": "La Commission bancaire de l'Afrique centrale (COBAC) a retiré 17 agréments en 2025, signe d'un nettoyage du secteur financier dans la zone CEMAC.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2310-142709-cemac-la-cobac-a-prononce-17-retraits-d-agrement-en-2025"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-10-23",
+     "titre": "Corée du Sud : les stablecoins bientôt reconnus comme moyens de paiement",
+     "resume": "Le gouvernement et la Banque de Corée préparent une révision de la loi sur les changes pour encadrer les stablecoins comme instruments de paiement, avec un dispositif de surveillance des actifs virtuels.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-10-22",
+     "titre": "Le baril de Brent repasse au-dessus de 110 dollars",
+     "resume": "De nouvelles attaques en Arabie saoudite ont fait grimper le pétrole de référence au-delà de 110 dollars, ce qui renchérit les importations de carburant de la région.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/petrole-le-brent-depasse-110-dollars-apres-de-nouvelles-attaques-en-arabie-saoudite/"
+    }
+   ]
+  },
   {
    "date": "2026-10-24",
    "synthese": "La journée reste dominée par le port de Cotonou, désormais ouvert en continu, banques comprises, et par les résultats trimestriels des banques de la région ; s'y ajoutent la réorganisation du tribunal de commerce de Cotonou à partir du 26 octobre et de nouvelles données BCEAO qui placent le Bénin en tête de l'inclusion financière dans l'UEMOA.",
