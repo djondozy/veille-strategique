@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-25T05:30:39Z",
+ "derniereMaj": "2026-10-25T12:26:47Z",
  "brief": {
   "periode": "Semaine du 19 octobre 2026",
   "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
@@ -85,6 +85,19 @@
    ],
    "source": "La Marina",
    "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
+  },
+  {
+   "date": "2026-10-28",
+   "titre": "Décision de taux de la Réserve fédérale américaine (Fed)",
+   "detail": "Le mercredi 28 octobre, la banque centrale des États-Unis (la Fed) annonce ses taux, aujourd'hui entre 3,75 % et 4 %. Les marchés attendent à environ 80 % une pause, mais jugent probable une hausse en décembre, à cause de l'inflation entretenue par la flambée du pétrole. Le dollar et les taux américains influencent le coût des importations payées en dollars par les entreprises béninoises (carburant, équipements).",
+   "pourquoi": "Un ton plus dur de la Fed renforcerait le dollar face à l'euro, donc face au franc CFA, et renchérirait les importations et les financements en dollars de nos clients.",
+   "preparer": [
+    "Repérer les clients importateurs qui paient en dollars et leur proposer à temps des solutions de couverture ou d'achat de devises à terme.",
+    "Mettre à jour la note de conjoncture interne après l'annonce du 28 octobre, avec celle de la BCE du 29 octobre.",
+    "Vérifier l'exposition de la banque aux ressources et aux crédits en dollars."
+   ],
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
   },
   {
    "date": "2026-10-29",
@@ -419,6 +432,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-10-23",
+   "organisme": "Régulateurs des télécoms (Burkina, Bénin, Côte d'Ivoire, Sénégal)",
+   "titre": "Accords d'itinérance mobile entre le Burkina et trois pays de l'UEMOA",
+   "resume": "Les régulateurs du Burkina Faso, du Bénin, de la Côte d'Ivoire et du Sénégal ont signé à Ouagadougou des accords pour réduire le coût des appels, SMS et données mobiles des voyageurs ; la mise en œuvre reste à organiser avec les opérateurs.",
+   "implication": "Des communications moins chères entre pays faciliteront l'usage des applications bancaires et du mobile money par les commerçants et transporteurs qui circulent entre Cotonou, Ouagadougou et Abidjan.",
+   "pistes": [
+    "Vérifier que l'application mobile et les codes de validation par SMS fonctionnent bien en itinérance pour les clients en déplacement dans la sous-région.",
+    "Cibler les commerçants et transporteurs du corridor Cotonou–Ouagadougou avec une offre de paiements et transferts transfrontaliers.",
+    "Suivre l'entrée en vigueur des accords pour l'intégrer à la communication commerciale."
+   ],
+   "vigilance": "Aucune date d'application n'est fixée : le bénéfice réel dépendra des tarifs que les opérateurs appliqueront.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/10/roaming-le-burkina-signe-des-accords-avec-le-benin-la-cote-divoire-et-le-senegal/"
+  },
+  {
    "date": "2026-10-20",
    "organisme": "Ministère de la Santé du Bénin",
    "titre": "Ebola : le Bénin déclenche la phase de préalerte",
@@ -647,15 +675,50 @@
     "detail": "En 2025, 1er de l'UEMOA ; 39,8 % des adultes ont un compte au sens strict (BCEAO)",
     "source": "La Marina",
     "url": "https://lamarina.bj/2026/10/22/inclusion-financiere-le-benin-leader-sous-pression-dans-luemoa/"
+   },
+   {
+    "label": "Pauvreté au Bénin (seuil 4,20 $/jour)",
+    "valeur": "39,4 %",
+    "detail": "En 2025, contre 41,1 % en 2024 ; 34,5 % prévu en 2028 (Banque mondiale)",
+    "source": "Matin Libre",
+    "url": "https://matinlibre.com/2026/10/23/pauvrete-au-benin-un-indicateur-en-baisse-progressive-selon-les-dernieres-estimations-internationales/"
    }
   ],
   "actus": [
+   {
+    "date": "2026-10-23",
+    "titre": "Liberté économique : le Bénin 11e en Afrique (Institut Fraser)",
+    "resume": "Le pays se classe 99e dans le monde dans le rapport 2026, devant le Sénégal et la Namibie ; Maurice reste en tête du continent.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/liberte-economique-en-2026-le-benin-se-hisse-a-la-11%e1%b5%89-place-africaine-selon-le-rapport-de-linstitut-fraser/"
+   },
+   {
+    "date": "2026-10-23",
+    "titre": "Pauvreté : recul prévu à 34,5 % en 2028",
+    "resume": "La Banque mondiale estime à 39,4 % en 2025 la part de la population sous le seuil de 4,20 dollars par jour, contre 41,1 % en 2024, et prévoit 34,5 % en 2028 grâce à une croissance proche de 7,6 % par an.",
+    "source": "Matin Libre",
+    "url": "https://matinlibre.com/2026/10/23/pauvrete-au-benin-un-indicateur-en-baisse-progressive-selon-les-dernieres-estimations-internationales/"
+   },
    {
     "date": "2026-10-23",
     "titre": "Ebola : un cas importé au Nigeria, le Bénin en préalerte",
     "resume": "Un cas confirmé le 20 octobre à Abuja chez une voyageuse venue d'Ouganda, 44 contacts suivis et aucun nouveau cas au 24 octobre ; l'OMS déconseille toute restriction de voyage ou de commerce, et le Bénin a renforcé la surveillance à ses points d'entrée.",
     "source": "Organisation mondiale de la santé",
     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+   },
+   {
+    "date": "2026-10-23",
+    "titre": "Liberté économique : le Bénin 11e en Afrique",
+    "resume": "Le rapport 2026 de l'Institut Fraser sur la liberté économique classe le Bénin au 11e rang africain.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/liberte-economique-en-2026-le-benin-se-hisse-a-la-11%e1%b5%89-place-africaine-selon-le-rapport-de-linstitut-fraser/"
+   },
+   {
+    "date": "2026-10-22",
+    "titre": "Électricité : coupures liées aux importations du Ghana et du Nigeria",
+    "resume": "La SBEE et la SBPE expliquent les délestages de mi-octobre par une baisse de l'énergie fournie par les deux voisins, ce qui rappelle la dépendance du pays aux importations d'électricité.",
+    "source": "SRTB",
+    "url": "https://srtb.bj/benin-la-sbee-explique-les-raisons-des-dernieres-perturbations-electriques/"
    },
    {
     "date": "2026-10-22",
@@ -672,32 +735,11 @@
     "url": "https://beninwebtv.bj/petrole-le-brent-depasse-110-dollars-apres-de-nouvelles-attaques-en-arabie-saoudite/"
    },
    {
-    "date": "2026-10-21",
-    "titre": "État de droit : le Bénin 94e sur 143 pays",
-    "resume": "Le World Justice Project classe le Bénin 13e en Afrique avec un score de 0,47 ; la justice civile, qui conditionne le recouvrement des créances, reste au 108e rang mondial.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/etat-de-droit-le-benin-classe-94e-au-niveau-mondial-et-13e-en-afrique-en-2026-selon-le-wjp/"
-   },
-   {
-    "date": "2026-10-21",
-    "titre": "Parakou : budget communal 2027 en hausse de 34 %",
-    "resume": "5,29 milliards FCFA votés le 21 octobre pour l'éclairage solaire, la voirie, les écoles et la santé, signe d'une hausse des investissements des communes.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
-   },
-   {
     "date": "2026-10-22",
     "titre": "Inclusion financière : le Bénin en tête, mais moins de poids dans le mobile money",
     "resume": "Le Bénin a l'indice d'inclusion financière le plus élevé de l'UEMOA en 2025 et 21 % des cartes bancaires de l'Union, mais sa part dans la valeur des transactions de monnaie électronique est passée de 8,4 % en 2022 à 6,4 %.",
     "source": "La Marina",
     "url": "https://lamarina.bj/2026/10/22/inclusion-financiere-le-benin-leader-sous-pression-dans-luemoa/"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Liberté économique : le Bénin 11e en Afrique",
-    "resume": "Le rapport 2026 de l'Institut Fraser sur la liberté économique classe le Bénin au 11e rang africain.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/liberte-economique-en-2026-le-benin-se-hisse-a-la-11%e1%b5%89-place-africaine-selon-le-rapport-de-linstitut-fraser/"
    },
    {
     "date": "2026-10-22",
@@ -712,6 +754,20 @@
     "resume": "Sur 2 057 milliards FCFA d'émissions prévues dans l'UEMOA d'octobre à décembre, le Bénin n'inscrit aucun montant, signe d'un besoin de financement couvert pour 2026.",
     "source": "Le Jecos",
     "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
+   },
+   {
+    "date": "2026-10-21",
+    "titre": "État de droit : le Bénin 94e sur 143 pays",
+    "resume": "Le World Justice Project classe le Bénin 13e en Afrique avec un score de 0,47 ; la justice civile, qui conditionne le recouvrement des créances, reste au 108e rang mondial.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/etat-de-droit-le-benin-classe-94e-au-niveau-mondial-et-13e-en-afrique-en-2026-selon-le-wjp/"
+   },
+   {
+    "date": "2026-10-21",
+    "titre": "Parakou : budget communal 2027 en hausse de 34 %",
+    "resume": "5,29 milliards FCFA votés le 21 octobre pour l'éclairage solaire, la voirie, les écoles et la santé, signe d'une hausse des investissements des communes.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
    },
    {
     "date": "2026-10-21",
@@ -815,6 +871,13 @@
   ]
  },
  "groupe": [
+  {
+   "date": "2026-10-24",
+   "titre": "Ecobank Zimbabwe : lettre d'intention pour un prêt de 30 millions de dollars à une mine d'or",
+   "resume": "Facilité sur 30 mois pour la mine Redwing (Namib Minerals), non contraignante à ce stade ; Ecobank pourrait aussi diriger le financement de la construction.",
+   "source": "NewZimbabwe",
+   "url": "https://newzimbabwe.com/ecobank-extends-us30-million-loan-facility-to-local-miner"
+  },
   {
    "date": "2026-10-16",
    "titre": "Accord de principe de 138,5 milliards FCFA avec l'État béninois",
@@ -1418,6 +1481,20 @@
  "opportunites": [
   {
    "date": "2026-10-21",
+   "titre": "La BAD et UK Export Finance vont cofinancer des projets en Afrique",
+   "resume": "Premier accord-cadre entre la Banque africaine de développement et l'agence britannique de crédit à l'exportation : il combine prêts de développement et garanties export pour des projets publics et privés (énergie, infrastructures, eau, santé, numérique, agriculture, financement du commerce).",
+   "implication": "Les grands projets béninois pourront associer BAD et garanties britanniques, ce qui crée des places à prendre pour les banques locales comme arrangeur, banque de paiement ou prêteur aux sous-traitants.",
+   "pistes": [
+    "Recenser avec la direction Grandes entreprises les projets béninois (énergie, eau, santé) susceptibles d'un cofinancement BAD–UKEF et contacter leurs promoteurs.",
+    "Proposer aux entreprises béninoises sous-traitantes de ces projets des cautions de marché et des préfinancements adossés aux contrats.",
+    "Étudier avec le groupe une offre de financement du commerce s'appuyant sur les garanties UKEF pour les importateurs d'équipements britanniques."
+   ],
+   "vigilance": "Le protocole ne fixe ni montant ni pays : il faut attendre des projets concrets avant d'engager des ressources commerciales.",
+   "source": "Banque africaine de développement",
+   "url": "https://www.afdb.org/fr/news-and-events/press-releases/wcaf-v-groupe-banque-africaine-developpement-uk-97801"
+  },
+  {
+   "date": "2026-10-21",
    "titre": "Zone industrielle de Glo-Djigbé : plus de 625 MW d'électricité en projet",
    "resume": "La SIPI-Bénin, qui gère la zone de Glo-Djigbé (GDIZ), annonce une centrale thermique au gaz de plus de 225 MW à déployer dans les prochains mois, 300 MW de centrales solaires (premier chantier sous 18 mois) et environ 100 MW de panneaux sur les toits des entrepôts ; aucun montant ni financeur n'est encore publié.",
    "implication": "Ces chantiers vont créer des besoins de financement, de cautions et de paiements pour les constructeurs, les sous-traitants et les industriels de la zone, que les banques locales peuvent capter.",
@@ -1688,12 +1765,15 @@
   "World Justice Project (WJP)": "Organisation indépendante qui publie chaque année un indice de l'État de droit mesurant, pays par pays, la justice, la corruption et le respect des règles.",
   "loi de finances rectificative": "Loi qui modifie en cours d'année le budget de l'État voté initialement (aussi appelée collectif budgétaire).",
   "FNRB": "Fonds national des retraites du Bénin : il verse les pensions des anciens agents de l'État.",
-  "plan de continuité d'activité": "Plan qui prévoit comment la banque continue de servir ses clients en cas de crise (épidémie, panne, catastrophe)."
+  "plan de continuité d'activité": "Plan qui prévoit comment la banque continue de servir ses clients en cas de crise (épidémie, panne, catastrophe).",
+  "Fed": "Réserve fédérale des États-Unis, la banque centrale américaine, dont les décisions de taux influencent le dollar et les marchés du monde entier.",
+  "itinérance (roaming)": "Possibilité d'utiliser sa carte SIM et son forfait sur le réseau d'un opérateur étranger lors d'un voyage.",
+  "seuil de pauvreté international": "Niveau de revenu journalier (ici 4,20 dollars par personne) utilisé par la Banque mondiale pour comparer la pauvreté entre pays."
  },
  "journal": [
   {
    "date": "2026-10-25",
-   "synthese": "La journée est dominée par le premier cas d'Ebola au Nigeria : aucun nouveau cas, 44 contacts suivis et le Bénin en préalerte, sans restriction de commerce recommandée par l'OMS ; s'y ajoutent la chute du naira, un pétrole au-dessus de 110 dollars et l'ouverture de la session budgétaire à l'Assemblée nationale.",
+   "synthese": "Le premier cas d'Ebola au Nigeria reste isolé (aucun nouveau cas, Bénin en préalerte) ; la journée met aussi en avant la vitrine industrielle de Glo-Djigbé devant des investisseurs africains, de nouveaux classements favorables au Bénin (pauvreté en recul, liberté économique) et des coupures d'électricité liées aux importations du Ghana et du Nigeria.",
    "articles": [
     {
      "theme": "Afrique",
@@ -1806,6 +1886,62 @@
      "resume": "De nouvelles attaques en Arabie saoudite ont fait grimper le pétrole de référence au-delà de 110 dollars, ce qui renchérit les importations de carburant de la région.",
      "source": "Bénin Web TV",
      "url": "https://beninwebtv.bj/petrole-le-brent-depasse-110-dollars-apres-de-nouvelles-attaques-en-arabie-saoudite/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-24",
+     "titre": "Zone industrielle de Glo-Djigbé : plus de 25 000 emplois mis en avant devant des investisseurs africains",
+     "resume": "À l'issue du forum des zones économiques spéciales organisé avec Afreximbank, des investisseurs venus du Cameroun, d'Afrique du Sud et du Nigeria ont visité la zone (1 640 hectares, plus de 20 usines en activité), dont une usine de carrelage produisant 10 000 m² par jour.",
+     "source": "Banouto",
+     "url": "https://www.banouto.bj/economie/article/20261024-forum-des-zones-economiques-speciales-les-participants-decouvrent-a-la-gdiz-le-modele-industriel-beninois"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-23",
+     "titre": "Pauvreté : la Banque mondiale prévoit un recul à 34,5 % en 2028",
+     "resume": "Selon le dernier rapport de la Banque mondiale, la part des Béninois vivant avec moins de 4,20 dollars par jour est passée de 41,1 % en 2024 à 39,4 % en 2025 et devrait tomber à 34,5 % en 2028, portée par une croissance d'environ 7,6 % par an.",
+     "source": "Matin Libre",
+     "url": "https://matinlibre.com/2026/10/23/pauvrete-au-benin-un-indicateur-en-baisse-progressive-selon-les-dernieres-estimations-internationales/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-22",
+     "titre": "Coupures d'électricité : la SBEE invoque une baisse des livraisons du Ghana et du Nigeria",
+     "resume": "La société d'électricité (SBEE) et la société de production (SBPE) attribuent les perturbations récentes dans plusieurs localités à la limitation de l'énergie importée des deux pays voisins, sans donner de date de retour à la normale.",
+     "source": "SRTB",
+     "url": "https://srtb.bj/benin-la-sbee-explique-les-raisons-des-dernieres-perturbations-electriques/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-24",
+     "titre": "Itinérance mobile : le Burkina signe des accords avec le Bénin, la Côte d'Ivoire et le Sénégal",
+     "resume": "Signés le 23 octobre à Ouagadougou par les régulateurs des télécoms, ces accords visent à rendre moins chers les appels, SMS et données des voyageurs entre les quatre pays ; leur date d'application n'est pas encore connue.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/roaming-le-burkina-signe-des-accords-avec-le-benin-la-cote-divoire-et-le-senegal/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-23",
+     "titre": "BCEAO : 6 550 milliards FCFA proposés aux banques lundi 26 octobre",
+     "resume": "La banque centrale met ce montant en adjudication sur ses guichets hebdomadaire, mensuel et de refinancement, au taux minimum de 3 % ; son apport total de liquidité aux banques atteint 6 700 milliards FCFA.",
+     "source": "BCEAO",
+     "url": "https://www.bceao.int/fr/appels-offres/avis-dappel-doffres-des-adjudication-ndeg43h2026-11m2026-et-11odr2026-du-26-octobre"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "La BAD et l'assureur-crédit britannique UKEF s'allient pour cofinancer des projets africains",
+     "resume": "Signé le 21 octobre à Conakry, ce premier protocole entre la Banque africaine de développement et UK Export Finance vise des projets publics et privés dans l'énergie, les infrastructures, l'eau, la santé, le numérique, l'agriculture et le financement du commerce.",
+     "source": "Banque africaine de développement",
+     "url": "https://www.afdb.org/fr/news-and-events/press-releases/wcaf-v-groupe-banque-africaine-developpement-uk-97801"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-10-24",
+     "titre": "Ecobank Zimbabwe : accord de principe pour un prêt de 30 millions de dollars à une mine d'or",
+     "resume": "La filiale zimbabwéenne a signé une lettre d'intention non contraignante pour financer sur 30 mois le développement de la mine Redwing (groupe Namib Minerals), et pourrait diriger le financement de la phase de construction.",
+     "source": "NewZimbabwe",
+     "url": "https://newzimbabwe.com/ecobank-extends-us30-million-loan-facility-to-local-miner"
     }
    ]
   },
