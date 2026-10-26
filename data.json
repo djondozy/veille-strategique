@@ -1,74 +1,74 @@
 {
- "derniereMaj": "2026-10-25T12:26:47Z",
+ "derniereMaj": "2026-10-26T05:19:40Z",
  "brief": {
-  "periode": "Semaine du 19 octobre 2026",
-  "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
-  "intro": "Les cinq informations publiques de la semaine qui comptent le plus pour la banque au Bénin, classées par importance.",
+  "periode": "Semaine du 26 octobre 2026",
+  "titre": "Une semaine avant le 2 novembre : paiement instantané obligatoire et nouvel accord commercial avec les Émirats",
+  "intro": "Les cinq informations publiques qui comptent le plus pour la banque au Bénin cette semaine, classées par importance.",
   "points": [
    {
-    "titre": "PI-SPI devient obligatoire le 2 novembre",
-    "texte": "Les transferts interopérables entre particuliers devront passer par la plateforme de paiement instantané de la BCEAO. Les transferts nationaux sont gratuits jusqu'à 8 000 FCFA cumulés par jour.",
-    "implication": "Les clients compareront rapidement les offres de virement instantané des banques et des wallets : l'expérience dans l'application devient un argument commercial.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
+    "titre": "Le 2 novembre, PI-SPI devient obligatoire et les plafonds du mobile money doublent",
+    "texte": "Dans une semaine, les transferts interopérables entre particuliers devront passer par la plateforme de paiement instantané de la BCEAO, gratuite pour les virements nationaux jusqu'à 8 000 FCFA cumulés par jour. Le même jour, le solde maximal d'un compte mobile money passe de 2 à 4 millions FCFA et le cumul mensuel des rechargements de 10 à 15 millions FCFA.",
+    "implication": "Les clients pourront comparer en quelques secondes le virement de leur banque et celui de leur wallet, et garder plus d'argent sur leur téléphone : la qualité de l'application et la collecte des dépôts sont en jeu dès la semaine prochaine.",
     "pistes": [
-     "Rendre le virement instantané visible et simple dans l'application dès le 2 novembre, avec une communication clients.",
-     "Lancer des usages au-dessus de PI-SPI : paiement marchand par QR code, demande de paiement, paiement des salaires en instantané.",
-     "Former les agences pour répondre aux questions des clients sur la gratuité jusqu'à 8 000 FCFA par jour."
+     "Tester d'ici vendredi le parcours de virement instantané dans l'application et en agence, et corriger les blocages.",
+     "Préparer un message clients simple sur la gratuité jusqu'à 8 000 FCFA par jour et la rapidité des virements.",
+     "Proposer aux clients des wallets une passerelle gratuite vers un compte épargne rémunéré pour retenir les soldes qui grossissent."
     ],
-    "vigilance": "Baisse possible des commissions sur les petits virements et comparaison directe avec les wallets."
+    "vigilance": "Une panne ou un parcours compliqué le 2 novembre serait immédiatement visible face aux opérateurs mobiles.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
    },
    {
-    "titre": "La BCEAO double le plafond des comptes mobile money",
-    "texte": "À partir du 2 novembre, le solde maximal passe de 2 à 4 millions FCFA par client et le cumul mensuel des rechargements de 10 à 15 millions FCFA.",
-    "implication": "Les opérateurs de mobile money peuvent capter davantage de dépôts : un enjeu pour la collecte de ressources de la banque.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/finance/1210-20307-uemoa-la-bceao-double-le-plafond-des-comptes-mobile-money-a-l-heure-de-pi-spi",
+    "titre": "Le Bénin signe un accord de partenariat économique global avec les Émirats arabes unis",
+    "texte": "Signé le 25 octobre à Abou Dhabi, l'accord doit, après ratification, réduire ou supprimer les droits de douane sur environ 97 % des échanges et faciliter l'investissement. Le commerce hors pétrole entre les deux pays a atteint 2,15 milliards de dollars en 2025 (+65 %) et les Émirats visent plus d'un milliard de dollars d'exportations supplémentaires vers le Bénin d'ici 2033.",
+    "implication": "Le Golfe devient un partenaire commercial de premier plan : financements du commerce, paiements en dollars et accompagnement des investisseurs émiratis vont se développer.",
     "pistes": [
-     "Renforcer les passerelles compte bancaire ↔ wallet pour capter les fonds qui transitent par le mobile money.",
-     "Proposer des produits d'épargne simples et accessibles par téléphone aux clients des wallets.",
-     "Étudier des partenariats avec MTN MoMo et Moov Money (cash-in/cash-out, cartes liées aux wallets)."
+     "Recenser les clients qui commercent déjà avec les Émirats (coton, noix, soja, textile, électronique) et leur proposer lettres de crédit et préfinancement.",
+     "Étudier avec le groupe des lignes de financement du commerce ou des correspondants bancaires aux Émirats.",
+     "Préparer une offre d'accueil pour les entreprises émiraties qui s'installent, notamment à Glo-Djigbé."
     ],
-    "vigilance": "Fuite de dépôts de la clientèle de détail vers les wallets, surtout pour les petits soldes."
+    "vigilance": "L'accord n'est pas encore en vigueur, et les flux liés à l'or demandent une vigilance anti-blanchiment renforcée.",
+    "source": "Bénin Intelligent / The National",
+    "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
    },
    {
-    "titre": "Le port de Cotonou fonctionne désormais 24h/24 et 7j/7, banques comprises",
-    "texte": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés sans interruption, y compris le week-end et les jours fériés. Les banques installées dans l'enceinte portuaire font partie des acteurs appelés à assurer leurs prestations en continu.",
-    "implication": "Les importateurs et transitaires vont chercher une banque capable de régler droits et frais portuaires à toute heure : c'est un critère de choix nouveau sur les flux du commerce extérieur.",
+    "titre": "Le port de Cotonou entame sa première semaine complète en service continu",
+    "texte": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés 24h/24 et 7j/7, y compris le week-end et les jours fériés. Les banques installées dans l'enceinte portuaire sont appelées à suivre ce rythme.",
+    "implication": "Les importateurs et transitaires vont privilégier les banques capables de payer droits et frais portuaires à toute heure.",
     "pistes": [
-     "Vérifier que les paiements des droits de douane et frais portuaires sont possibles le soir et le week-end depuis la banque en ligne et via PI-SPI.",
-     "Proposer aux transitaires et commissionnaires agréés en douane un service de paiement et de caution disponible 7j/7, avec un interlocuteur dédié.",
-     "Étudier une permanence ou un point de service adapté au port pour capter les opérations hors heures ouvrables."
+     "Vérifier que le paiement des droits de douane et des frais portuaires fonctionne le week-end, en ligne et au guichet du port.",
+     "Proposer aux transitaires une ligne de crédit de trésorerie courte pour régler les frais sans attendre.",
+     "Mesurer la fréquentation du week-end pour ajuster les effectifs du point de service portuaire."
     ],
-    "vigilance": "Le fonctionnement continu suppose des contrôles de conformité et de fraude eux aussi actifs la nuit et le week-end.",
+    "vigilance": "Des opérations le week-end sans contrôle renforcé augmentent le risque de fraude sur les paiements.",
     "source": "La Nouvelle Tribune",
     "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
    },
    {
-    "titre": "La BIIC dépasse 600 milliards FCFA de capitalisation boursière",
-    "texte": "L'action de la banque béninoise a presque doublé depuis son introduction à la BRVM en avril 2025, et son produit net bancaire a progressé de 19 % au premier semestre 2026.",
-    "implication": "Un concurrent local qui gagne en puissance financière et en visibilité auprès des investisseurs.",
-    "source": "Agence Ecofin",
-    "url": "https://www.ecofinagency.com/news-finances/1409-58851-benin-s-biic-tops-1-billion-market-cap-as-share-price-nearly-doubles-since-2025-ipo",
+    "titre": "Le tribunal de commerce de Cotonou fonctionne en six chambres spécialisées depuis ce lundi",
+    "texte": "Depuis le 26 octobre, les dossiers sont répartis entre des chambres dédiées, notamment aux procédures collectives et litiges financiers, aux saisies immobilières et aux référés. Les renvois d'audience sont limités à environ une semaine dans plusieurs procédures.",
+    "implication": "Les dossiers de recouvrement et de saisie de la banque peuvent avancer plus vite, à condition d'être complets dès la première audience.",
     "pistes": [
-     "Suivre de près les offres de la BIIC auprès des grands comptes publics et des entreprises de l'État.",
-     "Mettre en avant la force du réseau panafricain du groupe pour les clients qui commercent avec la région.",
-     "Valoriser publiquement les résultats et le dividende de la filiale pour soutenir l'image de solidité."
+     "Faire le point avec les avocats sur la chambre compétente pour chaque dossier contentieux.",
+     "Compléter en priorité les pièces des dossiers de recouvrement les plus importants.",
+     "Suivre les premières décisions pour ajuster les prévisions de recouvrement et de provisions."
     ],
-    "vigilance": "Une banque mieux capitalisée peut prêter davantage et proposer des conditions plus agressives."
+    "vigilance": "Un dossier incomplet sera plus vite tranché, y compris en défaveur de la banque.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
    },
    {
-    "titre": "Le FMI prévoit 7 % de croissance au Bénin en 2026",
-    "texte": "Le pays se classe parmi les cinq économies à plus forte croissance d'Afrique subsaharienne selon les prévisions publiées en octobre.",
-    "implication": "Une demande de crédit soutenue à anticiper, notamment des entreprises liées aux grands projets publics.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/",
+    "titre": "Dette régionale : le Sénégal paie plus de 8 % et sa loi de finances est bloquée",
+    "texte": "Lors de l'adjudication du 23 octobre sur UMOA-Titres, le Sénégal a emprunté à plus de 8 %, ce qui relance le débat sur l'encadrement des taux. Sa loi de finances rectificative, rejetée en commission, doit être examinée en plénière le 27 octobre alors qu'un programme FMI est en préparation.",
+    "implication": "Le marché régional des titres publics, où la banque place une part de sa trésorerie, devient plus sélectif : les rendements montent pour les États fragiles, tandis que le Bénin reste absent du calendrier d'émissions du quatrième trimestre.",
     "pistes": [
-     "Cibler les secteurs porteurs (BTP, agro-industrie, logistique portuaire, énergie) avec des offres de crédit dédiées.",
-     "Accompagner les PME sous-traitantes des grands projets publics (préfinancement, affacturage, cautions).",
-     "Développer le financement du commerce (lettres de crédit, garanties) avec les importateurs."
+     "Revoir la répartition du portefeuille de titres publics par pays et par échéance au vu du risque sénégalais.",
+     "Proposer aux clients fortunés et institutionnels des placements en titres publics bien notés, en expliquant le rapport rendement-risque.",
+     "Suivre l'issue du vote du 27 octobre et ses effets sur les prochaines adjudications."
     ],
-    "vigilance": "Une croissance tirée par l'investissement public peut ralentir si le budget de l'État se resserre."
+    "vigilance": "Une dégradation de la situation sénégalaise pourrait peser sur la valeur des titres détenus et sur la liquidité du marché.",
+    "source": "Financial Afrik",
+    "url": "https://www.financialafrik.com/2026/10/25/le-senegal-emprunte-a-plus-de-8-sur-umoa-titres-faut-il-reguler-les-taux/"
    }
   ]
  },
@@ -98,6 +98,32 @@
    ],
    "source": "Forbes",
    "url": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
+  },
+  {
+   "date": "2026-10-28",
+   "titre": "Salon de l'investissement et de l'accompagnement des PME (SInAEB) à Cotonou",
+   "detail": "Les 28 et 29 octobre, le Palais des congrès de Cotonou accueille la première édition du SInAEB, un salon qui aide les petites et moyennes entreprises (PME) à préparer leurs demandes de financement : conférences, rencontres d'affaires (B2B) et entretiens de vingt minutes avec des experts. Plus de 600 participants et 40 stands sont attendus ; la BSIC Bénin, la Chambre de commerce (CCI Bénin) et l'Agence de développement des PME (ADPME) sont partenaires.",
+   "pourquoi": "Une occasion de rencontrer en deux jours de nombreuses PME qui cherchent un crédit, alors qu'un concurrent y sera partenaire.",
+   "preparer": [
+    "Désigner une équipe de chargés d'affaires PME pour être présente sur les deux jours.",
+    "Préparer une fiche claire des conditions et des pièces à fournir pour un crédit PME.",
+    "Organiser le suivi des contacts dans les quinze jours suivant le salon."
+   ],
+   "source": "Cadre Éco",
+   "url": "https://cadreco.media/entreprises/2026/financement-des-pme-au-benin-le-sinaeb-veut-rapprocher-entreprises-et-investisseurs"
+  },
+  {
+   "date": "2026-10-28",
+   "titre": "Troisième sommet Russie-Afrique à Moscou, avec le président béninois",
+   "detail": "Les 28 et 29 octobre, Moscou accueille le troisième sommet Russie-Afrique, consacré au commerce, à l'investissement et à l'innovation ; le président Romuald Wadagni y est attendu après sa visite aux Émirats arabes unis. Des accords bilatéraux peuvent y être annoncés, par exemple dans l'énergie, les engrais ou l'agriculture.",
+   "pourquoi": "De nouveaux accords pourraient créer des flux commerciaux pour nos clients, mais tout paiement lié à la Russie doit être vérifié au regard des sanctions internationales.",
+   "preparer": [
+    "Suivre les accords annoncés et repérer les clients béninois concernés.",
+    "Rappeler aux équipes commerce extérieur et conformité les règles de filtrage des sanctions sur les opérations liées à la Russie.",
+    "Vérifier avec les correspondants bancaires du groupe les canaux de paiement acceptés."
+   ],
+   "source": "Les 4 Vérités",
+   "url": "https://www.les4verites.bj/wadagni-decroche-un-accord-economique-majeur-a-abou-dhabi/"
   },
   {
    "date": "2026-10-29",
@@ -204,12 +230,6 @@
      "texte": "Produit net bancaire en hausse de 19 % au premier semestre 2026.",
      "source": "Financial Afrik",
      "url": "https://www.financialafrik.com/2026/09/23/banques-hausse-de-19-du-produit-net-bancaire-de-la-banque-internationale-pour-lindustrie-et-le-commerce-du-benin-au-premier-semestre-2026/"
-    },
-    {
-     "date": "2026-09-14",
-     "texte": "Capitalisation boursière d'environ 604 milliards FCFA ; l'action a presque doublé depuis l'introduction en bourse.",
-     "source": "Agence Ecofin",
-     "url": "https://www.ecofinagency.com/news-finances/1409-58851-benin-s-biic-tops-1-billion-market-cap-as-share-price-nearly-doubles-since-2025-ipo"
     },
     {
      "date": "2026-07-31",
@@ -387,6 +407,12 @@
    "type": "Banque",
    "resume": "Filiale de la Banque sahélo-saharienne pour l'investissement et le commerce.",
    "actus": [
+    {
+     "date": "2026-10-23",
+     "texte": "Partenaire du premier Salon de l'investissement et de l'accompagnement des entreprises au Bénin (SInAEB), consacré à la préparation des PME au financement, les 28 et 29 octobre à Cotonou.",
+     "source": "Cadre Éco",
+     "url": "https://cadreco.media/entreprises/2026/financement-des-pme-au-benin-le-sinaeb-veut-rapprocher-entreprises-et-investisseurs"
+    },
     {
      "date": "2026-01-23",
      "texte": "Ouverture d'un centre d'affaires dans la zone industrielle de Glo-Djigbé (GDIZ), 13e point de service du réseau, dédié au financement du commerce, aux crédits documentaires et aux garanties.",
@@ -682,9 +708,51 @@
     "detail": "En 2025, contre 41,1 % en 2024 ; 34,5 % prévu en 2028 (Banque mondiale)",
     "source": "Matin Libre",
     "url": "https://matinlibre.com/2026/10/23/pauvrete-au-benin-un-indicateur-en-baisse-progressive-selon-les-dernieres-estimations-internationales/"
+   },
+   {
+    "label": "Commerce Bénin–Émirats (hors pétrole)",
+    "valeur": "2,15 Md $",
+    "detail": "En 2025, +65 % ; 1,29 Md $ au 1er semestre 2026 (+37,4 %)",
+    "source": "The National (agence WAM)",
+    "url": "https://www.thenationalnews.com/news/uae/2026/10/25/uae-and-benin-agree-trade-deal-in-abu-dhabi/"
+   },
+   {
+    "label": "Comptes de monnaie électronique actifs au Bénin",
+    "valeur": "28,6 %",
+    "detail": "11,7 millions actifs sur 40,7 millions en 2025 (UEMOA : 32,6 %)",
+    "source": "Agence Ecofin (BCEAO)",
+    "url": "https://www.agenceecofin.com/actualites-finance/2210-142638-uemoa-192-millions-de-comptes-de-monnaie-electronique-inactifs-en-2025"
    }
   ],
   "actus": [
+   {
+    "date": "2026-10-25",
+    "titre": "Accord de partenariat économique global avec les Émirats arabes unis",
+    "resume": "Environ 97 % des échanges concernés par la baisse des droits de douane après ratification ; les Émirats visent plus d'un milliard de dollars d'exportations supplémentaires vers le Bénin d'ici 2033.",
+    "source": "Bénin Intelligent",
+    "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
+   },
+   {
+    "date": "2026-10-25",
+    "titre": "Sénégal : emprunt à plus de 8 % sur UMOA-Titres",
+    "resume": "Le coût élevé de la dette sénégalaise relance le débat sur les taux du marché régional, au moment où la loi de finances rectificative est bloquée au Parlement.",
+    "source": "Financial Afrik",
+    "url": "https://www.financialafrik.com/2026/10/25/le-senegal-emprunte-a-plus-de-8-sur-umoa-titres-faut-il-reguler-les-taux/"
+   },
+   {
+    "date": "2026-10-25",
+    "titre": "Ebola : un seul cas au Nigeria, aucun contact positif",
+    "resume": "53 contacts sont suivis pendant 21 jours ; le Bénin reste en phase de préalerte.",
+    "source": "Premium Times",
+    "url": "https://www.premiumtimesng.com/health/health-news/920169-ebola-ncdc-warns-misinformation-could-undermine-nigerias-response.html"
+   },
+   {
+    "date": "2026-10-23",
+    "titre": "Burkina Faso : 2 800 milliards FCFA pour l'électrification",
+    "resume": "Programme sur dix ans pour raccorder 6 700 localités, avec de gros besoins de fournisseurs et d'équipements.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/10/23/burkina-faso/politique/burkina-faso-le-gouvernement-lance-lelectrification-pour-tous-dici-2030_201912.html"
+   },
    {
     "date": "2026-10-23",
     "titre": "Liberté économique : le Bénin 11e en Afrique (Institut Fraser)",
@@ -705,13 +773,6 @@
     "resume": "Un cas confirmé le 20 octobre à Abuja chez une voyageuse venue d'Ouganda, 44 contacts suivis et aucun nouveau cas au 24 octobre ; l'OMS déconseille toute restriction de voyage ou de commerce, et le Bénin a renforcé la surveillance à ses points d'entrée.",
     "source": "Organisation mondiale de la santé",
     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Liberté économique : le Bénin 11e en Afrique",
-    "resume": "Le rapport 2026 de l'Institut Fraser sur la liberté économique classe le Bénin au 11e rang africain.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/liberte-economique-en-2026-le-benin-se-hisse-a-la-11%e1%b5%89-place-africaine-selon-le-rapport-de-linstitut-fraser/"
    },
    {
     "date": "2026-10-22",
@@ -929,6 +990,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-10-22",
+   "titre": "Mobile money : sept comptes sur dix inactifs au Bénin",
+   "resume": "Le tableau de bord de la BCEAO recense 40,7 millions de comptes de monnaie électronique au Bénin en 2025, dont 11,7 millions actifs (au moins une opération en 90 jours), soit 28,6 % contre 32,6 % en moyenne dans l'UEMOA.",
+   "implication": "Le nombre de comptes ne dit pas l'usage réel : beaucoup de Béninois ont plusieurs wallets peu utilisés, ce qui laisse une place à une offre bancaire simple qui devient l'outil du quotidien.",
+   "pistes": [
+    "Mesurer le taux d'activité de nos propres comptes et cartes et lancer une campagne de réactivation ciblée avant le 2 novembre.",
+    "Proposer un compte bancaire relié aux wallets avec des virements PI-SPI gratuits jusqu'au plafond réglementaire pour devenir le compte principal.",
+    "Cibler les commerçants qui encaissent déjà par mobile money avec une offre de paiement marchand et d'épargne automatique."
+   ],
+   "vigilance": "Les comptes inactifs coûtent (conformité, fraude, maintenance) : toute campagne d'ouverture doit viser l'usage, pas le nombre.",
+   "source": "Agence Ecofin",
+   "url": "https://www.agenceecofin.com/actualites-finance/2210-142638-uemoa-192-millions-de-comptes-de-monnaie-electronique-inactifs-en-2025"
+  },
   {
    "date": "2026-10-23",
    "titre": "Corée du Sud : les stablecoins reconnus comme moyens de paiement",
@@ -1480,6 +1555,34 @@
  },
  "opportunites": [
   {
+   "date": "2026-10-25",
+   "titre": "Accord de partenariat économique global entre le Bénin et les Émirats arabes unis",
+   "resume": "Signé à Abou Dhabi, l'accord doit, une fois ratifié, supprimer ou réduire les droits de douane sur environ 97 % des échanges et faciliter les services et l'investissement ; le commerce hors pétrole a atteint 2,15 milliards de dollars en 2025 et 1,29 milliard au premier semestre 2026 (+37,4 %).",
+   "implication": "Des flux commerciaux accrus avec le Golfe (or, textile, électronique, coton, noix, soja) vont demander davantage de financements du commerce, de paiements en dollars et de garanties, un terrain où les banques à réseau international ont un avantage.",
+   "pistes": [
+    "Recenser les clients importateurs et exportateurs déjà actifs avec les Émirats (coton, noix de cajou, soja, textile de la zone de Glo-Djigbé) et leur présenter une offre de lettres de crédit et de préfinancement export.",
+    "Étudier des accords de correspondance bancaire ou des lignes de financement du commerce avec des banques émiraties pour réduire le coût des paiements en dollars.",
+    "Proposer aux investisseurs émiratis qui s'installent au Bénin un accompagnement complet : comptes, change, paiements des salaires et cautions de marché."
+   ],
+   "vigilance": "L'accord n'entrera en vigueur qu'après ratification et ses modalités restent à définir ; les flux liés à l'or exigent une vigilance renforcée contre le blanchiment.",
+   "source": "Bénin Intelligent / The National",
+   "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
+  },
+  {
+   "date": "2026-10-23",
+   "titre": "Un salon pour préparer les PME au financement (SInAEB, 28-29 octobre)",
+   "resume": "Le premier Salon de l'investissement et de l'accompagnement des entreprises au Bénin réunira plus de 600 participants et 40 stands au Palais des congrès de Cotonou, avec rencontres d'affaires et entretiens individuels avec des experts ; la BSIC Bénin figure parmi les partenaires.",
+   "implication": "Un vivier de PME qui préparent une demande de crédit sera réuni en deux jours, et un concurrent y sera déjà visible.",
+   "pistes": [
+    "Envoyer une équipe PME pour rencontrer les entreprises présentes et repérer les dossiers finançables.",
+    "Présenter une liste simple des pièces à fournir pour un crédit PME et des garanties partielles disponibles (fonds de garantie, BOAD, BAD).",
+    "Proposer aux chefs d'entreprise un rendez-vous de suivi en agence dans les quinze jours."
+   ],
+   "vigilance": "Beaucoup de PME arrivent sans états financiers fiables : il faut éviter des promesses de financement avant analyse.",
+   "source": "Cadre Éco",
+   "url": "https://cadreco.media/entreprises/2026/financement-des-pme-au-benin-le-sinaeb-veut-rapprocher-entreprises-et-investisseurs"
+  },
+  {
    "date": "2026-10-21",
    "titre": "La BAD et UK Export Finance vont cofinancer des projets en Afrique",
    "resume": "Premier accord-cadre entre la Banque africaine de développement et l'agence britannique de crédit à l'exportation : il combine prêts de développement et garanties export pour des projets publics et privés (énergie, infrastructures, eau, santé, numérique, agriculture, financement du commerce).",
@@ -1713,7 +1816,79 @@
    }
   ]
  },
- "archives": [],
+ "archives": [
+  {
+   "periode": "Semaine du 19 octobre 2026",
+   "titre": "PI-SPI obligatoire le 2 novembre et un port de Cotonou ouvert 24h/24",
+   "points": [
+    {
+     "titre": "PI-SPI devient obligatoire le 2 novembre",
+     "texte": "Les transferts interopérables entre particuliers devront passer par la plateforme de paiement instantané de la BCEAO. Les transferts nationaux sont gratuits jusqu'à 8 000 FCFA cumulés par jour.",
+     "implication": "Les clients compareront rapidement les offres de virement instantané des banques et des wallets : l'expérience dans l'application devient un argument commercial.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
+     "pistes": [
+      "Rendre le virement instantané visible et simple dans l'application dès le 2 novembre, avec une communication clients.",
+      "Lancer des usages au-dessus de PI-SPI : paiement marchand par QR code, demande de paiement, paiement des salaires en instantané.",
+      "Former les agences pour répondre aux questions des clients sur la gratuité jusqu'à 8 000 FCFA par jour."
+     ],
+     "vigilance": "Baisse possible des commissions sur les petits virements et comparaison directe avec les wallets."
+    },
+    {
+     "titre": "La BCEAO double le plafond des comptes mobile money",
+     "texte": "À partir du 2 novembre, le solde maximal passe de 2 à 4 millions FCFA par client et le cumul mensuel des rechargements de 10 à 15 millions FCFA.",
+     "implication": "Les opérateurs de mobile money peuvent capter davantage de dépôts : un enjeu pour la collecte de ressources de la banque.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/finance/1210-20307-uemoa-la-bceao-double-le-plafond-des-comptes-mobile-money-a-l-heure-de-pi-spi",
+     "pistes": [
+      "Renforcer les passerelles compte bancaire ↔ wallet pour capter les fonds qui transitent par le mobile money.",
+      "Proposer des produits d'épargne simples et accessibles par téléphone aux clients des wallets.",
+      "Étudier des partenariats avec MTN MoMo et Moov Money (cash-in/cash-out, cartes liées aux wallets)."
+     ],
+     "vigilance": "Fuite de dépôts de la clientèle de détail vers les wallets, surtout pour les petits soldes."
+    },
+    {
+     "titre": "Le port de Cotonou fonctionne désormais 24h/24 et 7j/7, banques comprises",
+     "texte": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés sans interruption, y compris le week-end et les jours fériés. Les banques installées dans l'enceinte portuaire font partie des acteurs appelés à assurer leurs prestations en continu.",
+     "implication": "Les importateurs et transitaires vont chercher une banque capable de régler droits et frais portuaires à toute heure : c'est un critère de choix nouveau sur les flux du commerce extérieur.",
+     "pistes": [
+      "Vérifier que les paiements des droits de douane et frais portuaires sont possibles le soir et le week-end depuis la banque en ligne et via PI-SPI.",
+      "Proposer aux transitaires et commissionnaires agréés en douane un service de paiement et de caution disponible 7j/7, avec un interlocuteur dédié.",
+      "Étudier une permanence ou un point de service adapté au port pour capter les opérations hors heures ouvrables."
+     ],
+     "vigilance": "Le fonctionnement continu suppose des contrôles de conformité et de fraude eux aussi actifs la nuit et le week-end.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
+    },
+    {
+     "titre": "La BIIC dépasse 600 milliards FCFA de capitalisation boursière",
+     "texte": "L'action de la banque béninoise a presque doublé depuis son introduction à la BRVM en avril 2025, et son produit net bancaire a progressé de 19 % au premier semestre 2026.",
+     "implication": "Un concurrent local qui gagne en puissance financière et en visibilité auprès des investisseurs.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1409-58851-benin-s-biic-tops-1-billion-market-cap-as-share-price-nearly-doubles-since-2025-ipo",
+     "pistes": [
+      "Suivre de près les offres de la BIIC auprès des grands comptes publics et des entreprises de l'État.",
+      "Mettre en avant la force du réseau panafricain du groupe pour les clients qui commercent avec la région.",
+      "Valoriser publiquement les résultats et le dividende de la filiale pour soutenir l'image de solidité."
+     ],
+     "vigilance": "Une banque mieux capitalisée peut prêter davantage et proposer des conditions plus agressives."
+    },
+    {
+     "titre": "Le FMI prévoit 7 % de croissance au Bénin en 2026",
+     "texte": "Le pays se classe parmi les cinq économies à plus forte croissance d'Afrique subsaharienne selon les prévisions publiées en octobre.",
+     "implication": "Une demande de crédit soutenue à anticiper, notamment des entreprises liées aux grands projets publics.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/",
+     "pistes": [
+      "Cibler les secteurs porteurs (BTP, agro-industrie, logistique portuaire, énergie) avec des offres de crédit dédiées.",
+      "Accompagner les PME sous-traitantes des grands projets publics (préfinancement, affacturage, cautions).",
+      "Développer le financement du commerce (lettres de crédit, garanties) avec les importateurs."
+     ],
+     "vigilance": "Une croissance tirée par l'investissement public peut ralentir si le budget de l'État se resserre."
+    }
+   ]
+  }
+ ],
  "alerte": null,
  "lexique": {
   "PI-SPI": "Plateforme interopérable du système de paiement instantané de la BCEAO : elle permet des virements en quelques secondes, 24h/24, entre banques, wallets et établissements de paiement de l'UEMOA.",
@@ -1768,9 +1943,124 @@
   "plan de continuité d'activité": "Plan qui prévoit comment la banque continue de servir ses clients en cas de crise (épidémie, panne, catastrophe).",
   "Fed": "Réserve fédérale des États-Unis, la banque centrale américaine, dont les décisions de taux influencent le dollar et les marchés du monde entier.",
   "itinérance (roaming)": "Possibilité d'utiliser sa carte SIM et son forfait sur le réseau d'un opérateur étranger lors d'un voyage.",
-  "seuil de pauvreté international": "Niveau de revenu journalier (ici 4,20 dollars par personne) utilisé par la Banque mondiale pour comparer la pauvreté entre pays."
+  "seuil de pauvreté international": "Niveau de revenu journalier (ici 4,20 dollars par personne) utilisé par la Banque mondiale pour comparer la pauvreté entre pays.",
+  "APEG (CEPA)": "Accord de partenariat économique global : traité commercial qui réduit ou supprime les droits de douane et facilite les services et l'investissement entre deux pays ; les Émirats l'appellent CEPA.",
+  "LFR": "Loi de finances rectificative : texte qui modifie en cours d'année le budget voté par le Parlement.",
+  "Centif": "Cellule nationale de traitement des informations financières : elle reçoit les déclarations de soupçon des banques et lutte contre le blanchiment d'argent.",
+  "Compte actif": "Pour la BCEAO, compte de monnaie électronique ayant enregistré au moins une opération au cours des 90 derniers jours.",
+  "PME": "Petite et moyenne entreprise."
  },
  "journal": [
+  {
+   "date": "2026-10-26",
+   "synthese": "La journée est dominée par l'accord de partenariat économique global signé le 25 octobre entre le Bénin et les Émirats arabes unis, qui vise 97 % des échanges ; s'y ajoutent la reprise des travaux de l'Assemblée nationale, le coût élevé de la dette sénégalaise sur le marché régional et un cas d'Ebola toujours isolé au Nigeria.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-10-25",
+     "titre": "Le Bénin et les Émirats arabes unis signent un accord de partenariat économique global",
+     "resume": "Signé à Abou Dhabi en présence des présidents Wadagni et Mohamed bin Zayed, l'accord doit, après ratification, réduire ou supprimer les droits de douane sur environ 97 % des échanges ; le commerce hors pétrole a atteint 2,15 milliards de dollars en 2025 (+65 %).",
+     "source": "Bénin Intelligent / The National",
+     "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-25",
+     "titre": "Les Émirats visent plus d'un milliard de dollars d'exportations supplémentaires vers le Bénin d'ici 2033",
+     "resume": "Le ministre émirati du Commerce extérieur cite le coton, les noix et le soja côté béninois, et l'or, l'électronique, le textile, les énergies renouvelables et la logistique comme secteurs à développer.",
+     "source": "UAE Barq (agence WAM)",
+     "url": "https://www.uaebarq.ae/en/2026/10/25/al-zeyoudi-cepa-will-increase-uae-exports-to-benin-by-more-than-usd-1-billion-by-2033/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-25",
+     "titre": "Assemblée nationale : nouveau Code de la route et deux autres dossiers ce lundi",
+     "resume": "Les députés examinent le 26 octobre le projet de Code de la route, le rapport d'activité du président de l'Assemblée et la ratification de l'accord créant la Facilité africaine de soutien juridique, alors que le budget 2027 est en cours d'examen.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/benin-les-deputes-examineront-le-code-de-la-route-et-deux-autres-dossiers-ce-lundi-26-octobre/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-26",
+     "titre": "Après Abou Dhabi, le président Wadagni attendu au sommet Russie-Afrique de Moscou",
+     "resume": "Le chef de l'État doit participer au troisième sommet Russie-Afrique les 28 et 29 octobre ; la visite aux Émirats a aussi produit plusieurs protocoles (investissement, hébergement de données, main-d'œuvre).",
+     "source": "Les 4 Vérités",
+     "url": "https://www.les4verites.bj/wadagni-decroche-un-accord-economique-majeur-a-abou-dhabi/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-24",
+     "titre": "Argent sale : une ONG demande un fonds national pour les avoirs saisis au Bénin",
+     "resume": "Une évaluation de l'ONG Alcrer salue la loi anti-blanchiment de 2024, qui impose aux banques la vigilance sur leurs clients et les déclarations de soupçon à la Centif, mais regrette l'absence de compte unique pour les avoirs recouvrés.",
+     "source": "La Nation",
+     "url": "https://www.lanation.bj/actualites/gouvernance-financiere-au-benin-entre-avancees-juridiques-et-urgence-de-transparence-dans-le-recouvrement-des-avoirs"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-23",
+     "titre": "Un premier salon pour préparer les PME au financement, les 28 et 29 octobre à Cotonou",
+     "resume": "Le SInAEB réunira plus de 600 participants au Palais des congrès avec des rencontres d'affaires et des entretiens avec des experts ; la BSIC Bénin, la CCI et l'ADPME figurent parmi les partenaires annoncés.",
+     "source": "Cadre Éco",
+     "url": "https://cadreco.media/entreprises/2026/financement-des-pme-au-benin-le-sinaeb-veut-rapprocher-entreprises-et-investisseurs"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-25",
+     "titre": "UMOA-Titres : le Sénégal emprunte à plus de 8 %, faut-il encadrer les taux ?",
+     "resume": "Un économiste juge très élevé le coût payé par l'État sénégalais lors de l'adjudication du 23 octobre et s'interroge sur les taux exigés par les banques, alors que ces titres bénéficient d'avantages prudentiels.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/25/le-senegal-emprunte-a-plus-de-8-sur-umoa-titres-faut-il-reguler-les-taux/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-25",
+     "titre": "Sénégal : la loi de finances rectificative bloquée par les députés de la majorité",
+     "resume": "Rejetée en commission le 23 octobre, la LFR 2026 doit être examinée en plénière le 27 octobre ; le Premier ministre la présente comme une garantie de crédibilité face au FMI, avec qui un programme d'environ 2,2 milliards de dollars est en préparation.",
+     "source": "Pulse Sénégal",
+     "url": "https://www.pulse.sn/article/plfr-rejete-al-aminou-jette-a-lo-les-arguments-de-pastef-2026102518334332764"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-25",
+     "titre": "Ebola au Nigeria : toujours un seul cas confirmé, 53 contacts suivis",
+     "resume": "L'agence sanitaire nigériane indique qu'aucun contact n'est positif ni malade et met en garde contre les fausses informations qui pourraient freiner la riposte.",
+     "source": "Premium Times",
+     "url": "https://www.premiumtimesng.com/health/health-news/920169-ebola-ncdc-warns-misinformation-could-undermine-nigerias-response.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "Burkina Faso : plus de 2 800 milliards FCFA pour l'électricité pour tous d'ici 2030",
+     "resume": "Le programme Faso Wa-Fulu, adopté en Conseil des ministres le 22 octobre, prévoit de raccorder 6 700 localités et 3,5 millions de ménages et d'entreprises sur dix ans.",
+     "source": "Koaci",
+     "url": "https://www.koaci.com/article/2026/10/23/burkina-faso/politique/burkina-faso-le-gouvernement-lance-lelectrification-pour-tous-dici-2030_201912.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-23",
+     "titre": "Le Congo, premier État africain à coter sa dette à la Bourse de Dubaï",
+     "resume": "Deux emprunts déjà émis (1,55 milliard de dollars à 9,5 %) sont désormais aussi cotés au Nasdaq Dubai : ce n'est pas une nouvelle levée, mais un accès élargi aux investisseurs du Golfe.",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/marches/congo-des-obligations-souveraines-de-1-55-milliard-usd-debarquent-a-la-bourse-de-duba%C3%AF_65056"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-22",
+     "titre": "Mobile money : à peine 29 % des comptes ouverts au Bénin sont actifs",
+     "resume": "Selon le tableau de bord de la BCEAO, le Bénin compte 40,7 millions de comptes de monnaie électronique mais 11,7 millions seulement ont servi dans les 90 derniers jours, moins que la moyenne de l'UEMOA (32,6 %).",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2210-142638-uemoa-192-millions-de-comptes-de-monnaie-electronique-inactifs-en-2025"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-10-25",
+     "titre": "Ecobank Nigeria soutient une exposition d'art et d'architecture à Lagos",
+     "resume": "La filiale nigériane du groupe s'associe à AD Consulting pour une exposition consacrée aux artistes et à l'architecture du Nigeria.",
+     "source": "The News Nigeria",
+     "url": "https://thenewsnigeria.com.ng/2026/10/25/ecobank-ad-consulting-showcase-nigerian-art-and-architecture-at-lagos-exhibition/"
+    }
+   ]
+  },
   {
    "date": "2026-10-25",
    "synthese": "Le premier cas d'Ebola au Nigeria reste isolé (aucun nouveau cas, Bénin en préalerte) ; la journée met aussi en avant la vitrine industrielle de Glo-Djigbé devant des investisseurs africains, de nouveaux classements favorables au Bénin (pauvreté en recul, liberté économique) et des coupures d'électricité liées aux importations du Ghana et du Nigeria.",
