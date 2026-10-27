@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-10-26T12:30:45Z",
+ "derniereMaj": "2026-10-27T05:16:20Z",
  "brief": {
   "periode": "Semaine du 26 octobre 2026",
   "titre": "Une semaine avant le 2 novembre : paiement instantané obligatoire et nouvel accord commercial avec les Émirats",
@@ -335,6 +335,12 @@
    "resume": "Filiale du groupe ivoirien NSIA.",
    "actus": [
     {
+     "date": "2026-10-26",
+     "texte": "Au niveau du groupe : NSIA Banque Côte d'Ivoire publie un bénéfice semestriel de 14,5 milliards FCFA (−11 %) malgré un produit net bancaire en hausse de 6 %, pénalisé par un coût du risque de 6,5 milliards.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2610-142762-nsia-banque-cote-d-ivoire-accroit-ses-revenus-mais-son-benefice-recule"
+    },
+    {
      "date": "2026-10-23",
      "texte": "Au niveau du groupe : NSIA Banque Côte d'Ivoire obtient un crédit syndiqué de 100 millions d'euros (mené par Citibank, avec FinDev Canada et KEXIM Global) pour financer des PME, notamment dirigées par des femmes, et des projets solaires.",
      "source": "Agence Ecofin",
@@ -372,6 +378,12 @@
    "type": "Banque",
    "resume": "Filiale du groupe nigérian United Bank for Africa.",
    "actus": [
+    {
+     "date": "2026-10-26",
+     "texte": "Au niveau du groupe : Fitch relève de stable à positive la perspective de la note « B » d'UBA, comme pour huit autres banques nigérianes, après celle du Nigeria.",
+     "source": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/fitch-revises-access-zenith-uba-gt-5-others-outlook-to-positive/"
+    },
     {
      "date": "2026-10-20",
      "texte": "Au niveau du groupe : UBA doit rembourser 600 millions de dollars en novembre (un eurobond de 300 millions arrivant à échéance le 19 novembre et une facilité Afreximbank de même montant) ; Fitch estime que la banque peut payer sans refinancement et a relevé sa perspective à positive le 14 octobre.",
@@ -465,6 +477,12 @@
    "type": "Banque",
    "resume": "Filiale de la Banque sahélo-saharienne pour l'investissement et le commerce.",
    "actus": [
+    {
+     "date": "2026-10-27",
+     "texte": "Lève 15 milliards FCFA via le compartiment de titrisation ZAKA BSIC Bénin 2026-2033 (portefeuille de prêts immobiliers), présenté comme la première obligation sociale du programme, pour financer le logement abordable.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/zaka-bsic-benin-2026-2033-15-milliards-fcfa-mobilises-pour-soutenir-le-logement-abordable/"
+    },
     {
      "date": "2026-10-23",
      "texte": "Partenaire du premier Salon de l'investissement et de l'accompagnement des entreprises au Bénin (SInAEB), consacré à la préparation des PME au financement, les 28 et 29 octobre à Cotonou.",
@@ -815,6 +833,41 @@
   "actus": [
    {
     "date": "2026-10-26",
+    "titre": "UEMOA : masse monétaire en hausse de 19 % sur un an à fin juillet",
+    "resume": "64 907 milliards FCFA ; dépôts bancaires +17 %, crédits aux entreprises privées +9 %, crédits aux ménages −0,4 %.",
+    "source": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/uemoa-la-masse-monetaire-bondit-de-plus-de-10-300-milliards-fcfa-en-un-an-a-fin-juillet_65254"
+   },
+   {
+    "date": "2026-10-26",
+    "titre": "Sénégal : budget rectificatif en plénière le 27 octobre",
+    "resume": "Croissance 2026 revue à 2,7 % et déficit à 7,6 % du PIB ; un comité de banques créancières a retenu un conseiller pour la restructuration de la dette.",
+    "source": "Afrik.com",
+    "url": "https://www.afrik.com/senegal-la-rupture-faye-sonko-menace-le-programme-fmi"
+   },
+   {
+    "date": "2026-10-26",
+    "titre": "Burkina Faso : discussions avec le FMI sur la suite du programme",
+    "resume": "Échanges sur les perspectives économiques et des financements possibles pour le solaire et l'agriculture ; aucun montant annoncé.",
+    "source": "APA News",
+    "url": "https://fr.apanews.net/governance/burkina-fmi-discussions-sur-leconomie/"
+   },
+   {
+    "date": "2026-10-26",
+    "titre": "Togo : plus de 25 milliards FCFA de nouveaux engagements allemands",
+    "resume": "Agriculture, énergie, santé, formation et communes ; annonce faite le 23 octobre.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/2610-20449-togo-l-allemagne-annonce-plus-de-25-milliards-fcfa-de-financements-supplementaires"
+   },
+   {
+    "date": "2026-10-26",
+    "titre": "Bénin : agrément du fonds de garantie des PME annoncé au Capital Reach Forum",
+    "resume": "Le fonds, doté de 5 milliards FCFA, doit partager avec les banques le risque des crédits aux PME.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/10/benin-le-capital-reach-forum-veut-faciliter-le-financement-des-entreprises/"
+   },
+   {
+    "date": "2026-10-26",
     "titre": "Afreximbank : bénéfice de 813,5 millions de dollars sur neuf mois",
     "resume": "Hausse de 24 % ; actifs et engagements de 54,1 milliards de dollars et créances douteuses à 2,48 %.",
     "source": "Afreximbank",
@@ -1058,24 +1111,17 @@
     "resume": "La note souveraine passe de B1 à Ba3 avec une perspective stable, après une croissance de 8,1 % en 2025.",
     "source": "Finances AO",
     "url": "https://financesao.com/benin-moodys-releve-la-note-souveraine-a-ba3-avec-perspective-stable/"
-   },
-   {
-    "date": "2026-07-29",
-    "titre": "La BAD publie son rapport pays 2026",
-    "resume": "Croissance estimée à 8,1 % en 2025, déficit budgétaire ramené à 2,8 % du PIB ; le pays aurait besoin d'environ 2,4 milliards de dollars par an jusqu'en 2030 pour financer sa transformation.",
-    "source": "AllAfrica",
-    "url": "https://allafrica.com/stories/202609260003.html"
-   },
-   {
-    "date": "2026-07-17",
-    "titre": "Banque mondiale : nouveau cadre de coopération 2027-2036",
-    "resume": "Lancement à Cotonou d'un nouveau cadre de partenariat et signature de quatre accords de prêt (énergie, gaz, nutrition, développement).",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/07/benin-la-banque-mondiale-prepare-un-nouveau-programme-de-cooperation-jusquen-2036/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-10-25",
+   "titre": "ETI : l'assemblée générale du 26 octobre sur la révocation d'administrateurs est annulée",
+   "resume": "Convoquée le 7 octobre avec un seul point (révocation de mandats d'administrateurs), la 39e assemblée générale ordinaire d'Ecobank Transnational a été annulée, selon Naija247news à la demande de la Commission bancaire de l'UMOA qui souhaite plus de temps de consultation ; aucune nouvelle date n'a été communiquée.",
+   "source": "Naija247news",
+   "url": "https://naija247news.com/ecobank-cancels-october-26-meeting-for-further-stakeholder-consultations/"
+  },
   {
    "date": "2026-10-26",
    "titre": "Ecobank Côte d'Ivoire : note AA maintenue par Bloomfield",
@@ -1141,6 +1187,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-10-26",
+   "titre": "Stablecoins : le Canada et les États-Unis précisent les règles, les banques invitées à émettre",
+   "resume": "Le Canada a ouvert jusqu'au 23 décembre une consultation sur des règles interdisant de rémunérer les stablecoins et exigeant des réserves à 100 % ; aux États-Unis, l'OCC (régulateur des banques nationales) invite les petites banques à émettre leurs propres stablecoins de paiement.",
+   "implication": "Les stablecoins deviennent un produit bancaire encadré dans les grands pays, ce qui accélérera leur usage pour les transferts et le commerce avec l'Afrique, même si la BCEAO ne les autorise pas aujourd'hui dans l'UEMOA.",
+   "pistes": [
+    "Suivre avec le groupe les projets de règlement en stablecoins sur les corridors utilisés par nos clients importateurs (États-Unis, Canada, Émirats).",
+    "Préparer une note pour la direction sur l'impact possible sur nos commissions de transfert international et de change.",
+    "Renforcer la surveillance des flux liés aux plateformes crypto dans nos dispositifs de lutte contre le blanchiment."
+   ],
+   "vigilance": "Dans l'UEMOA, aucun cadre BCEAO n'autorise aujourd'hui l'émission ou l'usage de stablecoins par les banques ; toute initiative doit rester à l'étude.",
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
+  },
   {
    "date": "2026-10-24",
    "titre": "OPay prépare une introduction à la Bourse de New York",
@@ -1733,34 +1793,48 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-10-23",
+  "date": "2026-10-26",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "8 590",
-    "detail": "+1,06 % sur la séance du 23 octobre ; 10 450 FCFA le 11 septembre, soit environ −18 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
+    "cours": "8 520",
+    "detail": "−0,81 % sur la séance du 26 octobre ; 10 450 FCFA le 11 septembre, soit environ −18 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 000",
-    "detail": "−0,28 % sur la séance du 23 octobre ; 23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
+    "cours": "9 070",
+    "detail": "+0,78 % sur la séance du 26 octobre ; 23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
     "url": "https://www.financialafrik.com/2026/04/20/dividendes-2025-la-boa-benin-allouera-a-ses-actionnaires-23728-milliards-de-fcfa-le-15-mai-2026/"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
-    "cours": "64",
-    "detail": "Stable le 23 octobre ; 22 FCFA en début d'année, soit près de trois fois plus en 2026 ; le groupe est en période de silence avant ses résultats du troisième trimestre.",
-    "url": "https://dabafinance.com/fr/nouvelles/ecobank-etit-actions-brvm-rebond"
+    "cours": "63",
+    "detail": "−1,56 % le 26 octobre, jour où l'assemblée générale prévue a été annulée ; 22 FCFA en début d'année, soit près de trois fois plus en 2026 ; résultats du troisième trimestre attendus.",
+    "url": "https://naija247news.com/ecobank-cancels-october-26-meeting-for-further-stakeholder-consultations/"
    }
   ],
-  "source": "BRVM, cours de clôture du 23 octobre 2026 (BRVM Composite +1,37 % sur la séance)",
+  "source": "BRVM, cours de clôture du 26 octobre 2026 (BRVM Composite +1,06 % à 534,74 points ; fractionnement de l'action Sonatel)",
   "url": "https://www.brvm.org/fr/cours-actions/0"
  },
  "opportunites": [
+  {
+   "date": "2026-10-26",
+   "titre": "Le fonds de garantie des PME agréé : les crédits aux PME bientôt partiellement garantis par l'État",
+   "resume": "Créé en juillet 2024 avec 5 milliards FCFA de capital, le Fonds d'investissement et de garantie des PME a reçu l'agrément de la BCEAO comme établissement financier ; il prendra en charge une partie du risque des prêts accordés par les banques et microfinances aux PME sans garanties suffisantes. Le taux de couverture et les critères d'éligibilité ne sont pas encore publiés.",
+   "implication": "Une partie du risque des prêts aux PME pourra être transférée au fonds, ce qui permettrait de financer des entreprises aujourd'hui écartées faute de garanties.",
+   "pistes": [
+    "Prendre contact dès maintenant avec la direction du fonds et le ministère des Finances pour être parmi les premières banques signataires d'une convention de garantie.",
+    "Repérer dans notre portefeuille les dossiers PME refusés ou en attente faute de garanties (artisans, transformateurs de la GDIZ, prestataires du port) qui pourraient être relancés avec cette garantie.",
+    "Préparer une offre « crédit PME garanti » combinant prêt, compte et paiement digital, présentable au Salon SInAEB des 28 et 29 octobre."
+   ],
+   "vigilance": "Tant que le taux de couverture, le coût de la garantie et les délais d'indemnisation ne sont pas connus, il faut éviter d'assouplir les critères de crédit par anticipation.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/10/26/benin-le-fonds-dinvestissement-et-de-garantie-des-pme-obtient-lagrement-de-la-bceao/"
+  },
   {
    "date": "2026-10-26",
    "titre": "Le Luxembourg prépare un nouveau programme de coopération avec le Bénin",
@@ -2062,6 +2136,12 @@
     "BICB": 8590,
     "BOAB": 9000,
     "ETIT": 64
+   },
+   {
+    "date": "2026-10-26",
+    "BICB": 8520,
+    "BOAB": 9070,
+    "ETIT": 63
    }
   ]
  },
@@ -2205,9 +2285,141 @@
   "contenu local": "Part des contrats, des emplois et des achats d'un secteur confiée à des entreprises et à des travailleurs du pays.",
   "introduction en bourse": "Première mise en vente des actions d'une entreprise au public, qui permet ensuite de les échanger en bourse.",
   "BRI": "Banque des règlements internationaux : l'organisation des banques centrales, basée à Bâle, qui publie des études et des normes bancaires.",
-  "SGI": "Société de gestion et d'intermédiation : courtier agréé, seul autorisé à acheter et vendre des titres à la bourse régionale (BRVM) pour le compte des clients."
+  "SGI": "Société de gestion et d'intermédiation : courtier agréé, seul autorisé à acheter et vendre des titres à la bourse régionale (BRVM) pour le compte des clients.",
+  "fractionnement d'action": "Division d'une action en plusieurs actions nouvelles de valeur unitaire plus faible (par exemple dix pour une), sans changer la valeur totale détenue, pour rendre le titre plus accessible.",
+  "masse monétaire": "Ensemble de la monnaie en circulation dans une économie : billets, pièces et dépôts dans les banques ; sa croissance renseigne sur la liquidité disponible.",
+  "obligation sociale": "Titre de dette dont les fonds sont réservés à des projets à impact social (logement abordable, santé, éducation), avec un suivi des résultats.",
+  "coût du risque": "Montant des provisions et pertes sur crédits enregistrées par une banque sur une période, net des reprises ; il réduit directement le bénéfice.",
+  "assemblée générale ordinaire (AGO)": "Réunion des actionnaires d'une société pour voter sur les comptes, les dividendes ou la nomination et la révocation des administrateurs.",
+  "fonds de garantie": "Organisme qui s'engage à rembourser à la banque une partie d'un prêt si l'emprunteur fait défaut, en échange d'une commission."
  },
  "journal": [
+  {
+   "date": "2026-10-27",
+   "synthese": "La journée est dominée par le financement des PME et du logement au Bénin : agrément par la BCEAO du fonds de garantie des PME et titrisation de 15 milliards FCFA par BSIC Bénin ; dans la région, le Sénégal vote son budget rectificatif sous la pression de ses créanciers, et les régulateurs nord-américains avancent sur les stablecoins.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-10-26",
+     "titre": "Le fonds de garantie des PME du Bénin obtient l'agrément de la BCEAO",
+     "resume": "Le ministre des Finances Aristide Médénou a annoncé que le Fonds d'investissement et de garantie des PME, créé en 2024 avec 5 milliards FCFA de capital, est agréé comme établissement financier ; il doit partager avec les banques le risque des crédits aux PME et sera opérationnel « très bientôt ».",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/26/benin-le-fonds-dinvestissement-et-de-garantie-des-pme-obtient-lagrement-de-la-bceao/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-10-26",
+     "titre": "Capital Reach Forum : la SGI AGI veut rapprocher entreprises et investisseurs",
+     "resume": "Le forum s'est ouvert à Cotonou sur le thème d'une finance de proximité ; le gouvernement y a rappelé la hausse des recettes intérieures (14 % du PIB en 2025) et un mécanisme de garantie pour les projets portés par des femmes.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/benin-le-capital-reach-forum-veut-faciliter-le-financement-des-entreprises/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-27",
+     "titre": "BSIC Bénin lève 15 milliards FCFA par titrisation pour le logement abordable",
+     "resume": "Le compartiment ZAKA BSIC Bénin 2026-2033 transforme un portefeuille de prêts en titres vendus aux investisseurs ; présenté comme la première obligation sociale du programme, il doit financer l'accès à la propriété des ménages modestes.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/zaka-bsic-benin-2026-2033-15-milliards-fcfa-mobilises-pour-soutenir-le-logement-abordable/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-26",
+     "titre": "NSIA Banque Côte d'Ivoire : revenus en hausse, bénéfice en baisse au 1er semestre",
+     "resume": "Produit net bancaire de 53,7 milliards FCFA (+6 %) mais bénéfice de 14,5 milliards (−11 %), sous l'effet d'un coût du risque passé de 4,2 à 6,5 milliards ; l'action a perdu 7,5 % en séance.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-finance/2610-142762-nsia-banque-cote-d-ivoire-accroit-ses-revenus-mais-son-benefice-recule"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-26",
+     "titre": "Fitch place UBA et huit autres banques nigérianes en perspective positive",
+     "resume": "L'agence maintient la note « B » d'Access, Zenith, UBA, GTB, First Bank et d'autres, mais relève leur perspective après celle du Nigeria le 9 octobre, jugeant l'environnement moins contraignant.",
+     "source": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/fitch-revises-access-zenith-uba-gt-5-others-outlook-to-positive/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-10-26",
+     "titre": "UBA lance une semaine climat dans ses 20 pays africains",
+     "resume": "Du 26 au 30 octobre, le groupe met en avant son offre de finance verte, avec actions internes, sensibilisation du public et nettoyage collectif le 7 novembre.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/10/26/uba-launches-group-wide-climate-action-week-to-advance-green-finance-and-sustainability-across-africa/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-26",
+     "titre": "BRVM : l'action Sonatel fractionnée par dix, l'indice composite gagne 1,06 %",
+     "resume": "Après la division de chaque action en dix, Sonatel cote 4 700 FCFA (+7,2 %) ; NSIA Banque CI recule de 7,5 %. Côté Bénin, BIIC cède 0,8 % à 8 520 FCFA et BOA Bénin gagne 0,8 % à 9 070 FCFA.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/BRVM-L-action-SONATEL-cotee-a-4-700-FCFA-apres-son-fractionnement-ce-lundi-26-octobre-2026_a31731.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-10-26",
+     "titre": "UEMOA : la masse monétaire progresse de 19 % sur un an à fin juillet",
+     "resume": "Elle atteint 64 907 milliards FCFA, tirée par les avoirs extérieurs ; les crédits bancaires aux entreprises privées accélèrent (+9 %) mais ceux aux ménages reculent légèrement (−0,4 %).",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/marches/uemoa-la-masse-monetaire-bondit-de-plus-de-10-300-milliards-fcfa-en-un-an-a-fin-juillet_65254"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-10-25",
+     "titre": "L'assemblée générale d'ETI prévue le 26 octobre est annulée",
+     "resume": "Selon Naija247news, la réunion, convoquée sur la révocation de mandats d'administrateurs, a été annulée à la demande de la Commission bancaire de l'UMOA, qui souhaite plus de temps de consultation ; aucune nouvelle date n'est connue.",
+     "source": "Naija247news",
+     "url": "https://naija247news.com/ecobank-cancels-october-26-meeting-for-further-stakeholder-consultations/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-26",
+     "titre": "Sénégal : le budget rectificatif en séance ce 27 octobre, les banques créancières s'organisent",
+     "resume": "Rejeté en commission le 23 octobre, le texte prévoit une croissance ramenée à 2,7 % et un déficit à 7,6 % du PIB ; un comité de banques créancières a choisi un conseiller financier pour la restructuration de la dette.",
+     "source": "Afrik.com",
+     "url": "https://www.afrik.com/senegal-la-rupture-faye-sonko-menace-le-programme-fmi"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-26",
+     "titre": "Burkina Faso : nouvelle série d'échanges avec le FMI",
+     "resume": "Le gouvernement et une mission du FMI ont discuté à Ouagadougou de la poursuite du programme et de financements possibles pour le solaire et l'agriculture ; aucun montant n'a été communiqué.",
+     "source": "APA News",
+     "url": "https://fr.apanews.net/governance/burkina-fmi-discussions-sur-leconomie/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-26",
+     "titre": "Togo : l'Allemagne annonce plus de 25 milliards FCFA de nouveaux financements",
+     "resume": "Plus de 39 millions d'euros iront à l'agriculture, l'énergie, la santé, la formation et aux communes, après des consultations bilatérales le 23 octobre.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2610-20449-togo-l-allemagne-annonce-plus-de-25-milliards-fcfa-de-financements-supplementaires"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-10-26",
+     "titre": "Dangote : dernier jour de souscription et 4,7 milliards de dollars de bénéfice sur neuf mois",
+     "resume": "L'offre d'actions de la raffinerie se clôt le 27 octobre sans nouveau report ; le groupe annonce 22,5 milliards de dollars de chiffre d'affaires sur neuf mois.",
+     "source": "ThisDay",
+     "url": "https://www.thisdaylive.com/2026/10/26/investors-rush-for-dangote-refinery-shares-as-offer-closes-on-27-october/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-10-26",
+     "titre": "Le Canada met en consultation ses règles sur les stablecoins",
+     "resume": "Le projet interdit de verser des intérêts aux détenteurs, impose des réserves à 100 % et un remboursement sous trois jours ; consultation jusqu'au 23 décembre, entrée en vigueur visée fin 2027.",
+     "source": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-10-26",
+     "titre": "États-Unis : le régulateur bancaire pousse les petites banques vers les stablecoins",
+     "resume": "L'OCC invite les banques communautaires à devenir émettrices de stablecoins de paiement, après avoir publié le 21 octobre ses règles sur les réserves, le remboursement et le contrôle.",
+     "source": "The Crypto Times",
+     "url": "https://www.cryptotimes.io/2026/10/26/occ-seeks-community-banks-to-expand-regulated-stablecoin-issuance/"
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "synthese": "La journée reste marquée par l'accord commercial signé avec les Émirats arabes unis, auquel s'ajoutent le lancement de la campagne coton 2026-2027 (602 773 tonnes attendues), l'examen d'un budget 2027 sans nouvel impôt et les expropriations sur le littoral ; à l'international, Afreximbank et la BAD confirment leur solidité financière et le Nigeria n'a plus de cas actif d'Ebola.",
