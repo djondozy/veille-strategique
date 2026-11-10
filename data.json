@@ -1,169 +1,78 @@
 {
- "derniereMaj": "2026-10-27T05:16:20Z",
+ "derniereMaj": "2026-11-10T17:23:55Z",
  "brief": {
-  "periode": "Semaine du 26 octobre 2026",
-  "titre": "Une semaine avant le 2 novembre : paiement instantané obligatoire et nouvel accord commercial avec les Émirats",
+  "periode": "Semaine du 9 novembre 2026",
+  "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
   "intro": "Les cinq informations publiques qui comptent le plus pour la banque au Bénin cette semaine, classées par importance.",
   "points": [
    {
-    "titre": "Le 2 novembre, PI-SPI devient obligatoire et les plafonds du mobile money doublent",
-    "texte": "Dans une semaine, les transferts interopérables entre particuliers devront passer par la plateforme de paiement instantané de la BCEAO, gratuite pour les virements nationaux jusqu'à 8 000 FCFA cumulés par jour. Le même jour, le solde maximal d'un compte mobile money passe de 2 à 4 millions FCFA et le cumul mensuel des rechargements de 10 à 15 millions FCFA.",
-    "implication": "Les clients pourront comparer en quelques secondes le virement de leur banque et celui de leur wallet, et garder plus d'argent sur leur téléphone : la qualité de l'application et la collecte des dépôts sont en jeu dès la semaine prochaine.",
+    "titre": "Un fonds industriel de 100 milliards FCFA qui partage le risque avec les banques",
+    "texte": "Le Conseil des ministres du 4 novembre a créé le Fonds de développement industriel du Bénin, avec un guichet de garantie qui couvre une partie des crédits longs, du crédit-bail et du financement export accordés par les banques. Le même jour, le programme d'action 2026-2033 a fixé à 55 % la part du privé dans le financement des projets publics.",
+    "implication": "Des crédits industriels aujourd'hui trop risqués pourraient devenir finançables avec une garantie de l'État : les premières banques conventionnées prendront une avance.",
     "pistes": [
-     "Tester d'ici vendredi le parcours de virement instantané dans l'application et en agence, et corriger les blocages.",
-     "Préparer un message clients simple sur la gratuité jusqu'à 8 000 FCFA par jour et la rapidité des virements.",
-     "Proposer aux clients des wallets une passerelle gratuite vers un compte épargne rémunéré pour retenir les soldes qui grossissent."
+     "Demander dès maintenant au ministère des Finances les critères et le calendrier de la facilité de garantie.",
+     "Lister les projets d'équipement de nos clients industriels et de la zone de Glo-Djigbé éligibles au crédit-bail garanti.",
+     "Préparer une offre de financement export pour les transformateurs de coton, cajou et soja."
     ],
-    "vigilance": "Une panne ou un parcours compliqué le 2 novembre serait immédiatement visible face aux opérateurs mobiles.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+    "vigilance": "Capital libéré, taux de garantie et date de démarrage ne sont pas publiés.",
+    "source": "Ecofin Agency",
+    "url": "https://www.ecofinagency.com/news/0511-60540-benin-launches-171-million-industrial-fund-to-expand-long-term-financing"
    },
    {
-    "titre": "Le Bénin signe un accord de partenariat économique global avec les Émirats arabes unis",
-    "texte": "Signé le 25 octobre à Abou Dhabi, l'accord doit, après ratification, réduire ou supprimer les droits de douane sur environ 97 % des échanges et faciliter l'investissement. Le commerce hors pétrole entre les deux pays a atteint 2,15 milliards de dollars en 2025 (+65 %) et les Émirats visent plus d'un milliard de dollars d'exportations supplémentaires vers le Bénin d'ici 2033.",
-    "implication": "Le Golfe devient un partenaire commercial de premier plan : financements du commerce, paiements en dollars et accompagnement des investisseurs émiratis vont se développer.",
+    "titre": "FMI : croissance de 7,8 % en 2026, mais dette révisée et entreprises publiques à surveiller",
+    "texte": "La mission annuelle du FMI prévoit 7,8 % de croissance en 2026 et un déficit de 2,3 % du PIB, mais la réintégration de 22 prêts rétrocédés porte la dette 2024 à 60,5 % du PIB. Elle demande un suivi renforcé du port, de la SBEE, de la SBPE et de la SONEB, dont les comptes 2022-2024 ne sont pas audités.",
+    "implication": "L'environnement reste porteur pour le crédit, mais nos expositions sur les entreprises publiques et l'État méritent un examen plus attentif.",
     "pistes": [
-     "Recenser les clients qui commercent déjà avec les Émirats (coton, noix, soja, textile, électronique) et leur proposer lettres de crédit et préfinancement.",
-     "Étudier avec le groupe des lignes de financement du commerce ou des correspondants bancaires aux Émirats.",
-     "Préparer une offre d'accueil pour les entreprises émiraties qui s'installent, notamment à Glo-Djigbé."
+     "Recenser nos encours et engagements sur les entreprises publiques citées et demander leurs derniers états financiers.",
+     "Intégrer la dette révisée dans nos limites de placement en titres publics béninois pour 2027.",
+     "Mettre en avant auprès des investisseurs et correspondants la croissance confirmée par le FMI et la Banque mondiale (8,2 % au premier semestre)."
     ],
-    "vigilance": "L'accord n'est pas encore en vigueur, et les flux liés à l'or demandent une vigilance anti-blanchiment renforcée.",
-    "source": "Bénin Intelligent / The National",
-    "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
-   },
-   {
-    "titre": "Le port de Cotonou entame sa première semaine complète en service continu",
-    "texte": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés 24h/24 et 7j/7, y compris le week-end et les jours fériés. Les banques installées dans l'enceinte portuaire sont appelées à suivre ce rythme.",
-    "implication": "Les importateurs et transitaires vont privilégier les banques capables de payer droits et frais portuaires à toute heure.",
-    "pistes": [
-     "Vérifier que le paiement des droits de douane et des frais portuaires fonctionne le week-end, en ligne et au guichet du port.",
-     "Proposer aux transitaires une ligne de crédit de trésorerie courte pour régler les frais sans attendre.",
-     "Mesurer la fréquentation du week-end pour ajuster les effectifs du point de service portuaire."
-    ],
-    "vigilance": "Des opérations le week-end sans contrôle renforcé augmentent le risque de fraude sur les paiements.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
-   },
-   {
-    "titre": "Le tribunal de commerce de Cotonou fonctionne en six chambres spécialisées depuis ce lundi",
-    "texte": "Depuis le 26 octobre, les dossiers sont répartis entre des chambres dédiées, notamment aux procédures collectives et litiges financiers, aux saisies immobilières et aux référés. Les renvois d'audience sont limités à environ une semaine dans plusieurs procédures.",
-    "implication": "Les dossiers de recouvrement et de saisie de la banque peuvent avancer plus vite, à condition d'être complets dès la première audience.",
-    "pistes": [
-     "Faire le point avec les avocats sur la chambre compétente pour chaque dossier contentieux.",
-     "Compléter en priorité les pièces des dossiers de recouvrement les plus importants.",
-     "Suivre les premières décisions pour ajuster les prévisions de recouvrement et de provisions."
-    ],
-    "vigilance": "Un dossier incomplet sera plus vite tranché, y compris en défaveur de la banque.",
+    "vigilance": "Une hausse de la dette pourrait peser à terme sur la note souveraine (Ba3 chez Moody's) et sur le coût des emprunts de l'État.",
     "source": "La Marina",
-    "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
+    "url": "https://lamarina.bj/2026/11/09/benin-entreprises-publiques-dette-et-risques-budgetaires-pourquoi-le-fmi-reclame-un-suivi-renforce/"
    },
    {
-    "titre": "Dette régionale : le Sénégal paie plus de 8 % et sa loi de finances est bloquée",
-    "texte": "Lors de l'adjudication du 23 octobre sur UMOA-Titres, le Sénégal a emprunté à plus de 8 %, ce qui relance le débat sur l'encadrement des taux. Sa loi de finances rectificative, rejetée en commission, doit être examinée en plénière le 27 octobre alors qu'un programme FMI est en préparation.",
-    "implication": "Le marché régional des titres publics, où la banque place une part de sa trésorerie, devient plus sélectif : les rendements montent pour les États fragiles, tandis que le Bénin reste absent du calendrier d'émissions du quatrième trimestre.",
+    "titre": "PI-SPI en vigueur : les opérateurs dévoilent leurs tarifs",
+    "texte": "Depuis le 2 novembre, les transferts interopérables entre particuliers passent par la plateforme de paiement instantané de la BCEAO, gratuits jusqu'à 8 000 FCFA par jour ; MTN MoMo facture 0,5 % au-delà, alors que la BCEAO autorise jusqu'à 0,8 %. Le démarrage reste inégal dans l'Union, Wave n'ayant pas activé le service au Sénégal à son lancement.",
+    "implication": "Les clients comparent désormais le prix et la fiabilité d'un transfert banque contre wallet : notre grille et la qualité de notre service sont directement exposées.",
     "pistes": [
-     "Revoir la répartition du portefeuille de titres publics par pays et par échéance au vu du risque sénégalais.",
-     "Proposer aux clients fortunés et institutionnels des placements en titres publics bien notés, en expliquant le rapport rendement-risque.",
-     "Suivre l'issue du vote du 27 octobre et ses effets sur les prochaines adjudications."
+     "Positionner nos frais au-delà de 8 000 FCFA par rapport aux 0,5 % de MTN et en informer clairement les clients.",
+     "Suivre chaque jour le taux de réussite de nos virements instantanés et corriger vite les incidents.",
+     "Étudier une gratuité ciblée pour les salariés domiciliés et les commerçants afin d'attirer les flux vers nos comptes."
     ],
-    "vigilance": "Une dégradation de la situation sénégalaise pourrait peser sur la valeur des titres détenus et sur la liquidité du marché.",
-    "source": "Financial Afrik",
-    "url": "https://www.financialafrik.com/2026/10/25/le-senegal-emprunte-a-plus-de-8-sur-umoa-titres-faut-il-reguler-les-taux/"
+    "vigilance": "Les virements instantanés étant irrévocables, la fraude peut augmenter rapidement si les contrôles ne suivent pas.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-mtn-momo-annonce-un-tarif-de-05-au-dela-du-seuil-gratuit-sur-pi-spi/"
+   },
+   {
+    "titre": "Concurrents : UBA prête aux communes, Coris à l'agriculture, BOA stable",
+    "texte": "Abomey-Calavi a autorisé un emprunt auprès d'UBA pour ses infrastructures, au moment où Cotonou augmente ses investissements de 47,5 % dans son budget 2027. Coris Bank Bénin a tiré 373 millions FCFA sur une ligne agricole du FNDA, et BOA Bénin affiche un résultat stable d'environ 15 milliards FCFA sur neuf mois.",
+    "implication": "Les concurrents se positionnent sur des segments où les budgets publics et les fonds de refinancement grossissent : collectivités et agriculture.",
+    "pistes": [
+     "Présenter aux mairies de Cotonou, Porto-Novo et Parakou une offre de financement et de collecte des recettes.",
+     "Solliciter une ligne de refinancement du FNDA pour le crédit agricole.",
+     "Proposer cautions et avances sur marché aux entreprises attributaires des marchés communaux."
+    ],
+    "vigilance": "Les communes ont des finances fragiles (dépenses de personnel à 156 % des recettes fiscales en 2025 selon La Marina) : analyser chaque dossier au cas par cas.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-abomey-calavi-adopte-un-budget-de-117-milliards-un-pret-autorise-pour-les-infrastructures/"
+   },
+   {
+    "titre": "Nouvelle stratégie nationale anti-blanchiment 2026-2030",
+    "texte": "Le gouvernement a adopté le 4 novembre la stratégie nationale de lutte contre le blanchiment de capitaux et le financement du terrorisme pour 2026-2030, ainsi que de nouveaux textes sur la CENTIF. Le même Conseil a transmis à l'Assemblée la convention fiscale avec les Pays-Bas.",
+    "implication": "Les attentes des autorités sur nos dispositifs de connaissance client et de déclaration de soupçon vont se préciser, au moment où les paiements instantanés accélèrent les flux.",
+    "pistes": [
+     "Comparer le plan d'action de la stratégie avec notre dispositif de conformité dès sa publication.",
+     "Rencontrer la CENTIF, avec l'APBEF, pour connaître les risques jugés prioritaires au Bénin.",
+     "Mettre à jour la formation des agences sur les signaux d'alerte liés aux transferts instantanés et au mobile money."
+    ],
+    "vigilance": "Le contenu détaillé des textes CENTIF n'est pas encore public.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/politique/article/20261104-conseil-des-ministres-au-benin-les-grandes-decisions-de-la-seance-du-mercredi-4-novembre-2026"
    }
   ]
  },
  "echeances": [
-  {
-   "date": "2026-10-26",
-   "titre": "Nouvelle organisation du tribunal de commerce de Cotonou",
-   "detail": "À partir du lundi 26 octobre, le tribunal de commerce de Cotonou répartit ses dossiers entre six chambres spécialisées : par exemple, une chambre pour les procédures collectives (faillites, redressements) et les litiges financiers, une pour les saisies immobilières, une pour les référés (procédures d'urgence) et l'exécution des jugements. Les renvois d'audience sont limités à environ une semaine dans plusieurs procédures.",
-   "pourquoi": "Les dossiers de recouvrement et de saisie de la banque changent de chambre et pourraient avancer plus vite, à condition d'être prêts dès la première audience.",
-   "preparer": [
-    "Faire le point avec les avocats sur la nouvelle chambre de chaque dossier contentieux.",
-    "Compléter les pièces des dossiers de recouvrement prioritaires avant leur prochaine audience.",
-    "Suivre les premières décisions pour ajuster les prévisions de recouvrement."
-   ],
-   "source": "La Marina",
-   "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
-  },
-  {
-   "date": "2026-10-28",
-   "titre": "Décision de taux de la Réserve fédérale américaine (Fed)",
-   "detail": "Le mercredi 28 octobre, la banque centrale des États-Unis (la Fed) annonce ses taux, aujourd'hui entre 3,75 % et 4 %. Les marchés attendent à environ 80 % une pause, mais jugent probable une hausse en décembre, à cause de l'inflation entretenue par la flambée du pétrole. Le dollar et les taux américains influencent le coût des importations payées en dollars par les entreprises béninoises (carburant, équipements).",
-   "pourquoi": "Un ton plus dur de la Fed renforcerait le dollar face à l'euro, donc face au franc CFA, et renchérirait les importations et les financements en dollars de nos clients.",
-   "preparer": [
-    "Repérer les clients importateurs qui paient en dollars et leur proposer à temps des solutions de couverture ou d'achat de devises à terme.",
-    "Mettre à jour la note de conjoncture interne après l'annonce du 28 octobre, avec celle de la BCE du 29 octobre.",
-    "Vérifier l'exposition de la banque aux ressources et aux crédits en dollars."
-   ],
-   "source": "Forbes",
-   "url": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
-  },
-  {
-   "date": "2026-10-28",
-   "titre": "Salon de l'investissement et de l'accompagnement des PME (SInAEB) à Cotonou",
-   "detail": "Les 28 et 29 octobre, le Palais des congrès de Cotonou accueille la première édition du SInAEB, un salon qui aide les petites et moyennes entreprises (PME) à préparer leurs demandes de financement : conférences, rencontres d'affaires (B2B) et entretiens de vingt minutes avec des experts. Plus de 600 participants et 40 stands sont attendus ; la BSIC Bénin, la Chambre de commerce (CCI Bénin) et l'Agence de développement des PME (ADPME) sont partenaires.",
-   "pourquoi": "Une occasion de rencontrer en deux jours de nombreuses PME qui cherchent un crédit, alors qu'un concurrent y sera partenaire.",
-   "preparer": [
-    "Désigner une équipe de chargés d'affaires PME pour être présente sur les deux jours.",
-    "Préparer une fiche claire des conditions et des pièces à fournir pour un crédit PME.",
-    "Organiser le suivi des contacts dans les quinze jours suivant le salon."
-   ],
-   "source": "Cadre Éco",
-   "url": "https://cadreco.media/entreprises/2026/financement-des-pme-au-benin-le-sinaeb-veut-rapprocher-entreprises-et-investisseurs"
-  },
-  {
-   "date": "2026-10-28",
-   "titre": "Troisième sommet Russie-Afrique à Moscou, avec le président béninois",
-   "detail": "Les 28 et 29 octobre, Moscou accueille le troisième sommet Russie-Afrique, consacré au commerce, à l'investissement et à l'innovation ; le président Romuald Wadagni y est attendu après sa visite aux Émirats arabes unis. Des accords bilatéraux peuvent y être annoncés, par exemple dans l'énergie, les engrais ou l'agriculture.",
-   "pourquoi": "De nouveaux accords pourraient créer des flux commerciaux pour nos clients, mais tout paiement lié à la Russie doit être vérifié au regard des sanctions internationales.",
-   "preparer": [
-    "Suivre les accords annoncés et repérer les clients béninois concernés.",
-    "Rappeler aux équipes commerce extérieur et conformité les règles de filtrage des sanctions sur les opérations liées à la Russie.",
-    "Vérifier avec les correspondants bancaires du groupe les canaux de paiement acceptés."
-   ],
-   "source": "Les 4 Vérités",
-   "url": "https://www.les4verites.bj/wadagni-decroche-un-accord-economique-majeur-a-abou-dhabi/"
-  },
-  {
-   "date": "2026-10-29",
-   "titre": "Décision de taux de la Banque centrale européenne",
-   "detail": "Le jeudi 29 octobre, la Banque centrale européenne (BCE) annonce ses taux directeurs. En septembre, elle les a relevés de 0,25 point, alors que la BCEAO a laissé son taux directeur à 3 %. Comme le franc CFA est arrimé à l'euro à parité fixe, les décisions de la BCE pèsent, avec un décalage, sur celles de la BCEAO.",
-   "source": "Admirals",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/central-bank-super-week-october-2026",
-   "pourquoi": "Une nouvelle hausse renchérirait les ressources et les crédits en euros, notamment pour les clients importateurs, et réduirait l'écart entre les taux de la zone euro et ceux de l'UEMOA, un élément que la BCEAO prend en compte pour ses propres décisions.",
-   "preparer": [
-    "Simuler l'effet d'une hausse de 0,25 point sur le coût des ressources en euros et sur les marges.",
-    "Repérer les clients importateurs financés en euros pour anticiper avec eux une éventuelle hausse de coût.",
-    "Lire le communiqué de la BCE du 29 octobre et suivre la prochaine réunion du comité de politique monétaire de la BCEAO."
-   ]
-  },
-  {
-   "date": "2026-10-30",
-   "titre": "Clôture de l'emprunt obligataire du Burkina Faso (100 milliards FCFA)",
-   "detail": "Le Trésor du Burkina Faso emprunte 100 milliards FCFA auprès des investisseurs de la région, avec des titres de 10 000 FCFA rapportant 6,60 % sur 5 ans, 6,75 % sur 7 ans ou 7 % sur 10 ans, intérêts versés tous les six mois. Une compagnie d'assurance ou une caisse de retraite béninoise peut y souscrire par l'intermédiaire d'une SGI (société de gestion et d'intermédiation, le courtier agréé de la bourse régionale). Les souscriptions ferment le 30 octobre.",
-   "pourquoi": "Ces taux servent de repère pour la rémunération que nos clients institutionnels attendent de leurs placements et pour le prix des futurs emprunts du Bénin.",
-   "preparer": [
-    "Signaler l'opération aux clients institutionnels et fortunés intéressés par un placement à taux fixe, en rappelant le risque pays.",
-    "Comparer ces taux avec ceux des titres du Bénin pour la politique de placement de la trésorerie de la banque.",
-    "Suivre le taux de souscription final comme indicateur de l'appétit du marché régional."
-   ],
-   "source": "Agence Ecofin",
-   "url": "https://www.ecofinagency.com/news-finances/1910-59896-burkina-faso-launches-171-2-million-bond-issue-on-regional-market"
-  },
-  {
-   "date": "2026-11-02",
-   "titre": "PI-SPI obligatoire et plafonds du mobile money doublés",
-   "detail": "À partir du lundi 2 novembre, tout transfert d'argent entre particuliers qui passe d'un établissement à un autre (par exemple de MTN MoMo vers Moov Money) doit transiter par PI-SPI, la plateforme de paiement instantané de la BCEAO. Ces transferts sont gratuits tant que le total envoyé dans la journée au Bénin ne dépasse pas 8 000 FCFA, et l'argent reçu est toujours gratuit. Le même jour, un compte mobile money pourra contenir jusqu'à 4 millions FCFA (contre 2 millions) et recevoir jusqu'à 15 millions FCFA de rechargements par mois (contre 10 millions).",
-   "source": "Togo First",
-   "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026",
-   "pourquoi": "Les petits transferts du quotidien deviennent instantanés et gratuits quel que soit l'établissement, et les wallets peuvent garder deux fois plus d'argent : la concurrence des opérateurs de mobile money sur les dépôts et les paiements des particuliers s'intensifie dès cette date.",
-   "preparer": [
-    "Former les agences et le centre de relation client à expliquer la gratuité jusqu'à 8 000 FCFA par jour et les frais éventuels au-delà.",
-    "Informer les clients de la possibilité d'envoyer de l'argent du compte vers les wallets, et l'inverse, en quelques secondes.",
-    "Renforcer la surveillance de la fraude sur les virements instantanés, exécutés en quelques secondes."
-   ]
-  },
   {
    "date": "2026-11-15",
    "titre": "Retraités : dernier jour pour faire sa preuve de vie au Fonds national des retraites",
@@ -191,6 +100,31 @@
    "url": "https://www.afrique-sur7.fr/cyber-africa-forum-2026-les-16-et-17-novembre-cotonou-accueillera-les-leaders-africains-et-internationaux-du-numerique-autour-de-la-confiance-numerique"
   },
   {
+   "date": "2026-11-16",
+   "titre": "Budget 2027 : examen en commission à l'Assemblée nationale (16-30 novembre)",
+   "detail": "Le 16 novembre, le gouvernement présente à la commission des finances le projet de budget 2027 (4 757 milliards FCFA, +14,7 %), puis le ministre de l'Économie et des Finances ouvre les auditions des ministères ; les institutions (Cour des comptes, Conseil économique et social…) passent à partir du 18 novembre. Les auditions durent jusqu'au 30 novembre ; la date du vote en séance plénière n'est pas publiée.",
+   "pourquoi": "Les arbitrages votés fixeront les grands chantiers, les besoins d'emprunt de l'État et le cadre fiscal 2027 de nos clients.",
+   "preparer": [
+    "Suivre les auditions des ministères qui portent les grands projets (infrastructures, énergie, agriculture) pour repérer les marchés à venir.",
+    "Préparer une note clients sur les mesures fiscales et douanières du texte voté.",
+    "Anticiper nos besoins de placement en titres publics pour 2027 selon le déficit voté."
+   ],
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/budget-2027-le-calendrier-des-auditions-devoile-a-l-le-senat-dispense-du-grand-oral/"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "Port de Cotonou : décision attendue de la BERD sur un prêt de 20 millions d'euros",
+   "detail": "La Banque européenne pour la reconstruction et le développement (BERD) étudie un prêt pouvant atteindre 20 millions d'euros (environ 13 milliards FCFA) pour un projet de 23 millions d'euros au port de Cotonou : capitainerie, centre de formation des dockers et parkings pour camions. Selon Bénin Web TV, la décision est attendue le 18 novembre.",
+   "pourquoi": "Le projet créera des marchés de travaux et de fournitures et améliorera la circulation des camions, au cœur de l'activité de nos clients importateurs et transitaires.",
+   "preparer": [
+    "Repérer les entreprises de BTP clientes susceptibles de répondre aux appels d'offres du projet.",
+    "Préparer des offres de cautions de soumission et de bonne exécution."
+   ],
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.com/port-de-cotonou-un-pret-pouvant-atteindre-20-millions-deuros-a-letude/"
+  },
+  {
    "date": "2026-11-19",
    "titre": "UBA rembourse un emprunt international de 300 millions de dollars",
    "detail": "La banque nigériane UBA, maison mère de UBA Bénin, doit rembourser le 19 novembre un eurobond (emprunt en dollars sur les marchés internationaux) de 300 millions de dollars émis en 2021 au taux de 6,75 %, ainsi qu'une facilité d'Afreximbank du même montant ce mois-là. L'agence Fitch estime qu'elle a assez de dollars pour payer sans réemprunter et a relevé sa perspective à positive le 14 octobre.",
@@ -202,6 +136,42 @@
    ],
    "source": "Agence Ecofin",
    "url": "https://www.ecofinagency.com/news-finances/2010-59935-nigerias-uba-faces-600-million-debt-repayment-deadline-in-november"
+  },
+  {
+   "date": "2026-11-23",
+   "titre": "Nigeria : réunion de politique monétaire de la banque centrale (23-24 novembre)",
+   "detail": "La banque centrale du Nigeria (CBN) réunit son comité de politique monétaire les 23 et 24 novembre ; son taux directeur est à 23 % après une baisse de 3,5 points en septembre, et l'inflation est redescendue à 14,63 % en septembre. Le Nigeria est le premier partenaire commercial du Bénin, par exemple pour les réexportations via le port de Cotonou.",
+   "pourquoi": "Une nouvelle baisse des taux pèserait sur le naira, donc sur le pouvoir d'achat des importateurs nigérians qui passent par le Bénin et sur l'activité de nos clients du corridor.",
+   "preparer": [
+    "Surveiller le cours du naira et l'activité des clients commerçant avec le Nigeria après la décision.",
+    "Revoir les limites de risque de change sur les clients exposés au naira."
+   ],
+   "source": "Daily Trust",
+   "url": "https://dailytrust.com/cbn-mpcs-november-meeting-to-gauge-impact-of-interest-rates-reset/"
+  },
+  {
+   "date": "2026-11-26",
+   "titre": "Next Fintech Forum à Cotonou (26-27 novembre)",
+   "detail": "Cotonou accueille les 26 et 27 novembre le Next Fintech Forum, consacré aux paiements numériques, avec des intervenants de la BCEAO, de la CENTIF (cellule de renseignement financier), de Wave, de Mastercard et de Gozem. C'est l'un des premiers grands rendez-vous du secteur après l'entrée en vigueur obligatoire de PI-SPI le 2 novembre.",
+   "pourquoi": "Les concurrents fintechs et opérateurs y présenteront leurs offres : c'est un lieu pour observer le marché et nouer des partenariats.",
+   "preparer": [
+    "Désigner un représentant de la banque digitale pour suivre les annonces et rencontrer les fintechs agréées.",
+    "Préparer une courte présentation de nos services PI-SPI et API pour les partenaires potentiels."
+   ],
+   "source": "Linfodrome",
+   "url": "https://www.linfodrome.com/economie/127164-bceao-centif-wave-mastercard-gozem-l-afrique-des-paiements-au-nff-2026-a-cotonou"
+  },
+  {
+   "date": "2026-11-30",
+   "titre": "Date limite de candidature au Laboratoire d'innovation financière de la BCEAO",
+   "detail": "La BCEAO reçoit jusqu'au 30 novembre les candidatures pour la première cohorte de son laboratoire d'innovation, un « bac à sable » où fintechs et établissements agréés testent des services nouveaux sous sa surveillance. Une banque peut y tester par exemple un crédit instantané sur téléphone ou un service de paiement innovant.",
+   "pourquoi": "Y participer permet de tester des produits nouveaux avec l'accord du régulateur et de suivre de près les fintechs les plus avancées.",
+   "preparer": [
+    "Identifier un projet digital prêt à être testé (crédit mobile, paiement marchand) et préparer le dossier.",
+    "Repérer les fintechs béninoises candidates avec lesquelles un partenariat serait possible."
+   ],
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.com/en/the-bceao-opens-its-tests-to-fintechs-applications-expected-before-november-30/"
   },
   {
    "date": "2026-12-01",
@@ -216,6 +186,31 @@
     "Planifier avec le groupe la mise à jour des adresses des clients qui font des virements internationaux.",
     "Surveiller l'annonce de Swift attendue d'ici décembre."
    ]
+  },
+  {
+   "date": "2026-12-01",
+   "dateApprox": true,
+   "titre": "Prochaine réunion du Comité de politique monétaire de la BCEAO (date à confirmer)",
+   "detail": "Le Comité de politique monétaire de la BCEAO, qui fixe le taux directeur de l'UEMOA (3 % depuis mars 2026), tient habituellement sa dernière réunion de l'année début décembre ; la date n'est pas encore publiée. L'inflation de l'Union est remontée à 1,9 % en septembre sous l'effet du pétrole.",
+   "pourquoi": "Le taux directeur détermine notre coût de refinancement et les taux de nos crédits et dépôts.",
+   "preparer": [
+    "Préparer deux scénarios (statu quo, hausse) pour la tarification des crédits et des dépôts à terme.",
+    "Suivre le taux interbancaire (3,73 % à une semaine) comme indicateur avancé."
+   ],
+   "source": "BCEAO",
+   "url": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+  },
+  {
+   "date": "2026-12-18",
+   "titre": "La BRVM fête ses 30 ans",
+   "detail": "La Bourse régionale des valeurs mobilières (BRVM), où sont cotées notamment la BIIC, Bank of Africa Bénin et Ecobank Transnational, célèbre ses 30 ans le 18 décembre à Abidjan. Le lancement des produits dérivés, initialement prévu ce jour-là, est reporté à 2027.",
+   "pourquoi": "Des annonces sur les nouveaux produits (fonds indiciels, dérivés) et l'accès des investisseurs pourraient y être faites.",
+   "preparer": [
+    "Suivre les annonces pour adapter l'offre de placements de la clientèle patrimoniale.",
+    "Préparer avec une SGI partenaire des produits d'épargne investis en BRVM."
+   ],
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/BRVM-30-ans-d-existence-et-de-nouveaux-defis-pour-accelerer-l-integration-financiere-africaine_a31824.html"
   },
   {
    "date": "2026-12-31",
@@ -291,6 +286,12 @@
    "resume": "Filiale du groupe Bank of Africa, cotée à la BRVM.",
    "actus": [
     {
+     "date": "2026-11-02",
+     "texte": "Publie son rapport d'activité du troisième trimestre à la BRVM : selon Sika Finance, le résultat net reste stable, autour de 15 milliards FCFA sur neuf mois.",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/premium/bank-of-africa-benin-le-resultat-net-se-stabilise-a-15-milliards-fcfa-sur-neuf-mois_65486"
+    },
+    {
      "date": "2026-10-23",
      "texte": "Au niveau du groupe : BOA Sénégal annonce un bénéfice en hausse de 11,01 % sur les neuf premiers mois de 2026, premier résultat trimestriel publié par une filiale cotée du groupe.",
      "source": "Financial Afrik",
@@ -319,12 +320,6 @@
      "texte": "Produit net bancaire en hausse de 11 % au premier trimestre, porté par les commissions (près de +19 %) ; dépôts au-delà de 753 milliards FCFA, crédits stables.",
      "source": "Dabafinance",
      "url": "https://dabafinance.com/en/news/brvm-listed-bank-of-africa-benin-q1-2026"
-    },
-    {
-     "date": "2026-04-20",
-     "texte": "Dividendes de 23,7 milliards FCFA versés aux actionnaires au titre de 2025.",
-     "source": "Financial Afrik",
-     "url": "https://www.financialafrik.com/2026/04/20/dividendes-2025-la-boa-benin-allouera-a-ses-actionnaires-23728-milliards-de-fcfa-le-15-mai-2026/"
     }
    ]
   },
@@ -379,6 +374,18 @@
    "resume": "Filiale du groupe nigérian United Bank for Africa.",
    "actus": [
     {
+     "date": "2026-11-08",
+     "texte": "La commune d'Abomey-Calavi autorise son maire à signer une convention de prêt avec UBA pour financer des infrastructures (montant non publié), en votant son budget 2027 de 11,7 milliards FCFA.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/benin-abomey-calavi-adopte-un-budget-de-117-milliards-un-pret-autorise-pour-les-infrastructures/"
+    },
+    {
+     "date": "2026-11-01",
+     "texte": "Au niveau du groupe : UBA reporte la publication de ses comptes semestriels audités et de ses chiffres à neuf mois dans l'attente de l'accord de la banque centrale du Nigeria ; son bénéfice du premier trimestre avait reculé de 24,8 %.",
+     "source": "Ecofin Agency",
+     "url": "https://www.ecofinagency.com/news-finances/0111-60335-uba-shares-trail-nigerian-banks-by-59-points-as-african-units-lean-on-lower-bad-loan-charges-and-fresh-capital"
+    },
+    {
      "date": "2026-10-26",
      "texte": "Au niveau du groupe : Fitch relève de stable à positive la perspective de la note « B » d'UBA, comme pour huit autres banques nigérianes, après celle du Nigeria.",
      "source": "MyJoyOnline",
@@ -410,6 +417,18 @@
    "type": "Mobile money",
    "resume": "Premier opérateur de mobile money au Bénin.",
    "actus": [
+    {
+     "date": "2026-11-09",
+     "texte": "Au niveau du groupe : 512,5 milliards de dollars de transactions fintech sur neuf mois (+36,9 %) et 70,3 millions d'utilisateurs MoMo actifs ; revenus de services +17,2 %.",
+     "source": "MTN Group",
+     "url": "https://www.mtn.com/mtn-group-q3-2026-growth-accelerates-supported-by-stronger-earnings-and-cash-generation/"
+    },
+    {
+     "date": "2026-10-30",
+     "texte": "MTN MoMo Bénin bascule sur PI-SPI au 2 novembre : transferts gratuits jusqu'à 8 000 FCFA par jour, puis 0,5 % au-delà ; plafond par transfert interopérable porté de 0,5 à 2 millions FCFA.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-mtn-momo-annonce-un-tarif-de-05-au-dela-du-seuil-gratuit-sur-pi-spi/"
+    },
     {
      "date": "2026-07-31",
      "texte": "MTN figure, avec Moov Money, sur la liste BCEAO des participants autorisés à ouvrir PI-SPI au public au Bénin ; Celtiis Cash n'y apparaît pas.",
@@ -445,6 +464,18 @@
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
     {
+     "date": "2026-11-09",
+     "texte": "Coris Bank International Bénin a tiré environ 373 millions FCFA sur une ligne de refinancement agricole de 500 millions du FNDA et a fait former 20 agents au crédit agricole.",
+     "source": "L'Économiste du Bénin",
+     "url": "https://leconomistebenin.bj/fnda-coris-bank-05-jours-de-formation-pour-dynamiser-le/"
+    },
+    {
+     "date": "2026-11-03",
+     "texte": "Au niveau du groupe : la maison mère burkinabè publie un résultat net de 62,3 milliards FCFA à fin septembre (+17,8 %), des dépôts en hausse de 26,4 % et des crédits nets en hausse de 15,2 %.",
+     "source": "allAfrica",
+     "url": "https://allafrica.com/stories/202611040060.html"
+    },
+    {
      "date": "2026-10-23",
      "texte": "Le groupe nomme Michel Kodzo Gafan, jusqu'ici directeur régional UEMOA de la banque commerciale chez Ecobank Togo, à la direction générale de Coris Bank International Togo.",
      "source": "Agence Ecofin",
@@ -469,7 +500,14 @@
    "nom": "Moov Money",
    "type": "Mobile money",
    "resume": "Service de mobile money de Moov Africa Bénin.",
-   "actus": []
+   "actus": [
+    {
+     "date": "2026-11-09",
+     "texte": "Moov Africa Bénin passe 3e opérateur derrière Celtiis selon les données ARCEP 2025 : chiffre d'affaires de 82,3 milliards FCFA (−15,6 %) et 29,1 % des abonnés.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/telecoms-celtiis-relegue-moov-3e-rang/"
+    }
+   ]
   },
   {
    "id": "bsic",
@@ -533,6 +571,78 @@
   }
  ],
  "reglementation": [
+  {
+   "date": "2026-11-10",
+   "organisme": "BCEAO / UEMOA",
+   "titre": "Feu vert à la participation au système panafricain de paiement PAPSS",
+   "resume": "Le Conseil des ministres de l'UEMOA a donné le 2 octobre un avis favorable à la participation de la BCEAO et des banques de l'Union au PAPSS, qui permet de payer entre pays africains en monnaies locales ; la BCEAO et le régulateur boursier étudient aussi un cadre pour les crypto-actifs.",
+   "implication": "Les paiements vers le Nigeria ou le Ghana pourraient à terme se régler en naira ou cedi sans passer par le dollar, ce qui toucherait nos commissions de change et de correspondance.",
+   "pistes": [
+    "Recenser les clients qui commercent avec le Nigeria et le Ghana pour mesurer l'intérêt d'un règlement en monnaies locales.",
+    "Suivre avec le groupe le calendrier de raccordement des banques de l'UEMOA au PAPSS.",
+    "Préparer l'offre de transferts commerciaux transfrontaliers adossée à PAPSS dès son ouverture."
+   ],
+   "vigilance": "Les modalités de raccordement des banques et le calendrier ne sont pas publiés.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/Paiements-transfrontaliers-Le-Gouverneur-de-la-Bceao-partage-l-experience-de-l-Uemoa-lors-de-l-Afis-2026_a31821.html"
+  },
+  {
+   "date": "2026-11-05",
+   "organisme": "BRVM / AMF-UMOA",
+   "titre": "Les produits dérivés de la BRVM reportés à 2027",
+   "resume": "Le lancement des contrats à terme sur indices et actions, prévu le 18 décembre 2026, est reporté à 2027 sans date, les travaux réglementaires et techniques n'étant pas achevés.",
+   "implication": "Les outils de couverture sur le marché régional n'arriveront pas avant 2027 ; nos clients institutionnels n'auront pas ce produit à court terme.",
+   "pistes": [
+    "Informer les clients institutionnels et la salle des marchés du report pour ajuster leurs projets.",
+    "Préparer avec une SGI partenaire l'offre de services qui accompagnera le lancement en 2027."
+   ],
+   "vigilance": "Aucune nouvelle date n'est fixée ; le calendrier peut encore glisser.",
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-finances/0511-60516-brvm-delays-futures-market-until-2027-as-regulatory-and-tech-work-drags-on"
+  },
+  {
+   "date": "2026-11-04",
+   "organisme": "Gouvernement du Bénin (Conseil des ministres)",
+   "titre": "Nouvelle stratégie nationale contre le blanchiment et le financement du terrorisme 2026-2030",
+   "resume": "Le Conseil des ministres du 4 novembre a adopté la stratégie nationale de lutte contre le blanchiment de capitaux et le financement du terrorisme pour 2026-2030, ainsi que de nouveaux textes sur la CENTIF, la cellule de renseignement financier qui reçoit les déclarations de soupçon des banques.",
+   "implication": "Les exigences de conformité vont se préciser (plans d'action, contrôles, déclarations), avec un regard accru des autorités sur la qualité des dispositifs bancaires.",
+   "pistes": [
+    "Comparer dès sa publication le plan d'action de la stratégie avec notre dispositif de connaissance client et de déclaration de soupçon.",
+    "Organiser une session avec la CENTIF ou l'APBEF pour connaître les nouvelles attentes et les typologies de risque prioritaires au Bénin.",
+    "Mettre à jour la formation des agences sur les signaux d'alerte, notamment pour les transferts instantanés et le mobile money."
+   ],
+   "vigilance": "Le détail des textes CENTIF n'est pas encore publié ; les obligations précises restent à confirmer.",
+   "source": "Banouto",
+   "url": "https://www.banouto.bj/politique/article/20261104-conseil-des-ministres-au-benin-les-grandes-decisions-de-la-seance-du-mercredi-4-novembre-2026"
+  },
+  {
+   "date": "2026-11-04",
+   "organisme": "Gouvernement du Bénin",
+   "titre": "Convention fiscale Bénin–Pays-Bas transmise à l'Assemblée",
+   "resume": "Signée le 21 mai 2026, la convention contre la double imposition plafonne les retenues à la source à 5 % ou 15 % sur les dividendes et à 10 % sur les intérêts et les redevances, avec exonération des intérêts versés à des institutions comme le FMO (banque de développement néerlandaise).",
+   "implication": "Les financements et investissements néerlandais vers les entreprises béninoises deviennent moins coûteux fiscalement une fois la convention en vigueur.",
+   "pistes": [
+    "Identifier les clients ayant des actionnaires ou prêteurs néerlandais pour leur expliquer l'effet de la convention sur leurs flux.",
+    "Étudier avec le FMO des lignes de crédit ou garanties pour les PME, les intérêts versés au FMO étant exonérés de retenue."
+   ],
+   "vigilance": "La convention ne s'appliquera qu'au 1er janvier suivant son entrée en vigueur, après ratification par les deux pays.",
+   "source": "La Marina",
+   "url": "https://lamarina.bj/2026/11/05/convention-fiscale-benin-pays-bas-ce-que-prevoit-le-texte-transmis-a-lassemblee-nationale/"
+  },
+  {
+   "date": "2026-11-02",
+   "organisme": "BCEAO",
+   "titre": "PI-SPI en vigueur : les premières grilles tarifaires des opérateurs",
+   "resume": "Depuis le 2 novembre, les transferts interopérables entre particuliers passent par PI-SPI ; MTN MoMo Bénin facture 0,5 % au-delà du seuil gratuit de 8 000 FCFA par jour (la BCEAO autorise 0 à 0,8 %), et Ecobank Mali applique 0,8 %.",
+   "implication": "Les clients peuvent désormais comparer précisément le coût d'un transfert entre banque et wallet : la grille tarifaire devient un argument commercial visible.",
+   "pistes": [
+    "Comparer chaque semaine nos frais PI-SPI au-delà de 8 000 FCFA avec ceux de MTN, Moov, Celtiis et des banques concurrentes.",
+    "Étudier une gratuité ciblée (salariés domiciliés, commerçants) pour attirer les flux vers nos comptes."
+   ],
+   "vigilance": "Wave n'avait pas activé le service au Sénégal à son lancement et aucune sanction publique n'est prévue : le démarrage peut rester inégal selon les acteurs.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-mtn-momo-annonce-un-tarif-de-05-au-dela-du-seuil-gratuit-sur-pi-spi/"
+  },
   {
    "date": "2026-10-25",
    "organisme": "Assemblée nationale du Bénin",
@@ -733,17 +843,17 @@
   "indicateurs": [
    {
     "label": "Croissance du Bénin en 2026",
-    "valeur": "7,0 %",
-    "detail": "Prévision FMI, octobre 2026 ; 5e en Afrique subsaharienne",
+    "valeur": "7,8 %",
+    "detail": "Prévision FMI, mission article IV de novembre 2026 ; 8,2 % au premier semestre",
     "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/"
+    "url": "https://lanouvelletribune.info/2026/11/benin-le-fmi-conclut-sa-mission-de-2026-et-recommande-une-politique-budgetaire-prudente/"
    },
    {
     "label": "Croissance du Bénin en 2025",
     "valeur": "8,1 %",
-    "detail": "Estimation BAD, contre 7,5 % en 2024",
-    "source": "BAD via AllAfrica",
-    "url": "https://allafrica.com/stories/202609260003.html"
+    "detail": "Chiffre retenu par le FMI en novembre 2026, plus haut niveau depuis près de 20 ans",
+    "source": "La Nation",
+    "url": "https://lanation.bj/economie/economie-le-fmi-salue-la-croissance-du-benin-mais-appelle-a-maintenir-les-efforts"
    },
    {
     "label": "Taux directeur BCEAO",
@@ -789,10 +899,10 @@
    },
    {
     "label": "Inflation dans l'UEMOA",
-    "valeur": "1,7 %",
-    "detail": "En août 2026, après 1,2 % en juillet (BCEAO)",
-    "source": "Pi Business Info",
-    "url": "https://www.pibusinessinfo.com/inflation-dans-l-uemoa-bceao-hausse-prix-aout-2026/"
+    "valeur": "1,9 %",
+    "detail": "En septembre 2026, après 1,3 % en août (BCEAO)",
+    "source": "PressAfrik",
+    "url": "https://www.pressafrik.com/%E2%80%8BInflation-a-19-et-petrole-a-487-la-pression-des-cours-mondiaux-s-intensifie-dans-l-UEMOA_a314339.html"
    },
    {
     "label": "Inclusion financière UEMOA",
@@ -828,9 +938,114 @@
     "detail": "11,7 millions actifs sur 40,7 millions en 2025 (UEMOA : 32,6 %)",
     "source": "Agence Ecofin (BCEAO)",
     "url": "https://www.agenceecofin.com/actualites-finance/2210-142638-uemoa-192-millions-de-comptes-de-monnaie-electronique-inactifs-en-2025"
+   },
+   {
+    "label": "Dette publique du Bénin (2024 révisée)",
+    "valeur": "60,5 % du PIB",
+    "detail": "Après réintégration de 22 prêts rétrocédés (FMI, novembre 2026)",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/09/benin-entreprises-publiques-dette-et-risques-budgetaires-pourquoi-le-fmi-reclame-un-suivi-renforce/"
    }
   ],
   "actus": [
+   {
+    "date": "2026-11-10",
+    "titre": "Banque mondiale : 8,2 % de croissance au premier semestre, emploi salarié en panne",
+    "resume": "Le 4e rapport sur l'économie béninoise relève une hausse de l'emploi salarié des grandes entreprises limitée à 0,2 % en 2025 et une informalité de 96 %.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Dette publique 2024 révisée à 60,5 % du PIB",
+    "resume": "La réintégration de 22 prêts rétrocédés relève la dette de 7,1 points ; le FMI demande un suivi renforcé des entreprises publiques et une révision du tarif de l'eau, inchangé depuis 2009.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/09/benin-entreprises-publiques-dette-et-risques-budgetaires-pourquoi-le-fmi-reclame-un-suivi-renforce/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "UEMOA : inflation à 1,9 % en septembre",
+    "resume": "Hausse portée par les transports (+5,8 %) et l'alimentation (+2,2 %) ; inflation sous-jacente à 1,2 % et taux interbancaire à une semaine à 3,73 %.",
+    "source": "PressAfrik",
+    "url": "https://www.pressafrik.com/%E2%80%8BInflation-a-19-et-petrole-a-487-la-pression-des-cours-mondiaux-s-intensifie-dans-l-UEMOA_a314339.html"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Pétrole : le Brent repasse sous 100 dollars",
+    "resume": "À 97,65 dollars le 9 novembre, le baril recule de 8,7 % sur un mois mais reste 52 % plus cher qu'il y a un an.",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/price-of-oil-11-09-2026/"
+   },
+   {
+    "date": "2026-11-07",
+    "titre": "FMI : 7,8 % de croissance attendue en 2026",
+    "resume": "La mission annuelle du FMI (27 octobre–6 novembre) chiffre la croissance 2025 à 8,1 %, prévoit 7,8 % en 2026 et environ 7 % en 2027, avec un déficit de 2,3 % du PIB en 2026 et 2,9 % en 2027.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-le-fmi-conclut-sa-mission-de-2026-et-recommande-une-politique-budgetaire-prudente/"
+   },
+   {
+    "date": "2026-11-06",
+    "titre": "Dette extérieure : 16,9 milliards de dollars fin 2025",
+    "resume": "Hausse de 16,5 % selon la Banque mondiale ; le service de la dette représente 29,2 % des exportations, contre 26,6 % un an plus tôt.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-la-dette-exterieure-bondit-de-165-et-frole-les-17-milliards-de-dollars/"
+   },
+   {
+    "date": "2026-11-06",
+    "titre": "Ebola : un seul cas au Nigeria, suivi des contacts en cours",
+    "resume": "Le cas importé à Abuja le 20 octobre a été évacué ; 62 contacts étaient suivis au 3 novembre, et l'OMS révise son évaluation du risque.",
+    "source": "OMS",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+   },
+   {
+    "date": "2026-11-05",
+    "titre": "Port de Cotonou : une partie du transit vers le Nigeria déplacée à Djèffa",
+    "resume": "Face à la congestion, le dépotage des conteneurs de 20 pieds en transit par Igolo ou Kraké se fait à Djèffa depuis le 5 novembre ; le trafic du premier semestre a progressé de 16,6 %, à 7,79 millions de tonnes.",
+    "source": "La Marina",
+    "url": "https://lamarina.bj/2026/11/05/face-a-la-congestion-le-port-de-cotonou-deporte-une-partie-du-transit-nigerian-vers-djeffa/"
+   },
+   {
+    "date": "2026-11-05",
+    "titre": "Revue UEMOA : plus de 80 % des réformes appliquées au Bénin",
+    "resume": "La 12e revue annuelle, tenue à Cotonou du 4 au 6 novembre, a porté sur 149 textes communautaires ; le taux de mise en œuvre dépasserait 80 %, contre 73 % lors de la revue précédente.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/12eme-revue-annuelle-de-uemoa-le-benin-vise-un-taux-dexecution-de-plus-de-80/"
+   },
+   {
+    "date": "2026-11-05",
+    "titre": "Burkina Faso : 30 milliards FCFA levés sur le marché régional",
+    "resume": "Émission du 4 novembre couverte à 167,65 %, avec des rendements de 3,59 % à un an et 7,37 % à cinq ans.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/Burkina-Faso-Le-Tresor-Public-leve-30-milliards-de-FCFA-sur-le-marche-financier-de-l-UEMOA_a31788.html"
+   },
+   {
+    "date": "2026-11-04",
+    "titre": "Nigeria : 7,7 milliards de dollars d'emprunts extérieurs demandés au Sénat",
+    "resume": "Le président Tinubu sollicite l'autorisation d'emprunter, surtout par eurobonds, pour financer le budget 2026.",
+    "source": "Business Post",
+    "url": "https://businesspost.ng/economy/tinubu-seeks-senate-approval-for-7-7bn-external-borrowing-for-2026-budget/"
+   },
+   {
+    "date": "2026-11-02",
+    "titre": "Coton : récolte 2025-2026 à 533 590 tonnes, prix maintenus",
+    "resume": "La production a reculé de 16,3 % mais le Bénin reste premier de la zone franc ; l'État consacre 3,9 milliards FCFA à la campagne 2026-2027 et maintient les prix d'achat.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/coton-au-benin-le-gouvernement-lance-un-programme-pour-booster-la-production-en-2026-2027/"
+   },
+   {
+    "date": "2026-11-02",
+    "titre": "Port de Cotonou : la BERD étudie un prêt de 20 millions d'euros",
+    "resume": "Le projet de 23 millions d'euros porte sur une capitainerie, un centre de formation des dockers et des parkings pour camions.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/port-de-cotonou-un-pret-pouvant-atteindre-20-millions-deuros-a-letude/"
+   },
+   {
+    "date": "2026-11-02",
+    "titre": "Togo : objectif d'emprunt régional ramené à 396 milliards FCFA",
+    "resume": "Absent du marché depuis mi-août, le Togo réduit de 463,5 à 396 milliards FCFA ses levées prévues en 2026 sur UMOA-Titres.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/finance/0211-20510-umoa-titres-le-togo-ramene-son-objectif-annuel-a-396-milliards-fcfa"
+   },
    {
     "date": "2026-10-26",
     "titre": "UEMOA : masse monétaire en hausse de 19 % sur un an à fin juillet",
@@ -1012,115 +1227,44 @@
     "resume": "5,29 milliards FCFA votés le 21 octobre pour l'éclairage solaire, la voirie, les écoles et la santé, signe d'une hausse des investissements des communes.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
-   },
-   {
-    "date": "2026-10-21",
-    "titre": "Dialogue Bénin–UE : énergie, port et PME",
-    "resume": "Cotonou et l'Union européenne ont tenu leur deuxième dialogue de partenariat, centré sur l'électricité, le port et l'accès des PME au financement, sans nouveau montant annoncé.",
-    "source": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172"
-   },
-   {
-    "date": "2026-10-21",
-    "titre": "La BAD lève 2,5 milliards de dollars à échéance 2030",
-    "resume": "Coupon de 4,875 %, à 0,087 point au-dessus des bons du Trésor américain, avec 4,8 milliards de demandes.",
-    "source": "Agence Ecofin",
-    "url": "https://www.ecofinagency.com/news-finances/2610-60100-african-development-bank-raises-2-5-billion-at-yield-close-to-us-treasuries"
-   },
-   {
-    "date": "2026-10-20",
-    "titre": "Inclusion financière : 76,1 % dans l'UEMOA en 2025",
-    "resume": "Le tableau de bord de la BCEAO publié le 20 octobre situe le taux d'inclusion financière de l'Union à 76,1 % en 2025, porté par le mobile money.",
-    "source": "Linfodrome",
-    "url": "https://www.linfodrome.com/economie/126722-mobile-money-uemoa-76-1-des-adultes-desormais-inclus-financierement"
-   },
-   {
-    "date": "2026-10-19",
-    "titre": "Burkina Faso : emprunt obligataire de 100 milliards FCFA jusqu'au 30 octobre",
-    "resume": "Trois tranches à taux fixe : 6,60 % sur 5 ans, 6,75 % sur 7 ans et 7 % sur 10 ans.",
-    "source": "Agence Ecofin",
-    "url": "https://www.ecofinagency.com/news-finances/1910-59896-burkina-faso-launches-171-2-million-bond-issue-on-regional-market"
-   },
-   {
-    "date": "2026-10-16",
-    "titre": "Banque mondiale : 7,7 % de croissance au Bénin en 2027",
-    "resume": "L'UEMOA croîtrait d'environ 5,7 % en 2027 et 2028, le Bénin de 7,7 % puis 7,5 %.",
-    "source": "Agence Ecofin",
-    "url": "https://www.agenceecofin.com/actualites/1610-142510-uemoa-la-banque-mondiale-table-sur-une-croissance-de-5-7-en-2027-et-2028"
-   },
-   {
-    "date": "2026-10-14",
-    "titre": "Indice Absa des marchés financiers : le Bénin 20e sur 29",
-    "resume": "Avec 51 points sur 100, le Bénin se classe juste derrière la Côte d'Ivoire (52) et devant le Sénégal (47) dans l'indice Absa-OMFIF 2026 qui mesure la profondeur et l'ouverture des marchés financiers.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/afrique-le-benin-classe-20e-marche-financier-le-plus-attractif-en-2026-selon-absa-group/"
-   },
-   {
-    "date": "2026-10-13",
-    "titre": "249,5 milliards FCFA mobilisés auprès de la BID et de la BADEA",
-    "resume": "Trois accords pour les routes, l'agriculture et l'énergie ont été signés à Bangkok en marge des Assemblées annuelles BM/FMI.",
-    "source": "Capmad",
-    "url": "https://www.capmad.com/article/benin-2495-milliards-de-fcfa-mobilises-en-marge-des-assemblees-annuelles-bmfmi"
-   },
-   {
-    "date": "2026-10-09",
-    "titre": "Pauvreté modérée attendue à 34,5 % en 2028",
-    "resume": "Selon une note de la Banque mondiale, la pauvreté mesurée au seuil de 4,20 dollars par jour passerait de 41,1 % en 2024 à 34,5 % en 2028, avec une croissance moyenne attendue de 7,6 % en 2027-2028.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-la-banque-mondiale-prevoit-une-baisse-du-taux-de-pauvrete-moderee-a-345-dici-2028/"
-   },
-   {
-    "date": "2026-10-08",
-    "titre": "Projet de budget 2027 à 4 757 milliards FCFA",
-    "resume": "Hausse de 14,7 % par rapport au budget rectifié 2026, avec un déficit prévu à 2,8 % du PIB et une inflation de 2 %.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
-   },
-   {
-    "date": "2026-10-07",
-    "titre": "Lancement d'une agence africaine de notation",
-    "resume": "L'agence de notation de crédit africaine AfCRA, portée par l'Union africaine, a été lancée le 7 octobre ; ses notes devront encore gagner la reconnaissance des banques centrales et des régulateurs.",
-    "source": "La Nation",
-    "url": "https://www.lanation.bj/economie/creation-de-lagence-africaine-de-notation-le-defi-de-la-credibilite-a-relever"
-   },
-   {
-    "date": "2026-10-01",
-    "titre": "Le Bénin dans le top 5 des croissances d'Afrique subsaharienne",
-    "resume": "Le FMI prévoit 7 % de croissance en 2026, derrière le Soudan du Sud, l'Éthiopie, le Rwanda et la Guinée.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/afrique-subsaharienne-le-benin-classe-5e-parmi-les-economies-a-forte-croissance-en-2026-selon-le-fmi/",
-    "dateApprox": true
-   },
-   {
-    "date": "2026-09-29",
-    "titre": "Prêt bancaire international de 500 millions d'euros garanti par le FAD",
-    "resume": "Le Bénin a conclu un prêt de 12 ans auprès de banques internationales, couvert par une garantie partielle du Fonds africain de développement.",
-    "source": "BAD",
-    "url": "https://www.afdb.org/fr/news-and-events/press-releases/le-benin-mobilise-un-financement-international-de-500-millions-deuros-avec-lappui-du-fonds-africain-de-developpement-97125"
-   },
-   {
-    "date": "2026-08-25",
-    "titre": "Banques de l'UMOA : bilan en hausse de 14 % en 2025",
-    "resume": "Le total bilan atteint 82 299 milliards FCFA, le résultat net progresse de 25,5 % et le ratio de solvabilité moyen monte à 15,6 %.",
-    "source": "Finances AO",
-    "url": "https://financesao.com/umoa-les-actifs-bancaires-atteignent-82-299-milliards-fcfa-en-2025/"
-   },
-   {
-    "date": "2026-08-10",
-    "titre": "Moody's relève la note du Bénin à Ba3",
-    "resume": "La note souveraine passe de B1 à Ba3 avec une perspective stable, après une croissance de 8,1 % en 2025.",
-    "source": "Finances AO",
-    "url": "https://financesao.com/benin-moodys-releve-la-note-souveraine-a-ba3-avec-perspective-stable/"
    }
   ]
  },
  "groupe": [
   {
-   "date": "2026-10-25",
-   "titre": "ETI : l'assemblée générale du 26 octobre sur la révocation d'administrateurs est annulée",
-   "resume": "Convoquée le 7 octobre avec un seul point (révocation de mandats d'administrateurs), la 39e assemblée générale ordinaire d'Ecobank Transnational a été annulée, selon Naija247news à la demande de la Commission bancaire de l'UMOA qui souhaite plus de temps de consultation ; aucune nouvelle date n'a été communiquée.",
-   "source": "Naija247news",
-   "url": "https://naija247news.com/ecobank-cancels-october-26-meeting-for-further-stakeholder-consultations/"
+   "date": "2026-11-02",
+   "titre": "Ecobank Mali facture 0,8 % au-delà du seuil gratuit PI-SPI",
+   "resume": "Selon Africtelegraph, la filiale malienne applique le plafond autorisé par la BCEAO (0,8 % hors taxes) sur les transferts dépassant 8 000 FCFA par jour.",
+   "source": "Africtelegraph",
+   "url": "https://africtelegraph.com/blog/wave-absent-de-pi-spi-la-bceao-testee-sur-linteroperabilite-uemoa/"
+  },
+  {
+   "date": "2026-10-28",
+   "titre": "Résultats régionaux : la zone UEMOA recule de 3 %",
+   "resume": "Le bénéfice avant impôt de la région UEMOA atteint 266,1 millions de dollars (−3 %) avec des dépréciations en hausse de 46 % ; le Nigeria chute de 45 %, l'Afrique centrale, orientale et australe progresse de 20 %.",
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-finances/2810-60204-ecobanks-pretax-profit-rises-12-despite-nigeria-struggles-decline-in-francophone-west-africa"
+  },
+  {
+   "date": "2026-10-28",
+   "titre": "Ecobank Côte d'Ivoire : bénéfice en baisse de 12,3 % sur neuf mois",
+   "resume": "38,9 milliards FCFA de bénéfice net, un produit net bancaire en hausse de 1,8 % et un coût du risque passé de 0,7 à 8 milliards FCFA.",
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-finances/2810-60197-ecobank-cote-d-ivoire-profit-falls-12-3-despite-revenue-growth-in-first-nine-months-of-2026"
+  },
+  {
+   "date": "2026-10-28",
+   "titre": "Gouvernance : le vote sur les administrateurs reporté, l'actionnariat évolue",
+   "resume": "L'annulation de l'assemblée du 26 octobre fait suite à une demande de consultations de la Commission bancaire de l'UMOA ; Bosquet Investments a racheté les 21,22 % de Nedbank, ce qui le place autour de 24 % du capital avec Enko, devant Qatar National Bank (environ 20 %).",
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-finances/2810-60149-ecobank-cancels-board-removal-vote-amid-governance-dispute-and-shareholder-shake-up"
+  },
+  {
+   "date": "2026-10-27",
+   "titre": "ETI : bénéfice avant impôt de 737 millions de dollars sur neuf mois (+12 %)",
+   "resume": "Résultat net part du groupe de 364 millions de dollars (+17 %), revenus de 1,96 milliard (+12 %), rentabilité des fonds propres de 24,4 % et ratio de fonds propres CET1 de 12,9 %.",
+   "source": "ETI (communiqué déposé à la NGX)",
+   "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/48196_ECOBANK_TRANSNATIONAL_INCORPORATED-ETI__9M_2026_ER_CORPORATE_ACTIONS_OCTOBER_2026.pdf"
   },
   {
    "date": "2026-10-26",
@@ -1128,6 +1272,13 @@
    "resume": "Perspective stable ; l'agence cite de meilleures performances financières et un coût du risque en baisse.",
    "source": "Financial Afrik",
    "url": "https://www.financialafrik.com/2026/10/26/ecobank-cote-divoire-bloomfield-maintient-la-note-aa-avec-une-perspective-stable/"
+  },
+  {
+   "date": "2026-10-25",
+   "titre": "ETI : l'assemblée générale du 26 octobre sur la révocation d'administrateurs est annulée",
+   "resume": "Convoquée le 7 octobre avec un seul point (révocation de mandats d'administrateurs), la 39e assemblée générale ordinaire d'Ecobank Transnational a été annulée, selon Naija247news à la demande de la Commission bancaire de l'UMOA qui souhaite plus de temps de consultation ; aucune nouvelle date n'a été communiquée.",
+   "source": "Naija247news",
+   "url": "https://naija247news.com/ecobank-cancels-october-26-meeting-for-further-stakeholder-consultations/"
   },
   {
    "date": "2026-10-24",
@@ -1187,6 +1338,71 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-10",
+   "titre": "Visa : le règlement en stablecoins quinze fois plus important en un an",
+   "resume": "Visa ajoute un dixième réseau blockchain à son règlement en stablecoins, qui atteint un rythme de 20 milliards de dollars par an, avec plus de 225 programmes de cartes liés.",
+   "implication": "Les réseaux de cartes que nous utilisons intègrent les stablecoins : les flux internationaux de nos clients pourront de plus en plus contourner les circuits bancaires classiques.",
+   "pistes": [
+    "Suivre avec le groupe et Visa les offres de règlement en stablecoins disponibles pour les banques africaines.",
+    "Mesurer la part de nos commissions de transfert international exposée à ces nouveaux circuits."
+   ],
+   "vigilance": "Aucun cadre BCEAO n'autorise aujourd'hui les stablecoins dans l'UEMOA.",
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
+  },
+  {
+   "date": "2026-11-06",
+   "titre": "Le Nigeria se dote d'un régime de licences pour les stablecoins",
+   "resume": "La banque centrale du Nigeria encadre depuis le 5 novembre les stablecoins adossés au naira et aux devises, interdit les stablecoins algorithmiques et donne 180 jours aux opérateurs pour se conformer.",
+   "implication": "Notre premier voisin commercial légalise un canal de paiement qui pourra concurrencer les transferts bancaires sur le corridor Bénin–Nigeria.",
+   "pistes": [
+    "Observer l'usage des stablecoins en naira par les commerçants du corridor Cotonou–Lagos.",
+    "Renforcer la détection des flux liés aux plateformes crypto dans la lutte anti-blanchiment."
+   ],
+   "vigilance": "Ces instruments restent hors cadre dans l'UEMOA ; l'exposition indirecte de nos clients doit être surveillée.",
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
+  },
+  {
+   "date": "2026-11-04",
+   "titre": "Cyberfraude de grande ampleur dans une banque française",
+   "resume": "Crédit Mutuel Arkéa a été victime le 1er novembre d'une fraude estimée par la presse à 118 millions d'euros, transférés vers des plateformes crypto ; la banque a suspendu certaines opérations et informé la Banque de France.",
+   "implication": "Les virements rapides et irrévocables, comme PI-SPI, rendent ce type de fraude plus coûteux pour toute banque.",
+   "pistes": [
+    "Tester un scénario de détournement massif de virements dans notre plan de gestion de crise.",
+    "Revoir les plafonds et les contrôles de double validation sur les virements sortants de gros montants."
+   ],
+   "vigilance": "Le montant n'est pas confirmé par la banque.",
+   "source": "Yahoo Finance",
+   "url": "https://fr.finance.yahoo.com/actualites/cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-104933480.html"
+  },
+  {
+   "date": "2026-11-02",
+   "titre": "PI-SPI : un démarrage inégal selon les pays et les opérateurs",
+   "resume": "La BCEAO estime que le seuil gratuit de 8 000 FCFA couvre 75 % des transactions de monnaie électronique ; au Sénégal, Wave n'avait pas activé le service au lancement et des clients bancaires ont signalé des restrictions.",
+   "implication": "La fiabilité de notre propre service PI-SPI sera comparée à celle des opérateurs dès les premières semaines.",
+   "pistes": [
+    "Suivre quotidiennement le taux de réussite de nos virements PI-SPI et le publier en interne.",
+    "Communiquer auprès des clients sur la disponibilité 24h/24 de nos transferts instantanés."
+   ],
+   "vigilance": "Aucun bilan chiffré officiel du démarrage n'est publié par la BCEAO.",
+   "source": "Africtelegraph",
+   "url": "https://africtelegraph.com/blog/wave-absent-de-pi-spi-la-bceao-testee-sur-linteroperabilite-uemoa/"
+  },
+  {
+   "date": "2026-10-31",
+   "titre": "OPay renonce à son introduction en bourse à New York",
+   "resume": "La fintech nigériane a retiré son projet de lever 304 millions de dollars en raison d'une enquête d'un régulateur étranger, tout en revendiquant 1 milliard de dollars de revenus annualisés et environ 50 millions d'utilisateurs mensuels.",
+   "implication": "Les grandes fintechs nigérianes restent puissantes mais exposées à des risques réglementaires qui peuvent freiner leur expansion vers l'UEMOA.",
+   "pistes": [
+    "Surveiller les projets d'implantation des fintechs nigérianes au Bénin.",
+    "Étudier des partenariats de distribution avec des fintechs agréées plutôt qu'une concurrence frontale."
+   ],
+   "vigilance": "La nature exacte de l'enquête n'est pas publique.",
+   "source": "Premium Times",
+   "url": "https://www.premiumtimesng.com/business/business-news/921715-opay-withdraws-planned-304m-us-ipo-over-foreign-regulatory-inquiry.html"
+  },
   {
    "date": "2026-10-26",
    "titre": "Stablecoins : le Canada et les États-Unis précisent les règles, les banques invitées à émettre",
@@ -1793,34 +2009,127 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-10-26",
+  "date": "2026-11-09",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "8 520",
-    "detail": "−0,81 % sur la séance du 26 octobre ; 10 450 FCFA le 11 septembre, soit environ −18 % depuis ; introduite à 5 600 FCFA en avril 2025. Résultat net 2025 : 36,2 milliards FCFA (+24,7 %, normes IFRS).",
+    "cours": "7 980",
+    "detail": "−1,48 % sur la séance du 9 novembre ; 8 540 FCFA le 27 octobre, soit −6,6 % en deux semaines et environ −24 % depuis 10 450 FCFA le 11 septembre ; introduite à 5 600 FCFA en avril 2025.",
     "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 070",
-    "detail": "+0,78 % sur la séance du 26 octobre ; 23,7 milliards FCFA de dividendes versés en mai 2026 ; produit net bancaire +11 % au premier trimestre.",
-    "url": "https://www.financialafrik.com/2026/04/20/dividendes-2025-la-boa-benin-allouera-a-ses-actionnaires-23728-milliards-de-fcfa-le-15-mai-2026/"
+    "cours": "9 360",
+    "detail": "−0,43 % sur la séance du 9 novembre ; stable depuis le 27 octobre (9 300) ; rapport du troisième trimestre publié début novembre, résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
+    "url": "https://www.sikafinance.com/premium/bank-of-africa-benin-le-resultat-net-se-stabilise-a-15-milliards-fcfa-sur-neuf-mois_65486"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
-    "cours": "63",
-    "detail": "−1,56 % le 26 octobre, jour où l'assemblée générale prévue a été annulée ; 22 FCFA en début d'année, soit près de trois fois plus en 2026 ; résultats du troisième trimestre attendus.",
-    "url": "https://naija247news.com/ecobank-cancels-october-26-meeting-for-further-stakeholder-consultations/"
+    "cours": "59",
+    "detail": "−1,67 % le 9 novembre ; 61 FCFA le 27 octobre, jour de publication d'un bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) ; nouvelle date d'assemblée générale non annoncée.",
+    "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/48196_ECOBANK_TRANSNATIONAL_INCORPORATED-ETI__9M_2026_ER_CORPORATE_ACTIONS_OCTOBER_2026.pdf"
    }
   ],
-  "source": "BRVM, cours de clôture du 26 octobre 2026 (BRVM Composite +1,06 % à 534,74 points ; fractionnement de l'action Sonatel)",
+  "source": "BRVM, cours de clôture du 9 novembre 2026 (BRVM Composite +0,22 % à 521,88 points)",
   "url": "https://www.brvm.org/fr/cours-actions/0"
  },
  "opportunites": [
+  {
+   "date": "2026-11-10",
+   "titre": "Électricité : 2,36 milliards d'euros d'investissements à financer d'ici 2030",
+   "resume": "La Banque mondiale estime les besoins du secteur électrique à 2,36 milliards d'euros sur 2025-2030, dont 938 millions attendus du privé, et recommande une quinzaine de mesures pour réduire les pertes du réseau (24,6 %).",
+   "implication": "Producteurs privés, installateurs et grands consommateurs d'énergie auront besoin de financements, notamment pour l'autoproduction solaire.",
+   "pistes": [
+    "Créer une offre de crédit pour l'autoproduction solaire des entreprises clientes touchées par les coupures.",
+    "Suivre les appels d'offres de production indépendante pour accompagner les sponsors."
+   ],
+   "vigilance": "Ce sont des recommandations, pas des décisions adoptées.",
+   "source": "La Marina",
+   "url": "https://lamarina.bj/2026/11/10/electricite-au-benin-une-quinzaine-de-mesures-pour-ameliorer-loffre-la-gestion-et-lacces-au-service/"
+  },
+  {
+   "date": "2026-11-08",
+   "titre": "Les communes investissent et empruntent",
+   "resume": "Cotonou a voté un budget 2027 de 72,4 milliards FCFA avec des investissements en hausse de 47,5 %, et Abomey-Calavi (11,7 milliards) a autorisé un emprunt auprès d'UBA pour ses infrastructures.",
+   "implication": "Les grandes communes deviennent des emprunteurs et des donneurs d'ordre : un concurrent s'y est déjà positionné.",
+   "pistes": [
+    "Présenter aux mairies de Cotonou, Porto-Novo et Parakou une offre de financement d'infrastructures et de gestion des recettes.",
+    "Proposer aux entreprises attributaires des marchés communaux cautions et avances sur marché."
+   ],
+   "vigilance": "Selon La Marina, les dépenses de personnel des communes ont atteint 156 % de leurs recettes fiscales en 2025 : la capacité de remboursement doit être analysée commune par commune.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/benin-abomey-calavi-adopte-un-budget-de-117-milliards-un-pret-autorise-pour-les-infrastructures/"
+  },
+  {
+   "date": "2026-11-07",
+   "titre": "Près de 200 milliards FCFA pour quatre centrales solaires",
+   "resume": "AXIAN, la CDC Bénin, la SFI (IFC) et Proparco ont signé le 29 octobre un accord pour quatre centrales de 62 mégawatts-crête au total à Natitingou, Djougou, Parakou et Bohicon, concédées pour 20 ans, avec une mise en service prévue début 2028.",
+   "implication": "Les chantiers vont générer des besoins de cautions, de comptes de projet et de financement des sous-traitants locaux pendant deux ans.",
+   "pistes": [
+    "Approcher AXIAN et la CDC Bénin pour les comptes de projet, garanties et paiements des fournisseurs.",
+    "Proposer du crédit d'équipement solaire aux PME des quatre villes concernées."
+   ],
+   "vigilance": "Le financement principal vient de la SFI et de Proparco ; la part ouverte aux banques locales n'est pas publiée.",
+   "source": "Banouto",
+   "url": "https://www.banouto.bj/economie/article/20261107-production-independante-d-electricite-pres-de-200-milliards-fcfa-pour-developper-le-solaire-dans-04-villes-du-benin"
+  },
+  {
+   "date": "2026-11-06",
+   "titre": "Terra Bénin : un million de certificats fonciers en dix ans",
+   "resume": "Le programme lancé avec la Banque mondiale doit enregistrer 1,5 million de parcelles et délivrer un million de certificats dans 14 communes, puis 30 autres ; un programme appuyé par les Pays-Bas couvre 12 communes dont Cotonou, Porto-Novo et Parakou.",
+   "implication": "Davantage de terrains titrés signifie davantage de garanties hypothécaires sûres pour le crédit immobilier et le crédit aux PME.",
+   "pistes": [
+    "Développer un crédit habitat et un crédit d'équipement adossés aux nouveaux certificats dans les communes couvertes en premier.",
+    "Nouer un partenariat avec l'agence foncière pour vérifier rapidement les titres présentés en garantie."
+   ],
+   "vigilance": "Aucun montant ni calendrier par commune n'est publié ; les effets seront progressifs.",
+   "source": "Gouvernement du Bénin",
+   "url": "https://www.gouv.bj/article/3734/modernisation-fonciere-benin-deux-nouveaux-programmes-accelerer-deploiement-cadastre-national/"
+  },
+  {
+   "date": "2026-11-06",
+   "titre": "Fonds de garantie des PME : un directeur général nommé et 50 % des prêts garantis",
+   "resume": "Agréé le 13 octobre comme établissement financier (5 milliards FCFA de capital annoncé), le fonds prévoit de garantir 50 % des prêts éligibles et vise 4 milliards FCFA de prêts garantis ; Edouard M. Sehlin en a été nommé directeur général le 4 novembre.",
+   "implication": "Une garantie de 50 % réduit de moitié notre perte potentielle sur les crédits PME éligibles.",
+   "pistes": [
+    "Prendre rendez-vous avec le nouveau directeur général pour signer une convention de garantie dès le démarrage.",
+    "Sélectionner un portefeuille pilote de PME clientes éligibles pour tester le mécanisme."
+   ],
+   "vigilance": "Les conditions (commission de garantie, délais d'indemnisation) ne sont pas encore publiées.",
+   "source": "La Marina",
+   "url": "https://lamarina.bj/2026/11/06/financement-des-pme-au-benin-deux-ans-apres-sa-creation-comment-le-figpme-a-franchi-les-etapes-conduisant-a-son-agrement/"
+  },
+  {
+   "date": "2026-11-04",
+   "titre": "Fonds de développement industriel de 100 milliards FCFA, avec une garantie partagée avec les banques",
+   "resume": "Le Conseil des ministres a créé un fonds en trois guichets : apports en capital (Bénin Industrial Invest), facilité de garantie industrielle qui partage le risque des crédits longs, du crédit-bail et du financement export avec les banques, et usines clés en main.",
+   "implication": "Une partie du risque des crédits longs aux industriels pourrait être couverte par l'État, ce qui rend finançables des projets aujourd'hui trop risqués.",
+   "pistes": [
+    "Demander au ministère des Finances les critères de la facilité de garantie pour être parmi les premières banques conventionnées.",
+    "Repérer dans la zone de Glo-Djigbé et chez nos clients industriels les projets d'équipement qui pourraient être financés en crédit-bail garanti.",
+    "Préparer une offre de financement export pour les transformateurs de coton, cajou et soja."
+   ],
+   "vigilance": "Capital libéré, répartition entre guichets, taux de garantie et calendrier ne sont pas encore publiés.",
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news/0511-60540-benin-launches-171-million-industrial-fund-to-expand-long-term-financing"
+  },
+  {
+   "date": "2026-11-04",
+   "titre": "Programme d'action 2026-2033 : 55 % des projets attendus du privé",
+   "resume": "Le nouveau programme du gouvernement vise 7,7 % de croissance moyenne et un déficit sous 3 % du PIB ; il prévoit un financement à 55 % par le privé et un Fonds national d'investissements stratégiques d'environ 200 milliards FCFA la première année.",
+   "implication": "Les besoins de financement privé (partenariats public-privé, sous-traitants, projets agricoles, logistiques et énergétiques) vont augmenter sur huit ans.",
+   "pistes": [
+    "Cartographier les six filières prioritaires (agriculture, industrie, tourisme, logistique, savoirs, énergie) et nos clients exposés.",
+    "Se positionner comme banque arrangeuse ou co-arrangeuse sur les premiers partenariats public-privé annoncés.",
+    "Proposer aux fournisseurs de l'État des cautions de marché et du préfinancement adossés aux contrats."
+   ],
+   "vigilance": "Les projets et montants détaillés ne sont pas encore publiés ; il faudra suivre leur lancement effectif.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/benin-le-programme-daction-du-gouvernement-2026-2033-officiellement-acte/"
+  },
   {
    "date": "2026-10-26",
    "titre": "Le fonds de garantie des PME agréé : les crédits aux PME bientôt partiellement garantis par l'État",
@@ -2142,6 +2451,66 @@
     "BICB": 8520,
     "BOAB": 9070,
     "ETIT": 63
+   },
+   {
+    "date": "2026-10-27",
+    "BICB": 8540,
+    "BOAB": 9300,
+    "ETIT": 61
+   },
+   {
+    "date": "2026-10-28",
+    "BICB": 8440,
+    "BOAB": 9380,
+    "ETIT": 61
+   },
+   {
+    "date": "2026-10-29",
+    "BICB": 8440,
+    "BOAB": 9300,
+    "ETIT": 64
+   },
+   {
+    "date": "2026-10-30",
+    "BICB": 8400,
+    "BOAB": 9365,
+    "ETIT": 63
+   },
+   {
+    "date": "2026-11-02",
+    "BICB": 8300,
+    "BOAB": 9100,
+    "ETIT": 61
+   },
+   {
+    "date": "2026-11-03",
+    "BICB": 8115,
+    "BOAB": 9350,
+    "ETIT": 60
+   },
+   {
+    "date": "2026-11-04",
+    "BICB": 8130,
+    "BOAB": 9495,
+    "ETIT": 59
+   },
+   {
+    "date": "2026-11-05",
+    "BICB": 8100,
+    "BOAB": 9495,
+    "ETIT": 59
+   },
+   {
+    "date": "2026-11-06",
+    "BICB": 8100,
+    "BOAB": 9400,
+    "ETIT": 60
+   },
+   {
+    "date": "2026-11-09",
+    "BICB": 7980,
+    "BOAB": 9360,
+    "ETIT": 59
    }
   ]
  },
@@ -2214,6 +2583,77 @@
       "Développer le financement du commerce (lettres de crédit, garanties) avec les importateurs."
      ],
      "vigilance": "Une croissance tirée par l'investissement public peut ralentir si le budget de l'État se resserre."
+    }
+   ]
+  },
+  {
+   "periode": "Semaine du 26 octobre 2026",
+   "titre": "Une semaine avant le 2 novembre : paiement instantané obligatoire et nouvel accord commercial avec les Émirats",
+   "points": [
+    {
+     "titre": "Le 2 novembre, PI-SPI devient obligatoire et les plafonds du mobile money doublent",
+     "texte": "Dans une semaine, les transferts interopérables entre particuliers devront passer par la plateforme de paiement instantané de la BCEAO, gratuite pour les virements nationaux jusqu'à 8 000 FCFA cumulés par jour. Le même jour, le solde maximal d'un compte mobile money passe de 2 à 4 millions FCFA et le cumul mensuel des rechargements de 10 à 15 millions FCFA.",
+     "implication": "Les clients pourront comparer en quelques secondes le virement de leur banque et celui de leur wallet, et garder plus d'argent sur leur téléphone : la qualité de l'application et la collecte des dépôts sont en jeu dès la semaine prochaine.",
+     "pistes": [
+      "Tester d'ici vendredi le parcours de virement instantané dans l'application et en agence, et corriger les blocages.",
+      "Préparer un message clients simple sur la gratuité jusqu'à 8 000 FCFA par jour et la rapidité des virements.",
+      "Proposer aux clients des wallets une passerelle gratuite vers un compte épargne rémunéré pour retenir les soldes qui grossissent."
+     ],
+     "vigilance": "Une panne ou un parcours compliqué le 2 novembre serait immédiatement visible face aux opérateurs mobiles.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/0510-20246-transferts-monetaires-interoperables-la-bceao-rend-pi-spi-obligatoire-pour-les-particuliers-des-novembre-2026"
+    },
+    {
+     "titre": "Le Bénin signe un accord de partenariat économique global avec les Émirats arabes unis",
+     "texte": "Signé le 25 octobre à Abou Dhabi, l'accord doit, après ratification, réduire ou supprimer les droits de douane sur environ 97 % des échanges et faciliter l'investissement. Le commerce hors pétrole entre les deux pays a atteint 2,15 milliards de dollars en 2025 (+65 %) et les Émirats visent plus d'un milliard de dollars d'exportations supplémentaires vers le Bénin d'ici 2033.",
+     "implication": "Le Golfe devient un partenaire commercial de premier plan : financements du commerce, paiements en dollars et accompagnement des investisseurs émiratis vont se développer.",
+     "pistes": [
+      "Recenser les clients qui commercent déjà avec les Émirats (coton, noix, soja, textile, électronique) et leur proposer lettres de crédit et préfinancement.",
+      "Étudier avec le groupe des lignes de financement du commerce ou des correspondants bancaires aux Émirats.",
+      "Préparer une offre d'accueil pour les entreprises émiraties qui s'installent, notamment à Glo-Djigbé."
+     ],
+     "vigilance": "L'accord n'est pas encore en vigueur, et les flux liés à l'or demandent une vigilance anti-blanchiment renforcée.",
+     "source": "Bénin Intelligent / The National",
+     "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
+    },
+    {
+     "titre": "Le port de Cotonou entame sa première semaine complète en service continu",
+     "texte": "Depuis le 24 octobre, dédouanement, paiements et enlèvements de marchandises sont assurés 24h/24 et 7j/7, y compris le week-end et les jours fériés. Les banques installées dans l'enceinte portuaire sont appelées à suivre ce rythme.",
+     "implication": "Les importateurs et transitaires vont privilégier les banques capables de payer droits et frais portuaires à toute heure.",
+     "pistes": [
+      "Vérifier que le paiement des droits de douane et des frais portuaires fonctionne le week-end, en ligne et au guichet du port.",
+      "Proposer aux transitaires une ligne de crédit de trésorerie courte pour régler les frais sans attendre.",
+      "Mesurer la fréquentation du week-end pour ajuster les effectifs du point de service portuaire."
+     ],
+     "vigilance": "Des opérations le week-end sans contrôle renforcé augmentent le risque de fraude sur les paiements.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
+    },
+    {
+     "titre": "Le tribunal de commerce de Cotonou fonctionne en six chambres spécialisées depuis ce lundi",
+     "texte": "Depuis le 26 octobre, les dossiers sont répartis entre des chambres dédiées, notamment aux procédures collectives et litiges financiers, aux saisies immobilières et aux référés. Les renvois d'audience sont limités à environ une semaine dans plusieurs procédures.",
+     "implication": "Les dossiers de recouvrement et de saisie de la banque peuvent avancer plus vite, à condition d'être complets dès la première audience.",
+     "pistes": [
+      "Faire le point avec les avocats sur la chambre compétente pour chaque dossier contentieux.",
+      "Compléter en priorité les pièces des dossiers de recouvrement les plus importants.",
+      "Suivre les premières décisions pour ajuster les prévisions de recouvrement et de provisions."
+     ],
+     "vigilance": "Un dossier incomplet sera plus vite tranché, y compris en défaveur de la banque.",
+     "source": "La Marina",
+     "url": "https://lamarina.bj/2026/10/23/au-tribunal-de-commerce-de-cotonou-une-nouvelle-organisation-pour-ameliorer-le-traitement-des-litiges/"
+    },
+    {
+     "titre": "Dette régionale : le Sénégal paie plus de 8 % et sa loi de finances est bloquée",
+     "texte": "Lors de l'adjudication du 23 octobre sur UMOA-Titres, le Sénégal a emprunté à plus de 8 %, ce qui relance le débat sur l'encadrement des taux. Sa loi de finances rectificative, rejetée en commission, doit être examinée en plénière le 27 octobre alors qu'un programme FMI est en préparation.",
+     "implication": "Le marché régional des titres publics, où la banque place une part de sa trésorerie, devient plus sélectif : les rendements montent pour les États fragiles, tandis que le Bénin reste absent du calendrier d'émissions du quatrième trimestre.",
+     "pistes": [
+      "Revoir la répartition du portefeuille de titres publics par pays et par échéance au vu du risque sénégalais.",
+      "Proposer aux clients fortunés et institutionnels des placements en titres publics bien notés, en expliquant le rapport rendement-risque.",
+      "Suivre l'issue du vote du 27 octobre et ses effets sur les prochaines adjudications."
+     ],
+     "vigilance": "Une dégradation de la situation sénégalaise pourrait peser sur la valeur des titres détenus et sur la liquidité du marché.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/10/25/le-senegal-emprunte-a-plus-de-8-sur-umoa-titres-faut-il-reguler-les-taux/"
     }
    ]
   }
@@ -2291,9 +2731,171 @@
   "obligation sociale": "Titre de dette dont les fonds sont réservés à des projets à impact social (logement abordable, santé, éducation), avec un suivi des résultats.",
   "coût du risque": "Montant des provisions et pertes sur crédits enregistrées par une banque sur une période, net des reprises ; il réduit directement le bénéfice.",
   "assemblée générale ordinaire (AGO)": "Réunion des actionnaires d'une société pour voter sur les comptes, les dividendes ou la nomination et la révocation des administrateurs.",
-  "fonds de garantie": "Organisme qui s'engage à rembourser à la banque une partie d'un prêt si l'emprunteur fait défaut, en échange d'une commission."
+  "fonds de garantie": "Organisme qui s'engage à rembourser à la banque une partie d'un prêt si l'emprunteur fait défaut, en échange d'une commission.",
+  "PAG": "Programme d'action du gouvernement : feuille de route pluriannuelle des réformes et projets de l'État béninois (2026-2033 pour le gouvernement actuel).",
+  "Facilité de garantie industrielle": "Guichet du Fonds de développement industriel du Bénin qui prend en charge une partie du risque des crédits longs, du crédit-bail et du financement export accordés par les banques aux industriels.",
+  "crédit-bail": "Financement où la banque achète un équipement et le loue à l'entreprise, qui peut le racheter en fin de contrat.",
+  "article IV": "Consultation annuelle du FMI avec chaque pays membre pour examiner sa situation économique et ses politiques.",
+  "PAPSS": "Système panafricain de paiement et de règlement, géré avec Afreximbank, qui permet de payer entre pays africains en monnaies locales sans passer par le dollar.",
+  "FNDA": "Fonds national de développement agricole du Bénin : il refinance et garantit les crédits agricoles accordés par les banques et microfinances.",
+  "Terra Bénin": "Programme de cadastre lancé en 2026 avec la Banque mondiale pour enregistrer 1,5 million de parcelles et délivrer un million de certificats fonciers.",
+  "ARCEP": "Autorité de régulation des communications électroniques et de la poste du Bénin, qui supervise les opérateurs télécoms.",
+  "BERD": "Banque européenne pour la reconstruction et le développement, banque publique multilatérale qui finance aussi des projets en Afrique.",
+  "FIGPME": "Fonds d'investissement et de garantie des PME du Bénin, agréé en octobre 2026, qui garantit une partie des crédits bancaires aux PME.",
+  "ETF": "Fonds indiciel coté en bourse, qui reproduit la performance d'un indice et s'achète comme une action.",
+  "CET1": "Fonds propres de base d'une banque (capital et réserves), rapportés à ses risques : plus le ratio est élevé, plus la banque est solide."
  },
  "journal": [
+  {
+   "date": "2026-11-10",
+   "synthese": "Les diagnostics sur l'économie béninoise dominent : la Banque mondiale salue une croissance de 8,2 % au premier semestre mais pointe un emploi salarié à l'arrêt et une électricité défaillante, tandis que le FMI relève la dette à 60,5 % du PIB ; côté banques, UBA et Coris avancent auprès des communes et de l'agriculture, et l'inflation de l'UEMOA remonte à 1,9 %.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "Banque mondiale : l'électricité, clé de 159 000 emplois au Bénin",
+     "resume": "Le 4e rapport de la Banque mondiale sur l'économie béninoise, présenté le 9 novembre, chiffre la croissance à 8,2 % au premier semestre 2026 et estime que le programme électrique M300 pourrait créer 159 000 emplois ; il note que 86 % des entreprises subissent des coupures, environ huit par mois.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/benin-la-banque-mondiale-identifie-lelectricite-comme-un-levier-pour-creer-159-000-emplois/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "Croissance forte, mais l'emploi salarié des grandes entreprises stagne",
+     "resume": "Selon le même rapport de la Banque mondiale, l'emploi salarié dans les grandes entreprises privées n'a progressé que de 0,2 % en 2025 (contre 4,1 % en 2024), alors que la zone industrielle de Glo-Djigbé (GDIZ) a gagné 28,8 % d'emplois, à 22 798 postes.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "Budget 2027 : les députés se forment avant l'examen du texte",
+     "resume": "La commission des finances de l'Assemblée a tenu les 9 et 10 novembre à Porto-Novo un séminaire, appuyé par le PNUD, sur le cadrage macroéconomique, les réformes fiscales et douanières et la stratégie d'endettement du projet de budget 2027 (4 757 milliards FCFA).",
+     "source": "Le Matinal",
+     "url": "https://lematinal.bj/projet-de-budget-2027au-benin-les-deputes-se-preparent-a-lexamen/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-09",
+     "titre": "Cadastre : lancement de Terra Bénin pour délivrer un million de certificats fonciers",
+     "resume": "Lancé le 6 novembre avec la Banque mondiale, Terra Bénin doit enregistrer au moins 1,5 million de parcelles et délivrer un million de certificats dans 14 communes, avant d'en couvrir 44 ; un second programme, appuyé par les Pays-Bas, cible 12 communes dont Cotonou.",
+     "source": "La Nation",
+     "url": "https://lanation.bj/economie/lancement-de-terra-benin-et-ppmec-ii-le-gouvernement-accelere-la-revolution-cadastrale"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-09",
+     "titre": "FMI : la dette publique révisée à 60,5 % du PIB et les entreprises publiques sous surveillance",
+     "resume": "À l'issue de sa mission annuelle (27 octobre–6 novembre), le FMI prévoit 7,8 % de croissance en 2026 ; la réintégration de 22 prêts rétrocédés porte la dette 2024 à 60,5 % du PIB, et il demande un suivi renforcé du port, de la SBEE, de la SBPE et de la SONEB, dont les comptes 2022-2024 ne sont pas audités.",
+     "source": "La Marina",
+     "url": "https://lamarina.bj/2026/11/09/benin-entreprises-publiques-dette-et-risques-budgetaires-pourquoi-le-fmi-reclame-un-suivi-renforce/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-08",
+     "titre": "PME : le problème est moins l'argent que les dossiers finançables",
+     "resume": "La directrice générale de la Caisse des dépôts et consignations du Bénin annonce deux programmes d'accompagnement des PME financés par l'AFD et la Banque mondiale, en soulignant la difficulté des entreprises à présenter des projets bancables.",
+     "source": "Banouto",
+     "url": "https://www.banouto.bj/economie/article/20261108-benin-pourquoi-les-pme-peinent-a-absorber-les-financements-disponibles"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-08",
+     "titre": "Abomey-Calavi vote un budget de 11,7 milliards et autorise un prêt auprès d'UBA",
+     "resume": "Le conseil municipal a adopté le 6 novembre un budget 2027 en hausse de 8,3 % et autorisé le maire à signer une convention de prêt avec UBA pour financer des infrastructures ; montant, durée et taux ne sont pas publiés.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/benin-abomey-calavi-adopte-un-budget-de-117-milliards-un-pret-autorise-pour-les-infrastructures/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-09",
+     "titre": "Coris Bank Bénin dispose d'une ligne agricole de 500 millions du FNDA",
+     "resume": "La banque a déjà tiré environ 373 millions FCFA sur sa ligne de refinancement du Fonds national de développement agricole et a fait former vingt agents au crédit agricole du 2 au 6 novembre, avec l'appui du Luxembourg.",
+     "source": "L'Économiste du Bénin",
+     "url": "https://leconomistebenin.bj/fnda-coris-bank-05-jours-de-formation-pour-dynamiser-le/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-09",
+     "titre": "Télécoms : Celtiis dépasse Moov et devient numéro deux",
+     "resume": "Selon les données 2025 du régulateur (ARCEP), MTN reste en tête avec 143,1 milliards FCFA de chiffre d'affaires, devant Celtiis (124,6 milliards) et Moov (82,3 milliards, −15,6 %) ; Celtiis détient 32,6 % des abonnés.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/telecoms-celtiis-relegue-moov-3e-rang/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-09",
+     "titre": "MTN : 512 milliards de dollars de transactions mobile money en neuf mois",
+     "resume": "Le groupe MTN publie des revenus de services en hausse de 17,2 % et une valeur de transactions fintech en hausse de 36,9 %, avec 70,3 millions d'utilisateurs MoMo actifs ; aucun chiffre propre au Bénin n'est donné.",
+     "source": "MTN Group",
+     "url": "https://www.mtn.com/mtn-group-q3-2026-growth-accelerates-supported-by-stronger-earnings-and-cash-generation/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-09",
+     "titre": "L'inflation de l'UEMOA monte à 1,9 % en septembre, tirée par le pétrole",
+     "resume": "Selon la BCEAO, les prix ont augmenté de 1,9 % sur un an en septembre (1,3 % en août), avec +5,8 % pour les transports ; le taux interbancaire à une semaine remonte à 3,73 %.",
+     "source": "PressAfrik",
+     "url": "https://www.pressafrik.com/%E2%80%8BInflation-a-19-et-petrole-a-487-la-pression-des-cours-mondiaux-s-intensifie-dans-l-UEMOA_a314339.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-10",
+     "titre": "BCEAO : feu vert au système panafricain PAPSS et réflexion sur les crypto-actifs",
+     "resume": "Présentant PI-SPI à Luanda, le gouverneur de la BCEAO a rappelé l'avis favorable donné le 2 octobre à la participation de la Banque centrale et des banques de l'Union au système panafricain de paiement PAPSS, et indiqué qu'un cadre sur les crypto-actifs est à l'étude avec le régulateur boursier.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Paiements-transfrontaliers-Le-Gouverneur-de-la-Bceao-partage-l-experience-de-l-Uemoa-lors-de-l-Afis-2026_a31821.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-10",
+     "titre": "La BRVM fêtera ses 30 ans le 18 décembre",
+     "resume": "La bourse régionale, dont 25 % des actifs sont détenus par des étrangers, prévoit des fonds indiciels cotés (ETF) et des produits dérivés d'ici 2030, après avoir reporté à 2027 le lancement des contrats à terme prévu en décembre.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/BRVM-30-ans-d-existence-et-de-nouveaux-defis-pour-accelerer-l-integration-financiere-africaine_a31824.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-10",
+     "titre": "Nigeria : la banque centrale se réunit les 23 et 24 novembre",
+     "resume": "Le taux directeur nigérian est à 23 % après une baisse de 3,5 points en septembre ; la réunion évaluera l'effet de cette baisse alors que l'inflation recule (14,63 % en septembre).",
+     "source": "Daily Trust",
+     "url": "https://dailytrust.com/cbn-mpcs-november-meeting-to-gauge-impact-of-interest-rates-reset/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-09",
+     "titre": "Naira : environ 1 347 pour un dollar au cours officiel",
+     "resume": "Le cours officiel était proche de 1 346,8 nairas par dollar le 6 novembre, contre 1 415 à 1 430 sur le marché parallèle.",
+     "source": "Vanguard",
+     "url": "https://www.vanguardngr.com/2026/11/dollar-to-naira-exchange-rate-today-november-9-2026/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-09",
+     "titre": "Nigeria : 4,1 milliards de dollars de capitaux entrés en septembre",
+     "resume": "La note hebdomadaire du Trésor français relève des entrées de capitaux surtout de portefeuille (96 %), un indice d'activité PMI à 55,7 en octobre et un prêt de 30 millions de dollars de Proparco à Sterling Bank.",
+     "source": "DG Trésor",
+     "url": "https://www.tresor.economie.gouv.fr/Articles/2026/11/09/actualites-economiques-nigeria-ghana-semaine-du-2-novembre-2026"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-06",
+     "titre": "Nigeria : la banque centrale encadre les stablecoins",
+     "resume": "Un régime de licences en vigueur depuis le 5 novembre distingue les stablecoins adossés au naira et aux devises, interdit les stablecoins algorithmiques et laisse 180 jours aux opérateurs existants pour se conformer.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-10",
+     "titre": "Visa étend son règlement en stablecoins à dix réseaux",
+     "resume": "Visa ajoute la blockchain Monad ; son règlement en stablecoins atteint un rythme annuel de 20 milliards de dollars, plus de quinze fois plus qu'il y a un an, avec plus de 225 programmes de cartes liés.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "synthese": "La journée est dominée par le financement des PME et du logement au Bénin : agrément par la BCEAO du fonds de garantie des PME et titrisation de 15 milliards FCFA par BSIC Bénin ; dans la région, le Sénégal vote son budget rectificatif sous la pression de ses créanciers, et les régulateurs nord-américains avancent sur les stablecoins.",
