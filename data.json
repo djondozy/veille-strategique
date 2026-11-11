@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-11T05:13:30Z",
+ "derniereMaj": "2026-11-11T12:29:18Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -273,6 +273,12 @@
    "resume": "Banque béninoise cotée à la BRVM depuis avril 2025.",
    "actus": [
     {
+     "date": "2026-11-10",
+     "texte": "Publie à la BRVM son rapport d'activité du troisième trimestre 2026 (situation au 30 septembre).",
+     "source": "Richbourse (publications officielles BRVM)",
+     "url": "https://www.richbourse.com/common/actualite/index/BICB"
+    },
+    {
      "date": "2026-09-23",
      "texte": "Produit net bancaire en hausse de 19 % au premier semestre 2026.",
      "source": "Financial Afrik",
@@ -387,6 +393,12 @@
    "resume": "Filiale du groupe nigérian United Bank for Africa.",
    "actus": [
     {
+     "date": "2026-11-11",
+     "texte": "Au niveau du groupe : UBA Nigeria propose avec le concessionnaire Mikano Motors un crédit auto avec 30 % d'apport, à un taux rapporté d'environ 23 % sur 36 mois.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/11/nigerian-banks-step-up-consumer-credit-schemes-with-vehicle-electronics-loans/"
+    },
+    {
      "date": "2026-11-08",
      "texte": "La commune d'Abomey-Calavi autorise son maire à signer une convention de prêt avec UBA pour financer des infrastructures (montant non publié), en votant son budget 2027 de 11,7 milliards FCFA.",
      "source": "La Nouvelle Tribune",
@@ -415,12 +427,6 @@
      "texte": "Premier émetteur de cartes prépayées du Bénin à permettre le paiement Visa sans contact par téléphone (wallets mobiles).",
      "source": "Onafriq",
      "url": "https://onafriq.com/article/weve-enabled-visa-digital-wallet-tokenisation-for-card-issuers-across-cemea"
-    },
-    {
-     "date": "2025-10-20",
-     "texte": "Partenaire de MTN MoMo et Jumo pour MoMo Kash, un microcrédit 100 % numérique : plus de 170 000 prêts pour près de 13 milliards FCFA pendant la phase de test.",
-     "source": "Cadre Co",
-     "url": "https://cadreco.media/evenement/2025/momo-kash-le-nouveau-produit-de-mtn-mobile-money-pour-transformer-lacces-au-credit-au-benin"
     }
    ]
   },
@@ -975,6 +981,20 @@
     "url": "https://www.brvm.org/fr/indices"
    },
    {
+    "date": "2026-11-10",
+    "titre": "Banque mondiale : 8,2 % de croissance au premier semestre, emploi salarié en panne",
+    "resume": "Le 4e rapport sur l'économie béninoise relève une hausse de l'emploi salarié des grandes entreprises limitée à 0,2 % en 2025 et une informalité de 96 %.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Inflation alimentaire de 5,6 % au second semestre 2025",
+    "resume": "La Banque mondiale relève une flambée de l'huile de palme (+21,4 %), du piment (+16,1 %) et de l'igname (+11,3 %), alors que l'inflation générale est restée à 1,1 %.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-huile-de-palme-piment-et-igname-ont-fortement-rencheri-en-2025/"
+   },
+   {
     "date": "2026-11-09",
     "titre": "Exportations vers le Royaume-Uni : +62,5 %",
     "resume": "Les ventes du Bénin au Royaume-Uni atteignent 13 millions de livres sur douze mois à fin juin 2026, surtout des fruits et légumes.",
@@ -987,20 +1007,6 @@
     "resume": "Le nouveau directeur national de la BCEAO au Togo fait du financement de l'économie sa priorité ; les prêts dégradés représentent 13,4 % du portefeuille.",
     "source": "Togo First",
     "url": "https://www.togofirst.com/fr/gestion-publique/0911-20579-togo-le-financement-de-l-economie-premier-defi-dekoue-djro-glokpor-nouveau-directeur-de-la-bceao"
-   },
-   {
-    "date": "2026-11-05",
-    "titre": "Gouvernance : le Bénin 12e sur 54 à l'indice Mo Ibrahim",
-    "resume": "Avec 60,1 points sur 100 (moyenne africaine 50,1), le Bénin gagne une place, mais recule nettement sur la participation démocratique.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/gouvernance-en-afrique-le-benin-classe-12e-sur-54-pays-selon-lindice-mo-ibrahim-2026/"
-   },
-   {
-    "date": "2026-11-10",
-    "titre": "Banque mondiale : 8,2 % de croissance au premier semestre, emploi salarié en panne",
-    "resume": "Le 4e rapport sur l'économie béninoise relève une hausse de l'emploi salarié des grandes entreprises limitée à 0,2 % en 2025 et une informalité de 96 %.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
    },
    {
     "date": "2026-11-09",
@@ -1043,6 +1049,13 @@
     "resume": "Le cas importé à Abuja le 20 octobre a été évacué ; 62 contacts étaient suivis au 3 novembre, et l'OMS révise son évaluation du risque.",
     "source": "OMS",
     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+   },
+   {
+    "date": "2026-11-05",
+    "titre": "Gouvernance : le Bénin 12e sur 54 à l'indice Mo Ibrahim",
+    "resume": "Avec 60,1 points sur 100 (moyenne africaine 50,1), le Bénin gagne une place, mais recule nettement sur la participation démocratique.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/gouvernance-en-afrique-le-benin-classe-12e-sur-54-pays-selon-lindice-mo-ibrahim-2026/"
    },
    {
     "date": "2026-11-05",
@@ -1239,17 +1252,17 @@
     "resume": "La croissance du Bénin passerait de 7 % en 2026 à 7,3 % en 2028, avec comme risques les prix de l'énergie et des aliments et le coût de la dette.",
     "source": "Matin Libre",
     "url": "https://matinlibre.com/2026/10/22/rapport-fmi-une-croissance-economique-superieure-a-7-projetee-au-benin-dici-2028/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Le Bénin absent du calendrier d'émissions du 4e trimestre",
-    "resume": "Sur 2 057 milliards FCFA d'émissions prévues dans l'UEMOA d'octobre à décembre, le Bénin n'inscrit aucun montant, signe d'un besoin de financement couvert pour 2026.",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-10",
+   "titre": "Ecobank Ghana : promotion de fin d'année de plus d'un million de cédis",
+   "resume": "Jusqu'au 31 janvier 2027, dépôts, prêts et usage régulier des canaux numériques donnent des chances au tirage, supervisé par la loterie nationale ghanéenne.",
+   "source": "MyJoyOnline",
+   "url": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%C2%A21m-blue-christmas-promo-for-customers/"
+  },
   {
    "date": "2026-11-04",
    "titre": "Ecobank RDC : garantie de 10 millions de dollars de Proparco et de l'Union européenne",
@@ -1364,6 +1377,48 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-11",
+   "titre": "Stablecoins : de grandes banques mondiales s'unissent dans « Project Faro »",
+   "resume": "Goldman Sachs, Citi, Santander, Deutsche Bank, Standard Bank et d'autres engageraient environ 270 millions de dollars sur cinq ans dans une coentreprise qui prépare un stablecoin en dollar, puis en euro.",
+   "implication": "Les banques ne laissent plus les stablecoins aux seules fintechs : les règlements internationaux de nos clients importateurs pourraient à terme passer par ces jetons, hors des circuits classiques.",
+   "pistes": [
+    "Inscrire les stablecoins bancaires dans la veille du comité des risques et de la direction des opérations internationales.",
+    "Interroger le groupe sur sa position et ses éventuels tests de règlement en stablecoins avec ses correspondants.",
+    "Repérer les clients importateurs (Chine, Émirats) qui paient déjà en jetons numériques pour mesurer l'enjeu."
+   ],
+   "vigilance": "Dans l'UEMOA, les crypto-actifs restent hors du bac à sable de la BCEAO : toute offre reste aujourd'hui exclue sans cadre réglementaire.",
+   "source": "FinTech Global",
+   "url": "https://fintech.global/2026/11/11/wall-street-banks-commit-270m-to-stablecoin-venture/"
+  },
+  {
+   "date": "2026-11-11",
+   "titre": "Crédit à la consommation : les banques nigérianes passent par les vendeurs",
+   "resume": "Access, UBA et FirstBank financent véhicules, smartphones et électroménager directement chez les concessionnaires et distributeurs, avec des apports de 10 à 30 % ; le crédit aux particuliers reste toutefois minoritaire dans leurs bilans (12,8 % chez Access).",
+   "implication": "UBA, présente au Bénin, maîtrise ce modèle de crédit « au point de vente » et pourrait l'importer à Cotonou, sur un segment où les banques locales restent peu actives.",
+   "pistes": [
+    "Étudier un partenariat avec un ou deux concessionnaires et distributeurs d'électroménager de Cotonou pour un crédit adossé à la domiciliation de salaire.",
+    "Proposer aux fonctionnaires et salariés domiciliés un crédit d'équipement à réponse rapide via l'application mobile.",
+    "Négocier avec les vendeurs une remise ou une prise en charge partielle des intérêts pour rendre l'offre attractive."
+   ],
+   "vigilance": "Le crédit à la consommation augmente le risque d'impayés et doit respecter le taux d'usure de 14 % et les règles d'endettement des ménages.",
+   "source": "Nairametrics",
+   "url": "https://nairametrics.com/2026/11/11/nigerian-banks-step-up-consumer-credit-schemes-with-vehicle-electronics-loans/"
+  },
+  {
+   "date": "2026-11-10",
+   "titre": "Banques nigérianes : rapatriement de capital et retraits possibles de l'étranger",
+   "resume": "La banque centrale du Nigeria limite désormais les participations dans les filiales étrangères à 10 % des fonds propres ; Access Holdings (19,4 % en mai) étudie la sortie d'au moins un pays, des cessions de parts minoritaires ou des rapatriements de capital.",
+   "implication": "Les filiales ouest-africaines des groupes nigérians (UBA, Access) pourraient recevoir moins de capital, réduire leurs ambitions ou changer de mains, ce qui peut rebattre les cartes au Bénin.",
+   "pistes": [
+    "Suivre les annonces d'Access et d'UBA sur leurs filiales de l'UEMOA pour repérer clients et collaborateurs susceptibles de changer de banque.",
+    "Préparer une offre d'accueil pour les grandes entreprises et institutions clientes d'une filiale en restructuration.",
+    "Mettre en avant notre solidité capitalistique régionale dans la relation avec les grands comptes."
+   ],
+   "vigilance": "Une cession pourrait aussi faire entrer au Bénin un repreneur plus agressif, mieux capitalisé.",
+   "source": "Nairametrics",
+   "url": "https://nairametrics.com/2026/11/09/access-holdings-considers-exiting-one-foreign-market-to-meet-cbn-capital-rules/"
+  },
   {
    "date": "2026-11-10",
    "titre": "Comptes à neuf mois des banques ivoiriennes : des trajectoires divergentes",
@@ -2049,47 +2104,47 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "7 980",
-    "detail": "−1,48 % sur la séance du 9 novembre ; 8 540 FCFA le 27 octobre, soit −6,6 % en deux semaines et environ −24 % depuis 10 450 FCFA le 11 septembre ; introduite à 5 600 FCFA en avril 2025.",
-    "url": "https://www.ecofinagency.com/news-finances/2206-56677-benin-s-biic-reports-24-7-rise-in-2025-ifrs-net-profit"
+    "cours": "7 860",
+    "detail": "−1,50 % sur la séance du 10 novembre, jour de publication de son rapport du troisième trimestre ; 8 540 FCFA le 27 octobre, soit −8 % en deux semaines et environ −25 % depuis 10 450 FCFA le 11 septembre ; introduite à 5 600 FCFA en avril 2025.",
+    "url": "https://www.richbourse.com/common/mouvements/index/BICB"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 360",
-    "detail": "−0,43 % sur la séance du 9 novembre ; stable depuis le 27 octobre (9 300) ; rapport du troisième trimestre publié début novembre, résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
-    "url": "https://www.sikafinance.com/premium/bank-of-africa-benin-le-resultat-net-se-stabilise-a-15-milliards-fcfa-sur-neuf-mois_65486"
+    "cours": "9 200",
+    "detail": "−1,71 % sur la séance du 10 novembre ; 9 300 FCFA le 27 octobre ; rapport du troisième trimestre publié début novembre, résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
+    "url": "https://www.sikafinance.com/marches/cotation_BOAB.bj"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
-    "cours": "59",
-    "detail": "−1,67 % le 9 novembre ; 61 FCFA le 27 octobre, jour de publication d'un bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) ; nouvelle date d'assemblée générale non annoncée.",
-    "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/48196_ECOBANK_TRANSNATIONAL_INCORPORATED-ETI__9M_2026_ER_CORPORATE_ACTIONS_OCTOBER_2026.pdf"
+    "cours": "60",
+    "detail": "+1,69 % le 10 novembre malgré la baisse du marché ; 61 FCFA le 27 octobre, jour de publication d'un bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) ; nouvelle date d'assemblée générale non annoncée.",
+    "url": "https://www.richbourse.com/common/mouvements/index/ETIT"
    }
   ],
-  "source": "BRVM, cours de clôture du 9 novembre 2026 (BRVM Composite +0,22 % à 521,88 points)",
-  "url": "https://www.brvm.org/fr/cours-actions/0"
+  "source": "BRVM, cours de clôture du 10 novembre 2026 relevés sur Richbourse et Sika Finance (BRVM Composite −1,74 % à 512,81 points)",
+  "url": "https://www.lejecos.com/BRVM-Forte-baisse-de-plus-de-355-milliards-de-FCFA-de-la-capitalisation-du-marche-des-actions-ce-mardi-10-novembre-2026_a31827.html"
  },
  "opportunites": [
   {
-   "date": "2026-11-08",
-   "titre": "Obligations titrisées de la BIDC : 63 milliards FCFA à placer d'ici le 4 décembre",
-   "resume": "La BIDC, banque d'investissement de la CEDEAO, émet des obligations de 10 000 FCFA via un fonds de titrisation visé par l'AMF-UMOA, avec des coupons de 6,20 % à 6,65 % pour les tranches senior ; son total bilan est passé de 1 168 à 1 415 milliards FCFA entre 2024 et 2025.",
-   "implication": "Un placement régional à taux fixe s'ouvre pour notre trésorerie et pour l'épargne de nos clients patrimoniaux et institutionnels, dans un marché où les titres publics restent la référence.",
+   "date": "2026-11-10",
+   "titre": "Petits paiements : 2,67 milliards d'opérations mobile money par an au Bénin",
+   "resume": "Selon la BCEAO, le Bénin a traité en 2025 2,67 milliards d'opérations mobile money (environ 7,3 millions par jour) pour 13 938 milliards FCFA, avec un montant moyen de 5 222 FCFA, le plus bas de l'UEMOA ; la croissance du nombre d'opérations ralentit (+4,7 %).",
+   "implication": "Le marché béninois des paiements est massif mais fait de très petits montants : y prendre part suppose des coûts unitaires minimes, ce que PI-SPI rend possible pour une banque.",
    "pistes": [
-    "Comparer le rendement et le risque des tranches senior avec les derniers titres publics béninois avant de décider d'une souscription pour compte propre.",
-    "Proposer l'émission aux caisses de retraite, assureurs et mutuelles clients, avec le relais de la société de bourse partenaire du groupe.",
-    "Observer le montage (fonds de titrisation, tranches, garanties) comme modèle pour refinancer à terme nos propres crédits."
+    "Lancer via PI-SPI un paiement marchand par QR code gratuit sous un seuil, pour capter commerçants et petits paiements du quotidien.",
+    "Proposer aux grands facturiers (eau, électricité, écoles) l'encaissement instantané interopérable avec réconciliation automatique.",
+    "Créer une offre d'épargne automatique par arrondi sur les petits paiements pour transformer les flux en dépôts."
    ],
-   "vigilance": "La qualité des créances titrisées et la liquidité des titres sur le marché secondaire sont à analyser dans la note d'information.",
-   "source": "Le Jecos",
-   "url": "https://www.lejecos.com/TITRISATION-La-BIDC-sollicite-63-milliards-de-FCFA-en-obligations_a31805.html"
+   "vigilance": "Sur ces montants, la rentabilité dépend de coûts très bas et la fraude au paiement instantané doit être surveillée.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/mobile-money-le-benin-champion-des-petits-paiements-de-luemoa/"
   },
   {
    "date": "2026-11-10",
@@ -2103,6 +2158,20 @@
    "vigilance": "Ce sont des recommandations, pas des décisions adoptées.",
    "source": "La Marina",
    "url": "https://lamarina.bj/2026/11/10/electricite-au-benin-une-quinzaine-de-mesures-pour-ameliorer-loffre-la-gestion-et-lacces-au-service/"
+  },
+  {
+   "date": "2026-11-08",
+   "titre": "Obligations titrisées de la BIDC : 63 milliards FCFA à placer d'ici le 4 décembre",
+   "resume": "La BIDC, banque d'investissement de la CEDEAO, émet des obligations de 10 000 FCFA via un fonds de titrisation visé par l'AMF-UMOA, avec des coupons de 6,20 % à 6,65 % pour les tranches senior ; son total bilan est passé de 1 168 à 1 415 milliards FCFA entre 2024 et 2025.",
+   "implication": "Un placement régional à taux fixe s'ouvre pour notre trésorerie et pour l'épargne de nos clients patrimoniaux et institutionnels, dans un marché où les titres publics restent la référence.",
+   "pistes": [
+    "Comparer le rendement et le risque des tranches senior avec les derniers titres publics béninois avant de décider d'une souscription pour compte propre.",
+    "Proposer l'émission aux caisses de retraite, assureurs et mutuelles clients, avec le relais de la société de bourse partenaire du groupe.",
+    "Observer le montage (fonds de titrisation, tranches, garanties) comme modèle pour refinancer à terme nos propres crédits."
+   ],
+   "vigilance": "La qualité des créances titrisées et la liquidité des titres sur le marché secondaire sont à analyser dans la note d'information.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/TITRISATION-La-BIDC-sollicite-63-milliards-de-FCFA-en-obligations_a31805.html"
   },
   {
    "date": "2026-11-08",
@@ -2565,6 +2634,12 @@
     "BICB": 7980,
     "BOAB": 9360,
     "ETIT": 59
+   },
+   {
+    "date": "2026-11-10",
+    "BICB": 7860,
+    "BOAB": 9200,
+    "ETIT": 60
    }
   ]
  },
@@ -2803,12 +2878,15 @@
   "tranche senior": "Partie d'une émission titrisée remboursée en priorité, donc moins risquée et moins rémunérée que les tranches subordonnées.",
   "AMF-UMOA": "Autorité des marchés financiers de l'UMOA (ex-CREPMF), régulateur de la bourse régionale qui délivre les visas aux émissions publiques.",
   "Indice Mo Ibrahim": "Classement annuel de la gouvernance des 54 pays africains (sécurité, droits, opportunités économiques, développement humain) publié par la Fondation Mo Ibrahim.",
-  "IMPACT+": "Programme de Proparco, soutenu par l'Union européenne, qui accorde des garanties aux banques africaines pour qu'elles prêtent davantage aux PME."
+  "IMPACT+": "Programme de Proparco, soutenu par l'Union européenne, qui accorde des garanties aux banques africaines pour qu'elles prêtent davantage aux PME.",
+  "Stablecoin": "Jeton numérique dont la valeur est adossée à une monnaie comme le dollar, utilisé pour payer ou régler des opérations sur des réseaux de type blockchain.",
+  "Opération d'open market (OMO)": "Opération par laquelle une banque centrale emprunte ou prête de l'argent aux banques pour retirer ou injecter des liquidités dans le système.",
+  "Emprunt obligataire par appel public à l'épargne": "Emprunt qu'une entreprise ou un État lève en vendant des obligations ouvertes à tous les investisseurs, particuliers compris, après visa du régulateur du marché."
  },
  "journal": [
   {
    "date": "2026-11-11",
-   "synthese": "Journée dominée par les marchés et la concurrence régionale : la BRVM recule de 1,74 %, la BIDC ouvre une titrisation de 63 milliards FCFA et les banques ivoiriennes publient des comptes contrastés ; au Togo, la BCEAO pointe la faible part du crédit allant à l'agriculture.",
+   "synthese": "La journée reste dominée par les banques et les marchés : la BIIC publie ses comptes à fin septembre, les banques nigérianes (UBA, Access) développent le crédit à la consommation tandis qu'Access envisage de quitter un pays, et la BRVM recule ; au Bénin, la BCEAO confirme des paiements mobiles très nombreux mais de petits montants.",
    "articles": [
     {
      "theme": "Bénin",
@@ -2889,6 +2967,110 @@
      "resume": "Devant les députés, le ministre de la Microfinance a chiffré l'épargne des institutions à 634 milliards FCFA en 2025, alors que le budget de son ministère est divisé par deux en 2026.",
      "source": "Le Jecos",
      "url": "https://www.lejecos.com/Microfinance-Une-progression-de-94-de-l-epargne-collectee-en-2025-selon-le-ministre-Alioune-Dione_a31826.html"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "Mobile money : le Bénin, champion des petits paiements de l'UEMOA",
+     "resume": "Selon le tableau de bord de l'inclusion financière de la BCEAO, une opération mobile money vaut en moyenne 5 222 FCFA au Bénin, le montant le plus faible de l'Union (13 391 FCFA en moyenne) ; le pays a traité 2,67 milliards d'opérations pour 13 938 milliards FCFA en 2025, mais leur nombre n'a progressé que de 4,7 % contre 37,3 % pour l'UEMOA.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/mobile-money-le-benin-champion-des-petits-paiements-de-luemoa/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-09",
+     "titre": "Huile de palme, piment, igname : les prix alimentaires ont nettement grimpé fin 2025",
+     "resume": "D'après la Banque mondiale, l'inflation générale est restée à 1,1 % en 2025, mais l'inflation alimentaire est passée de 0,2 % au premier semestre à 5,6 % au second, avec +21,4 % pour l'huile de palme et +11,3 % pour l'igname.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-huile-de-palme-piment-et-igname-ont-fortement-rencheri-en-2025/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-10",
+     "titre": "BIIC publie son rapport d'activité du troisième trimestre 2026",
+     "resume": "La première banque du Bénin a déposé à la BRVM son rapport à fin septembre 2026 ; le même jour, son action a cédé 1,50 % à 7 860 FCFA.",
+     "source": "Richbourse (publications officielles BRVM)",
+     "url": "https://www.richbourse.com/common/actualite/index/BICB"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-10",
+     "titre": "Banques marocaines : un cinquième du marché bancaire de l'UEMOA",
+     "resume": "Une chronique retrace la percée d'Attijariwafa bank, de la Banque Populaire et de Bank of Africa (maison mère de BOA Bénin), qui contrôlaient environ 20 % du marché de l'Union en 2022 avec 25 établissements et près de 13 000 milliards FCFA d'actifs.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/10/les-champions-bancaires-marocains-dans-luemoa-chronique-dune-percee-fulgurante/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-10",
+     "titre": "Access Holdings envisage de quitter un marché étranger",
+     "resume": "Pour respecter la règle de la banque centrale du Nigeria qui plafonne les participations dans les filiales étrangères à 10 % des fonds propres (19,4 % pour Access Bank en mai), le groupe étudie rapatriement de capital, cessions et restructurations, sans nommer le pays concerné.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/09/access-holdings-considers-exiting-one-foreign-market-to-meet-cbn-capital-rules/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-11",
+     "titre": "Nigeria : UBA, Access et FirstBank misent sur le crédit auto et électroménager",
+     "resume": "Les banques nigérianes s'allient à des concessionnaires et distributeurs : Access finance jusqu'à 90 % d'un véhicule avec Stallion, UBA demande 30 % d'apport avec Mikano Motors (environ 23 % sur 36 mois), FirstBank finance smartphones et électroménager sur six mois.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/11/nigerian-banks-step-up-consumer-credit-schemes-with-vehicle-electronics-loans/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-11",
+     "titre": "Banques nigérianes : des bénéfices dopés par la baisse des provisions",
+     "resume": "Sur neuf mois, huit groupes cotés, dont Ecobank Transnational, voient leur résultat avant impôt progresser de 14,2 % à 5 290 milliards de nairas, alors que leurs charges pour créances douteuses chutent de 48 % et que leurs revenus d'intérêts reculent de 1,8 %.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/11/lower-loan-loss-charges-lift-nigerian-banks-profits-as-interest-earnings-shrink/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-10",
+     "titre": "Le gouverneur de la BCEAO défend PI-SPI et PAPSS devant la finance africaine",
+     "resume": "À l'AFIS de Luanda le 4 novembre, Jean-Claude Kassi Brou a présenté l'expérience de l'UEMOA en paiements transfrontaliers et transferts de la diaspora, et évoqué une réflexion BCEAO–AMF-UMOA sur un cadre pour les crypto-actifs.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Paiements-transfrontaliers-Le-Gouverneur-de-la-Bceao-partage-l-experience-de-l-Uemoa-lors-de-l-Afis-2026_a31821.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-10",
+     "titre": "Sénégal : le groupe EDK emprunte 30 milliards FCFA à 7,50 % auprès du public",
+     "resume": "L'emprunt obligataire ouvert le 10 novembre sur le marché régional illustre le rythme soutenu des émissions d'entreprises privées dans l'UEMOA.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/10/senegal-le-groupe-edk-lance-un-emprunt-obligataire-de-30-milliards-de-fcfa-a-750/"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-11-10",
+     "titre": "Ecobank Ghana lance une promotion de fin d'année de plus d'un million de cédis",
+     "resume": "Jusqu'au 31 janvier 2027, les clients gagnent des chances au tirage en déposant de l'épargne, en empruntant ou en réalisant au moins quatre opérations numériques par mois, sous le contrôle de la loterie nationale.",
+     "source": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%C2%A21m-blue-christmas-promo-for-customers/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-11",
+     "titre": "Nigeria : la banque centrale éponge 3 854 milliards de nairas",
+     "resume": "Lors de son opération d'open market du 10 novembre, la CBN a placé plus du double du montant prévu (1 500 milliards) à des taux de 16 % à 17,4 %, signe d'une liquidité bancaire abondante.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/11/cbn-allots-n3-854-trillion-in-omo-auction-exceeding-original-offer-by-n2-354-trillion/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-11",
+     "titre": "Fidelity Bank Ghana change de directeur général",
+     "resume": "Le directeur général adjoint Atta Yeboah Gyan doit succéder à Julian Opuni le 21 novembre, sous réserve de l'accord de la Banque du Ghana.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/11/fidelity-bank-ghana-nomme-atta-yeboah-gyan-a-sa-direction-generale/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-11",
+     "titre": "Goldman Sachs, Citi et d'autres banques financent un stablecoin commun",
+     "resume": "Selon Bloomberg, une dizaine de grandes banques, dont Santander, Deutsche Bank et Standard Bank, engageraient environ 270 millions de dollars sur cinq ans dans « Project Faro », une coentreprise qui prépare un stablecoin en dollar, puis en euro.",
+     "source": "FinTech Global",
+     "url": "https://fintech.global/2026/11/11/wall-street-banks-commit-270m-to-stablecoin-venture/"
     }
    ]
   },
