@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-10T17:23:55Z",
+ "derniereMaj": "2026-11-11T05:13:30Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -199,6 +199,19 @@
    ],
    "source": "BCEAO",
    "url": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+  },
+  {
+   "date": "2026-12-04",
+   "titre": "Clôture de la souscription aux obligations titrisées de la BIDC",
+   "detail": "La BIDC (Banque d'investissement et de développement de la CEDEAO) collecte jusqu'au 4 décembre 63 milliards FCFA auprès des investisseurs de l'UEMOA, par des obligations de 10 000 FCFA émises par un fonds commun de titrisation de créances (FCTC). Les tranches senior, remboursées en priorité, rapportent 6,20 % à 6,65 % par an ; la période peut être prolongée.",
+   "pourquoi": "C'est un placement régional ouvert à notre trésorerie et à nos clients investisseurs, en concurrence directe avec les titres publics et les dépôts à terme.",
+   "preparer": [
+    "Analyser la note d'information et le risque des créances titrisées avant fin novembre.",
+    "Informer les clients institutionnels et patrimoniaux intéressés et recueillir leurs ordres via la société de bourse partenaire.",
+    "Décider d'une éventuelle souscription pour compte propre au regard de nos limites de risque et de liquidité."
+   ],
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/TITRISATION-La-BIDC-sollicite-63-milliards-de-FCFA-en-obligations_a31805.html"
   },
   {
    "date": "2026-12-18",
@@ -541,6 +554,12 @@
    "type": "Banque",
    "resume": "Ancienne filiale du groupe Société Générale, dont l'État béninois a annoncé le rachat.",
    "actus": [
+    {
+     "date": "2026-11-10",
+     "texte": "Au niveau du groupe : Société Générale Côte d'Ivoire publie un bénéfice sur neuf mois en baisse de 4 %, à 80,4 milliards FCFA, avec un produit net bancaire en recul de 2 %.",
+     "source": "Le Jecos via allAfrica",
+     "url": "https://fr.allafrica.com/stories/202611100391.html"
+    },
     {
      "date": "2026-07-31",
      "texte": "Absente de la liste BCEAO des établissements autorisés à ouvrir PI-SPI au public au 31 juillet 2026.",
@@ -950,6 +969,34 @@
   "actus": [
    {
     "date": "2026-11-10",
+    "titre": "BRVM : le Composite perd 1,74 % le 10 novembre",
+    "resume": "L'indice revient à 512,81 points après 521,88 la veille ; le BRVM-30 cède 1,94 %.",
+    "source": "BRVM",
+    "url": "https://www.brvm.org/fr/indices"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Exportations vers le Royaume-Uni : +62,5 %",
+    "resume": "Les ventes du Bénin au Royaume-Uni atteignent 13 millions de livres sur douze mois à fin juin 2026, surtout des fruits et légumes.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-les-exportations-vers-le-royaume-uni-bondissent-de-625-les-fruits-dominent/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Togo : 1,5 % des crédits bancaires pour l'agriculture",
+    "resume": "Le nouveau directeur national de la BCEAO au Togo fait du financement de l'économie sa priorité ; les prêts dégradés représentent 13,4 % du portefeuille.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gestion-publique/0911-20579-togo-le-financement-de-l-economie-premier-defi-dekoue-djro-glokpor-nouveau-directeur-de-la-bceao"
+   },
+   {
+    "date": "2026-11-05",
+    "titre": "Gouvernance : le Bénin 12e sur 54 à l'indice Mo Ibrahim",
+    "resume": "Avec 60,1 points sur 100 (moyenne africaine 50,1), le Bénin gagne une place, mais recule nettement sur la participation démocratique.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/gouvernance-en-afrique-le-benin-classe-12e-sur-54-pays-selon-lindice-mo-ibrahim-2026/"
+   },
+   {
+    "date": "2026-11-10",
     "titre": "Banque mondiale : 8,2 % de croissance au premier semestre, emploi salarié en panne",
     "resume": "Le 4e rapport sur l'économie béninoise relève une hausse de l'emploi salarié des grandes entreprises limitée à 0,2 % en 2025 et une informalité de 96 %.",
     "source": "Bénin Web TV",
@@ -1199,38 +1246,17 @@
     "resume": "Sur 2 057 milliards FCFA d'émissions prévues dans l'UEMOA d'octobre à décembre, le Bénin n'inscrit aucun montant, signe d'un besoin de financement couvert pour 2026.",
     "source": "Le Jecos",
     "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Nigeria : plan de 90 jours contre la vie chère",
-    "resume": "Adopté par le Conseil économique national alors que l'inflation est tombée à 14,63 % en septembre (alimentaire 19,59 %) ; objectif d'inflation et de taux sous 10 % d'ici 2027.",
-    "source": "Agence Ecofin",
-    "url": "https://www.ecofinagency.com/news/2310-60070-nigeria-approves-90-day-plan-to-ease-cost-of-living-pressure-on-households"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Togo : de nouvelles zones économiques spéciales remplacent la zone franche",
-    "resume": "Avantages fiscaux limités dans le temps et liés à l'emploi local ; projet de loi à adopter par le Parlement.",
-    "source": "Ministère des Finances du Togo",
-    "url": "https://finances.gouv.tg/conseil-des-ministres-le-togo-renforce-sa-discipline-budgetaire-et-son-attractivite-aupres-des-investisseurs/"
-   },
-   {
-    "date": "2026-10-21",
-    "titre": "État de droit : le Bénin 94e sur 143 pays",
-    "resume": "Le World Justice Project classe le Bénin 13e en Afrique avec un score de 0,47 ; la justice civile, qui conditionne le recouvrement des créances, reste au 108e rang mondial.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/etat-de-droit-le-benin-classe-94e-au-niveau-mondial-et-13e-en-afrique-en-2026-selon-le-wjp/"
-   },
-   {
-    "date": "2026-10-21",
-    "titre": "Parakou : budget communal 2027 en hausse de 34 %",
-    "resume": "5,29 milliards FCFA votés le 21 octobre pour l'éclairage solaire, la voirie, les écoles et la santé, signe d'une hausse des investissements des communes.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/parakou-un-budget-2027-de-529-milliards-fcfa-en-hausse-de-3424/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-04",
+   "titre": "Ecobank RDC : garantie de 10 millions de dollars de Proparco et de l'Union européenne",
+   "resume": "Signée le 3 novembre à l'AFIS de Luanda dans le cadre du programme IMPACT+, la garantie couvre des prêts aux PME ; elle s'inscrit dans un programme Proparco–Ecobank pouvant atteindre 100 millions d'euros pour les PME africaines.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/04/afis-2026-proparco-et-lunion-europeenne-apportent-une-garantie-de-10-millions-usd-a-ecobank-rdc/"
+  },
   {
    "date": "2026-11-02",
    "titre": "Ecobank Mali facture 0,8 % au-delà du seuil gratuit PI-SPI",
@@ -1338,6 +1364,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-10",
+   "titre": "Comptes à neuf mois des banques ivoiriennes : des trajectoires divergentes",
+   "resume": "Société Générale Côte d'Ivoire voit son bénéfice reculer de 4 % (80,4 milliards FCFA) avec un produit net bancaire en baisse de 2 %, tandis que la BICICI progresse de 15 % (31,4 milliards) grâce à des dépôts en hausse de 9,1 %.",
+   "implication": "Les grandes banques de la zone peinent à faire croître leurs revenus malgré la hausse des crédits : la course aux dépôts et aux commissions devient le levier principal, y compris au Bénin.",
+   "pistes": [
+    "Comparer notre évolution de produit net bancaire et de coefficient d'exploitation avec ces repères régionaux pour le prochain comité de direction.",
+    "Renforcer la collecte de dépôts stables (particuliers, diaspora, institutions) plutôt que de dépendre de ressources de marché plus chères.",
+    "Développer les commissions de flux (paiements, cartes, commerce extérieur) pour compenser la pression sur les marges d'intérêt."
+   ],
+   "vigilance": "Ces chiffres sont des comptes sociaux trimestriels non audités, propres au marché ivoirien.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/La-banque-BICICI-annonce-un-accroissement-de-15-de-son-resultat-net-au-troisieme-trimestre-2026_a31814.html"
+  },
   {
    "date": "2026-11-10",
    "titre": "Visa : le règlement en stablecoins quinze fois plus important en un an",
@@ -2037,6 +2077,20 @@
   "url": "https://www.brvm.org/fr/cours-actions/0"
  },
  "opportunites": [
+  {
+   "date": "2026-11-08",
+   "titre": "Obligations titrisées de la BIDC : 63 milliards FCFA à placer d'ici le 4 décembre",
+   "resume": "La BIDC, banque d'investissement de la CEDEAO, émet des obligations de 10 000 FCFA via un fonds de titrisation visé par l'AMF-UMOA, avec des coupons de 6,20 % à 6,65 % pour les tranches senior ; son total bilan est passé de 1 168 à 1 415 milliards FCFA entre 2024 et 2025.",
+   "implication": "Un placement régional à taux fixe s'ouvre pour notre trésorerie et pour l'épargne de nos clients patrimoniaux et institutionnels, dans un marché où les titres publics restent la référence.",
+   "pistes": [
+    "Comparer le rendement et le risque des tranches senior avec les derniers titres publics béninois avant de décider d'une souscription pour compte propre.",
+    "Proposer l'émission aux caisses de retraite, assureurs et mutuelles clients, avec le relais de la société de bourse partenaire du groupe.",
+    "Observer le montage (fonds de titrisation, tranches, garanties) comme modèle pour refinancer à terme nos propres crédits."
+   ],
+   "vigilance": "La qualité des créances titrisées et la liquidité des titres sur le marché secondaire sont à analyser dans la note d'information.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/TITRISATION-La-BIDC-sollicite-63-milliards-de-FCFA-en-obligations_a31805.html"
+  },
   {
    "date": "2026-11-10",
    "titre": "Électricité : 2,36 milliards d'euros d'investissements à financer d'ici 2030",
@@ -2743,9 +2797,101 @@
   "BERD": "Banque européenne pour la reconstruction et le développement, banque publique multilatérale qui finance aussi des projets en Afrique.",
   "FIGPME": "Fonds d'investissement et de garantie des PME du Bénin, agréé en octobre 2026, qui garantit une partie des crédits bancaires aux PME.",
   "ETF": "Fonds indiciel coté en bourse, qui reproduit la performance d'un indice et s'achète comme une action.",
-  "CET1": "Fonds propres de base d'une banque (capital et réserves), rapportés à ses risques : plus le ratio est élevé, plus la banque est solide."
+  "CET1": "Fonds propres de base d'une banque (capital et réserves), rapportés à ses risques : plus le ratio est élevé, plus la banque est solide.",
+  "BIDC": "Banque d'investissement et de développement de la CEDEAO, établie à Lomé, qui finance des projets publics et privés dans les quinze pays de la Communauté.",
+  "FCTC": "Fonds commun de titrisation de créances : structure qui rachète des créances (des prêts, par exemple) et les finance en émettant des obligations auprès d'investisseurs.",
+  "tranche senior": "Partie d'une émission titrisée remboursée en priorité, donc moins risquée et moins rémunérée que les tranches subordonnées.",
+  "AMF-UMOA": "Autorité des marchés financiers de l'UMOA (ex-CREPMF), régulateur de la bourse régionale qui délivre les visas aux émissions publiques.",
+  "Indice Mo Ibrahim": "Classement annuel de la gouvernance des 54 pays africains (sécurité, droits, opportunités économiques, développement humain) publié par la Fondation Mo Ibrahim.",
+  "IMPACT+": "Programme de Proparco, soutenu par l'Union européenne, qui accorde des garanties aux banques africaines pour qu'elles prêtent davantage aux PME."
  },
  "journal": [
+  {
+   "date": "2026-11-11",
+   "synthese": "Journée dominée par les marchés et la concurrence régionale : la BRVM recule de 1,74 %, la BIDC ouvre une titrisation de 63 milliards FCFA et les banques ivoiriennes publient des comptes contrastés ; au Togo, la BCEAO pointe la faible part du crédit allant à l'agriculture.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-09",
+     "titre": "Exportations béninoises vers le Royaume-Uni : +62,5 % en un an",
+     "resume": "Selon la fiche commerciale britannique publiée le 6 novembre, les achats du Royaume-Uni au Bénin ont atteint 13 millions de livres sur douze mois à fin juin 2026, portés par les fruits et légumes (5,2 millions), tandis que les ventes britanniques au Bénin reculent de 6,9 %.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/benin-les-exportations-vers-le-royaume-uni-bondissent-de-625-les-fruits-dominent/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-08",
+     "titre": "Diplomatie économique : la Suède et les Émirats dans le viseur",
+     "resume": "La nouvelle ambassadrice de Suède a été reçue le 6 novembre pour explorer des partenariats ; l'article rappelle l'accord de partenariat économique global signé avec les Émirats le 25 octobre, en attente de ratification.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/le-benin-et-la-suede-explorent-de-nouvelles-opportunites-de-partenariat-economique/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "BiFinances : dix médias africains lancent une plateforme d'information économique",
+     "resume": "Dix médias de Côte d'Ivoire, du Togo, du Burkina Faso, du Ghana et du Bénin (dont Bénin Web TV) mettent en commun leurs contenus économiques et financiers, en français et en anglais.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/dix-medias-africains-sunissent-pour-lancer-bifinances-une-plateforme-dediee-a-leconomie-et-aux-finances/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-10",
+     "titre": "BRVM : le Composite recule de 1,74 % le 10 novembre",
+     "resume": "L'indice principal de la bourse régionale est revenu à 512,81 points, contre 521,88 la veille, et le BRVM-30 a perdu 1,94 %, pour environ 4,9 milliards FCFA échangés.",
+     "source": "BRVM",
+     "url": "https://www.brvm.org/fr/indices"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-08",
+     "titre": "La BIDC lève 63 milliards FCFA par titrisation, souscription jusqu'au 4 décembre",
+     "resume": "La banque d'investissement de la CEDEAO propose des obligations de 10 000 FCFA à 6,20 % à 6,65 % pour les tranches les plus sûres, via un fonds de titrisation visé par l'AMF-UMOA le 6 octobre.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/TITRISATION-La-BIDC-sollicite-63-milliards-de-FCFA-en-obligations_a31805.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-10",
+     "titre": "Société Générale Côte d'Ivoire : bénéfice en baisse de 4 % sur neuf mois",
+     "resume": "Le résultat net revient à 80,4 milliards FCFA et le produit net bancaire baisse de 2 %, malgré des crédits en hausse de 4,3 % et des dépôts presque stables.",
+     "source": "Le Jecos via allAfrica",
+     "url": "https://fr.allafrica.com/stories/202611100391.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-09",
+     "titre": "BICICI : bénéfice en hausse de 15 % sur neuf mois",
+     "resume": "La banque ivoirienne porte son résultat net à 31,4 milliards FCFA, avec un produit net bancaire en hausse de 12 % et des dépôts en progression de 9,1 %, mais des crédits en léger recul.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/La-banque-BICICI-annonce-un-accroissement-de-15-de-son-resultat-net-au-troisieme-trimestre-2026_a31814.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-09",
+     "titre": "Togo : l'agriculture ne reçoit que 1,5 % des crédits bancaires",
+     "resume": "Installé le 6 novembre, le nouveau directeur national de la BCEAO au Togo fait du financement de l'économie sa priorité, alors que 70 % des nouveaux crédits vont à quelques grandes entreprises et que les prêts dégradés atteignent 13,4 % du portefeuille.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gestion-publique/0911-20579-togo-le-financement-de-l-economie-premier-defi-dekoue-djro-glokpor-nouveau-directeur-de-la-bceao"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-10",
+     "titre": "Togo : la Banque mondiale pousse une agriculture d'entrepreneurs",
+     "resume": "Après une rencontre le 9 novembre avec le président togolais, la Banque mondiale met en avant son programme agricole de 300 millions de dollars, qui vise 7 200 hectares irrigués et plus de 340 000 producteurs.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/agro/1011-20600-togo-du-paysan-au-chef-d-entreprise-la-banque-mondiale-veut-changer-le-modele-agricole"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-10",
+     "titre": "Sénégal : l'épargne collectée par les microfinances progresse de 9,4 %",
+     "resume": "Devant les députés, le ministre de la Microfinance a chiffré l'épargne des institutions à 634 milliards FCFA en 2025, alors que le budget de son ministère est divisé par deux en 2026.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Microfinance-Une-progression-de-94-de-l-epargne-collectee-en-2025-selon-le-ministre-Alioune-Dione_a31826.html"
+    }
+   ]
+  },
   {
    "date": "2026-11-10",
    "synthese": "Les diagnostics sur l'économie béninoise dominent : la Banque mondiale salue une croissance de 8,2 % au premier semestre mais pointe un emploi salarié à l'arrêt et une électricité défaillante, tandis que le FMI relève la dette à 60,5 % du PIB ; côté banques, UBA et Coris avancent auprès des communes et de l'agriculture, et l'inflation de l'UEMOA remonte à 1,9 %.",
