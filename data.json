@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-12T05:18:49Z",
+ "derniereMaj": "2026-11-12T12:14:27Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -73,6 +73,19 @@
   ]
  },
  "echeances": [
+  {
+   "date": "2026-11-13",
+   "titre": "Benin Compliance Days : deux jours sur la lutte contre la criminalité financière à Cotonou",
+   "detail": "La première édition des « Benin Compliance Days » se tient les 13 et 14 novembre 2026 à l'hôtel Azalaï de Cotonou, à l'initiative de l'Association Bénin Compliance. La conformité (en anglais « compliance ») désigne les contrôles qu'une banque fait pour respecter les lois, notamment contre le blanchiment d'argent et le financement du terrorisme (LBC/FT). Exemple concret : vérifier l'identité d'un client et l'origine des fonds avant un gros dépôt en espèces.",
+   "pourquoi": "Le Bénin vient d'adopter une stratégie nationale contre les flux financiers illicites à l'horizon 2030 : ce rendez-vous permet de connaître les attentes des autorités et les pratiques des autres banques.",
+   "preparer": [
+    "Désigner un ou deux représentants de la conformité pour suivre les échanges.",
+    "Recenser les nouvelles attentes exprimées (contrôle des clients, déclarations de soupçon) et les comparer à nos procédures.",
+    "Repérer les partenaires et outils de filtrage présentés qui pourraient renforcer notre dispositif."
+   ],
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/10/06/lutte-contre-la-criminalite-financiere-cotonou-accueille-les-benin-compliance-days-2026-en-novembre/"
+  },
   {
    "date": "2026-11-15",
    "titre": "Retraités : dernier jour pour faire sa preuve de vie au Fonds national des retraites",
@@ -298,6 +311,12 @@
    "type": "Banque",
    "resume": "Banque béninoise cotée à la BRVM depuis avril 2025.",
    "actus": [
+    {
+     "date": "2026-11-12",
+     "texte": "Résultats à fin septembre 2026 : bénéfice net de 21,2 milliards FCFA (+64 %), produit net bancaire de 45,3 milliards (+27 %), crédits nets de 1 218,8 milliards (+6 % depuis décembre) mais dépôts de 1 161,2 milliards (−2 %), compensés par des emprunts interbancaires et auprès d'institutions internationales (+41 %).",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1211-60745-republic-of-benin-s-biic-reports-64-profit-surge-on-higher-interest-income-and-lower-costs"
+    },
     {
      "date": "2026-11-10",
      "texte": "Publie à la BRVM son rapport d'activité du troisième trimestre 2026 (situation au 30 septembre).",
@@ -2200,6 +2219,20 @@
  },
  "opportunites": [
   {
+   "date": "2026-11-12",
+   "titre": "Caisse des dépôts du Bénin : un premier emprunt obligataire pour financer les PME de femmes",
+   "resume": "La CDC Bénin prépare une émission sur cinq ans pouvant atteindre 30 millions de dollars (environ 17 milliards FCFA) sur le marché de l'UEMOA, avec l'appui du GGGI et de la BRVM ; les fonds iront à des PME dirigées par des femmes dans le cadre d'un programme soutenu par la Banque mondiale, et au moins 60 % des titres devront être souscrits par des investisseurs privés.",
+   "implication": "Un nouvel émetteur public béninois arrive sur le marché avec un besoin d'investisseurs privés et de banques pour distribuer les fonds aux PME, deux rôles accessibles à une banque locale.",
+   "pistes": [
+    "Se positionner auprès de la CDC comme banque partenaire pour rétrocéder les fonds aux PME de femmes, en s'appuyant sur notre réseau d'agences.",
+    "Étudier une souscription pour compte propre ou pour nos clients patrimoniaux, si le rendement et la notation de l'émission conviennent.",
+    "Préparer un parcours de crédit simplifié (dossier, garantie, compte PI-SPI) pour les entrepreneuses éligibles afin d'être prêts dès le décaissement."
+   ],
+   "vigilance": "Les conditions définitives ne sont pas arrêtées : rendement, garanties et calendrier restent à confirmer avant tout engagement.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/uemoa-la-cdc-benin-prepare-une-premiere-emission-obligataire-pouvant-atteindre-30-millions/"
+  },
+  {
    "date": "2026-11-10",
    "titre": "Petits paiements : 2,67 milliards d'opérations mobile money par an au Bénin",
    "resume": "Selon la BCEAO, le Bénin a traité en 2025 2,67 milliards d'opérations mobile money (environ 7,3 millions par jour) pour 13 938 milliards FCFA, avec un montant moyen de 5 222 FCFA, le plus bas de l'UEMOA ; la croissance du nombre d'opérations ralentit (+4,7 %).",
@@ -2958,12 +2991,16 @@
   "droit au compte": "Règle de la loi bancaire de l'UEMOA qui permet à toute personne refusée par plusieurs banques d'obtenir, via la banque centrale, la désignation d'un établissement tenu de lui ouvrir un compte.",
   "stablecoin algorithmique": "Jeton numérique qui tente de garder une valeur fixe par un mécanisme informatique, sans réserve d'actifs réels en garantie.",
   "compte mule": "Compte bancaire ou mobile ouvert ou prêté pour recevoir puis faire circuler de l'argent issu d'une fraude.",
-  "Africa Energy Bank": "Banque africaine de l'énergie créée par Afreximbank et les pays producteurs de pétrole pour financer des projets énergétiques en Afrique."
+  "Africa Energy Bank": "Banque africaine de l'énergie créée par Afreximbank et les pays producteurs de pétrole pour financer des projets énergétiques en Afrique.",
+  "CDC Bénin": "Caisse des dépôts et consignations du Bénin : institution publique qui gère des fonds réglementés (notamment de la sécurité sociale) et les investit dans des projets de développement.",
+  "GGGI": "Institut mondial de la croissance verte (Global Green Growth Institute) : organisation internationale qui aide les pays à financer des projets durables, par exemple par des émissions d'obligations.",
+  "AES": "Alliance des États du Sahel : confédération formée par le Burkina Faso, le Mali et le Niger.",
+  "conformité": "Ensemble des contrôles qu'une banque applique pour respecter les lois et règlements, notamment contre le blanchiment d'argent et le financement du terrorisme."
  },
  "journal": [
   {
    "date": "2026-11-12",
-   "synthese": "La journée est marquée par les coupures d'électricité au Bénin, que le gouvernement attribue à une dépendance de 60 % aux importations, par le rapport de la BCEAO sur l'inclusion financière et par le rebond de la BRVM ; au Nigeria, les grandes banques affichent des bénéfices en hausse et la banque centrale encadre les stablecoins.",
+   "synthese": "La journée est dominée par les coupures d'électricité au Bénin, la nette hausse du bénéfice de la BIIC (+64 % sur neuf mois) et la préparation d'un premier emprunt obligataire de la Caisse des dépôts du Bénin ; au Nigeria, les grandes banques affichent des bénéfices en hausse et la banque centrale encadre les stablecoins.",
    "articles": [
     {
      "theme": "Bénin",
@@ -3044,6 +3081,46 @@
      "resume": "Avec Glyde Payments, Mastercard génère une carte virtuelle par réservation, plafonnée en montant et en durée, pour régler hôtels et compagnies en Afrique australe.",
      "source": "TechTrends Kenya",
      "url": "https://techtrendske.co.ke/2026/11/11/mastercard-glyde-virtual-card-payments-travel/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-12",
+     "titre": "BIIC : bénéfice de 21,2 milliards FCFA sur neuf mois, en hausse de 64 %",
+     "resume": "Le premier concurrent du marché affiche un produit net bancaire de 45,3 milliards FCFA (+27 %) avec des charges en baisse de 3 % ; ses crédits progressent de 6 % depuis décembre tandis que ses dépôts reculent de 2 %, compensés par des emprunts auprès d'autres établissements (+41 %).",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1211-60745-republic-of-benin-s-biic-reports-64-profit-surge-on-higher-interest-income-and-lower-costs"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-12",
+     "titre": "La Caisse des dépôts du Bénin prépare un premier emprunt obligataire jusqu'à 30 millions de dollars",
+     "resume": "Cette émission sur cinq ans, appuyée par l'Institut mondial de la croissance verte (GGGI) et la BRVM, doit financer des PME dirigées par des femmes ; au moins 60 % des titres devront être pris par des investisseurs privés.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/uemoa-la-cdc-benin-prepare-une-premiere-emission-obligataire-pouvant-atteindre-30-millions/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "Burkina, Mali et Niger mettent en garde contre les collectes de fonds non autorisées",
+     "resume": "Les trois gouvernements de l'Alliance des États du Sahel (AES) demandent, y compris à leurs diasporas, de ne rien verser à des collecteurs sans habilitation officielle.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/aes-les-trois-gouvernements-mettent-en-garde-contre-les-collectes-de-fonds-non-autorisees/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-11",
+     "titre": "Le Mali lève 49,5 milliards FCFA sur le marché régional, à 7,6 % sur cinq ans",
+     "resume": "Pour 45 milliards demandés, les investisseurs ont proposé 65,4 milliards ; le rendement moyen atteint 4,32 % sur un an et environ 7,6 % sur trois et cinq ans, un repère pour la rémunération des titres d'État détenus par les banques.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Le-Mali-encaisse-495-milliards-FCFA-de-bons-et-obligations-du-tresor-au-niveau-du-marche-financier-de-l-UEMOA_a31832.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-11",
+     "titre": "Le gouverneur de la BCEAO présente l'UMOA comme modèle d'intégration monétaire",
+     "resume": "Devant ses homologues africains à Luanda, il a insisté sur l'harmonisation des règles et la mise en commun des réserves de change avant toute union monétaire plus large.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Integration-monetaire-africaine-Le-gouverneur-de-la-Bceao-plaide-pour-une-harmonisation-reglementaire_a31830.html"
     }
    ]
   },
