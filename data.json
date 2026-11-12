@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-11T12:29:18Z",
+ "derniereMaj": "2026-11-12T05:18:49Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -85,6 +85,19 @@
    ],
    "source": "La Nation",
    "url": "https://lanation.bj/economie/fonds-national-des-retraites-du-benin-les-pensionnes-peuvent-desormais-faire-leur-preuve-de-vie-a-distance"
+  },
+  {
+   "date": "2026-11-15",
+   "titre": "Lancement annoncé du projet de port de pêche de Cotonou",
+   "detail": "Lors d'une rencontre d'affaires consacrée au Port autonome de Cotonou (PAC) le 30 octobre, le lancement du projet de port de pêche a été annoncé pour le 15 novembre. Il s'inscrit dans un programme de plus de 345 milliards FCFA qui doit faire passer la capacité du port de 12 à 25 millions de tonnes d'ici 2027-2028. Exemple : mareyeurs, armateurs artisanaux et entreprises de froid de Cotonou pourraient trouver de nouveaux quais et entrepôts.",
+   "pourquoi": "Un nouveau port de pêche crée des besoins de financement d'équipements (bateaux, chambres froides, camions) et de nouveaux flux d'encaissement pour une filière encore très informelle.",
+   "preparer": [
+    "Identifier les entreprises de pêche, de froid et de transformation déjà clientes ou prospects autour du port.",
+    "Préparer une offre de crédit-bail pour équipements de froid et de transport.",
+    "Suivre l'annonce officielle pour connaître l'entreprise chargée des travaux et ses sous-traitants."
+   ],
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/benin-le-cadreco-business-meeting-se-penche-sur-lavenir-du-port-de-cotonou/"
   },
   {
    "date": "2026-11-16",
@@ -237,6 +250,19 @@
    ],
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.bj/route-des-peches-sans-chantier-au-31-decembre-les-attributions-seront-retirees/"
+  },
+  {
+   "date": "2027-01-04",
+   "titre": "Démarrage de la Banque africaine de l'énergie (Africa Energy Bank)",
+   "detail": "Créée à Abuja par Afreximbank et l'Organisation des producteurs africains de pétrole (APPO), cette banque dispose d'un capital autorisé de 5 milliards de dollars et doit commencer ses activités le 4 janvier 2027. Elle financera des projets pétroliers, gaziers et énergétiques en Afrique ; le Nigeria y a engagé 100 millions de dollars. Exemple : un projet de centrale ou de gazoduc alimentant le Bénin pourrait y chercher des fonds.",
+   "pourquoi": "Le Bénin importe environ 60 % de son électricité : de nouveaux financements énergétiques régionaux peuvent créer des opérations de cofinancement et de crédit aux fournisseurs locaux.",
+   "preparer": [
+    "Suivre avec le groupe les premiers appels à projets et les critères de cofinancement avec les banques commerciales.",
+    "Recenser les clients du secteur énergie (production, distribution, solaire) susceptibles de porter un projet.",
+    "Étudier les garanties et lettres de crédit que la nouvelle banque pourrait demander aux banques locales."
+   ],
+   "source": "allAfrica (d'après Daily Trust)",
+   "url": "https://allafrica.com/stories/202611030540.html"
   },
   {
    "date": "2027-06-01",
@@ -487,6 +513,12 @@
      "texte": "Coris Bank International Bénin a tiré environ 373 millions FCFA sur une ligne de refinancement agricole de 500 millions du FNDA et a fait former 20 agents au crédit agricole.",
      "source": "L'Économiste du Bénin",
      "url": "https://leconomistebenin.bj/fnda-coris-bank-05-jours-de-formation-pour-dynamiser-le/"
+    },
+    {
+     "date": "2026-11-03",
+     "texte": "La banque mère Coris Bank International (Burkina Faso) annonce un bénéfice net de 62,3 milliards FCFA à fin septembre 2026 (+18 %), des dépôts en hausse de 26 % à 2 372 milliards et des crédits nets de 1 386 milliards (+15 %).",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/marches/coris-bank-international-bf-le-benefice-progresse-de-18-a-62-milliards-fcfa-a-fin-septembre-2026_65442"
     },
     {
      "date": "2026-11-03",
@@ -974,6 +1006,34 @@
   ],
   "actus": [
    {
+    "date": "2026-11-11",
+    "titre": "Électricité : 60 % des besoins importés, coupures possibles pendant plusieurs mois",
+    "resume": "Le gouvernement attribue les délestages aux difficultés d'un fournisseur nigérian et rappelle que la production nationale couvre environ 40 % des besoins.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/coupures-delectricite-au-benin-le-gouvernement-chiffre-a-60-la-dependance-exterieure/"
+   },
+   {
+    "date": "2026-11-11",
+    "titre": "BRVM : le Composite remonte de 0,85 % le 11 novembre",
+    "resume": "L'indice revient à environ 517 points après 512,81 la veille, pour 1,3 milliard FCFA échangés.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/BRVM-Les-indices-phares-de-la-bourse-renoue-avec-la-hausse-ce-mercredi-11-novembre-2026_a31834.html"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Croissance forte, emploi salarié faible",
+    "resume": "La Banque mondiale note que l'emploi des grandes entreprises n'a crû que de 0,2 % en 2025 malgré 8,1 % de croissance ; le salariat représente moins de 20 % des emplois.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-81-de-croissance-mais-seulement-02-de-hausse-de-lemploi-dans-les-grandes-entreprises/"
+   },
+   {
+    "date": "2026-11-07",
+    "titre": "Burkina Faso : S&P relève la note souveraine à B-",
+    "resume": "L'agence remonte la note d'un cran (de CCC+ à B-, perspective stable), citant un déficit ramené à 1,8 % du PIB en 2025 et la reprise minière et agricole.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/burkina-faso-sp-releve-la-note-souveraine-signe-dun-redressement-economique/"
+   },
+   {
     "date": "2026-11-10",
     "titre": "BRVM : le Composite perd 1,74 % le 10 novembre",
     "resume": "L'indice revient à 512,81 points après 521,88 la veille ; le BRVM-30 cède 1,94 %.",
@@ -1224,38 +1284,17 @@
     "resume": "La SBEE et la SBPE expliquent les délestages de mi-octobre par une baisse de l'énergie fournie par les deux voisins, ce qui rappelle la dépendance du pays aux importations d'électricité.",
     "source": "SRTB",
     "url": "https://srtb.bj/benin-la-sbee-explique-les-raisons-des-dernieres-perturbations-electriques/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Le naira perd 2,1 % en une séance",
-    "resume": "À 1 365 nairas pour un dollar le 22 octobre, la monnaie du Nigeria, premier partenaire commercial du Bénin, enregistre sa plus forte baisse quotidienne depuis avril 2025.",
-    "source": "Nairametrics",
-    "url": "https://nairametrics.com/2026/10/23/naira-weakens-to-n1365-records-sharpest-daily-decline-in-18-months/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Pétrole : le Brent au-dessus de 110 dollars",
-    "resume": "La flambée du baril après de nouvelles attaques en Arabie saoudite pèse sur la facture d'importation de carburant et sur l'inflation dans la région.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/petrole-le-brent-depasse-110-dollars-apres-de-nouvelles-attaques-en-arabie-saoudite/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Inclusion financière : le Bénin en tête, mais moins de poids dans le mobile money",
-    "resume": "Le Bénin a l'indice d'inclusion financière le plus élevé de l'UEMOA en 2025 et 21 % des cartes bancaires de l'Union, mais sa part dans la valeur des transactions de monnaie électronique est passée de 8,4 % en 2022 à 6,4 %.",
-    "source": "La Marina",
-    "url": "https://lamarina.bj/2026/10/22/inclusion-financiere-le-benin-leader-sous-pression-dans-luemoa/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Le FMI projette une croissance supérieure à 7 % jusqu'en 2028",
-    "resume": "La croissance du Bénin passerait de 7 % en 2026 à 7,3 % en 2028, avec comme risques les prix de l'énergie et des aliments et le coût de la dette.",
-    "source": "Matin Libre",
-    "url": "https://matinlibre.com/2026/10/22/rapport-fmi-une-croissance-economique-superieure-a-7-projetee-au-benin-dici-2028/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-12",
+   "titre": "Ecobank Transnational parmi les six grandes banques cotées à Lagos",
+   "resume": "Dans la compilation de la presse nigériane, le bilan d'ETI ressort à 35,96 milliards de dollars à fin septembre (+10,9 % en dollars, stable en nairas).",
+   "source": "Parrot Nigeria (d'après The Punch)",
+   "url": "https://parrotnigeria.com/2026/11/12/six-banks-post-n3-11tn-profits-assets-hit-n195tn/"
+  },
   {
    "date": "2026-11-10",
    "titre": "Ecobank Ghana : promotion de fin d'année de plus d'un million de cédis",
@@ -1377,6 +1416,34 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-09",
+   "titre": "Nigeria : les stablecoins entrent dans un régime de licence avec capital minimum",
+   "resume": "La banque centrale du Nigeria exige depuis le 5 novembre une licence, 10 à 15 milliards de nairas de capital et une réserve couvrant intégralement les jetons émis, et interdit les stablecoins algorithmiques ; les acteurs ont 180 jours pour se conformer.",
+   "implication": "Le premier marché de la sous-région encadre les dollars numériques : les transferts Nigeria–Bénin pourraient à terme passer par des acteurs agréés, concurrents ou partenaires des banques.",
+   "pistes": [
+    "Suivre avec le groupe et nos homologues nigérians les premières licences accordées pour repérer des partenaires sérieux.",
+    "Évaluer l'exposition de nos clients commerçants du corridor Cotonou–Lagos qui règlent déjà en stablecoins.",
+    "Préparer une note de conformité sur les flux venant de plateformes de cryptoactifs, que la BCEAO exclut toujours de son bac à sable."
+   ],
+   "vigilance": "La BCEAO n'autorise pas ces actifs dans l'UEMOA : toute offre locale reste exclue tant que la réglementation régionale ne change pas.",
+   "source": "Naija News",
+   "url": "https://www.naijanews.com/2026/11/09/cbn-introduces-new-rules-for-stablecoin-operators/"
+  },
+  {
+   "date": "2026-11-11",
+   "titre": "IA et fraude : les superviseurs regardent de près les outils des banques",
+   "resume": "Le superviseur bancaire américain (OCC) a publié le 4 novembre une grille d'examen de l'IA générative et des agents IA, tandis que des analyses du secteur montrent que fraudes par deepfake, comptes mules et identités synthétiques se combinent.",
+   "implication": "Les outils d'IA que nous déployons (service client, crédit, détection de fraude) devront pouvoir être expliqués et contrôlés, et la lutte contre la fraude doit croiser les canaux, PI-SPI compris.",
+   "pistes": [
+    "Dresser un inventaire de nos usages d'IA avec un niveau de risque et un responsable pour chacun.",
+    "Relier les alertes fraude cartes, mobile et paiement instantané dans un même tableau de suivi.",
+    "Former les agences à repérer les comptes mules ouverts pour recevoir des fonds frauduleux."
+   ],
+   "vigilance": "La responsabilité reste à la banque même quand l'outil vient d'un prestataire : les contrats doivent le prévoir.",
+   "source": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/occ-gives-bank-examiners-new-playbook-reviewing-ai/"
+  },
   {
    "date": "2026-11-11",
    "titre": "Stablecoins : de grandes banques mondiales s'unissent dans « Project Faro »",
@@ -2104,32 +2171,32 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "7 860",
-    "detail": "−1,50 % sur la séance du 10 novembre, jour de publication de son rapport du troisième trimestre ; 8 540 FCFA le 27 octobre, soit −8 % en deux semaines et environ −25 % depuis 10 450 FCFA le 11 septembre ; introduite à 5 600 FCFA en avril 2025.",
-    "url": "https://www.richbourse.com/common/mouvements/index/BICB"
+    "cours": "8 100",
+    "detail": "+2,93 % sur la séance du 11 novembre, après 7 860 FCFA la veille ; environ −22 % depuis 10 450 FCFA le 11 septembre ; introduite à 5 600 FCFA en avril 2025.",
+    "url": "https://www.brvm.org/fr/indices"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 200",
-    "detail": "−1,71 % sur la séance du 10 novembre ; 9 300 FCFA le 27 octobre ; rapport du troisième trimestre publié début novembre, résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
-    "url": "https://www.sikafinance.com/marches/cotation_BOAB.bj"
+    "cours": "9 400",
+    "detail": "+2,28 % sur la séance du 11 novembre, après 9 200 FCFA la veille ; rapport du troisième trimestre publié début novembre, résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
+    "url": "https://www.brvm.org/fr/indices"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
     "cours": "60",
-    "detail": "+1,69 % le 10 novembre malgré la baisse du marché ; 61 FCFA le 27 octobre, jour de publication d'un bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) ; nouvelle date d'assemblée générale non annoncée.",
-    "url": "https://www.richbourse.com/common/mouvements/index/ETIT"
+    "detail": "Stable le 11 novembre ; 61 FCFA le 27 octobre, jour de publication d'un bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %).",
+    "url": "https://www.brvm.org/fr/indices"
    }
   ],
-  "source": "BRVM, cours de clôture du 10 novembre 2026 relevés sur Richbourse et Sika Finance (BRVM Composite −1,74 % à 512,81 points)",
-  "url": "https://www.lejecos.com/BRVM-Forte-baisse-de-plus-de-355-milliards-de-FCFA-de-la-capitalisation-du-marche-des-actions-ce-mardi-10-novembre-2026_a31827.html"
+  "source": "BRVM, cours de clôture du 11 novembre 2026 publiés sur brvm.org (BRVM Composite +0,85 %, à environ 517 points)",
+  "url": "https://www.brvm.org/fr/indices"
  },
  "opportunites": [
   {
@@ -2640,6 +2707,12 @@
     "BICB": 7860,
     "BOAB": 9200,
     "ETIT": 60
+   },
+   {
+    "date": "2026-11-11",
+    "BICB": 8100,
+    "BOAB": 9400,
+    "ETIT": 60
    }
   ]
  },
@@ -2881,9 +2954,99 @@
   "IMPACT+": "Programme de Proparco, soutenu par l'Union européenne, qui accorde des garanties aux banques africaines pour qu'elles prêtent davantage aux PME.",
   "Stablecoin": "Jeton numérique dont la valeur est adossée à une monnaie comme le dollar, utilisé pour payer ou régler des opérations sur des réseaux de type blockchain.",
   "Opération d'open market (OMO)": "Opération par laquelle une banque centrale emprunte ou prête de l'argent aux banques pour retirer ou injecter des liquidités dans le système.",
-  "Emprunt obligataire par appel public à l'épargne": "Emprunt qu'une entreprise ou un État lève en vendant des obligations ouvertes à tous les investisseurs, particuliers compris, après visa du régulateur du marché."
+  "Emprunt obligataire par appel public à l'épargne": "Emprunt qu'une entreprise ou un État lève en vendant des obligations ouvertes à tous les investisseurs, particuliers compris, après visa du régulateur du marché.",
+  "droit au compte": "Règle de la loi bancaire de l'UEMOA qui permet à toute personne refusée par plusieurs banques d'obtenir, via la banque centrale, la désignation d'un établissement tenu de lui ouvrir un compte.",
+  "stablecoin algorithmique": "Jeton numérique qui tente de garder une valeur fixe par un mécanisme informatique, sans réserve d'actifs réels en garantie.",
+  "compte mule": "Compte bancaire ou mobile ouvert ou prêté pour recevoir puis faire circuler de l'argent issu d'une fraude.",
+  "Africa Energy Bank": "Banque africaine de l'énergie créée par Afreximbank et les pays producteurs de pétrole pour financer des projets énergétiques en Afrique."
  },
  "journal": [
+  {
+   "date": "2026-11-12",
+   "synthese": "La journée est marquée par les coupures d'électricité au Bénin, que le gouvernement attribue à une dépendance de 60 % aux importations, par le rapport de la BCEAO sur l'inclusion financière et par le rebond de la BRVM ; au Nigeria, les grandes banques affichent des bénéfices en hausse et la banque centrale encadre les stablecoins.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-11",
+     "titre": "Coupures d'électricité : 60 % du courant vient de l'étranger, des perturbations possibles pendant plusieurs mois",
+     "resume": "Le porte-parole du gouvernement indique que la production nationale ne couvre qu'environ 40 % des besoins et attribue les coupures aux difficultés d'un fournisseur nigérian ; la Banque mondiale rappelle que 86 % des entreprises ont subi des coupures en 2024.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/coupures-delectricite-au-benin-le-gouvernement-chiffre-a-60-la-dependance-exterieure/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-09",
+     "titre": "Croissance de 8,1 % mais emploi presque à l'arrêt dans les grandes entreprises",
+     "resume": "Selon la Banque mondiale, l'emploi des grandes entreprises n'a progressé que de 0,2 % en 2025 (contre 4,1 % un an plus tôt) ; huit nouveaux emplois sur dix relèvent de l'auto-emploi et le salariat ne pèse que 19,8 % de l'emploi.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-81-de-croissance-mais-seulement-02-de-hausse-de-lemploi-dans-les-grandes-entreprises/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-11",
+     "titre": "BCEAO : le rapport 2025 sur l'inclusion financière détaille la place du Bénin",
+     "resume": "L'usage des services financiers atteint 76,1 % dans l'UEMOA et 92,8 % au Bénin, porté par la monnaie électronique (60,3 %) ; la bancarisation stricte régionale passe à 26,9 % et le taux débiteur moyen recule à 6,69 %.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/INCLUSION-FINANCIERE-DANS-L-UEMOA-Un-taux-record-de-761-en-2025_a31833.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-11",
+     "titre": "Le droit au compte bancaire dans l'UEMOA rappelé par un responsable conformité",
+     "resume": "La loi bancaire uniforme garantit le droit d'ouvrir un compte bancaire, de paiement ou de monnaie électronique ; après des refus successifs, la banque centrale peut désigner un établissement tenu d'ouvrir le compte.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/11/le-droit-au-compte-dans-luemoa-un-instrument-dinclusion-financiere-et-de-protection-des-usagers/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-12",
+     "titre": "Six grandes banques nigérianes cumulent 3 110 milliards de nairas de bénéfice sur neuf mois",
+     "resume": "Access, Ecobank, Zenith, First HoldCo, GTCO et Stanbic IBTC voient leur bénéfice après impôt progresser de 7,5 % et leurs actifs de 6,7 % ; Access Holdings reste la première par la taille du bilan.",
+     "source": "Parrot Nigeria (d'après The Punch)",
+     "url": "https://parrotnigeria.com/2026/11/12/six-banks-post-n3-11tn-profits-assets-hit-n195tn/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-10",
+     "titre": "Nigeria : la liquidité des banques grimpe malgré les ponctions de la banque centrale",
+     "resume": "Les excédents de trésorerie du système bancaire nigérian augmentent de 1 130 milliards de nairas en une semaine, et le taux moyen des bons du Trésor recule à 17,67 % ; le naira s'échange autour de 1 348 pour un dollar.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/news/article/banks-excess-cash-rises-n1-13trn-despite-cbns-liquidity-squeeze/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-09",
+     "titre": "Nigeria : licence et capital minimum obligatoires pour les émetteurs de stablecoins",
+     "resume": "Une circulaire de la banque centrale du 5 novembre impose 10 à 15 milliards de nairas de capital, une réserve couvrant 100 % des jetons émis et interdit les stablecoins algorithmiques ; les acteurs existants ont 180 jours pour se mettre en règle.",
+     "source": "Naija News",
+     "url": "https://www.naijanews.com/2026/11/09/cbn-introduces-new-rules-for-stablecoin-operators/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-11",
+     "titre": "États-Unis : le superviseur bancaire publie une grille d'examen de l'IA des banques",
+     "resume": "L'OCC a diffusé le 4 novembre un cadre de supervision de l'intelligence artificielle générative et des agents IA, avec quatre niveaux de risque ; la banque reste responsable des erreurs de ses outils et de ses prestataires.",
+     "source": "PYMNTS",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/occ-gives-bank-examiners-new-playbook-reviewing-ai/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-11",
+     "titre": "Fraude bancaire : les techniques se combinent, la détection doit être reliée",
+     "resume": "Une analyse du spécialiste ZIGRAM recense neuf familles de fraude (prise de contrôle de compte, comptes mules, identités synthétiques, deepfakes…) et recommande de croiser les signaux plutôt que d'empiler des contrôles isolés.",
+     "source": "FinTech Global",
+     "url": "https://fintech.global/2026/11/11/banks-face-growing-fraud-risks-as-criminal-tactics-converge"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-11",
+     "titre": "Mastercard lance des cartes virtuelles à usage unique pour les agences de voyage",
+     "resume": "Avec Glyde Payments, Mastercard génère une carte virtuelle par réservation, plafonnée en montant et en durée, pour régler hôtels et compagnies en Afrique australe.",
+     "source": "TechTrends Kenya",
+     "url": "https://techtrendske.co.ke/2026/11/11/mastercard-glyde-virtual-card-payments-travel/"
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "synthese": "La journée reste dominée par les banques et les marchés : la BIIC publie ses comptes à fin septembre, les banques nigérianes (UBA, Access) développent le crédit à la consommation tandis qu'Access envisage de quitter un pays, et la BRVM recule ; au Bénin, la BCEAO confirme des paiements mobiles très nombreux mais de petits montants.",
