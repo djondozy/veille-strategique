@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-12T12:14:27Z",
+ "derniereMaj": "2026-11-13T05:21:19Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -276,6 +276,20 @@
    ],
    "source": "allAfrica (d'après Daily Trust)",
    "url": "https://allafrica.com/stories/202611030540.html"
+  },
+  {
+   "date": "2027-03-01",
+   "dateApprox": true,
+   "titre": "Agence africaine de notation : premières notes de pays attendues",
+   "detail": "L'AfCRA, agence de notation créée par l'Union africaine et lancée le 7 octobre 2026, veut publier ses premières notes souveraines (l'avis sur la capacité d'un État à rembourser sa dette) d'ici fin mars 2027. Elle dit discuter avec 15 gouvernements, dont le Togo, le Kenya et Maurice ; la présence du Bénin n'est pas annoncée. Le Bénin est aujourd'hui noté Ba3 par Moody's.",
+   "pourquoi": "Une nouvelle note, si elle concerne le Bénin ou ses voisins, pourrait influencer la perception du risque des titres d'État que la banque détient, même si les régulateurs doivent encore reconnaître ces notes.",
+   "preparer": [
+    "Suivre la liste des pays notés par l'AfCRA et la date de leurs premières notes.",
+    "Comparer, le moment venu, ses notes à celles de Moody's, S&P et Fitch pour les titres d'État en portefeuille.",
+    "Vérifier avec la BCEAO si et comment ces notes seront prises en compte dans les règles prudentielles."
+   ],
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/12/notation-financiere-lafcra-prepare-ses-premieres-evaluations-souveraines-pour-mars-2027/"
   },
   {
    "date": "2027-06-01",
@@ -1025,6 +1039,20 @@
   ],
   "actus": [
    {
+    "date": "2026-11-12",
+    "titre": "Pétrole : 330 000 barils de Sèmè exportés vers Rotterdam",
+    "resume": "Première cargaison de brut béninois depuis près de 30 ans, produite par Akrake Petroleum sur un champ relancé début 2026 et qui donne environ 3 000 barils par jour.",
+    "source": "gCaptain (dépêche Bloomberg)",
+    "url": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/"
+   },
+   {
+    "date": "2026-11-12",
+    "titre": "BRVM : le Composite gagne 0,35 % le 12 novembre",
+    "resume": "L'indice termine à 518,96 points, après 517,17 la veille.",
+    "source": "BRVM",
+    "url": "https://www.brvm.org/fr/indices"
+   },
+   {
     "date": "2026-11-11",
     "titre": "Électricité : 60 % des besoins importés, coupures possibles pendant plusieurs mois",
     "resume": "Le gouvernement attribue les délestages aux difficultés d'un fournisseur nigérian et rappelle que la production nationale couvre environ 40 % des besoins.",
@@ -1289,24 +1317,17 @@
     "resume": "Un cas confirmé le 20 octobre à Abuja chez une voyageuse venue d'Ouganda, 44 contacts suivis et aucun nouveau cas au 24 octobre ; l'OMS déconseille toute restriction de voyage ou de commerce, et le Bénin a renforcé la surveillance à ses points d'entrée.",
     "source": "Organisation mondiale de la santé",
     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Coton : campagne 2026-2027 lancée, 602 773 tonnes attendues",
-    "resume": "Récolte prévue en hausse d'environ 13 % après 533 112 tonnes, son plus bas niveau en dix ans ; prix d'achat inchangés.",
-    "source": "Le Matinal",
-    "url": "https://lematinal.bj/commercialisation-du-coton-graine-laic-lance-la-campagne-2026-2027-a-savalou/"
-   },
-   {
-    "date": "2026-10-22",
-    "titre": "Électricité : coupures liées aux importations du Ghana et du Nigeria",
-    "resume": "La SBEE et la SBPE expliquent les délestages de mi-octobre par une baisse de l'énergie fournie par les deux voisins, ce qui rappelle la dépendance du pays aux importations d'électricité.",
-    "source": "SRTB",
-    "url": "https://srtb.bj/benin-la-sbee-explique-les-raisons-des-dernieres-perturbations-electriques/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-12",
+   "titre": "PI-SPI : Ecobank reste la seule « API Business » homologuée au Bénin",
+   "resume": "Selon le relevé BCEAO du 9 novembre cité par Bénin Web TV, 34 interfaces permettant aux entreprises de brancher leurs logiciels sur le paiement instantané sont homologuées dans l'UEMOA, dont une seule au Bénin, celle d'Ecobank, contre onze en Côte d'Ivoire et onze au Sénégal.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/pi-spi-34-api-homologuees-dans-luemoa-toujours-une-seule-au-benin/"
+  },
   {
    "date": "2026-11-12",
    "titre": "Ecobank Transnational parmi les six grandes banques cotées à Lagos",
@@ -1435,6 +1456,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-12",
+   "titre": "Actifs numériques : les grandes banques passent de l'annonce au service",
+   "resume": "Deutsche Bank ouvre en Europe la garde de bitcoins et d'ethers pour ses clients, tandis que l'américaine PNC permet à ses entreprises clientes de recevoir des paiements en USDC, un jeton adossé au dollar.",
+   "implication": "Les clients internationaux d'Ecobank Bénin pourraient demander à payer ou être payés en stablecoins, alors que la BCEAO n'autorise pas ces jetons dans l'UEMOA et que le Bénin renforce sa surveillance des cryptoactifs.",
+   "pistes": [
+    "Recenser les demandes de clients exportateurs ou de la diaspora portant sur des paiements en stablecoins pour mesurer le besoin réel.",
+    "Préparer avec la conformité une position claire et une réponse type aux clients, fondée sur les règles BCEAO et la stratégie anti-blanchiment 2026-2030.",
+    "Suivre avec le groupe les solutions de paiement international rapides et régulées (PAPSS, Swift) qui répondent au même besoin."
+   ],
+   "vigilance": "Les flux de cryptoactifs non déclarés passant par des comptes bancaires sont une cible prioritaire du nouveau plan national anti-blanchiment.",
+   "source": "The Paypers",
+   "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deutsche-bank-goes-live-with-digital-asset-custody-service"
+  },
   {
    "date": "2026-11-09",
    "titre": "Nigeria : les stablecoins entrent dans un régime de licence avec capital minimum",
@@ -2190,34 +2225,48 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "8 100",
-    "detail": "+2,93 % sur la séance du 11 novembre, après 7 860 FCFA la veille ; environ −22 % depuis 10 450 FCFA le 11 septembre ; introduite à 5 600 FCFA en avril 2025.",
+    "cours": "7 950",
+    "detail": "−1,73 % sur la séance du 12 novembre, après 8 090 FCFA la veille ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre ; introduite à 5 600 FCFA en avril 2025.",
     "url": "https://www.brvm.org/fr/indices"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 400",
-    "detail": "+2,28 % sur la séance du 11 novembre, après 9 200 FCFA la veille ; rapport du troisième trimestre publié début novembre, résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
+    "cours": "9 500",
+    "detail": "+0,96 % sur la séance du 12 novembre, après 9 410 FCFA la veille ; résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
     "url": "https://www.brvm.org/fr/indices"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
-    "cours": "60",
-    "detail": "Stable le 11 novembre ; 61 FCFA le 27 octobre, jour de publication d'un bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %).",
+    "cours": "59",
+    "detail": "−1,67 % sur la séance du 12 novembre, après 60 FCFA la veille ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
     "url": "https://www.brvm.org/fr/indices"
    }
   ],
-  "source": "BRVM, cours de clôture du 11 novembre 2026 publiés sur brvm.org (BRVM Composite +0,85 %, à environ 517 points)",
+  "source": "BRVM, cours de clôture du 12 novembre 2026 publiés sur brvm.org (BRVM Composite +0,35 %, à 518,96 points) ; historique Sika Finance",
   "url": "https://www.brvm.org/fr/indices"
  },
  "opportunites": [
+  {
+   "date": "2026-11-12",
+   "titre": "Pétrole de Sèmè : un nouveau secteur à accompagner",
+   "resume": "Le Bénin a exporté environ 330 000 barils du champ de Sèmè, relancé en 2026 par Akrake Petroleum après près de 30 ans d'arrêt ; le champ produit environ 3 000 barils par jour et la cargaison part vers Rotterdam.",
+   "implication": "La reprise de la production crée des flux en devises et une chaîne de sous-traitants locaux (logistique, maintenance, services portuaires) qui auront besoin de comptes, de cautions et de financements.",
+   "pistes": [
+    "Recenser les sous-traitants béninois d'Akrake et du terminal pétrolier pour leur proposer comptes, cautions de marché et avances sur contrats.",
+    "Étudier avec le groupe une offre de financement du commerce (lettres de crédit, couverture de change) adaptée aux ventes de brut et aux achats d'équipements.",
+    "Suivre la part de recettes revenant à l'État pour anticiper son effet sur les finances publiques et le marché des titres d'État."
+   ],
+   "vigilance": "La production reste modeste et dépend des prix du pétrole et de la performance technique d'un champ ancien : les engagements doivent rester proportionnés.",
+   "source": "gCaptain (dépêche Bloomberg)",
+   "url": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/"
+  },
   {
    "date": "2026-11-12",
    "titre": "Caisse des dépôts du Bénin : un premier emprunt obligataire pour financer les PME de femmes",
@@ -2743,9 +2792,15 @@
    },
    {
     "date": "2026-11-11",
-    "BICB": 8100,
-    "BOAB": 9400,
+    "BICB": 8090,
+    "BOAB": 9410,
     "ETIT": 60
+   },
+   {
+    "date": "2026-11-12",
+    "BICB": 7950,
+    "BOAB": 9500,
+    "ETIT": 59
    }
   ]
  },
@@ -2995,9 +3050,130 @@
   "CDC Bénin": "Caisse des dépôts et consignations du Bénin : institution publique qui gère des fonds réglementés (notamment de la sécurité sociale) et les investit dans des projets de développement.",
   "GGGI": "Institut mondial de la croissance verte (Global Green Growth Institute) : organisation internationale qui aide les pays à financer des projets durables, par exemple par des émissions d'obligations.",
   "AES": "Alliance des États du Sahel : confédération formée par le Burkina Faso, le Mali et le Niger.",
-  "conformité": "Ensemble des contrôles qu'une banque applique pour respecter les lois et règlements, notamment contre le blanchiment d'argent et le financement du terrorisme."
+  "conformité": "Ensemble des contrôles qu'une banque applique pour respecter les lois et règlements, notamment contre le blanchiment d'argent et le financement du terrorisme.",
+  "USDC": "Stablecoin émis par la société américaine Circle, dont chaque jeton est censé valoir un dollar et être couvert par des réserves.",
+  "conservation d'actifs numériques": "Service par lequel une banque garde, pour le compte de ses clients, des cryptoactifs comme le bitcoin et sécurise les clés qui y donnent accès.",
+  "note souveraine": "Avis d'une agence de notation sur la capacité d'un État à rembourser sa dette à temps, qui influence le taux auquel il emprunte."
  },
  "journal": [
+  {
+   "date": "2026-11-13",
+   "synthese": "La journée est marquée au Bénin par le départ de la première cargaison de pétrole de Sèmè depuis près de 30 ans et par le retard du pays sur les interfaces PI-SPI pour entreprises (une seule homologuée, celle d'Ecobank) ; ailleurs, les bailleurs (Afreximbank, BAD-AFD) multiplient les accords et de grandes banques occidentales passent aux actifs numériques.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-12",
+     "titre": "Pétrole de Sèmè : la première cargaison depuis près de 30 ans part vers Rotterdam",
+     "resume": "Environ 330 000 barils produits par Akrake Petroleum sur le champ de Sèmè, relancé début 2026, ont été chargés sur le pétrolier Kriti Jade, attendu à Rotterdam vers le 18 novembre ; le champ produit environ 3 000 barils par jour.",
+     "source": "gCaptain (dépêche Bloomberg)",
+     "url": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-11-12",
+     "titre": "Paiement instantané PI-SPI : 34 « API Business » homologuées dans l'UEMOA, une seule au Bénin",
+     "resume": "Au 9 novembre, la BCEAO recense 34 interfaces homologuées permettant aux entreprises de brancher leurs logiciels sur PI-SPI, contre 24 mi-septembre ; le Bénin n'en compte toujours qu'une, celle d'Ecobank, quand la Côte d'Ivoire et le Sénégal en ont onze chacun.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/pi-spi-34-api-homologuees-dans-luemoa-toujours-une-seule-au-benin/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-12",
+     "titre": "Plan anti-blanchiment 2026-2030 : cryptoactifs et fintech sous surveillance renforcée",
+     "resume": "La stratégie nationale adoptée le 4 novembre vise en priorité les cryptoactifs, les fintech, l'économie informelle et la transparence sur les vrais propriétaires des sociétés, sans interdire les cryptomonnaies.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-cryptoactifs-fintech-plan-anti-blanchiment-2026-2030/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-12",
+     "titre": "Climat : un projet de 15,5 millions de dollars pour neuf communes jusqu'en 2031",
+     "resume": "Lancé le 11 novembre à Sèmè-Podji, il est financé par la Suisse, la Belgique, l'État, les communes et le PNUD, et vise près de 32 000 bénéficiaires directs, dont plus de 12 000 femmes.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-projet-climatique-15-5-millions-dollars-neuf-communes/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-12",
+     "titre": "Programme Dogo-bis (bassin de l'Ouémé) : la Présidence recrute son équipe de gestion",
+     "resume": "Huit postes sont ouverts jusqu'au 18 novembre pour piloter ce programme dont la première phase est financée à 150 millions de dollars par la Banque mondiale, avec une prise de fonction au 1er janvier 2027.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-huit-postes-a-pourvoir-pour-lancer-le-programme-dogo-bis/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "GDIZ : un bus électrique assemblé au Bénin bientôt en essai",
+     "resume": "Le prototype AGOOJIYÉ, développé dans la zone industrielle de Glo-Djigbé avec la SIPI-Bénin, doit faire ses premiers essais de conduite le 23 novembre ; ses promoteurs visent à terme environ 680 véhicules.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/gdiz-au-benin-agoojiye-le-bus-electrique-concu-et-assemble-localement-bientot-a-lessai/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "Agence africaine de notation : premières notes de pays attendues d'ici fin mars 2027",
+     "resume": "L'AfCRA, lancée le 7 octobre par l'Union africaine, dit discuter avec 15 gouvernements pour leurs premières notations souveraines, parmi lesquels le Togo, le Kenya et Maurice.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/12/notation-financiere-lafcra-prepare-ses-premieres-evaluations-souveraines-pour-mars-2027/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "Ghana : un budget 2027 centré sur la discipline budgétaire et l'après-FMI",
+     "resume": "Le ministre des Finances a présenté le 12 novembre au Parlement le premier budget préparé en vue de la sortie du programme du FMI.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/12/ghana-un-budget-2027-axe-sur-la-discipline-fiscale-et-la-sortie-du-programme-du-fmi/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-12",
+     "titre": "Nigeria : les grandes banques prêtent peu malgré des dépôts en forte hausse",
+     "resume": "Chez huit grandes banques, les crédits n'ont progressé que de 2,4 % sur neuf mois alors que les dépôts ont bondi de 13,4 % ; le ratio crédits sur dépôts tombe à 37,2 %, contre 41,2 % un an plus tôt.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/news/article/banks-n55-7trn-loan-book-awaits-recapitalisation-lift/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "Afreximbank prête 75 millions de dollars à la banque de développement du Nigeria pour les PME créatives",
+     "resume": "La ligne servira surtout aux exportateurs de la mode, du cinéma, de la musique et du design ; Afreximbank porte à 2 milliards de dollars son engagement dans l'économie créative sur 2024-2027.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1211-60755-afreximbank-commits-75-million-to-nigeria-s-development-bank-to-fund-creative-exporters"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "La BAD et l'AFD renouvellent leur partenariat pour 2026-2031",
+     "resume": "Signé le 10 novembre, l'accord prolonge une collaboration qui a déjà cofinancé 17 projets dans 14 pays, avec l'énergie, les transports, l'eau et l'agriculture comme priorités.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Financement-des-priorites-de-developpement-en-Afrique-La-Bad-et-l-Afd-renouvellent-leur-partenariat_a31838.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "CEDEAO : 25 projets financés pour développer le lait local",
+     "resume": "Des conventions signées à Lomé le 11 novembre apportent plus de 4 millions d'euros de subventions à des projets de collecte et de labels de qualité, dans un programme financé à 11 millions d'euros par l'AFD.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/agro/1211-20625-lait-local-la-cedeao-finance-25-projets-pour-reduire-les-importations"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-12",
+     "titre": "Deutsche Bank ouvre son service de garde de bitcoins et d'ethers en Europe",
+     "resume": "Annoncé en septembre, le service de conservation d'actifs numériques est désormais proposé à ses clients européens, une extension en Asie étant prévue.",
+     "source": "The Paypers",
+     "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deutsche-bank-goes-live-with-digital-asset-custody-service"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-09",
+     "titre": "États-Unis : PNC accepte les paiements en stablecoin USDC pour ses entreprises clientes",
+     "resume": "La banque permet à ses clients entreprises et institutionnels de recevoir des paiements en USDC, un jeton adossé au dollar, via des outils de Coinbase.",
+     "source": "PYMNTS",
+     "url": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/"
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "synthese": "La journée est dominée par les coupures d'électricité au Bénin, la nette hausse du bénéfice de la BIIC (+64 % sur neuf mois) et la préparation d'un premier emprunt obligataire de la Caisse des dépôts du Bénin ; au Nigeria, les grandes banques affichent des bénéfices en hausse et la banque centrale encadre les stablecoins.",
