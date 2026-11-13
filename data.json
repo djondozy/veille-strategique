@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-13T05:21:19Z",
+ "derniereMaj": "2026-11-13T12:14:49Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -663,6 +663,21 @@
  "reglementation": [
   {
    "date": "2026-11-10",
+   "organisme": "Gouvernement du Bénin / ASA-Bénin",
+   "titre": "Assurance auto : tous les nouveaux contrats passent par la plateforme ASA-Connect",
+   "resume": "Depuis le 1er octobre, les assureurs doivent émettre les contrats auto (hors flottes) sur une plateforme commune, officiellement lancée le 10 novembre ; plus de 8 000 contrats y sont enregistrés et les attestations se vérifient par QR code, site web ou USSD.",
+   "implication": "Les attestations d'assurance deviennent vérifiables en ligne, ce qui sécurise nos crédits auto et nos financements de flottes, et ouvre la voie à des paiements de primes numérisés.",
+   "pistes": [
+    "Exiger dans nos dossiers de crédit auto une attestation vérifiée par QR code sur ASA-Connect.",
+    "Proposer aux assureurs partenaires l'encaissement des primes par PI-SPI, carte ou application Ecobank.",
+    "Étudier une offre de bancassurance auto adossée au crédit véhicule pour les particuliers et les taxis-motos."
+   ],
+   "vigilance": "Les contrats de flottes, qui concernent nos clients entreprises, suivront un calendrier séparé non encore publié.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/benin-nicolas-yenoussi-procede-au-lancement-officiel-dasa-connect/"
+  },
+  {
+   "date": "2026-11-10",
    "organisme": "BCEAO / UEMOA",
    "titre": "Feu vert à la participation au système panafricain de paiement PAPSS",
    "resume": "Le Conseil des ministres de l'UEMOA a donné le 2 octobre un avis favorable à la participation de la BCEAO et des banques de l'Union au PAPSS, qui permet de payer entre pays africains en monnaies locales ; la BCEAO et le régulateur boursier étudient aussi un cadre pour les crypto-actifs.",
@@ -1039,6 +1054,20 @@
   ],
   "actus": [
    {
+    "date": "2026-11-13",
+    "titre": "Budget 2027 : audition des syndicats en commission",
+    "resume": "Le projet de budget 2027 (4 757 milliards FCFA, déficit de 2,8 % du PIB) est examiné à l'Assemblée ; les syndicats ont réclamé le 11 novembre des négociations salariales en 2027.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/budget-2027-au-benin-les-syndicats-reclament-1-000-beneficiaires-de-plus-et-des-negociations-salariales/"
+   },
+   {
+    "date": "2026-11-13",
+    "titre": "Éducation : 598 milliards FCFA de budget en 2026",
+    "resume": "Selon le ministre, le budget de l'éducation atteint 598 milliards FCFA en 2026 contre 508 milliards en 2025, avec un périmètre ministériel modifié.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-budget-education-598-milliards-2026-revue-sectorielle/"
+   },
+   {
     "date": "2026-11-12",
     "titre": "Pétrole : 330 000 barils de Sèmè exportés vers Rotterdam",
     "resume": "Première cargaison de brut béninois depuis près de 30 ans, produite par Akrake Petroleum sur un champ relancé début 2026 et qui donne environ 3 000 barils par jour.",
@@ -1303,20 +1332,6 @@
     "resume": "Le pays se classe 99e dans le monde dans le rapport 2026, devant le Sénégal et la Namibie ; Maurice reste en tête du continent.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/liberte-economique-en-2026-le-benin-se-hisse-a-la-11%e1%b5%89-place-africaine-selon-le-rapport-de-linstitut-fraser/"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Pauvreté : recul prévu à 34,5 % en 2028",
-    "resume": "La Banque mondiale estime à 39,4 % en 2025 la part de la population sous le seuil de 4,20 dollars par jour, contre 41,1 % en 2024, et prévoit 34,5 % en 2028 grâce à une croissance proche de 7,6 % par an.",
-    "source": "Matin Libre",
-    "url": "https://matinlibre.com/2026/10/23/pauvrete-au-benin-un-indicateur-en-baisse-progressive-selon-les-dernieres-estimations-internationales/"
-   },
-   {
-    "date": "2026-10-23",
-    "titre": "Ebola : un cas importé au Nigeria, le Bénin en préalerte",
-    "resume": "Un cas confirmé le 20 octobre à Abuja chez une voyageuse venue d'Ouganda, 44 contacts suivis et aucun nouveau cas au 24 octobre ; l'OMS déconseille toute restriction de voyage ou de commerce, et le Bénin a renforcé la surveillance à ses points d'entrée.",
-    "source": "Organisation mondiale de la santé",
-    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
    }
   ]
  },
@@ -1456,6 +1471,34 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-12",
+   "titre": "Stablecoins : l'Asie veut les garder sous contrôle bancaire",
+   "resume": "La Corée du Sud envisage d'imposer une majorité bancaire (50 % plus une voix) dans les sociétés émettrices de stablecoins en won, et la Thaïlande propose de plafonner à 5 millions de bahts par jour les mouvements d'un particulier sur les plateformes d'actifs numériques.",
+   "implication": "Les régulateurs les plus avancés placent les banques au cœur des monnaies numériques privées, un modèle que la BCEAO pourrait suivre quand elle définira son cadre.",
+   "pistes": [
+    "Suivre avec le groupe les travaux BCEAO et AMF-UMOA sur les crypto-actifs pour se positionner tôt comme partenaire bancaire.",
+    "Identifier les clients exportateurs déjà payés en stablecoins pour mesurer la demande au Bénin.",
+    "Renforcer la détection des flux liés aux plateformes crypto dans notre dispositif anti-blanchiment."
+   ],
+   "vigilance": "Le plan anti-blanchiment béninois 2026-2030 cible déjà les crypto-actifs : toute initiative devra attendre un cadre clair.",
+   "source": "crypto.news",
+   "url": "https://crypto.news/south-korea-bank-led-won-stablecoin-rules/"
+  },
+  {
+   "date": "2026-11-12",
+   "titre": "Commerce avec la Chine : le groupe BCP ouvre le règlement en yuan",
+   "resume": "Le groupe marocain Banque Centrale Populaire, actionnaire de Banque Atlantique, propose via sa filiale CIB Offshore le règlement direct en renminbi des échanges entre l'Afrique et la Chine.",
+   "implication": "Un concurrent présent au Bénin pourrait offrir aux importateurs de produits chinois un règlement sans passer par le dollar, sur un segment clé du commerce de Cotonou.",
+   "pistes": [
+    "Vérifier avec le groupe nos capacités de paiement en yuan et leur coût pour les importateurs béninois.",
+    "Cibler les importateurs de Dantokpa et de la GDIZ qui achètent en Chine avec une offre de change et de crédit documentaire.",
+    "Comparer nos délais et frais de transfert vers la Chine avec ceux annoncés par Banque Atlantique."
+   ],
+   "vigilance": "L'offre n'est pas encore annoncée pour la filiale béninoise ; ses conditions et son coût restent inconnus.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/12/maroc-la-bcp-mise-sur-le-yuan-pour-capter-les-flux-commerciaux-entre-lafrique-et-la-chine/"
+  },
   {
    "date": "2026-11-12",
    "titre": "Actifs numériques : les grandes banques passent de l'annonce au service",
@@ -2253,6 +2296,20 @@
   "url": "https://www.brvm.org/fr/indices"
  },
  "opportunites": [
+  {
+   "date": "2026-11-13",
+   "titre": "Campagne soja 2026-2027 : des achats à financer, à prix libres",
+   "resume": "La campagne de commercialisation du soja a été lancée le 13 novembre à N'Dali avec l'interprofession ; les prix sont libres et le ministère du Commerce a rappelé l'interdiction des droits d'approvisionnement exclusifs.",
+   "implication": "Des prix libres et l'ouverture à tous les acheteurs multiplient les commerçants et exportateurs qui ont besoin de crédit de campagne et de paiements rapides vers les producteurs.",
+   "pistes": [
+    "Proposer des crédits de campagne courts aux acheteurs et exportateurs de soja, garantis par les stocks ou les contrats d'export.",
+    "Offrir aux acheteurs le paiement des producteurs par mobile money ou PI-SPI depuis leur compte Ecobank, pour limiter le transport d'espèces.",
+    "Approcher les transformateurs de soja de la GDIZ pour leurs besoins de préfinancement et de change."
+   ],
+   "vigilance": "Des prix libres peuvent fluctuer fortement et fragiliser les acheteurs endettés si les cours d'export baissent.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-lancement-officiel-a-ndali-de-la-campagne-de-commercialisation-du-soja-2026-2027-sous-le-signe-de-la-liberalisation-des-prix/"
+  },
   {
    "date": "2026-11-12",
    "titre": "Pétrole de Sèmè : un nouveau secteur à accompagner",
@@ -3053,12 +3110,14 @@
   "conformité": "Ensemble des contrôles qu'une banque applique pour respecter les lois et règlements, notamment contre le blanchiment d'argent et le financement du terrorisme.",
   "USDC": "Stablecoin émis par la société américaine Circle, dont chaque jeton est censé valoir un dollar et être couvert par des réserves.",
   "conservation d'actifs numériques": "Service par lequel une banque garde, pour le compte de ses clients, des cryptoactifs comme le bitcoin et sécurise les clés qui y donnent accès.",
-  "note souveraine": "Avis d'une agence de notation sur la capacité d'un État à rembourser sa dette à temps, qui influence le taux auquel il emprunte."
+  "note souveraine": "Avis d'une agence de notation sur la capacité d'un État à rembourser sa dette à temps, qui influence le taux auquel il emprunte.",
+  "ASA-Connect": "Plateforme commune des assureurs béninois où sont enregistrés depuis octobre 2026 les contrats d'assurance auto, dont les attestations se vérifient par QR code ou USSD.",
+  "Renminbi (yuan)": "Monnaie officielle de la Chine ; le yuan en est l'unité de compte."
  },
  "journal": [
   {
    "date": "2026-11-13",
-   "synthese": "La journée est marquée au Bénin par le départ de la première cargaison de pétrole de Sèmè depuis près de 30 ans et par le retard du pays sur les interfaces PI-SPI pour entreprises (une seule homologuée, celle d'Ecobank) ; ailleurs, les bailleurs (Afreximbank, BAD-AFD) multiplient les accords et de grandes banques occidentales passent aux actifs numériques.",
+   "synthese": "La journée est marquée au Bénin par la première cargaison de pétrole de Sèmè, le lancement de la campagne du soja à prix libres et l'examen du budget 2027 en commission ; à l'extérieur, banques centrales et grands groupes encadrent le change et les stablecoins (Nigeria, Corée du Sud) et le groupe BCP ouvre le règlement en yuan.",
    "articles": [
     {
      "theme": "Bénin",
@@ -3171,6 +3230,54 @@
      "resume": "La banque permet à ses clients entreprises et institutionnels de recevoir des paiements en USDC, un jeton adossé au dollar, via des outils de Coinbase.",
      "source": "PYMNTS",
      "url": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Soja 2026-2027 : la campagne de commercialisation lancée à N'Dali, prix libres",
+     "resume": "Le gouvernement et l'interprofession du soja ont lancé ce 13 novembre la campagne d'achat, avec des prix fixés par l'offre et la demande et des règles communes pour les transactions dans tout le pays.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-lancement-officiel-a-ndali-de-la-campagne-de-commercialisation-du-soja-2026-2027-sous-le-signe-de-la-liberalisation-des-prix/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Budget 2027 : les syndicats entendus par la commission budgétaire",
+     "resume": "Reçues le 11 novembre à Porto-Novo, les centrales syndicales demandent des négociations salariales en 2027 ; le projet de budget s'élève à 4 757 milliards FCFA, avec un déficit prévu à 2,8 % du PIB.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/budget-2027-au-benin-les-syndicats-reclament-1-000-beneficiaires-de-plus-et-des-negociations-salariales/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "Assurance auto : la plateforme commune ASA-Connect officiellement lancée",
+     "resume": "Lancée le 10 novembre par le ministre délégué aux Finances, elle centralise depuis le 1er octobre les contrats auto des assureurs ; plus de 8 000 contrats y ont été enregistrés en 40 jours, et les attestations se vérifient par QR code ou USSD.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/benin-nicolas-yenoussi-procede-au-lancement-officiel-dasa-connect/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-12",
+     "titre": "Le groupe marocain BCP propose le règlement en yuan pour le commerce Afrique-Chine",
+     "resume": "Le groupe Banque Centrale Populaire, maison mère de Banque Atlantique, permet via sa filiale CIB Offshore aux entreprises de payer leurs échanges avec la Chine directement en renminbi.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/12/maroc-la-bcp-mise-sur-le-yuan-pour-capter-les-flux-commerciaux-entre-lafrique-et-la-chine/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-13",
+     "titre": "Nigeria : la banque centrale rappelle les importateurs à son nouveau manuel de change",
+     "resume": "Le 12 novembre à la foire de Lagos, la CBN a demandé aux importateurs et exportateurs d'appliquer le Manuel de change 2026, qui précise les documents commerciaux et les règles de paiement transfrontalier.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/business-economy/article/cbn-pushes-new-fx-rules-to-strengthen-nigerias-international-trade/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-12",
+     "titre": "Stablecoins : la Corée du Sud veut confier la majorité aux banques, la Thaïlande plafonne",
+     "resume": "Séoul envisage d'imposer que les émetteurs de stablecoins en won soient détenus au moins à 50 % plus une voix par des banques ; Bangkok met en consultation un plafond quotidien d'environ 148 000 dollars par client sur les plateformes d'actifs numériques.",
+     "source": "crypto.news / The Block",
+     "url": "https://crypto.news/south-korea-bank-led-won-stablecoin-rules/"
     }
    ]
   },
