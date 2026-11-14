@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-14T05:13:24Z",
+ "derniereMaj": "2026-11-14T12:21:50Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -225,6 +225,19 @@
    ],
    "source": "BCEAO",
    "url": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+  },
+  {
+   "date": "2026-12-03",
+   "titre": "Journées scientifiques de l'économie béninoise (JSEB) avec le Nobel Philippe Aghion (3-4 décembre)",
+   "detail": "La Direction générale de l'Économie du ministère des Finances organise les 3 et 4 décembre 2026, au Golden Tulip de Cotonou, la 7e édition des JSEB, un rendez-vous où chercheurs, administration et secteur privé débattent de l'économie béninoise. Le colauréat du prix Nobel d'économie 2025, Philippe Aghion, spécialiste de l'innovation et de la croissance, figure parmi les intervenants ; la participation à distance est possible et les inscriptions en ligne ferment le 15 novembre. Exemple concret : les échanges peuvent éclairer les choix de financement de l'industrie et des PME prévus dans le programme d'action 2026-2033.",
+   "pourquoi": "C'est une occasion de connaître les priorités économiques de l'administration pour 2027 et de faire entendre le point de vue des banques sur le financement de l'économie.",
+   "preparer": [
+    "Inscrire avant le 15 novembre un ou deux représentants (direction et analyse économique).",
+    "Préparer deux ou trois messages sur le financement des PME et de l'industrie à porter lors des échanges.",
+    "Faire une note de synthèse des annonces pour le comité de direction."
+   ],
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-nobel-philippe-aghion-jseb-2026-inscriptions/"
   },
   {
    "date": "2026-12-04",
@@ -1061,6 +1074,20 @@
   "actus": [
    {
     "date": "2026-11-13",
+    "titre": "Niger : interdiction d'exporter l'arachide",
+    "resume": "Arrêté du 11 novembre : les cargaisons exportées sans autorisation seront saisies ; dérogations possibles vers le Burkina et le Mali.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/niger-exportation-arachide-interdite-saisie-cargaisons/"
+   },
+   {
+    "date": "2026-11-13",
+    "titre": "Niger : 561 millions de dollars à mobiliser pour le barrage de Kandadji",
+    "resume": "La Banque mondiale annonce une relance du chantier ; feuille de route attendue d'ici le 30 novembre, réunion de haut niveau en janvier 2027.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/niger-kandadji-561-millions-de-dollars-a-trouver-pour-relancer-le-barrage/"
+   },
+   {
+    "date": "2026-11-13",
     "titre": "Budget 2027 : 94,3 milliards FCFA contre les catastrophes",
     "resume": "La note circulaire sur le FONCAT prévoit 50,1 milliards de réserve d'urgence et 44,2 milliards pour la résilience ; les besoins d'urgence sont estimés à 59,6 milliards.",
     "source": "Bénin Web TV",
@@ -1324,24 +1351,24 @@
     "resume": "La patiente a été évacuée vers la Suisse ; une cinquantaine de contacts restent suivis, tous négatifs à ce jour.",
     "source": "Leadership",
     "url": "https://leadership.ng/who-declares-nigeria-ebola-free-after-evacuation/"
-   },
-   {
-    "date": "2026-10-25",
-    "titre": "Accord de partenariat économique global avec les Émirats arabes unis",
-    "resume": "Environ 97 % des échanges concernés par la baisse des droits de douane après ratification ; les Émirats visent plus d'un milliard de dollars d'exportations supplémentaires vers le Bénin d'ici 2033.",
-    "source": "Bénin Intelligent",
-    "url": "https://beninintelligent.bj/2026/10/25/cooperation-benin-emirats-arabes-unis-un-accord-commercial-et-sept-instruments-de-cooperation-actes/"
-   },
-   {
-    "date": "2026-10-25",
-    "titre": "Sénégal : emprunt à plus de 8 % sur UMOA-Titres",
-    "resume": "Le coût élevé de la dette sénégalaise relance le débat sur les taux du marché régional, au moment où la loi de finances rectificative est bloquée au Parlement.",
-    "source": "Financial Afrik",
-    "url": "https://www.financialafrik.com/2026/10/25/le-senegal-emprunte-a-plus-de-8-sur-umoa-titres-faut-il-reguler-les-taux/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-13",
+   "titre": "PI-SPI au Togo : Ecobank seule interface homologuée pour les entreprises",
+   "resume": "Comme au Bénin, Ecobank est, selon la liste BCEAO au 9 novembre relayée par Togo First, la seule banque togolaise dont l'« API Business » permet aux entreprises de connecter leurs logiciels au paiement instantané.",
+   "source": "Togo First",
+   "url": "https://www.togofirst.com/fr/finance/1311-20636-togo-seul-ecobank-permet-pour-l-instant-aux-entreprises-de-connecter-leurs-outils-de-paiement-a-pi-spi"
+  },
+  {
+   "date": "2026-11-13",
+   "titre": "Ecobank Ghana : foire des PME à Accra du 13 au 15 novembre",
+   "resume": "Deuxième édition de l'Ecobank JoyBusiness SME Fair à l'Accra Mall, après plus de 160 exposants en 2025.",
+   "source": "MyJoyOnline",
+   "url": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/"
+  },
   {
    "date": "2026-11-12",
    "titre": "PI-SPI : Ecobank reste la seule « API Business » homologuée au Bénin",
@@ -1477,6 +1504,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-14",
+   "titre": "Paiement instantané : les portefeuilles rendent la réception gratuite",
+   "resume": "Après l'entrée en vigueur de PI-SPI, le portefeuille malien SAMA Money offre la réception des virements instantanés et les envois jusqu'à 100 000 FCFA par jour ; la concurrence sur le prix des petits transferts s'étend dans l'UEMOA.",
+   "implication": "Les clients béninois compareront de plus en plus nos frais de virement à ceux des portefeuilles mobiles, qui font de la gratuité un argument d'acquisition.",
+   "pistes": [
+    "Comparer nos frais de virement PI-SPI à ceux de MTN MoMo, Moov Money et Celtiis pour les montants courants (moins de 100 000 FCFA).",
+    "Étudier une réception gratuite et un quota d'envois offerts pour les comptes salariés et les petits commerçants.",
+    "Mettre en avant notre interface entreprises homologuée pour capter les encaissements des PME plutôt que la seule bataille des petits envois."
+   ],
+   "vigilance": "La gratuité réduit les commissions : il faut mesurer le manque à gagner avant d'aligner nos prix.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/"
+  },
   {
    "date": "2026-11-13",
    "titre": "Banques régionales : Vista se recentre, Oragroup reste sans repreneur",
@@ -2318,6 +2359,20 @@
  "opportunites": [
   {
    "date": "2026-11-13",
+   "titre": "Internet fixe moins cher : plus de PME raccordées à la banque en ligne",
+   "resume": "Selon les grilles de l'ARCEP, la SBIN a ramené son forfait fibre 50 Mb/s de 24 900 à 14 900 FCFA par mois entre juin et septembre 2026 et propose un 100 Mb/s à 24 900 FCFA.",
+   "implication": "Une connexion fixe plus abordable lève un frein à l'usage de la banque en ligne et des paiements numériques par les PME et les commerces.",
+   "pistes": [
+    "Proposer aux PME nouvellement raccordées une offre groupée : banque en ligne entreprise, terminal de paiement et encaissement PI-SPI.",
+    "Étudier un partenariat avec la SBIN (offre de bienvenue pour nos clients entreprises ou paiement des factures par nos canaux).",
+    "Former les chargés de clientèle PME à accompagner la mise en service de la banque en ligne lors du raccordement."
+   ],
+   "vigilance": "La baisse ne concerne que les zones couvertes par la fibre ; l'effet sur l'usage restera concentré dans les grandes villes.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/internet-fixe-au-benin-la-sbin-abaisse-de-40-son-tarif-a-50-mb-s/"
+  },
+  {
+   "date": "2026-11-13",
    "titre": "Garantie unique de transit : les cautions douanières en chantier",
    "resume": "Le Comité national de facilitation des échanges travaille sur une garantie unique de transit douanier, qui couvrirait une marchandise sur tout son trajet au lieu d'une caution par pays, ainsi que sur une stratégie nationale de facilitation des échanges.",
    "implication": "Si le dispositif avance, les cautions de transit émises par les banques pour les transitaires du port de Cotonou pourraient changer de forme et de volume, au profit des banques présentes dans plusieurs pays du corridor.",
@@ -3155,12 +3210,15 @@
   "Renminbi (yuan)": "Monnaie officielle de la Chine ; le yuan en est l'unité de compte.",
   "FONCAT": "Fonds national de gestion des catastrophes du Bénin : il réserve chaque année des crédits pour les secours d'urgence et la prévention des inondations ou sécheresses.",
   "Garantie unique de transit": "Caution douanière unique qui couvre une marchandise en transit sur tout son trajet entre plusieurs pays, au lieu d'une caution par pays traversé.",
-  "Perspective de notation": "Indication donnée par une agence de notation sur l'évolution probable d'une note dans les 12 à 18 mois : positive, stable ou négative."
+  "Perspective de notation": "Indication donnée par une agence de notation sur l'évolution probable d'une note dans les 12 à 18 mois : positive, stable ou négative.",
+  "JSEB": "Journées scientifiques de l'économie béninoise : rencontre annuelle organisée par la Direction générale de l'Économie pour débattre de l'économie du pays.",
+  "SBIN": "Société béninoise d'infrastructures numériques : opérateur public de télécommunications du Bénin, qui vend notamment l'internet fixe par fibre et la téléphonie mobile Celtiis.",
+  "kpayo": "Nom donné au Bénin à l'essence de contrebande, souvent importée du Nigeria et vendue en bouteilles au bord des routes."
  },
  "journal": [
   {
    "date": "2026-11-14",
-   "synthese": "La journée est dominée par la recomposition bancaire régionale (Vista renonce à Oragroup et fusionne ses banques au Burkina), la préparation du budget 2027 du Bénin (94,3 milliards FCFA contre les catastrophes) et une BRVM en léger recul ; chez les voisins, le Togo voit ses perspectives de notation relevées.",
+   "synthese": "La journée reste marquée par la recomposition bancaire régionale (Vista renonce à Oragroup) et la préparation du budget 2027 du Bénin ; le paiement instantané PI-SPI s'étend (réception gratuite chez SAMA Money au Mali, Ecobank seule interface entreprises au Togo), tandis qu'au Niger voisin l'arachide est interdite à l'export et le barrage de Kandadji cherche 561 millions de dollars.",
    "articles": [
     {
      "theme": "Bénin",
@@ -3233,6 +3291,78 @@
      "resume": "L'Agence nationale du paysage organise les 13 et 14 novembre au Palais des Congrès un village vert et un concours d'idées sur l'entretien des espaces verts. Une charte du paysage est annoncée.",
      "source": "La Nouvelle Tribune",
      "url": "https://lanouvelletribune.info/2026/11/journee-verte-2026-les-points-essentiels-de-la-premiere-edition-a-cotonou/"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-11-13",
+     "titre": "Togo : Ecobank reste la seule banque à brancher les logiciels des entreprises sur PI-SPI",
+     "resume": "D'après la liste BCEAO des interfaces homologuées au 9 novembre, seule Ecobank permet aux entreprises togolaises de relier leurs outils de comptabilité ou de caisse au paiement instantané. Au Togo, PI-SPI a traité près de 15 milliards FCFA (163 000 opérations) à fin octobre.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/finance/1311-20636-togo-seul-ecobank-permet-pour-l-instant-aux-entreprises-de-connecter-leurs-outils-de-paiement-a-pi-spi"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-14",
+     "titre": "Mali : SAMA Money rend gratuite la réception des virements instantanés PI-SPI",
+     "resume": "Le portefeuille malien reçoit désormais les virements PI-SPI gratuitement et en quelques secondes, et offre les envois jusqu'à 100 000 FCFA cumulés par jour, puis 0,3 % à 0,5 %. Au 30 septembre, 175 institutions étaient autorisées sur PI-SPI, dont 18 au Bénin.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Internet fixe : la SBIN baisse de 40 % le prix de son forfait 50 Mb/s",
+     "resume": "Selon les grilles publiées par l'ARCEP, le forfait mensuel 50 Mb/s de la SBIN est passé de 24 900 à 14 900 FCFA entre juin et septembre 2026, et un forfait 100 Mb/s est proposé à 24 900 FCFA.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/internet-fixe-au-benin-la-sbin-abaisse-de-40-son-tarif-a-50-mb-s/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Journées scientifiques de l'économie béninoise : le Nobel Philippe Aghion attendu les 3 et 4 décembre",
+     "resume": "La Direction générale de l'Économie organise la 7e édition des JSEB au Golden Tulip de Cotonou, avec le colauréat du Nobel d'économie 2025 parmi les intervenants. Les inscriptions en ligne ferment le 15 novembre.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-nobel-philippe-aghion-jseb-2026-inscriptions/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Cyber Africa Forum : plus de 1 500 décideurs attendus à Cotonou les 16 et 17 novembre",
+     "resume": "Le forum consacré à la cybersécurité et à la confiance numérique réunira ministres, régulateurs et entreprises au Sofitel de Cotonou.",
+     "source": "24 Heures au Bénin",
+     "url": "https://www.24haubenin.info/?Cotonou-s-apprete-a-accueillir-ministres-et-leaders-internationaux-du-numerique"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Couffo : l'essence de contrebande grimpe jusqu'à 2 000 FCFA le litre",
+     "resume": "À Dogbo, Toviklin et Lalo, les habitants subissent une flambée du prix de l'essence vendue hors station (« kpayo »), un poste de dépense important pour les petits commerçants et conducteurs de taxi-moto.",
+     "source": "24 Heures au Bénin",
+     "url": "https://www.24haubenin.info/?Le-litre-d-essence-vendu-a-2000-FCFA-dans-le-Couffo"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-13",
+     "titre": "Niger : 561 millions de dollars restent à trouver pour relancer le barrage de Kandadji",
+     "resume": "Reçu à Niamey par le président Tiani, le vice-président de la Banque mondiale pour l'Afrique de l'Ouest et du Centre a annoncé une relance du chantier ; Niamey doit remettre une feuille de route actualisée d'ici le 30 novembre avant une réunion de haut niveau en janvier 2027.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/niger-kandadji-561-millions-de-dollars-a-trouver-pour-relancer-le-barrage/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-13",
+     "titre": "Niger : l'exportation d'arachide interdite, les cargaisons saisies en cas d'infraction",
+     "resume": "Un arrêté du 11 novembre interdit toute sortie d'arachide du territoire pour approvisionner les huileries locales, avec des dérogations possibles vers le Burkina Faso et le Mali.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/niger-exportation-arachide-interdite-saisie-cargaisons/"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-11-13",
+     "titre": "Ghana : Ecobank ouvre sa foire des PME à Accra du 13 au 15 novembre",
+     "resume": "Organisée avec le groupe de médias Joy, la deuxième édition de la foire réunit exposants, acheteurs et partenaires (MTN, agence de promotion des exportations) à l'Accra Mall.",
+     "source": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-kicks-off-at-ghud-park-accra-mall/"
     }
    ]
   },
