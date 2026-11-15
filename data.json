@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-15T05:14:38Z",
+ "derniereMaj": "2026-11-15T12:13:26Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -687,6 +687,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-11-14",
+   "organisme": "Ministère du Commerce du Bénin",
+   "titre": "Carburant : les stations ne doivent plus servir de bidons pour la revente",
+   "resume": "Le ministère renforce les contrôles : seuls les réservoirs des véhicules peuvent être servis, alors que le réseau formel ne fournit qu'environ 300 000 litres sur une demande estimée à 2,5 millions de litres par jour ; les prix officiels restent à 750 FCFA (essence) et 765 FCFA (gasoil).",
+   "implication": "La bascule attendue vers les stations agréées peut accroître leurs besoins de trésorerie pour acheter plus de stocks, et mettre sous tension les revendeurs informels.",
+   "pistes": [
+    "Proposer aux distributeurs et gérants de stations des lignes de crédit de stock et des avals fournisseurs.",
+    "Équiper les stations en paiements par carte, QR code et PI-SPI pour suivre la hausse de fréquentation.",
+    "Suivre les flux des clients transporteurs et taxis-motos pour anticiper l'impact du prix et de la disponibilité du carburant."
+   ],
+   "vigilance": "Une pénurie prolongée pèserait sur les transporteurs et petits commerçants, et donc sur la qualité de leurs crédits.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-essence-controles-ventes-carburant-bidons/"
+  },
+  {
    "date": "2026-11-10",
    "organisme": "Gouvernement du Bénin / ASA-Bénin",
    "titre": "Assurance auto : tous les nouveaux contrats passent par la plateforme ASA-Connect",
@@ -1079,6 +1094,13 @@
   ],
   "actus": [
    {
+    "date": "2026-11-15",
+    "titre": "Carburant : un réseau formel loin de couvrir la demande",
+    "resume": "Le réseau officiel ne distribue qu'environ 300 000 litres par jour pour une demande estimée à 2,5 millions de litres ; les autorités indiquent des stocks de trois à six mois et renforcent les contrôles.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-essence-controles-ventes-carburant-bidons/"
+   },
+   {
     "date": "2026-11-13",
     "titre": "Bénin-Nigeria : 1,3 milliard de dollars de revenus potentiels par an",
     "resume": "Une intégration économique renforcée entre les deux pays pourrait rapporter environ 1,3 milliard de dollars par an selon une analyse relayée par l'Agence Ecofin.",
@@ -1170,20 +1192,6 @@
     "url": "https://www.lejecos.com/BRVM-Les-indices-phares-de-la-bourse-renoue-avec-la-hausse-ce-mercredi-11-novembre-2026_a31834.html"
    },
    {
-    "date": "2026-11-09",
-    "titre": "Croissance forte, emploi salarié faible",
-    "resume": "La Banque mondiale note que l'emploi des grandes entreprises n'a crû que de 0,2 % en 2025 malgré 8,1 % de croissance ; le salariat représente moins de 20 % des emplois.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-81-de-croissance-mais-seulement-02-de-hausse-de-lemploi-dans-les-grandes-entreprises/"
-   },
-   {
-    "date": "2026-11-07",
-    "titre": "Burkina Faso : S&P relève la note souveraine à B-",
-    "resume": "L'agence remonte la note d'un cran (de CCC+ à B-, perspective stable), citant un déficit ramené à 1,8 % du PIB en 2025 et la reprise minière et agricole.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/burkina-faso-sp-releve-la-note-souveraine-signe-dun-redressement-economique/"
-   },
-   {
     "date": "2026-11-10",
     "titre": "BRVM : le Composite perd 1,74 % le 10 novembre",
     "resume": "L'indice revient à 512,81 points après 521,88 la veille ; le BRVM-30 cède 1,94 %.",
@@ -1196,6 +1204,13 @@
     "resume": "Le 4e rapport sur l'économie béninoise relève une hausse de l'emploi salarié des grandes entreprises limitée à 0,2 % en 2025 et une informalité de 96 %.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Croissance forte, emploi salarié faible",
+    "resume": "La Banque mondiale note que l'emploi des grandes entreprises n'a crû que de 0,2 % en 2025 malgré 8,1 % de croissance ; le salariat représente moins de 20 % des emplois.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-81-de-croissance-mais-seulement-02-de-hausse-de-lemploi-dans-les-grandes-entreprises/"
    },
    {
     "date": "2026-11-09",
@@ -1238,6 +1253,20 @@
     "resume": "À 97,65 dollars le 9 novembre, le baril recule de 8,7 % sur un mois mais reste 52 % plus cher qu'il y a un an.",
     "source": "Fortune",
     "url": "https://fortune.com/article/price-of-oil-11-09-2026/"
+   },
+   {
+    "date": "2026-11-09",
+    "titre": "Port de Cotonou : Bénin Terminal ajoute 22 tracteurs portuaires",
+    "resume": "La filiale d'AGL a investi près de 2 milliards FCFA dans 22 tracteurs, portant son parc à 62 engins ; elle revendique 167 milliards FCFA investis depuis 2013 et 582 salariés béninois.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-22-nouveaux-tracteurs-renforcent-les-capacites-du-port-de-cotonou/"
+   },
+   {
+    "date": "2026-11-07",
+    "titre": "Burkina Faso : S&P relève la note souveraine à B-",
+    "resume": "L'agence remonte la note d'un cran (de CCC+ à B-, perspective stable), citant un déficit ramené à 1,8 % du PIB en 2025 et la reprise minière et agricole.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/burkina-faso-sp-releve-la-note-souveraine-signe-dun-redressement-economique/"
    },
    {
     "date": "2026-11-07",
@@ -1343,20 +1372,6 @@
     "resume": "Agriculture, énergie, santé, formation et communes ; annonce faite le 23 octobre.",
     "source": "Togo First",
     "url": "https://www.togofirst.com/fr/gouvernance-economique/2610-20449-togo-l-allemagne-annonce-plus-de-25-milliards-fcfa-de-financements-supplementaires"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "Bénin : agrément du fonds de garantie des PME annoncé au Capital Reach Forum",
-    "resume": "Le fonds, doté de 5 milliards FCFA, doit partager avec les banques le risque des crédits aux PME.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/10/benin-le-capital-reach-forum-veut-faciliter-le-financement-des-entreprises/"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "Afreximbank : bénéfice de 813,5 millions de dollars sur neuf mois",
-    "resume": "Hausse de 24 % ; actifs et engagements de 54,1 milliards de dollars et créances douteuses à 2,48 %.",
-    "source": "Afreximbank",
-    "url": "https://afreximbank.africa-newsroom.com/press/afreximbank-delivers-positive-ninemonth-financial-results-as-net-income-grows-24-to-us8135-million-and-assets-and-contingencies-exceed-us541-billion?lang=en"
    }
   ]
  },
@@ -1540,6 +1555,20 @@
   },
   {
    "date": "2026-11-13",
+   "titre": "Paiement par agents IA : OpenAI lance ChatGPT Wallet avec Visa et Mastercard",
+   "resume": "Les agents IA de ChatGPT peuvent désormais acheter pour l'utilisateur avec une carte enregistrée sous forme de jeton, avec une vérification à chaque achat ; l'offre est limitée aux abonnés Pro aux États-Unis.",
+   "implication": "Les cartes Visa et Mastercard émises par les banques deviennent le moyen de paiement des achats faits par IA, ce qui donnera de la valeur aux émetteurs capables de « tokeniser » leurs cartes et de valider chaque achat en temps réel.",
+   "pistes": [
+    "Vérifier avec Visa et Mastercard que nos cartes sont éligibles à la tokenisation pour les portefeuilles et les agents IA.",
+    "Préparer une validation forte de chaque achat (notification et accord dans l'application) pour les paiements initiés par un agent.",
+    "Tester avec quelques marchands en ligne béninois un parcours de paiement par carte tokenisée."
+   ],
+   "vigilance": "Les contestations d'achats faits par un agent IA (« ce n'est pas moi qui ai validé ») pourraient augmenter : les règles de responsabilité restent à clarifier.",
+   "source": "Quartz",
+   "url": "https://fr.qz.com/openai-chatgpt-portefeuille-agents-ai-boutique-utilisateurs-111326"
+  },
+  {
+   "date": "2026-11-13",
    "titre": "Banques régionales : Vista se recentre, Oragroup reste sans repreneur",
    "resume": "Vista Group abandonne le rachat d'Oragroup, où il reste minoritaire, et fusionne au Burkina Vista Bank avec l'ex-Société Générale Burkina pour viser la 2e place du marché ; il prévoit aussi un 2e emprunt auprès de la diaspora en 2027.",
    "implication": "L'avenir de l'actionnariat d'Orabank, concurrent direct au Bénin, reste ouvert, ce qui peut freiner ses projets ou créer des occasions de reprise de clients.",
@@ -1593,20 +1622,6 @@
    "vigilance": "Les flux de cryptoactifs non déclarés passant par des comptes bancaires sont une cible prioritaire du nouveau plan national anti-blanchiment.",
    "source": "The Paypers",
    "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deutsche-bank-goes-live-with-digital-asset-custody-service"
-  },
-  {
-   "date": "2026-11-09",
-   "titre": "Nigeria : les stablecoins entrent dans un régime de licence avec capital minimum",
-   "resume": "La banque centrale du Nigeria exige depuis le 5 novembre une licence, 10 à 15 milliards de nairas de capital et une réserve couvrant intégralement les jetons émis, et interdit les stablecoins algorithmiques ; les acteurs ont 180 jours pour se conformer.",
-   "implication": "Le premier marché de la sous-région encadre les dollars numériques : les transferts Nigeria–Bénin pourraient à terme passer par des acteurs agréés, concurrents ou partenaires des banques.",
-   "pistes": [
-    "Suivre avec le groupe et nos homologues nigérians les premières licences accordées pour repérer des partenaires sérieux.",
-    "Évaluer l'exposition de nos clients commerçants du corridor Cotonou–Lagos qui règlent déjà en stablecoins.",
-    "Préparer une note de conformité sur les flux venant de plateformes de cryptoactifs, que la BCEAO exclut toujours de son bac à sable."
-   ],
-   "vigilance": "La BCEAO n'autorise pas ces actifs dans l'UEMOA : toute offre locale reste exclue tant que la réglementation régionale ne change pas.",
-   "source": "Naija News",
-   "url": "https://www.naijanews.com/2026/11/09/cbn-introduces-new-rules-for-stablecoin-operators/"
   },
   {
    "date": "2026-11-11",
@@ -1690,6 +1705,20 @@
    "vigilance": "Aucun cadre BCEAO n'autorise aujourd'hui les stablecoins dans l'UEMOA.",
    "source": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
+  },
+  {
+   "date": "2026-11-09",
+   "titre": "Nigeria : les stablecoins entrent dans un régime de licence avec capital minimum",
+   "resume": "La banque centrale du Nigeria exige depuis le 5 novembre une licence, 10 à 15 milliards de nairas de capital et une réserve couvrant intégralement les jetons émis, et interdit les stablecoins algorithmiques ; les acteurs ont 180 jours pour se conformer.",
+   "implication": "Le premier marché de la sous-région encadre les dollars numériques : les transferts Nigeria–Bénin pourraient à terme passer par des acteurs agréés, concurrents ou partenaires des banques.",
+   "pistes": [
+    "Suivre avec le groupe et nos homologues nigérians les premières licences accordées pour repérer des partenaires sérieux.",
+    "Évaluer l'exposition de nos clients commerçants du corridor Cotonou–Lagos qui règlent déjà en stablecoins.",
+    "Préparer une note de conformité sur les flux venant de plateformes de cryptoactifs, que la BCEAO exclut toujours de son bac à sable."
+   ],
+   "vigilance": "La BCEAO n'autorise pas ces actifs dans l'UEMOA : toute offre locale reste exclue tant que la réglementation régionale ne change pas.",
+   "source": "Naija News",
+   "url": "https://www.naijanews.com/2026/11/09/cbn-introduces-new-rules-for-stablecoin-operators/"
   },
   {
    "date": "2026-11-06",
@@ -2432,6 +2461,20 @@
    "vigilance": "Des prix libres peuvent fluctuer fortement et fragiliser les acheteurs endettés si les cours d'export baissent.",
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.bj/benin-lancement-officiel-a-ndali-de-la-campagne-de-commercialisation-du-soja-2026-2027-sous-le-signe-de-la-liberalisation-des-prix/"
+  },
+  {
+   "date": "2026-11-12",
+   "titre": "BAD et AFD : un nouveau cadre de cofinancement jusqu'en 2031",
+   "resume": "La Banque africaine de développement et l'Agence française de développement ont renouvelé le 10 novembre leur accord de cofinancement ; l'énergie pèse près de la moitié des projets communs depuis 2021, et l'AFD promet 1 milliard d'euros à Mission 300.",
+   "implication": "Des projets d'énergie et d'infrastructures cofinancés au Bénin pourraient chercher des banques locales pour les comptes, les garanties, les paiements aux sous-traitants et le préfinancement.",
+   "pistes": [
+    "Recenser les projets béninois financés par la BAD ou l'AFD et proposer nos services de compte projet et de paiement des fournisseurs.",
+    "Proposer des cautions et des avances sur marchés aux entreprises béninoises qui remportent des lots de ces projets.",
+    "Étudier des lignes de refinancement ou de garantie de la BAD et de l'AFD pour nos crédits aux PME de l'énergie solaire."
+   ],
+   "vigilance": "Les procédures des bailleurs sont longues et les décaissements souvent décalés : ne pas engager de préfinancement sans calendrier ferme.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/afrique-la-bad-et-la-france-scellent-un-accord-de-cinq-ans-pour-cofinancer-des-projets/"
   },
   {
    "date": "2026-11-12",
@@ -3250,7 +3293,11 @@
   "kpayo": "Nom donné au Bénin à l'essence de contrebande, souvent importée du Nigeria et vendue en bouteilles au bord des routes.",
   "OCDE": "Organisation de coopération et de développement économiques : organisme international qui publie des études et des statistiques sur l'économie, dont les marchés financiers africains.",
   "Dette en devises": "Emprunt libellé dans une monnaie étrangère (dollar, euro) : si le FCFA perd de la valeur face à cette monnaie, le coût du remboursement augmente pour l'emprunteur.",
-  "Fonds de pension": "Organisme qui collecte les cotisations de retraite et les place (obligations, actions, immobilier) pour payer les pensions futures."
+  "Fonds de pension": "Organisme qui collecte les cotisations de retraite et les place (obligations, actions, immobilier) pour payer les pensions futures.",
+  "IDA": "Association internationale de développement : guichet de la Banque mondiale qui prête à taux très bas ou donne aux pays les plus pauvres, dont le Bénin.",
+  "AFD": "Agence française de développement : institution publique française qui finance des projets dans les pays en développement par prêts, dons et garanties.",
+  "Mission 300": "Initiative de la Banque mondiale et de la BAD visant à raccorder 300 millions d'Africains à l'électricité d'ici 2030.",
+  "appel d'offres hebdomadaire": "Opération par laquelle la BCEAO prête chaque semaine des liquidités aux banques contre garanties, au taux directeur ou au-dessus."
  },
  "journal": [
   {
@@ -3351,9 +3398,73 @@
      "resume": "Une analyse rappelle que les fonds de pension africains gèrent plus de 1 000 milliards de dollars, souvent placés hors du continent, et que la BAD prépare des instruments hybrides d'ici fin 2026 pour les attirer vers le développement.",
      "source": "AllAfrica (The Conversation)",
      "url": "https://fr.allafrica.com/stories/202611110481.html"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-15",
+     "titre": "Carburant : les ventes en bidons dans le viseur du ministère du Commerce",
+     "resume": "Les stations ne doivent plus servir que le réservoir des véhicules, a annoncé le 14 novembre le directeur départemental du Commerce intérieur ; le réseau formel ne couvre qu'environ 300 000 litres sur une demande estimée à 2,5 millions de litres par jour, aux prix officiels de 750 FCFA (essence) et 765 FCFA (gasoil).",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-essence-controles-ventes-carburant-bidons/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Essence : le gouvernement fait vérifier les quantités servies à la pompe",
+     "resume": "Après un signalement sur les réseaux sociaux de volumes jugés trop faibles pour le montant payé, le gouvernement a annoncé des contrôles dans certaines stations-service, avec les directions départementales concernées.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-verifications-quantites-essence-stations-service/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Budget 2027 : société civile et syndicats entendus par les députés",
+     "resume": "Les audiences publiques sur le projet de budget 2027 (4 757 milliards FCFA) ont commencé le 11 novembre à Porto-Novo ; l'UNSTB a demandé d'élargir un programme d'emploi de 2 000 à 3 000 bénéficiaires et d'ouvrir des discussions sur les salaires en 2027.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/examen-du-budget-2027-du-benin-les-observations-de-la-societe-civile-et-des-centrales-syndicales/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-13",
+     "titre": "BCEAO : 6 425 milliards FCFA proposés aux banques lundi 16 novembre",
+     "resume": "La banque centrale reconduit son appel d'offres hebdomadaire à une semaine au taux minimum de 3 %, son taux directeur ; avec les autres guichets, la liquidité injectée atteint 6 672,7 milliards FCFA.",
+     "source": "Leral",
+     "url": "https://www.leral.net/La-BCEAO-organise-un-appel-d-offres-hebdomadaire-de-6-425-milliards-FCFA-pour-injecter-de-la-liquidite_a411069.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-11",
+     "titre": "Eurobonds : les pays les plus pauvres paient en moyenne 9,8 %",
+     "resume": "Selon le rapport 2026 de la Banque mondiale sur la dette internationale, les pays éligibles à l'IDA ont payé 9,8 % en moyenne sur leurs eurobonds émis en 2025, près du double des pays à revenu intermédiaire, alors que la dette extérieure des pays en développement atteint un record de 9 400 milliards de dollars.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1111-60726-africa-s-poorest-eurobond-borrowers-face-record-9-8-interest-rates"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-14",
+     "titre": "Financement des petites entreprises : Afric'innov appelle les États à accepter le risque",
+     "resume": "Le président du réseau d'incubateurs Afric'innov plaide pour que les États financent de petits montants aux PME malgré le risque de perte, et présente le « Manifeste de Lomé » adopté lors du sommet du réseau du 5 au 7 novembre.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/insights/1411-60814-why-governments-should-risk-losing-money-to-fund-small-firms-interview-with-afric-innov-s-christian-jekinnou"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-12",
+     "titre": "La BAD et l'AFD renouvellent leur partenariat de cofinancement jusqu'en 2031",
+     "resume": "Signé le 10 novembre à Paris, l'accord prolonge celui de 2021, qui a permis de cofinancer 17 projets dans 14 pays, surtout dans l'énergie ; l'AFD annonce aussi 1 milliard d'euros pour l'initiative d'électrification Mission 300.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/afrique-la-bad-et-la-france-scellent-un-accord-de-cinq-ans-pour-cofinancer-des-projets/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-13",
+     "titre": "OpenAI lance un portefeuille pour que ses agents IA paient à la place de l'utilisateur",
+     "resume": "ChatGPT Wallet, conçu avec Visa, Mastercard et American Express, permet aux agents IA d'acheter avec une carte enregistrée, sans voir son numéro, avec une vérification à chaque achat ; il est réservé pour l'instant aux abonnés Pro aux États-Unis.",
+     "source": "Quartz",
+     "url": "https://fr.qz.com/openai-chatgpt-portefeuille-agents-ai-boutique-utilisateurs-111326"
     }
    ],
-   "synthese": "Week-end calme : la concurrence régionale bouge (Oragroup gagne plus mais prête moins, Vista achète le réseau de microfinance ACEP, Coris Money supprime tous les frais de virement instantané au Sénégal), tandis que l'OCDE souligne la dépendance des entreprises africaines à la dette en devises et la rareté des introductions en bourse."
+   "synthese": "Dimanche dominé par la tension sur l'essence au Bénin (contrôles des ventes en bidons et des volumes servis, réseau formel très en deçà de la demande) et par l'examen du budget 2027 ; côté finance, la BCEAO maintient une liquidité abondante à 3 %, tandis que la concurrence régionale bouge (Oragroup, Vista, gratuité des virements instantanés) et qu'OpenAI ouvre le paiement par agents IA."
   },
   {
    "date": "2026-11-14",
