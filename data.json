@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-14T12:21:50Z",
+ "derniereMaj": "2026-11-15T05:14:38Z",
  "brief": {
   "periode": "Semaine du 9 novembre 2026",
   "titre": "Un fonds industriel de 100 milliards avec garantie bancaire, et un FMI qui relève la dette à 60,5 % du PIB",
@@ -88,19 +88,6 @@
   },
   {
    "date": "2026-11-15",
-   "titre": "Retraités : dernier jour pour faire sa preuve de vie au Fonds national des retraites",
-   "detail": "Chaque retraité de l'État doit prouver qu'il est en vie pour continuer à toucher sa pension. Le Fonds national des retraites du Bénin (FNRB) a lancé le 13 octobre une application mobile « Preuve de vie » (empreinte digitale avec la caméra du téléphone) et des bornes biométriques ; il faut son numéro personnel d'identification (NPI) et son numéro de livret de pension. Plus de 15 000 opérations ont été faites la première semaine ; la campagne va du 15 octobre au 15 novembre.",
-   "pourquoi": "Beaucoup de pensions sont versées sur des comptes bancaires : un retraité qui oublie la démarche risque une suspension de pension, donc des comptes moins alimentés et des remboursements de crédit en retard.",
-   "preparer": [
-    "Informer les clients retraités par SMS et en agence de la date limite du 15 novembre.",
-    "Proposer en agence une aide simple pour télécharger l'application et faire la démarche.",
-    "Surveiller en décembre les comptes de retraités sans virement de pension pour anticiper les impayés sur prêts."
-   ],
-   "source": "La Nation",
-   "url": "https://lanation.bj/economie/fonds-national-des-retraites-du-benin-les-pensionnes-peuvent-desormais-faire-leur-preuve-de-vie-a-distance"
-  },
-  {
-   "date": "2026-11-15",
    "titre": "Lancement annoncé du projet de port de pêche de Cotonou",
    "detail": "Lors d'une rencontre d'affaires consacrée au Port autonome de Cotonou (PAC) le 30 octobre, le lancement du projet de port de pêche a été annoncé pour le 15 novembre. Il s'inscrit dans un programme de plus de 345 milliards FCFA qui doit faire passer la capacité du port de 12 à 25 millions de tonnes d'ici 2027-2028. Exemple : mareyeurs, armateurs artisanaux et entreprises de froid de Cotonou pourraient trouver de nouveaux quais et entrepôts.",
    "pourquoi": "Un nouveau port de pêche crée des besoins de financement d'équipements (bateaux, chambres froides, camions) et de nouveaux flux d'encaissement pour une filière encore très informelle.",
@@ -162,6 +149,19 @@
    ],
    "source": "Agence Ecofin",
    "url": "https://www.ecofinagency.com/news-finances/2010-59935-nigerias-uba-faces-600-million-debt-repayment-deadline-in-november"
+  },
+  {
+   "date": "2026-11-22",
+   "titre": "Retraités : la preuve de vie au Fonds national des retraites prolongée jusqu'au 22 novembre",
+   "detail": "Chaque retraité de l'État doit prouver qu'il est en vie pour continuer à toucher sa pension. Le Fonds national des retraites du Bénin (FNRB) propose depuis le 15 octobre une application mobile « Preuve de vie » et des bornes biométriques (il faut son numéro personnel d'identification et son numéro de livret de pension). Le ministère de l'Économie et des Finances a repoussé la date limite du 15 au dimanche 22 novembre 2026.",
+   "pourquoi": "Beaucoup de pensions sont versées sur des comptes bancaires : un retraité qui oublie la démarche risque une suspension de pension, donc des comptes moins alimentés et des remboursements de crédit en retard.",
+   "preparer": [
+    "Relancer par SMS et en agence les clients retraités sur la nouvelle date limite du 22 novembre.",
+    "Proposer en agence une aide simple pour télécharger l'application et faire la démarche.",
+    "Surveiller en décembre les comptes de retraités sans virement de pension pour anticiper les impayés sur prêts."
+   ],
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-le-gouvernement-prolonge-jusquau-22-novembre-la-campagne-de-preuve-de-vie-digitalisee-du-fnrb/"
   },
   {
    "date": "2026-11-23",
@@ -542,6 +542,12 @@
    "actus": [
     {
      "date": "2026-11-13",
+     "texte": "Au niveau du groupe : Oragroup publie un bénéfice net de 21,7 milliards FCFA sur neuf mois (+14 %), avec des dépôts en hausse de 11 % mais des prêts nets en baisse de 9,5 % depuis décembre.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1311-60799-oragroup-reports-14-profit-growth-as-net-loans-fall-9-5"
+    },
+    {
+     "date": "2026-11-13",
      "texte": "Au niveau de l'actionnaire : Vista Group confirme qu'il ne poursuit plus le rachat d'Oragroup (maison mère d'Orabank) et qu'il y reste actionnaire minoritaire ; il se concentre sur la fusion de ses banques au Burkina, prévue début 2027.",
      "source": "Faso7 ; Financial Afrik",
      "url": "https://faso7.com/2026/11/13/secteur-bancaire-vista-bank-burkina-confie-sa-direction-a-moumounou-gnankambary-avant-sa-fusion-avec-la-sgbf/"
@@ -560,6 +566,12 @@
    "type": "Banque",
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
+    {
+     "date": "2026-11-13",
+     "texte": "Au niveau du groupe : au Sénégal, Coris Money rend gratuits tous les virements instantanés PI-SPI, sans plafond de montant, depuis le 12 novembre.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/senegal-coris-money-transferts-pi-spi-gratuits-sans-plafond/"
+    },
     {
      "date": "2026-11-09",
      "texte": "Coris Bank International Bénin a tiré environ 373 millions FCFA sur une ligne de refinancement agricole de 500 millions du FNDA et a fait former 20 agents au crédit agricole.",
@@ -589,12 +601,6 @@
      "texte": "Le groupe Coris Bank International publie un bénéfice net cumulé de ses filiales de 113,96 milliards FCFA en 2025, en hausse de 48,6 %.",
      "source": "Financial Afrik",
      "url": "https://www.financialafrik.com/2026/10/14/coris-bank-international-le-benefice-net-bondit-de-49-en-2025/"
-    },
-    {
-     "date": "2026-10-09",
-     "texte": "Forum digital pour ses 10 ans au Bénin : mise en avant de ses applications My Coris Bank (particuliers et entreprises), de PI-SPI et du wallet Coris Money.",
-     "source": "Matin Libre",
-     "url": "https://matinlibre.com/2026/10/15/10-ans-dengagement-au-service-des-particuliers-et-entreprises-coris-bank-accelere-sa-transformation-digitale/"
     }
    ]
   },
@@ -1074,6 +1080,20 @@
   "actus": [
    {
     "date": "2026-11-13",
+    "titre": "Bénin-Nigeria : 1,3 milliard de dollars de revenus potentiels par an",
+    "resume": "Une intégration économique renforcée entre les deux pays pourrait rapporter environ 1,3 milliard de dollars par an selon une analyse relayée par l'Agence Ecofin.",
+    "source": "Agence Ecofin",
+    "url": "https://www.agenceecofin.com/actualites/1311-143422-benin-nigeria-l-integration-economique-presente-un-potentiel-de-1-3-milliard-de-revenus-par-an"
+   },
+   {
+    "date": "2026-11-13",
+    "titre": "Éducation : 598 milliards FCFA de crédits en 2026",
+    "resume": "Contre 344 milliards en 2022 ; chiffre rappelé à l'ouverture de la revue sectorielle conjointe de l'éducation à Cotonou.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-lancement-a-cotonou-de-la-revue-sectorielle-conjointe-de-leducation-autour-dun-budget-porte-a-598-milliards-de-fcfa/"
+   },
+   {
+    "date": "2026-11-13",
     "titre": "Niger : interdiction d'exporter l'arachide",
     "resume": "Arrêté du 11 novembre : les cargaisons exportées sans autorisation seront saisies ; dérogations possibles vers le Burkina et le Mali.",
     "source": "Bénin Web TV",
@@ -1337,20 +1357,6 @@
     "resume": "Hausse de 24 % ; actifs et engagements de 54,1 milliards de dollars et créances douteuses à 2,48 %.",
     "source": "Afreximbank",
     "url": "https://afreximbank.africa-newsroom.com/press/afreximbank-delivers-positive-ninemonth-financial-results-as-net-income-grows-24-to-us8135-million-and-assets-and-contingencies-exceed-us541-billion?lang=en"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "Nigeria : l'offre d'actions de la raffinerie Dangote se clôt le 27 octobre",
-    "resume": "Pas de nouveau report ; 22,5 milliards de dollars de chiffre d'affaires et 4,7 milliards de bénéfice sur neuf mois.",
-    "source": "Billionaires.Africa",
-    "url": "https://www.billionaires.africa/2026/10/26/nigerian-billionaire-aliko-dangotes-refinery-says-ipo-closes-tuesday-rules-out-any-further-extension/"
-   },
-   {
-    "date": "2026-10-26",
-    "titre": "Ebola : plus de cas actif au Nigeria",
-    "resume": "La patiente a été évacuée vers la Suisse ; une cinquantaine de contacts restent suivis, tous négatifs à ce jour.",
-    "source": "Leadership",
-    "url": "https://leadership.ng/who-declares-nigeria-ebola-free-after-evacuation/"
    }
   ]
  },
@@ -1504,6 +1510,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-14",
+   "titre": "Entreprises africaines : une dette encore très majoritairement en devises",
+   "resume": "Selon l'OCDE, 83 % de la dette émise par les entreprises africaines en 2025 l'a été en devises étrangères, et les prêts syndiqués représentent 81 % de leur endettement.",
+   "implication": "Les entreprises béninoises qui empruntent en dollars ou en euros pour importer ou investir supportent un risque de change que des financements en FCFA peuvent réduire.",
+   "pistes": [
+    "Repérer les grands clients endettés en devises (importateurs, industriels de la GDIZ) et leur proposer un refinancement partiel en FCFA.",
+    "Proposer des participations à des prêts syndiqués en FCFA avec d'autres banques de la place pour les gros projets.",
+    "Étudier avec la salle des marchés du groupe des couvertures de change simples pour les clients exportateurs de coton et de cajou."
+   ],
+   "vigilance": "Un refinancement en FCFA de dettes en devises consomme de la liquidité locale et doit rester compatible avec les limites de concentration.",
+   "source": "Agence Ecofin (rapport OCDE)",
+   "url": "https://www.ecofinagency.com/news-finances/1411-60816-83-of-africas-corporate-debt-issued-in-foreign-currency-in-2025-exposing-firms-to-exchange-rate-risks-report"
+  },
   {
    "date": "2026-11-14",
    "titre": "Paiement instantané : les portefeuilles rendent la réception gratuite",
@@ -2357,6 +2377,20 @@
   "url": "https://www.brvm.org/fr/indices"
  },
  "opportunites": [
+  {
+   "date": "2026-11-14",
+   "titre": "BRVM en forte hausse, mais peu d'entreprises s'y introduisent",
+   "resume": "L'indice phare de la BRVM gagne environ 55 % à fin octobre 2026 selon l'OCDE, alors que les introductions restent rares ; la raffinerie ivoirienne SIR étudie à son tour une cotation.",
+   "implication": "Des entreprises béninoises solides pourraient chercher des capitaux en bourse et auront besoin d'une banque pour les préparer et placer leurs titres.",
+   "pistes": [
+    "Identifier trois à cinq entreprises clientes béninoises éligibles à une cotation et leur présenter les étapes avec une SGI partenaire.",
+    "Proposer aux clients patrimoniaux l'accès aux prochaines introductions et émissions obligataires de la BRVM.",
+    "Préparer des crédits relais pour les entreprises en attente de levée de fonds en bourse."
+   ],
+   "vigilance": "Après une telle hausse, une correction des cours est possible : les clients particuliers doivent être informés des risques.",
+   "source": "Agence Ecofin",
+   "url": "https://www.ecofinagency.com/insights/1411-60818-africa-s-stock-markets-are-booming-but-few-new-companies-are-getting-in"
+  },
   {
    "date": "2026-11-13",
    "titre": "Internet fixe moins cher : plus de PME raccordées à la banque en ligne",
@@ -3213,9 +3247,114 @@
   "Perspective de notation": "Indication donnée par une agence de notation sur l'évolution probable d'une note dans les 12 à 18 mois : positive, stable ou négative.",
   "JSEB": "Journées scientifiques de l'économie béninoise : rencontre annuelle organisée par la Direction générale de l'Économie pour débattre de l'économie du pays.",
   "SBIN": "Société béninoise d'infrastructures numériques : opérateur public de télécommunications du Bénin, qui vend notamment l'internet fixe par fibre et la téléphonie mobile Celtiis.",
-  "kpayo": "Nom donné au Bénin à l'essence de contrebande, souvent importée du Nigeria et vendue en bouteilles au bord des routes."
+  "kpayo": "Nom donné au Bénin à l'essence de contrebande, souvent importée du Nigeria et vendue en bouteilles au bord des routes.",
+  "OCDE": "Organisation de coopération et de développement économiques : organisme international qui publie des études et des statistiques sur l'économie, dont les marchés financiers africains.",
+  "Dette en devises": "Emprunt libellé dans une monnaie étrangère (dollar, euro) : si le FCFA perd de la valeur face à cette monnaie, le coût du remboursement augmente pour l'emprunteur.",
+  "Fonds de pension": "Organisme qui collecte les cotisations de retraite et les place (obligations, actions, immobilier) pour payer les pensions futures."
  },
  "journal": [
+  {
+   "date": "2026-11-15",
+   "articles": [
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-13",
+     "titre": "Oragroup : bénéfice en hausse de 14 % sur neuf mois, mais crédits en recul",
+     "resume": "La maison mère d'Orabank affiche 21,7 milliards FCFA de bénéfice net à fin septembre et un produit net bancaire d'environ 165 milliards (+8 %). Les dépôts progressent de 11 % depuis décembre, tandis que les prêts nets reculent de 9,5 %.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1311-60799-oragroup-reports-14-profit-growth-as-net-loans-fall-9-5"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-13",
+     "titre": "Vista Group prend le contrôle du réseau de microfinance ACEP",
+     "resume": "Le groupe de Simon Tiemtoré devient actionnaire majoritaire d'ACEP, présent au Burkina, au Niger, au Cameroun et à Madagascar (près de 50 000 emprunteurs financés en 2024). Le montant de l'opération n'est pas communiqué.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1311-60780-vista-group-enters-african-microfinance-market-with-majority-stake-in-acep-group"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-13",
+     "titre": "Sénégal : Coris Money rend tous les virements instantanés gratuits, sans plafond",
+     "resume": "Le portefeuille du groupe Coris supprime toute commission sur les transferts PI-SPI, quel que soit le montant, alors que la BCEAO autorise jusqu'à 0,8 % au-delà de 8 000 FCFA par jour. Au Bénin, MTN MoMo applique 0,5 % au-delà de ce seuil.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/senegal-coris-money-transferts-pi-spi-gratuits-sans-plafond/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-10",
+     "titre": "Retraités : la preuve de vie au FNRB prolongée jusqu'au 22 novembre",
+     "resume": "Le ministère de l'Économie et des Finances repousse d'une semaine la fin de la campagne de preuve de vie digitalisée du Fonds national des retraites, initialement fixée au 15 novembre.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-le-gouvernement-prolonge-jusquau-22-novembre-la-campagne-de-preuve-de-vie-digitalisee-du-fnrb/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Bénin-Nigeria : une intégration plus poussée pourrait rapporter 1,3 milliard de dollars par an",
+     "resume": "Une analyse relayée par l'Agence Ecofin chiffre à environ 1,3 milliard de dollars par an le potentiel de revenus d'une intégration économique renforcée entre les deux voisins, premiers partenaires commerciaux l'un de l'autre dans la région.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites/1311-143422-benin-nigeria-l-integration-economique-presente-un-potentiel-de-1-3-milliard-de-revenus-par-an"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-13",
+     "titre": "Éducation : un budget porté à 598 milliards FCFA en 2026",
+     "resume": "La revue sectorielle conjointe ouverte le 12 novembre à Cotonou rappelle que les crédits de l'éducation sont passés de 344 milliards en 2022 à 598 milliards en 2026 (formation technique et professionnelle incluse).",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-lancement-a-cotonou-de-la-revue-sectorielle-conjointe-de-leducation-autour-dun-budget-porte-a-598-milliards-de-fcfa/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-12",
+     "titre": "Climat : 7,15 milliards FCFA pour neuf communes vulnérables",
+     "resume": "Lancé à Sèmè-Podji le 11 novembre avec le PNUD, la Belgique et la Suisse, ce projet finance l'adaptation de neuf collectivités au changement climatique.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/adaptation-climatique-lancement-a-seme-podji-dun-projet-de-715-milliards-de-fcfa-en-faveur-de-neuf-communes-vulnerables/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-13",
+     "titre": "La raffinerie ivoirienne SIR étudie une cotation à la BRVM",
+     "resume": "Son PDG a indiqué le 12 novembre qu'une introduction en bourse est à l'étude, sans calendrier ; la SIR prévoit plus de 10 milliards de dollars d'investissements d'ici 2030.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1311-60804-ivorian-refining-company-sir-weighs-listing-on-west-africa-s-brvm-exchange"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-14",
+     "titre": "Bourses africaines : les cours montent, mais les nouvelles entreprises restent rares",
+     "resume": "Selon l'OCDE, la capitalisation africaine a bondi de 49 % en 2025 avec seulement 7 introductions ; l'indice phare de la BRVM gagne environ 55 % à fin octobre 2026.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/insights/1411-60818-africa-s-stock-markets-are-booming-but-few-new-companies-are-getting-in"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-14",
+     "titre": "83 % de la dette des entreprises africaines émise en devises en 2025",
+     "resume": "Un rapport de l'OCDE montre que seuls 17 % des emprunts des entreprises africaines émis en 2025 étaient en monnaie locale, et que les prêts syndiqués forment 81 % de leur dette, ce qui les expose au risque de change.",
+     "source": "Agence Ecofin",
+     "url": "https://www.ecofinagency.com/news-finances/1411-60816-83-of-africas-corporate-debt-issued-in-foreign-currency-in-2025-exposing-firms-to-exchange-rate-risks-report"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-11",
+     "titre": "Nigeria : Afreximbank ouvre 75 millions de dollars aux PME créatives",
+     "resume": "La facilité accordée à la Development Bank of Nigeria financera fonds de roulement, équipements et exportations des entreprises de la mode, du cinéma, de la musique et du design.",
+     "source": "Abidjan.net",
+     "url": "https://news.abidjan.net/articles/749972/canex-wknd-2026-afreximbank-mobilise-75-millions-de-dollars-pour-financer-les-pme-nigerianes"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-11",
+     "titre": "La BAD veut mobiliser l'épargne des fonds de pension africains",
+     "resume": "Une analyse rappelle que les fonds de pension africains gèrent plus de 1 000 milliards de dollars, souvent placés hors du continent, et que la BAD prépare des instruments hybrides d'ici fin 2026 pour les attirer vers le développement.",
+     "source": "AllAfrica (The Conversation)",
+     "url": "https://fr.allafrica.com/stories/202611110481.html"
+    }
+   ],
+   "synthese": "Week-end calme : la concurrence régionale bouge (Oragroup gagne plus mais prête moins, Vista achète le réseau de microfinance ACEP, Coris Money supprime tous les frais de virement instantané au Sénégal), tandis que l'OCDE souligne la dépendance des entreprises africaines à la dette en devises et la rareté des introductions en bourse."
+  },
   {
    "date": "2026-11-14",
    "synthese": "La journée reste marquée par la recomposition bancaire régionale (Vista renonce à Oragroup) et la préparation du budget 2027 du Bénin ; le paiement instantané PI-SPI s'étend (réception gratuite chez SAMA Money au Mali, Ecobank seule interface entreprises au Togo), tandis qu'au Niger voisin l'arachide est interdite à l'export et le barrage de Kandadji cherche 561 millions de dollars.",
