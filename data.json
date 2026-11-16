@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-16T05:38:01Z",
+ "derniereMaj": "2026-11-16T12:16:23Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Budget 2027 en commission, crédit plus cher qu'ailleurs dans l'UEMOA et bascule du carburant vers le circuit formel",
@@ -435,6 +435,12 @@
    "resume": "Filiale du groupe ivoirien NSIA.",
    "actus": [
     {
+     "date": "2026-11-16",
+     "texte": "Au niveau du groupe : NSIA Banque Côte d'Ivoire annonce un bénéfice sur neuf mois en recul de 6,6 milliards FCFA par rapport à 2025, après un premier semestre déjà en baisse de 11 %.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/16/banques-baisse-de-pres-de-7-milliards-fcfa-du-benefice-de-nsia-banque-cote-divoire-au-troisieme-trimestre-2026/"
+    },
+    {
      "date": "2026-10-26",
      "texte": "Au niveau du groupe : NSIA Banque Côte d'Ivoire publie un bénéfice semestriel de 14,5 milliards FCFA (−11 %) malgré un produit net bancaire en hausse de 6 %, pénalisé par un coût du risque de 6,5 milliards.",
      "source": "Agence Ecofin",
@@ -463,12 +469,6 @@
      "texte": "Figure désormais sur la liste BCEAO des établissements autorisés à ouvrir PI-SPI au public au Bénin.",
      "source": "BCEAO",
      "url": "https://www.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf"
-    },
-    {
-     "date": "2026-03-13",
-     "texte": "Les obligations du fonds de titrisation « Keur Samba NSIA Banque Bénin » (44 milliards FCFA) sont admises à la BRVM : une source de ressources longues.",
-     "source": "Financial Afrik",
-     "url": "https://www.financialafrik.com/2026/03/13/brvm-le-fctc-keur-samba-nsia-banque-benin-fait-son-entree-en-bourse-avec-44-milliards-fcfa"
     }
    ]
   },
@@ -700,6 +700,21 @@
   }
  ],
  "reglementation": [
+  {
+   "date": "2026-11-16",
+   "organisme": "Ministère de l'Économie et des Finances du Togo",
+   "titre": "Togo : chasse aux microfinances qui collectent l'épargne sans agrément",
+   "resume": "Le ministre des Finances togolais rappelle que, depuis la loi du 24 mars 2026, collecter des dépôts ou accorder des prêts exige une autorisation préalable ; le secteur agréé (155 institutions, 4,69 millions de clients, 444 milliards FCFA de dépôts) affiche 6,7 % de créances dégradées, plus du double du seuil de 3 %.",
+   "implication": "Le durcissement togolais annonce une pression régionale accrue sur la microfinance, que nous refinançons et avec laquelle nous partageons une clientèle de petits épargnants.",
+   "pistes": [
+    "Réexaminer les lignes de refinancement accordées aux SFD (systèmes financiers décentralisés, c'est-à-dire microfinances) béninois au regard de leur qualité de portefeuille.",
+    "Proposer aux microfinances agréées des services de trésorerie et de raccordement au paiement instantané PI-SPI.",
+    "Préparer une offre d'épargne simple et numérique pour accueillir les déposants d'institutions fragilisées."
+   ],
+   "vigilance": "Une fermeture brutale de structures non agréées dans la région peut créer une crise de confiance sur la petite épargne et des risques de fraude.",
+   "source": "Togo First",
+   "url": "https://www.togofirst.com/fr/finance/1611-20647-togo-les-structures-de-microfinance-sans-agrement-dans-le-viseur-du-ministre-des-finances"
+  },
   {
    "date": "2026-11-15",
    "organisme": "Gouvernement du Bénin (projet de loi de finances 2027)",
@@ -1126,9 +1141,30 @@
     "detail": "En 2025, contre 7,24 % en 2024 ; moyenne UEMOA 6,69 % ; dépôts rémunérés à 5,58 % (rapport annuel BCEAO)",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/benin-inclusion-financiere-928-credit-bancaire-2025/"
+   },
+   {
+    "label": "Taux interbancaire à une semaine (UEMOA)",
+    "valeur": "3,73 %",
+    "detail": "Septembre 2026, contre 3,66 % en août ; volume hebdomadaire moyen de 946,8 Md FCFA (+12,6 %)",
+    "source": "Le Jecos (BCEAO)",
+    "url": "https://www.lejecos.com/Marche-interbancaire-de-l-Uemoa-Une-augmentation-de-126-du-volume-des-echanges-enregistree-en-septembre-2026_a31853.html"
    }
   ],
   "actus": [
+   {
+    "date": "2026-11-16",
+    "titre": "Marché interbancaire UEMOA : +12,6 % en septembre",
+    "resume": "946,8 milliards FCFA échangés en moyenne par semaine entre banques ; taux à une semaine à 3,73 % contre 3,66 % en août (BCEAO).",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/Marche-interbancaire-de-l-Uemoa-Une-augmentation-de-126-du-volume-des-echanges-enregistree-en-septembre-2026_a31853.html"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Ghana : croissance de 6,8 % sur un an en août",
+    "resume": "Portée par les services et l'industrie, selon le service statistique ghanéen.",
+    "source": "Financial Afrik",
+    "url": "https://www.financialafrik.com/2026/11/16/ghana-une-croissance-economique-de-68-en-aout-2026-portee-par-les-services-et-lindustrie/"
+   },
    {
     "date": "2026-11-15",
     "titre": "Taxe foncière : les communes contestent un taux national",
@@ -1394,20 +1430,6 @@
     "resume": "Émission du 4 novembre couverte à 167,65 %, avec des rendements de 3,59 % à un an et 7,37 % à cinq ans.",
     "source": "Le Jecos",
     "url": "https://www.lejecos.com/Burkina-Faso-Le-Tresor-Public-leve-30-milliards-de-FCFA-sur-le-marche-financier-de-l-UEMOA_a31788.html"
-   },
-   {
-    "date": "2026-11-04",
-    "titre": "Nigeria : 7,7 milliards de dollars d'emprunts extérieurs demandés au Sénat",
-    "resume": "Le président Tinubu sollicite l'autorisation d'emprunter, surtout par eurobonds, pour financer le budget 2026.",
-    "source": "Business Post",
-    "url": "https://businesspost.ng/economy/tinubu-seeks-senate-approval-for-7-7bn-external-borrowing-for-2026-budget/"
-   },
-   {
-    "date": "2026-11-02",
-    "titre": "Coton : récolte 2025-2026 à 533 590 tonnes, prix maintenus",
-    "resume": "La production a reculé de 16,3 % mais le Bénin reste premier de la zone franc ; l'État consacre 3,9 milliards FCFA à la campagne 2026-2027 et maintient les prix d'achat.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/coton-au-benin-le-gouvernement-lance-un-programme-pour-booster-la-production-en-2026-2027/"
    }
   ]
  },
@@ -1569,32 +1591,18 @@
  ],
  "tendances": [
   {
-   "date": "2026-11-15",
-   "titre": "Visa installe un bureau régional à Dakar",
-   "resume": "Visa ouvre d'ici fin 2026 un bureau couvrant l'Afrique de l'Ouest et du Centre, avec des partenariats commerçants (hôtels, transport) ; l'UEMOA comptait près de 7 millions de points marchands acceptant la monnaie électronique en 2025 (+86 %).",
-   "implication": "Les réseaux de cartes vont multiplier les offres régionales, avec les banques comme avec les opérateurs de mobile money.",
+   "date": "2026-11-16",
+   "titre": "Stablecoins : les régulateurs serrent la vis, du Brésil au Royaume-Uni",
+   "resume": "La banque centrale du Brésil assimile les conversions en stablecoins pour les transferts à du blanchiment et les interdit depuis le 1er octobre, tandis que la Chambre des Lords a approuvé le 11 novembre le cadre britannique et que la justice américaine a saisi plus de 1,2 milliard de dollars de cryptoactifs volés.",
+   "implication": "Les transferts de fonds par stablecoins, qui concurrencent nos rapatriements de la diaspora, vont être de plus en plus encadrés, ce qui renforce l'avantage des circuits bancaires conformes.",
    "pistes": [
-    "Négocier avec Visa des campagnes co-financées pour l'acceptation carte au Bénin.",
-    "Lancer une carte virtuelle pour les achats en ligne des clients jeunes.",
-    "Monter des offres de réductions partagées avec des commerçants clients."
+    "Mettre en avant la sécurité et la traçabilité de nos offres de transferts de la diaspora face aux solutions cryptos.",
+    "Renforcer les scénarios de détection des virements liés à des plateformes de cryptoactifs dans le dispositif anti-blanchiment.",
+    "Suivre les travaux de la BCEAO sur les cryptoactifs pour être prêts à un futur cadre UEMOA."
    ],
-   "vigilance": "Des accords directs entre réseaux et opérateurs mobiles pourraient réduire le rôle des banques émettrices.",
-   "source": "Le Jecos",
-   "url": "https://www.lejecos.com/Paiements-numeriques-Visa-ouvre-un-bureau-a-Dakar-avec-une-forte-ambition-sous-regionale_a31846.html"
-  },
-  {
-   "date": "2026-11-13",
-   "titre": "Banques internationales : Standard Chartered cède sa banque de détail en Ouganda à Absa",
-   "resume": "Absa finalise le 13 novembre la reprise des activités de détail et de gestion de patrimoine de Standard Chartered en Ouganda, dans le cadre du retrait du groupe britannique de la banque de détail africaine.",
-   "implication": "Le mouvement de retrait des groupes européens, que l'on observe aussi au Bénin avec Société Générale, profite aux groupes panafricains capables de reprendre clients et équipes.",
-   "pistes": [
-    "Préparer une offre d'accueil pour les clients particuliers et entreprises de banques en cours de cession.",
-    "Suivre les opérations de cession dans l'UEMOA pour repérer clients et collaborateurs expérimentés.",
-    "Mettre en avant la stabilité de notre réseau panafricain dans la communication commerciale."
-   ],
-   "vigilance": "Les reprises peuvent aussi renforcer un concurrent local qui gagnerait d'un coup clients et parts de marché.",
-   "source": "Financial Afrik",
-   "url": "https://www.financialafrik.com/2026/11/13/ouganda-absa-finalise-le-rachat-des-activites-de-banque-de-detail-de-standard-chartered/"
+   "vigilance": "Une interdiction trop rigide pourrait pousser les flux vers des canaux informels encore plus difficiles à surveiller.",
+   "source": "Bitcoin.com News",
+   "url": "https://news.bitcoin.com/stablecoins/brazil-central-bank-declares-stablecoins-fuel-money-laundering"
   },
   {
    "date": "2026-11-16",
@@ -1609,6 +1617,20 @@
    "vigilance": "La recapitalisation en cours des banques nigérianes peut changer rapidement leur stratégie régionale.",
    "source": "BusinessDay",
    "url": "https://businessday.ng/business-economy/article/banks-n55-7trn-loan-book-awaits-recapitalisation-lift/"
+  },
+  {
+   "date": "2026-11-15",
+   "titre": "Visa installe un bureau régional à Dakar",
+   "resume": "Visa ouvre d'ici fin 2026 un bureau couvrant l'Afrique de l'Ouest et du Centre, avec des partenariats commerçants (hôtels, transport) ; l'UEMOA comptait près de 7 millions de points marchands acceptant la monnaie électronique en 2025 (+86 %).",
+   "implication": "Les réseaux de cartes vont multiplier les offres régionales, avec les banques comme avec les opérateurs de mobile money.",
+   "pistes": [
+    "Négocier avec Visa des campagnes co-financées pour l'acceptation carte au Bénin.",
+    "Lancer une carte virtuelle pour les achats en ligne des clients jeunes.",
+    "Monter des offres de réductions partagées avec des commerçants clients."
+   ],
+   "vigilance": "Des accords directs entre réseaux et opérateurs mobiles pourraient réduire le rôle des banques émettrices.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/Paiements-numeriques-Visa-ouvre-un-bureau-a-Dakar-avec-une-forte-ambition-sous-regionale_a31846.html"
   },
   {
    "date": "2026-11-14",
@@ -1637,6 +1659,20 @@
    "vigilance": "La gratuité réduit les commissions : il faut mesurer le manque à gagner avant d'aligner nos prix.",
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/"
+  },
+  {
+   "date": "2026-11-13",
+   "titre": "Banques internationales : Standard Chartered cède sa banque de détail en Ouganda à Absa",
+   "resume": "Absa finalise le 13 novembre la reprise des activités de détail et de gestion de patrimoine de Standard Chartered en Ouganda, dans le cadre du retrait du groupe britannique de la banque de détail africaine.",
+   "implication": "Le mouvement de retrait des groupes européens, que l'on observe aussi au Bénin avec Société Générale, profite aux groupes panafricains capables de reprendre clients et équipes.",
+   "pistes": [
+    "Préparer une offre d'accueil pour les clients particuliers et entreprises de banques en cours de cession.",
+    "Suivre les opérations de cession dans l'UEMOA pour repérer clients et collaborateurs expérimentés.",
+    "Mettre en avant la stabilité de notre réseau panafricain dans la communication commerciale."
+   ],
+   "vigilance": "Les reprises peuvent aussi renforcer un concurrent local qui gagnerait d'un coup clients et parts de marché.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/13/ouganda-absa-finalise-le-rachat-des-activites-de-banque-de-detail-de-standard-chartered/"
   },
   {
    "date": "2026-11-13",
@@ -2506,6 +2542,20 @@
    "url": "https://lanation.bj/actualites/agro-industrie-le-benin-cree-un-geant-marche-pour-propulser-ses-fruits-et-legumes-sur-la-scene-mondiale"
   },
   {
+   "date": "2026-11-14",
+   "titre": "BRVM en forte hausse, mais peu d'entreprises s'y introduisent",
+   "resume": "L'indice phare de la BRVM gagne environ 55 % à fin octobre 2026 selon l'OCDE, alors que les introductions restent rares ; la raffinerie ivoirienne SIR étudie à son tour une cotation.",
+   "implication": "Des entreprises béninoises solides pourraient chercher des capitaux en bourse et auront besoin d'une banque pour les préparer et placer leurs titres.",
+   "pistes": [
+    "Identifier trois à cinq entreprises clientes béninoises éligibles à une cotation et leur présenter les étapes avec une SGI partenaire.",
+    "Proposer aux clients patrimoniaux l'accès aux prochaines introductions et émissions obligataires de la BRVM.",
+    "Préparer des crédits relais pour les entreprises en attente de levée de fonds en bourse."
+   ],
+   "vigilance": "Après une telle hausse, une correction des cours est possible : les clients particuliers doivent être informés des risques.",
+   "source": "Agence Ecofin",
+   "url": "https://www.ecofinagency.com/insights/1411-60818-africa-s-stock-markets-are-booming-but-few-new-companies-are-getting-in"
+  },
+  {
    "date": "2026-11-13",
    "titre": "Carburant : des stations agréées qui doivent financer plus de stocks",
    "resume": "Les ventes des stations officielles passent d'environ 270 000 à plus de 600 000 litres par jour, avec des pics à 2,5 millions, à mesure que l'essence informelle recule.",
@@ -2532,20 +2582,6 @@
    "vigilance": "Les grands groupes étrangers travaillent souvent avec leurs banques habituelles : il faut viser surtout la sous-traitance locale.",
    "source": "La Marina",
    "url": "https://lamarina.bj/2026/11/13/benin-ce-que-va-couter-la-construction-des-ecoles-agricoles-de-ketou-et-zangnanado/"
-  },
-  {
-   "date": "2026-11-14",
-   "titre": "BRVM en forte hausse, mais peu d'entreprises s'y introduisent",
-   "resume": "L'indice phare de la BRVM gagne environ 55 % à fin octobre 2026 selon l'OCDE, alors que les introductions restent rares ; la raffinerie ivoirienne SIR étudie à son tour une cotation.",
-   "implication": "Des entreprises béninoises solides pourraient chercher des capitaux en bourse et auront besoin d'une banque pour les préparer et placer leurs titres.",
-   "pistes": [
-    "Identifier trois à cinq entreprises clientes béninoises éligibles à une cotation et leur présenter les étapes avec une SGI partenaire.",
-    "Proposer aux clients patrimoniaux l'accès aux prochaines introductions et émissions obligataires de la BRVM.",
-    "Préparer des crédits relais pour les entreprises en attente de levée de fonds en bourse."
-   ],
-   "vigilance": "Après une telle hausse, une correction des cours est possible : les clients particuliers doivent être informés des risques.",
-   "source": "Agence Ecofin",
-   "url": "https://www.ecofinagency.com/insights/1411-60818-africa-s-stock-markets-are-booming-but-few-new-companies-are-getting-in"
   },
   {
    "date": "2026-11-13",
@@ -3500,12 +3536,15 @@
   "ANCB": "Association nationale des communes du Bénin : elle représente les 77 communes auprès de l'État.",
   "Fonds africain de développement (FAD)": "Guichet de la Banque africaine de développement qui prête à taux très faible ou donne aux pays africains à faible revenu.",
   "Ratio crédits/dépôts": "Part des dépôts d'une banque prêtée sous forme de crédits : un ratio bas signale une banque très liquide qui prête peu.",
-  "Marché de gros": "Marché où producteurs et grossistes vendent en grandes quantités aux commerçants, qui revendent ensuite au détail."
+  "Marché de gros": "Marché où producteurs et grossistes vendent en grandes quantités aux commerçants, qui revendent ensuite au détail.",
+  "Marché interbancaire": "Marché où les banques se prêtent de l'argent entre elles, souvent à très court terme, pour équilibrer leur trésorerie.",
+  "SFD": "Systèmes financiers décentralisés : nom réglementaire des institutions de microfinance dans l'UEMOA.",
+  "CNUCED": "Conférence des Nations unies sur le commerce et le développement, agence de l'ONU chargée du commerce, de l'investissement et du développement."
  },
  "journal": [
   {
    "date": "2026-11-16",
-   "synthese": "Ce lundi, deux sujets dominent au Bénin : le projet de budget 2027, avec la fronde des maires contre un taux national de taxe foncière, et le coût du crédit, plus cher qu'ailleurs dans l'UEMOA selon la BCEAO ; le circuit formel du carburant monte en puissance, tandis que Visa s'installe à Dakar et que les banques nigérianes continuent de peu prêter.",
+   "synthese": "Ce lundi, le budget 2027 (taxe foncière contestée par les maires) et le coût du crédit au Bénin dominent ; dans la journée, la BCEAO fait état d'un marché interbancaire plus actif et d'un taux à une semaine en légère hausse, le Togo durcit le ton contre les microfinances sans agrément, et les régulateurs du monde entier resserrent l'étau sur les stablecoins.",
    "articles": [
     {
      "theme": "Bénin",
@@ -3650,6 +3689,70 @@
      "resume": "Le naira tombe à 1 445 pour un dollar sur le marché parallèle contre 1 358,50 sur le marché officiel, et les réserves de change n'ont progressé que de 295 millions de dollars en octobre.",
      "source": "Nairametrics",
      "url": "https://nairametrics.com/2026/11/13/naira-depreciates-to-n1445-in-parallel-market-as-gap-with-official-rate-widens-to-n86-50/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-16",
+     "titre": "UEMOA : le marché interbancaire progresse de 12,6 % en septembre",
+     "resume": "Selon la BCEAO, les prêts entre banques ont atteint en moyenne 946,8 milliards FCFA par semaine en septembre ; le taux à une semaine est remonté de 3,66 % à 3,73 %, tandis que l'inflation de l'Union passait à 1,9 %.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Marche-interbancaire-de-l-Uemoa-Une-augmentation-de-126-du-volume-des-echanges-enregistree-en-septembre-2026_a31853.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-16",
+     "titre": "NSIA Banque Côte d'Ivoire : bénéfice en baisse de près de 7 milliards FCFA",
+     "resume": "La banque sœur de NSIA Banque Bénin voit son bénéfice reculer d'environ 6,6 milliards FCFA sur les neuf premiers mois de 2026 par rapport à 2025.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/16/banques-baisse-de-pres-de-7-milliards-fcfa-du-benefice-de-nsia-banque-cote-divoire-au-troisieme-trimestre-2026/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-16",
+     "titre": "Togo : les microfinances sans agrément dans le viseur du ministre des Finances",
+     "resume": "Lomé rappelle que collecter des dépôts ou prêter sans autorisation est interdit depuis la loi de mars 2026 ; le secteur agréé compte 155 institutions, 444 milliards FCFA de dépôts et un taux de créances dégradées de 6,7 %, au-dessus du seuil de 3 %.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/finance/1611-20647-togo-les-structures-de-microfinance-sans-agrement-dans-le-viseur-du-ministre-des-finances"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-16",
+     "titre": "Ghana : croissance de 6,8 % sur un an en août",
+     "resume": "Le service statistique ghanéen attribue cette croissance aux services et à l'industrie, l'agriculture ralentissant nettement.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/16/ghana-une-croissance-economique-de-68-en-aout-2026-portee-par-les-services-et-lindustrie/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-15",
+     "titre": "Les pays francophones ont attiré 301 milliards de dollars d'investissements en 2025",
+     "resume": "Présentée au sommet de la Francophonie, l'étude chiffre ces projets annoncés à trois fois le niveau de 2020, devant le Commonwealth pour la première fois, mais le climat des affaires reste sous la médiane mondiale.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Echanges-economiques-au-sein-de-l-espace-francophone-301-milliards-de-dollars-d-investissements-productifs-recus-en-2025_a31847.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-15",
+     "titre": "COP31 : un réseau mondial pour relier marchés du carbone et marchés financiers",
+     "resume": "La CNUCED lance un réseau associant notamment la Bourse de Johannesburg et le fonds souverain nigérian ; la tarification du carbone couvre près de 30 % des émissions mondiales.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/COP31-un-nouveau-reseau-vise-a-debloquer-le-financement-carbone-pour-les-pays-en-developpement_a31852.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-15",
+     "titre": "Brésil : la banque centrale assimile les échanges en stablecoins à du blanchiment",
+     "resume": "Un responsable de la banque centrale brésilienne vise les conversions de monnaie en stablecoins pour les transferts, déjà interdites par une règle entrée en vigueur le 1er octobre.",
+     "source": "Bitcoin.com News",
+     "url": "https://news.bitcoin.com/stablecoins/brazil-central-bank-declares-stablecoins-fuel-money-laundering"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-16",
+     "titre": "Cryptoactifs : saisie record aux États-Unis et règles stablecoins au Royaume-Uni",
+     "resume": "La justice américaine a saisi ou gelé plus de 1,2 milliard de dollars de cryptoactifs volés, et la Chambre des Lords a approuvé le projet de règlement britannique sur les stablecoins.",
+     "source": "Bitcoin.com News (Kelman Law)",
+     "url": "https://news.bitcoin.com/regulation-and-legal/this-week-in-crypto-law-november-15-2026/"
     }
    ]
   },
