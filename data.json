@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-16T12:16:23Z",
+ "derniereMaj": "2026-11-17T05:22:02Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Budget 2027 en commission, crédit plus cher qu'ailleurs dans l'UEMOA et bascule du carburant vers le circuit formel",
@@ -115,7 +115,7 @@
   {
    "date": "2026-11-16",
    "titre": "Budget 2027 : examen en commission à l'Assemblée nationale (16-30 novembre)",
-   "detail": "Le 16 novembre, le gouvernement présente à la commission des finances le projet de budget 2027 (4 757 milliards FCFA, +14,7 %), puis le ministre de l'Économie et des Finances ouvre les auditions des ministères ; les institutions (Cour des comptes, Conseil économique et social…) passent à partir du 18 novembre. Les auditions durent jusqu'au 30 novembre ; la date du vote en séance plénière n'est pas publiée. Le texte prévoit notamment un taux national de taxe foncière unique (4 % non bâti, 6 % bâti) contesté par les maires, qui doivent sinon notifier leurs taux à la DGI avant le 30 novembre.",
+   "detail": "Le 16 novembre, le gouvernement présente à la commission des finances le projet de budget 2027 (4 757 milliards FCFA, +14,7 %), puis le ministre de l'Économie et des Finances ouvre les auditions des ministères ; les institutions (Cour des comptes, Conseil économique et social…) passent à partir du 18 novembre. Les auditions durent jusqu'au 30 novembre ; le vote en séance plénière est fixé au 8 décembre. Le texte prévoit notamment un taux national de taxe foncière unique (4 % non bâti, 6 % bâti) contesté par les maires, qui doivent sinon notifier leurs taux à la DGI avant le 30 novembre.",
    "pourquoi": "Les arbitrages votés fixeront les grands chantiers, les besoins d'emprunt de l'État et le cadre fiscal 2027 de nos clients.",
    "preparer": [
     "Suivre les auditions des ministères qui portent les grands projets (infrastructures, énergie, agriculture) pour repérer les marchés à venir.",
@@ -136,6 +136,19 @@
    ],
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.com/port-de-cotonou-un-pret-pouvant-atteindre-20-millions-deuros-a-letude/"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "AfriLabs Annual Gathering : le grand rassemblement des incubateurs africains à Cotonou (18-20 novembre)",
+   "detail": "AfriLabs, réseau panafricain d'incubateurs et de pôles d'innovation, tient sa 11e rencontre annuelle à Cotonou, pour la première fois dans un pays francophone, avec plus de 1 200 participants attendus (start-up, investisseurs, gouvernements). Elle s'inscrit dans la Bénin Digital Innovation Week (16-20 novembre), avec un village de l'innovation sur l'esplanade du Palais des Congrès.",
+   "pourquoi": "C'est l'occasion de rencontrer en trois jours les fintechs et start-up qui cherchent une banque pour leurs paiements, leurs comptes et leurs levées de fonds.",
+   "preparer": [
+    "Désigner une équipe banque digitale et entreprises pour tenir des rendez-vous sur place.",
+    "Préparer une démonstration de nos API de paiement et de notre interface PI-SPI pour les développeurs.",
+    "Lister les start-up béninoises présentes pour un suivi commercial après l'événement."
+   ],
+   "source": "SRTB",
+   "url": "https://srtb.bj/benin-digital-innovation-week-cotonou-accueille-une-semaine-dediee-a-linnovation-numerique/"
   },
   {
    "date": "2026-11-19",
@@ -251,6 +264,19 @@
    ],
    "source": "Le Jecos",
    "url": "https://www.lejecos.com/TITRISATION-La-BIDC-sollicite-63-milliards-de-FCFA-en-obligations_a31805.html"
+  },
+  {
+   "date": "2026-12-08",
+   "titre": "Vote du budget 2027 en séance plénière à l'Assemblée nationale",
+   "detail": "Après trois semaines d'auditions des ministres et des institutions en commission (16-30 novembre), les députés votent le 8 décembre le projet de loi de finances 2027, présenté à 4 757 milliards FCFA (+14,7 %). Le texte fixe les impôts, les dépenses et le montant que l'État empruntera en 2027 ; il comprend notamment un taux national de taxe foncière unique (TFU) contesté par les maires.",
+   "pourquoi": "Le texte voté fixe le cadre fiscal de nos clients et le volume des titres publics que l'État émettra en 2027, donc une partie de nos placements.",
+   "preparer": [
+    "Préparer une synthèse des mesures fiscales votées à diffuser aux clients entreprises dès le 9 décembre.",
+    "Ajuster le plan de trésorerie et de souscription aux titres publics du premier trimestre 2027.",
+    "Repérer les grands projets d'investissement inscrits au budget pour démarcher les entreprises attributaires."
+   ],
+   "source": "Les 4 Vérités",
+   "url": "https://www.les4verites.bj/le-ballet-des-ministres-et-des-presidents-dinstitutions-a-commence/"
   },
   {
    "date": "2026-12-18",
@@ -391,6 +417,12 @@
    "resume": "Filiale du groupe Bank of Africa, cotée à la BRVM.",
    "actus": [
     {
+     "date": "2026-11-16",
+     "texte": "Au niveau du groupe : Bloomfield confirme la note A- (perspective stable) de BOA Niger, en relevant la baisse de ses crédits et de son résultat 2025.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Notation-L-agence-Bloomfield-decerne-a-nouveau-la-note-A-a-la-BOA-Niger_a31855.html"
+    },
+    {
      "date": "2026-11-02",
      "texte": "Publie son rapport d'activité du troisième trimestre à la BRVM : selon Sika Finance, le résultat net reste stable, autour de 15 milliards FCFA sur neuf mois.",
      "source": "Sika Finance",
@@ -419,12 +451,6 @@
      "texte": "La BERD accorde une ligne de 20 millions de dollars pour le financement du commerce (importations, exportations, distribution).",
      "source": "BERD",
      "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-and-bank-of-africa-benin-support-trade-finance-in-benin.html"
-    },
-    {
-     "date": "2026-05-08",
-     "texte": "Produit net bancaire en hausse de 11 % au premier trimestre, porté par les commissions (près de +19 %) ; dépôts au-delà de 753 milliards FCFA, crédits stables.",
-     "source": "Dabafinance",
-     "url": "https://dabafinance.com/en/news/brvm-listed-bank-of-africa-benin-q1-2026"
     }
    ]
   },
@@ -606,15 +632,15 @@
     },
     {
      "date": "2026-10-23",
+     "texte": "Remaniement du groupe Coris : le directeur général adjoint de Coris Bank Bénin, Jean-Marie Kompaoré, part au Togo et est remplacé par Jean-Baptiste Kouamé ; aucun changement de directeur général annoncé au Bénin.",
+     "source": "Ecomatin",
+     "url": "https://ecomatin.net/abidjan-lome-libreville-idrissa-nassa-remanie-les-etats-majors-de-coris-bank-en-afrique"
+    },
+    {
+     "date": "2026-10-23",
      "texte": "Le groupe nomme Michel Kodzo Gafan, jusqu'ici directeur régional UEMOA de la banque commerciale chez Ecobank Togo, à la direction générale de Coris Bank International Togo.",
      "source": "Agence Ecofin",
      "url": "https://www.agenceecofin.com/actualites-finance/2310-142691-togo-coris-bank-recrute-michel-kodzo-gafan-chez-ecobank-pour-sa-direction-generale"
-    },
-    {
-     "date": "2026-10-14",
-     "texte": "Le groupe Coris Bank International publie un bénéfice net cumulé de ses filiales de 113,96 milliards FCFA en 2025, en hausse de 48,6 %.",
-     "source": "Financial Afrik",
-     "url": "https://www.financialafrik.com/2026/10/14/coris-bank-international-le-benefice-net-bondit-de-49-en-2025/"
     }
    ]
   },
@@ -700,6 +726,21 @@
   }
  ],
  "reglementation": [
+  {
+   "date": "2026-11-16",
+   "organisme": "Assemblée nationale du Bénin",
+   "titre": "Budget 2027 : calendrier fixé, vote en plénière le 8 décembre",
+   "resume": "La commission budgétaire auditionne ministres et institutions du 16 au 30 novembre, à commencer par le ministre des Finances ; le projet de loi de finances (4 757 milliards FCFA) sera voté en séance plénière le 8 décembre.",
+   "implication": "Les mesures fiscales et les besoins d'emprunt de l'État pour 2027 seront figés le 8 décembre, ce qui conditionne nos placements en titres publics et le conseil fiscal à nos clients.",
+   "pistes": [
+    "Préparer avant le 8 décembre une note aux clients entreprises sur les principales mesures fiscales du projet (taxe foncière, TVA, douane).",
+    "Ajuster notre plan de souscription aux émissions du Trésor de début 2027 en fonction du déficit voté.",
+    "Suivre les auditions des ministères porteurs de grands projets pour anticiper les marchés publics à financer."
+   ],
+   "vigilance": "Des amendements de dernière minute, notamment sur la fiscalité locale contestée par les maires, peuvent modifier le texte.",
+   "source": "Les 4 Vérités",
+   "url": "https://www.les4verites.bj/le-ballet-des-ministres-et-des-presidents-dinstitutions-a-commence/"
+  },
   {
    "date": "2026-11-16",
    "organisme": "Ministère de l'Économie et des Finances du Togo",
@@ -1144,13 +1185,48 @@
    },
    {
     "label": "Taux interbancaire à une semaine (UEMOA)",
-    "valeur": "3,73 %",
-    "detail": "Septembre 2026, contre 3,66 % en août ; volume hebdomadaire moyen de 946,8 Md FCFA (+12,6 %)",
-    "source": "Le Jecos (BCEAO)",
-    "url": "https://www.lejecos.com/Marche-interbancaire-de-l-Uemoa-Une-augmentation-de-126-du-volume-des-echanges-enregistree-en-septembre-2026_a31853.html"
+    "valeur": "3,62 %",
+    "detail": "Taux moyen à une semaine du 3 au 9 novembre 2026 selon la BCEAO (3,73 % en moyenne en septembre)",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/uemoa-bceao-6425-milliards-liquidites-banques-16-novembre-2026/"
    }
   ],
   "actus": [
+   {
+    "date": "2026-11-16",
+    "titre": "Nigeria : inflation à 14,06 % en octobre",
+    "resume": "Plus bas niveau depuis six ans (14,63 % en septembre), inflation alimentaire à 19,13 % ; réunion de la banque centrale le 24 novembre (Business Post Nigeria).",
+    "source": "Business Post Nigeria",
+    "url": "https://businesspost.ng/economy/nigerias-inflation-rate-falls-to-six-year-low-of-14-06-in-october/"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Sénégal : bons à 91 jours à 6,94 %",
+    "resume": "52,06 milliards FCFA levés pour 50 milliards proposés, couverture de 104 % (Le Jecos).",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/Senegal-52056-milliards-de-FCFA-mobilises-par-la-Direction-Generale-des-Financements-et-de-la-Dette_a31860.html"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "BRVM : le composite recule à 512,85 points",
+    "resume": "−0,60 % sur la séance du 16 novembre, capitalisation des actions à 20 112 milliards FCFA (Le Jecos).",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/Bourse-La-BRVM-demeure-toujours-en-zone-de-turbulence-ce-lundi-16-novembre-2026_a31859.html"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Budget 2027 : vote fixé au 8 décembre",
+    "resume": "Auditions des ministres et institutions du 16 au 30 novembre devant la commission budgétaire (Les 4 Vérités).",
+    "source": "Les 4 Vérités",
+    "url": "https://www.les4verites.bj/le-ballet-des-ministres-et-des-presidents-dinstitutions-a-commence/"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Refinancement BCEAO reconduit à 6 425 milliards FCFA",
+    "resume": "Taux minimum 3 % ; taux moyen de la semaine précédente 3,28 %, interbancaire à une semaine 3,615 % (3-9 novembre).",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/uemoa-bceao-6425-milliards-liquidites-banques-16-novembre-2026/"
+   },
    {
     "date": "2026-11-16",
     "titre": "Marché interbancaire UEMOA : +12,6 % en septembre",
@@ -1395,45 +1471,17 @@
     "resume": "Hausse de 16,5 % selon la Banque mondiale ; le service de la dette représente 29,2 % des exportations, contre 26,6 % un an plus tôt.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/benin-la-dette-exterieure-bondit-de-165-et-frole-les-17-milliards-de-dollars/"
-   },
-   {
-    "date": "2026-11-06",
-    "titre": "Ebola : un seul cas au Nigeria, suivi des contacts en cours",
-    "resume": "Le cas importé à Abuja le 20 octobre a été évacué ; 62 contacts étaient suivis au 3 novembre, et l'OMS révise son évaluation du risque.",
-    "source": "OMS",
-    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
-   },
-   {
-    "date": "2026-11-05",
-    "titre": "Gouvernance : le Bénin 12e sur 54 à l'indice Mo Ibrahim",
-    "resume": "Avec 60,1 points sur 100 (moyenne africaine 50,1), le Bénin gagne une place, mais recule nettement sur la participation démocratique.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/gouvernance-en-afrique-le-benin-classe-12e-sur-54-pays-selon-lindice-mo-ibrahim-2026/"
-   },
-   {
-    "date": "2026-11-05",
-    "titre": "Port de Cotonou : une partie du transit vers le Nigeria déplacée à Djèffa",
-    "resume": "Face à la congestion, le dépotage des conteneurs de 20 pieds en transit par Igolo ou Kraké se fait à Djèffa depuis le 5 novembre ; le trafic du premier semestre a progressé de 16,6 %, à 7,79 millions de tonnes.",
-    "source": "La Marina",
-    "url": "https://lamarina.bj/2026/11/05/face-a-la-congestion-le-port-de-cotonou-deporte-une-partie-du-transit-nigerian-vers-djeffa/"
-   },
-   {
-    "date": "2026-11-05",
-    "titre": "Revue UEMOA : plus de 80 % des réformes appliquées au Bénin",
-    "resume": "La 12e revue annuelle, tenue à Cotonou du 4 au 6 novembre, a porté sur 149 textes communautaires ; le taux de mise en œuvre dépasserait 80 %, contre 73 % lors de la revue précédente.",
-    "source": "Le Matinal",
-    "url": "https://lematinal.bj/12eme-revue-annuelle-de-uemoa-le-benin-vise-un-taux-dexecution-de-plus-de-80/"
-   },
-   {
-    "date": "2026-11-05",
-    "titre": "Burkina Faso : 30 milliards FCFA levés sur le marché régional",
-    "resume": "Émission du 4 novembre couverte à 167,65 %, avec des rendements de 3,59 % à un an et 7,37 % à cinq ans.",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/Burkina-Faso-Le-Tresor-Public-leve-30-milliards-de-FCFA-sur-le-marche-financier-de-l-UEMOA_a31788.html"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-16",
+   "titre": "Ecobank Transnational parmi les huit banques suivies au Nigeria : bénéfice en nairas en léger recul",
+   "resume": "Selon ThisDay, le bénéfice avant impôt d'ETI exprimé en nairas recule légèrement à environ 1 010 milliards sur neuf mois, son revenu opérationnel ayant faibli, alors que les autres grandes banques progressent ; le directeur général cite l'inflation, l'énergie et le change comme risques.",
+   "source": "ThisDay (via allAfrica)",
+   "url": "https://allafrica.com/stories/202611160824.html"
+  },
   {
    "date": "2026-11-16",
    "titre": "Ecobank Nigeria : crédits +5,5 %, commissions monétiques −7,3 % sur neuf mois",
@@ -1590,6 +1638,48 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-16",
+   "titre": "Stablecoins : l'Asie réserve leur émission aux banques",
+   "resume": "Le projet taïwanais publié le 6 novembre impose que des banques détiennent plus de 50 % des droits de vote de tout émetteur de stablecoins, sur le modèle de Hong Kong (HSBC parmi les deux premiers agréés) et de la Corée du Sud.",
+   "implication": "Le modèle qui s'impose fait des banques les émettrices naturelles de monnaie numérique privée, plutôt que les fintechs.",
+   "pistes": [
+    "Suivre avec le groupe les expériences asiatiques pour préparer une position sur un éventuel cadre BCEAO.",
+    "Étudier l'usage des stablecoins bancaires dans le règlement des échanges commerciaux avec l'Asie de nos clients importateurs.",
+    "Former les équipes conformité aux spécificités des flux en cryptoactifs."
+   ],
+   "vigilance": "La BCEAO n'a pas de cadre pour les stablecoins : toute initiative doit attendre une position claire du régulateur.",
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/digital-assets/2026/11/16/taiwans-draft-stablecoin-rules-would-put-a-bank-in-control-of-every-issuer-following-a-path-already-visible-in-hong-kong-and-korea/"
+  },
+  {
+   "date": "2026-11-16",
+   "titre": "Fraude bancaire industrialisée : virements géants détournés et centres d'escroquerie",
+   "resume": "En trois mois, des fraudes au virement d'environ 95 et 100 millions d'euros ont frappé Fideuram (Italie) et Crédit Mutuel Arkéa (France) ; le GAFI (Groupe d'action financière) a publié le 10 novembre un rapport sur les centres d'escroquerie organisés, et la faille du logiciel Marquis a touché 80 banques américaines.",
+   "implication": "Les attaques visent désormais les virements de grande valeur et les prestataires informatiques des banques, pas seulement les clients particuliers.",
+   "pistes": [
+    "Renforcer la double validation hors ligne (rappel téléphonique) des virements importants des entreprises.",
+    "Auditer la sécurité des prestataires et logiciels tiers qui accèdent à nos données clients.",
+    "Lancer une campagne de sensibilisation des trésoriers d'entreprise aux arnaques au faux dirigeant et aux voix clonées par IA."
+   ],
+   "vigilance": "Une panne ou une fraude chez un fournisseur informatique mondial peut bloquer nos services sans faute de notre part.",
+   "source": "FinanceX Magazine ; Science Times",
+   "url": "https://www.financexmagazine.com/post/a-95-million-phone-call-fatf-s-scam-compound-reckoning-a-day-without-microsoft-and-672-000-ban"
+  },
+  {
+   "date": "2026-11-16",
+   "titre": "Nigeria : des banques plus rentables grâce à des provisions en forte baisse",
+   "resume": "Huit grandes banques nigérianes, dont Access, Zenith et GTCO, voient leurs charges de dépréciation de crédits chuter de 46,9 % sur neuf mois et leur bénéfice avant impôt progresser de 12,2 % à 4 800 milliards de nairas.",
+   "implication": "Les groupes nigérians présents au Bénin (UBA, Access) disposent de marges accrues pour financer leur expansion régionale.",
+   "pistes": [
+    "Surveiller les offres agressives de UBA Bénin et des banques nigérianes sur les grandes entreprises et les corridors Bénin-Nigeria.",
+    "Valoriser notre réseau panafricain et notre offre PI-SPI auprès des importateurs qui commercent avec le Nigeria.",
+    "Comparer nos taux de provisionnement à ceux des concurrents pour mesurer notre marge de manœuvre commerciale."
+   ],
+   "vigilance": "Une baisse des provisions peut refléter des reprises ponctuelles plutôt qu'une amélioration durable de la qualité des crédits.",
+   "source": "ThisDay (via allAfrica)",
+   "url": "https://allafrica.com/stories/202611160824.html"
+  },
   {
    "date": "2026-11-16",
    "titre": "Stablecoins : les régulateurs serrent la vis, du Brésil au Royaume-Uni",
@@ -2101,46 +2191,6 @@
     "Suivre les travaux de la BCEAO sur les crypto-actifs pour anticiper le cadre applicable."
    ],
    "vigilance": "Cadre réglementaire de l'UEMOA encore flou sur ces actifs."
-  },
-  {
-   "date": "2026-10-07",
-   "titre": "Les régulateurs passent de l'accès à l'usage des paiements numériques",
-   "resume": "La Banque du Ghana a demandé aux acteurs technologiques de privilégier l'usage réel des portefeuilles numériques plutôt que le nombre d'ouvertures de comptes.",
-   "implication": "Après l'équipement, la bataille se joue sur la fréquence d'usage : les clients actifs feront la différence, pas les comptes dormants.",
-   "pistes": [
-    "Suivre le taux de clients actifs sur l'application mobile plutôt que le nombre de téléchargements.",
-    "Lancer des usages du quotidien (factures, marchands, salaires) pour ancrer les paiements dans l'application."
-   ],
-   "vigilance": "Des clients équipés mais inactifs coûtent sans rapporter.",
-   "source": "Financial Afrik",
-   "url": "https://www.financialafrik.com/2026/10/09/ghana-la-banque-centrale-pousse-les-fintechs-vers-lusage-reel-des-paiements-numeriques/"
-  },
-  {
-   "date": "2026-09-11",
-   "titre": "La BCE relève ses taux, la BCEAO temporise",
-   "resume": "La BCE a relevé ses taux de 25 points de base tandis que la BCEAO a maintenu les siens.",
-   "implication": "Avec l'arrimage du FCFA à l'euro, l'écart de taux est à surveiller pour la liquidité et les placements en devises.",
-   "source": "Financial Afrik",
-   "url": "https://www.financialafrik.com/2026/09/11/politique-monetaire-la-bceao-temporise-la-bce-hausse-le-ton/",
-   "pistes": [
-    "Revoir la gestion de la trésorerie en euros et des placements en devises.",
-    "Simuler l'effet d'une nouvelle hausse de la BCE le 29 octobre sur le coût des ressources en devises."
-   ],
-   "vigilance": "Risque de sorties de capitaux si l'écart de taux se creuse."
-  },
-  {
-   "date": "2026-07-08",
-   "titre": "La fraude dopée à l'IA explose",
-   "resume": "Visa indique que les attaques assistées par machine ont fortement progressé en 2025 et lance un service de renseignement sur les menaces pour les banques.",
-   "implication": "La lutte contre la fraude devient un investissement prioritaire avec l'arrivée des paiements instantanés.",
-   "source": "Osiris / Agence Ecofin",
-   "url": "https://osiris.sn/fraude-dopee-a-l-ia-comment-visa-arme-sa-defense.html",
-   "pistes": [
-    "Renforcer la détection de fraude en temps réel avant la montée des paiements instantanés.",
-    "Sensibiliser les clients aux arnaques par téléphone et par message.",
-    "Relayer auprès des clients les alertes de la BCEAO sur les faux sites de « sécurisation de cartes »."
-   ],
-   "vigilance": "Pertes et atteinte à la confiance en cas de fraude massive."
   }
  ],
  "marche": {
@@ -2499,34 +2549,48 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "7 950",
-    "detail": "Stable (0,00 %) sur la séance du 13 novembre selon brvm.org ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre ; introduite à 5 600 FCFA en avril 2025.",
-    "url": "https://www.brvm.org/fr/indices"
+    "cours": "8 005",
+    "detail": "+0,69 % sur la séance du 16 novembre (7 950 FCFA le 13) selon Richbourse et Sika Finance ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre ; introduite à 5 600 FCFA en avril 2025.",
+    "url": "https://www.richbourse.com/common/mouvements/index/BICB"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 300",
-    "detail": "−1,05 % sur la séance du 13 novembre selon brvm.org ; résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
-    "url": "https://www.brvm.org/fr/indices"
+    "cours": "9 200",
+    "detail": "−2,13 % sur la séance du 16 novembre (9 400 FCFA la veille) selon Richbourse ; résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
+    "url": "https://www.richbourse.com/common/mouvements/index/BOAB"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
     "cours": "59",
-    "detail": "Stable (0,00 %) sur la séance du 13 novembre selon brvm.org ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
-    "url": "https://www.brvm.org/fr/indices"
+    "detail": "Stable (0,00 %) sur la séance du 16 novembre selon BRVMData ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
+    "url": "https://brvmdata.com/"
    }
   ],
-  "source": "BRVM, cours de clôture du 13 novembre 2026 publiés sur brvm.org (BRVM Composite −0,58 %, à 515,94 points) ; Le Jecos",
-  "url": "https://www.brvm.org/fr/indices"
+  "source": "BRVM, séance du 16 novembre 2026 (BRVM Composite −0,60 %, à 512,85 points) ; Richbourse, BRVMData, Le Jecos",
+  "url": "https://www.lejecos.com/Bourse-La-BRVM-demeure-toujours-en-zone-de-turbulence-ce-lundi-16-novembre-2026_a31859.html"
  },
  "opportunites": [
+  {
+   "date": "2026-11-16",
+   "titre": "Semaine du numérique à Cotonou : plus de 1 200 acteurs d'AfriLabs attendus",
+   "resume": "La Bénin Digital Innovation Week (16-20 novembre) réunit le Cyber Africa Forum, un hackathon de cybersécurité et le rassemblement annuel d'AfriLabs (18-20 novembre), réseau panafricain d'incubateurs, avec un village de l'innovation au Palais des Congrès.",
+   "implication": "Une concentration rare de start-up, fintechs et investisseurs à Cotonou, utile pour repérer des partenaires et des clients entreprises du numérique.",
+   "pistes": [
+    "Envoyer une équipe au village de l'innovation pour présenter nos API de paiement et notre interface PI-SPI aux start-up.",
+    "Repérer des fintechs béninoises candidates à un partenariat (encaissement, crédit numérique, conformité) ou au laboratoire de la BCEAO.",
+    "Proposer un compte et une offre de paiement dédiés aux incubateurs et à leurs start-up."
+   ],
+   "vigilance": "Les partenariats avec des fintechs non agréées exposent à des risques de conformité et de réputation.",
+   "source": "SRTB",
+   "url": "https://srtb.bj/benin-digital-innovation-week-cotonou-accueille-une-semaine-dediee-a-linnovation-numerique/"
+  },
   {
    "date": "2026-11-14",
    "titre": "Marché de gros de 160 hectares au nord de Cotonou",
@@ -2761,18 +2825,18 @@
    "url": "https://lamarina.bj/2026/11/06/financement-des-pme-au-benin-deux-ans-apres-sa-creation-comment-le-figpme-a-franchi-les-etapes-conduisant-a-son-agrement/"
   },
   {
-   "date": "2026-11-04",
+   "date": "2026-11-11",
    "titre": "Fonds de développement industriel de 100 milliards FCFA, avec une garantie partagée avec les banques",
-   "resume": "Le Conseil des ministres a créé un fonds en trois guichets : apports en capital (Bénin Industrial Invest), facilité de garantie industrielle qui partage le risque des crédits longs, du crédit-bail et du financement export avec les banques, et usines clés en main.",
-   "implication": "Une partie du risque des crédits longs aux industriels pourrait être couverte par l'État, ce qui rend finançables des projets aujourd'hui trop risqués.",
+   "resume": "Le Conseil des ministres du 4 novembre a créé un fonds en trois guichets (apports en capital « Bénin Industrial Invest », facilité de garantie industrielle, usines clés en main) ; le 11 novembre, le gouvernement a précisé qu'aucun fonds ne serait versé directement : l'État donnera des contre-garanties aux banques et prendra en charge une partie des intérêts, sur le modèle du FNDA.",
+   "implication": "Les crédits industriels passeront par les banques, avec une partie du risque et des intérêts pris en charge par l'État : les banques conventionnées capteront ce flux de projets.",
    "pistes": [
-    "Demander au ministère des Finances les critères de la facilité de garantie pour être parmi les premières banques conventionnées.",
-    "Repérer dans la zone de Glo-Djigbé et chez nos clients industriels les projets d'équipement qui pourraient être financés en crédit-bail garanti.",
-    "Préparer une offre de financement export pour les transformateurs de coton, cajou et soja."
+    "Demander au ministère des Finances les critères de conventionnement de la facilité de garantie pour être parmi les premières banques partenaires.",
+    "Repérer dans la zone de Glo-Djigbé et chez nos clients industriels les projets d'équipement finançables en crédit-bail garanti et bonifié.",
+    "Reprendre l'expérience acquise avec le FNDA (fonds agricole) pour proposer un circuit d'instruction rapide des dossiers industriels."
    ],
-   "vigilance": "Capital libéré, répartition entre guichets, taux de garantie et calendrier ne sont pas encore publiés.",
-   "source": "Ecofin Agency",
-   "url": "https://www.ecofinagency.com/news/0511-60540-benin-launches-171-million-industrial-fund-to-expand-long-term-financing"
+   "vigilance": "Taux de garantie, délai d'indemnisation et calendrier de mise en service ne sont pas publiés ; une garantie mal calibrée peut laisser l'essentiel du risque à la banque.",
+   "source": "Bénin Web TV ; Ecofin Agency",
+   "url": "https://beninwebtv.bj/financement-des-projets-industriels-le-gouvernement-beninois-clarifie-le-mecanisme-des-100-milliards-de-fcfa/"
   },
   {
    "date": "2026-11-04",
@@ -3191,7 +3255,13 @@
    {
     "date": "2026-11-13",
     "BICB": 7950,
-    "BOAB": 9300,
+    "BOAB": 9400,
+    "ETIT": 59
+   },
+   {
+    "date": "2026-11-16",
+    "BICB": 8005,
+    "BOAB": 9200,
     "ETIT": 59
    }
   ]
@@ -3539,9 +3609,134 @@
   "Marché de gros": "Marché où producteurs et grossistes vendent en grandes quantités aux commerçants, qui revendent ensuite au détail.",
   "Marché interbancaire": "Marché où les banques se prêtent de l'argent entre elles, souvent à très court terme, pour équilibrer leur trésorerie.",
   "SFD": "Systèmes financiers décentralisés : nom réglementaire des institutions de microfinance dans l'UEMOA.",
-  "CNUCED": "Conférence des Nations unies sur le commerce et le développement, agence de l'ONU chargée du commerce, de l'investissement et du développement."
+  "CNUCED": "Conférence des Nations unies sur le commerce et le développement, agence de l'ONU chargée du commerce, de l'investissement et du développement.",
+  "FDIB": "Fonds de développement industriel du Bénin : fonds public de 100 milliards FCFA créé en novembre 2026 pour financer l'industrie par des apports en capital, des garanties aux banques et des usines clés en main.",
+  "Contre-garantie": "Engagement d'un tiers (ici l'État) de rembourser la banque si l'emprunteur ou le garant principal ne paie pas, ce qui réduit le risque pris par la banque.",
+  "Bonification d'intérêts": "Prise en charge par l'État ou un fonds d'une partie des intérêts d'un crédit, pour que l'emprunteur paie un taux plus bas que celui de la banque.",
+  "AfriLabs": "Réseau panafricain d'incubateurs et de pôles d'innovation technologique qui organise chaque année une grande rencontre des start-up et investisseurs du continent.",
+  "GAFI": "Groupe d'action financière (FATF en anglais) : organisme international qui fixe les normes de lutte contre le blanchiment d'argent et le financement du terrorisme.",
+  "Charges de dépréciation": "Montants qu'une banque met de côté dans ses comptes pour couvrir les crédits qui risquent de ne pas être remboursés ; quand elles baissent, le bénéfice augmente.",
+  "Taux de couverture": "Rapport entre les montants proposés par les investisseurs et le montant demandé lors d'une émission de titres ; au-dessus de 100 %, la demande dépasse l'offre."
  },
  "journal": [
+  {
+   "date": "2026-11-17",
+   "synthese": "Ce mardi, le budget 2027 entre dans sa phase d'auditions (vote le 8 décembre) et le gouvernement précise que le fonds industriel de 100 milliards passera par des garanties aux banques ; ailleurs, la BRVM poursuit sa baisse, le Sénégal emprunte à près de 7 % et le Nigeria voit son inflation reculer à 14 % avant la réunion de sa banque centrale.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-16",
+     "titre": "Budget 2027 : les auditions des ministres ont commencé, vote en plénière le 8 décembre",
+     "resume": "Le ministre des Finances Aristide Médénou a ouvert le 16 novembre, à Porto-Novo, les auditions devant la commission budgétaire présidée par Gérard Gbénonchi ; elles se poursuivent jusqu'au 30 novembre, la Cour des comptes passe le 18 et le vote du budget en séance plénière est fixé au 8 décembre.",
+     "source": "Les 4 Vérités",
+     "url": "https://www.les4verites.bj/le-ballet-des-ministres-et-des-presidents-dinstitutions-a-commence/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-11",
+     "titre": "Fonds industriel de 100 milliards : pas d'argent versé directement, l'État garantira les crédits des banques",
+     "resume": "Le porte-parole du gouvernement précise que le Fonds de développement industriel du Bénin passera par les banques, sur le modèle du fonds agricole FNDA : l'État apportera des contre-garanties pour les promoteurs qui ne remplissent pas toutes les exigences bancaires et prendra en charge une partie des intérêts.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/financement-des-projets-industriels-le-gouvernement-beninois-clarifie-le-mecanisme-des-100-milliards-de-fcfa/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-16",
+     "titre": "Cotonou, capitale du numérique cette semaine avec AfriLabs et le Cyber Africa Forum",
+     "resume": "La Bénin Digital Innovation Week (16-20 novembre) réunit le Cyber Africa Forum, un hackathon avec l'Agence des systèmes d'information et du numérique, et le rassemblement annuel du réseau d'incubateurs AfriLabs (18-20 novembre), qui attend plus de 1 200 acteurs et se tient pour la première fois en pays francophone.",
+     "source": "SRTB",
+     "url": "https://srtb.bj/benin-digital-innovation-week-cotonou-accueille-une-semaine-dediee-a-linnovation-numerique/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-16",
+     "titre": "BRVM : nouvelle séance de baisse, l'indice composite à 512,85 points",
+     "resume": "L'indice composite recule de 0,60 % et la capitalisation des actions perd 121 milliards FCFA ; BOA Côte d'Ivoire figure parmi les plus fortes baisses (−4,09 %), tandis que la BIIC gagne 0,69 % à 8 005 FCFA et que BOA Bénin cède 2,13 % à 9 200 FCFA.",
+     "source": "Le Jecos ; Richbourse",
+     "url": "https://www.lejecos.com/Bourse-La-BRVM-demeure-toujours-en-zone-de-turbulence-ce-lundi-16-novembre-2026_a31859.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-16",
+     "titre": "Sénégal : 52 milliards FCFA levés à trois mois, au taux de 6,94 %",
+     "resume": "Le Trésor sénégalais a obtenu 52,06 milliards FCFA en bons à 91 jours pour 50 milliards proposés, un taux de couverture de 104 % seulement, avec un rendement moyen de 6,94 % : un coût bien supérieur à celui payé par le Bénin.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Senegal-52056-milliards-de-FCFA-mobilises-par-la-Direction-Generale-des-Financements-et-de-la-Dette_a31860.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-16",
+     "titre": "Liquidité : la BCEAO reconduit 6 425 milliards FCFA de refinancement à une semaine",
+     "resume": "Le plafond de l'appel d'offres hebdomadaire reste à 6 425 milliards FCFA au taux minimum de 3 % ; la semaine précédente, les banques ont payé en moyenne 3,28 % et le taux interbancaire à une semaine est ressorti à 3,615 % du 3 au 9 novembre.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.com/uemoa-bceao-6425-milliards-liquidites-banques-16-novembre-2026/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-16",
+     "titre": "BOA Niger garde sa note A- chez Bloomfield",
+     "resume": "L'agence de notation confirme la note de long terme A- (perspective stable) et A2 à court terme de la filiale nigérienne du groupe Bank of Africa, en soulignant toutefois la baisse continue de ses crédits et le recul de son résultat en 2025.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Notation-L-agence-Bloomfield-decerne-a-nouveau-la-note-A-a-la-BOA-Niger_a31855.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-16",
+     "titre": "Nigeria : huit grandes banques divisent presque par deux leurs provisions sur crédits",
+     "resume": "Sur neuf mois, leurs charges de dépréciation chutent de 46,9 % et leur bénéfice avant impôt cumulé monte de 12,2 % à 4 800 milliards de nairas, porté surtout par Zenith et Access ; Ecobank Transnational affiche en revanche un bénéfice en nairas en léger recul.",
+     "source": "ThisDay (via allAfrica)",
+     "url": "https://allafrica.com/stories/202611160824.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-16",
+     "titre": "Nigeria : l'inflation tombe à 14,06 %, au plus bas depuis six ans",
+     "resume": "Les prix ont augmenté de 14,06 % sur un an en octobre (14,63 % en septembre), l'alimentation restant à 19,13 % ; la banque centrale, qui a déjà baissé son taux à 23 % en septembre, se réunit le 24 novembre.",
+     "source": "Business Post Nigeria",
+     "url": "https://businesspost.ng/economy/nigerias-inflation-rate-falls-to-six-year-low-of-14-06-in-october/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-16",
+     "titre": "Casablanca a capté 65 % des introductions en Bourse africaines en 2025",
+     "resume": "Le Maroc a levé 658 millions de dollars en trois introductions, sur 1,007 milliard levé sur tout le continent, devant l'Afrique du Sud ; la BRVM reste loin derrière malgré la hausse de ses cours.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/16/marches-de-capitaux-en-2025-casablanca-a-capte-65-des-introductions-en-bourse-du-continent/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-16",
+     "titre": "Le directeur général de la BRVM récompensé à Kigali",
+     "resume": "Edoh Kossi Aménounvé a reçu le 15 novembre un prix pour sa contribution aux services financiers en Afrique lors des Global Banking & Markets Awards Africa, à un mois des 30 ans de la bourse régionale.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/16/le-directeur-general-de-la-brvm-edoh-kossi-amenounve-distingue-aux-global-banking-markets-awards-africa-2026/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-16",
+     "titre": "Taïwan veut confier l'émission de stablecoins aux banques",
+     "resume": "Le projet du régulateur taïwanais, en consultation depuis le 6 novembre, exige que des banques détiennent plus de la moitié des droits de vote de tout émetteur, comme à Hong Kong et en Corée du Sud.",
+     "source": "Forbes",
+     "url": "https://www.forbes.com/sites/digital-assets/2026/11/16/taiwans-draft-stablecoin-rules-would-put-a-bank-in-control-of-every-issuer-following-a-path-already-visible-in-hong-kong-and-korea/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-16",
+     "titre": "Fraude bancaire : virements détournés en Europe, rapport du GAFI et panne géante de Microsoft",
+     "resume": "La semaine a vu des fraudes au virement de l'ordre de 95 à 100 millions d'euros dans deux banques européennes, un rapport du GAFI (10 novembre) sur les centres d'escroquerie industrialisés et une panne de Microsoft 365 du 12 au 14 novembre signalée dans au moins 74 pays.",
+     "source": "FinanceX Magazine ; Science Times",
+     "url": "https://www.financexmagazine.com/post/a-95-million-phone-call-fatf-s-scam-compound-reckoning-a-day-without-microsoft-and-672-000-ban"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-16",
+     "titre": "Cyberassurance : des contrats qui couvrent mal les pertes réelles",
+     "resume": "Selon GlobalData, les primes mondiales passeraient de 16,6 milliards de dollars en 2026 à 18,3 milliards en 2027, mais beaucoup d'entreprises découvrent après une attaque que leur contrat ne couvre pas toutes leurs pertes.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/16/cyberassurance-un-marche-de-183-milliards-de-dollars-mais-une-couverture-trop-limitee/"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "synthese": "Ce lundi, le budget 2027 (taxe foncière contestée par les maires) et le coût du crédit au Bénin dominent ; dans la journée, la BCEAO fait état d'un marché interbancaire plus actif et d'un taux à une semaine en légère hausse, le Togo durcit le ton contre les microfinances sans agrément, et les régulateurs du monde entier resserrent l'étau sur les stablecoins.",
