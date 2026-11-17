@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-17T05:22:02Z",
+ "derniereMaj": "2026-11-17T12:14:14Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Budget 2027 en commission, crédit plus cher qu'ailleurs dans l'UEMOA et bascule du carburant vers le circuit formel",
@@ -329,6 +329,19 @@
    ],
    "source": "allAfrica (d'après Daily Trust)",
    "url": "https://allafrica.com/stories/202611030540.html"
+  },
+  {
+   "date": "2027-01-28",
+   "titre": "Rencontres du marché des titres publics de l'UEMOA à Dakar (28-29 janvier 2027)",
+   "detail": "La 9e édition des Rencontres du marché des titres publics (Remtp), rendez-vous annuel entre les Trésors des huit pays de l'Union et les banques qui achètent leurs bons et obligations, se tiendra à Dakar sur le thème « Mobiliser davantage, financer durablement ». Les inscriptions sont ouvertes sur la plateforme d'UMOA-Titres, l'agence régionale qui organise ces émissions ; le Trésor béninois y présente habituellement ses besoins de financement de l'année.",
+   "pourquoi": "C'est le moment où les États dévoilent leur calendrier d'emprunts 2027 : il oriente la place des titres publics dans notre bilan et notre rendement.",
+   "preparer": [
+    "Inscrire la direction de la trésorerie et des marchés et préparer des questions sur le calendrier 2027 du Bénin.",
+    "Analyser à l'avance les programmes d'émission annoncés par les Trésors pour ajuster notre portefeuille de titres.",
+    "Profiter des rencontres B2B pour rencontrer les Trésors et les investisseurs institutionnels."
+   ],
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/Rencontres-du-Marche-des-titres-publics-Ouverture-des-inscriptions-pour-la-9e-edition-prevue-en-janvier-a-Dakar_a31864.html"
   },
   {
    "date": "2027-03-01",
@@ -1100,6 +1113,13 @@
     "url": "https://allafrica.com/stories/202609260003.html"
    },
    {
+    "label": "Inflation au Bénin (septembre 2026, sur un an)",
+    "valeur": "1,9 %",
+    "detail": "Contre 0,1 % en août ; note de conjoncture BCEAO d'octobre 2026",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-linflation-remonte-a-19-en-septembre/"
+   },
+   {
     "label": "Actifs bancaires au Bénin",
     "valeur": "7 608 Md FCFA",
     "detail": "Fin 2025, +9 % sur un an ; 9,2 % des actifs de l'UMOA",
@@ -1192,6 +1212,27 @@
    }
   ],
   "actus": [
+   {
+    "date": "2026-11-17",
+    "titre": "Budget 2027 : 1 597,5 milliards FCFA pour le social",
+    "resume": "Les dépenses sociales progressent de près de 25 % et l'investissement public atteint 1 545 milliards FCFA, sur un budget de 4 757 milliards (+14,7 %).",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/benin-1-597-milliards-fcfa-consacres-aux-depenses-sociales-en-2027/"
+   },
+   {
+    "date": "2026-11-14",
+    "titre": "Bénin : inflation à 1,9 % en septembre",
+    "resume": "Contre 0,1 % en août selon la note de conjoncture de la BCEAO ; le taux moyen des crédits bancaires a augmenté de 13 points de base en août et la rémunération des dépôts a baissé de 33 points.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-linflation-remonte-a-19-en-septembre/"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "Guinée-Bissau : 8,26 % sur trois ans",
+    "resume": "7,5 milliards FCFA levés, demande couvrant seulement 71 % du montant recherché (Le Jecos).",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/La-Guinee-Bissau-encaisse-75-milliards-FCFA-sur-le-marche-financier-de-l-UEMOA_a31858.html"
+   },
    {
     "date": "2026-11-16",
     "titre": "Nigeria : inflation à 14,06 % en octobre",
@@ -1450,31 +1491,17 @@
     "resume": "La filiale d'AGL a investi près de 2 milliards FCFA dans 22 tracteurs, portant son parc à 62 engins ; elle revendique 167 milliards FCFA investis depuis 2013 et 582 salariés béninois.",
     "source": "La Nouvelle Tribune",
     "url": "https://lanouvelletribune.info/2026/11/benin-22-nouveaux-tracteurs-renforcent-les-capacites-du-port-de-cotonou/"
-   },
-   {
-    "date": "2026-11-07",
-    "titre": "Burkina Faso : S&P relève la note souveraine à B-",
-    "resume": "L'agence remonte la note d'un cran (de CCC+ à B-, perspective stable), citant un déficit ramené à 1,8 % du PIB en 2025 et la reprise minière et agricole.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/burkina-faso-sp-releve-la-note-souveraine-signe-dun-redressement-economique/"
-   },
-   {
-    "date": "2026-11-07",
-    "titre": "FMI : 7,8 % de croissance attendue en 2026",
-    "resume": "La mission annuelle du FMI (27 octobre–6 novembre) chiffre la croissance 2025 à 8,1 %, prévoit 7,8 % en 2026 et environ 7 % en 2027, avec un déficit de 2,3 % du PIB en 2026 et 2,9 % en 2027.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/benin-le-fmi-conclut-sa-mission-de-2026-et-recommande-une-politique-budgetaire-prudente/"
-   },
-   {
-    "date": "2026-11-06",
-    "titre": "Dette extérieure : 16,9 milliards de dollars fin 2025",
-    "resume": "Hausse de 16,5 % selon la Banque mondiale ; le service de la dette représente 29,2 % des exportations, contre 26,6 % un an plus tôt.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-la-dette-exterieure-bondit-de-165-et-frole-les-17-milliards-de-dollars/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-17",
+   "titre": "ETI deuxième groupe le plus rentable parmi les banques cotées au Nigeria sur neuf mois",
+   "resume": "Selon Nairametrics, Ecobank Transnational affiche 707,4 milliards de nairas de bénéfice net (−0,6 %), juste derrière First Holdco et devant Zenith, GTCO et Access ; UBA n'a pas encore publié.",
+   "source": "Nairametrics",
+   "url": "https://nairametrics.com/2026/11/17/these-are-the-most-profitable-banks-in-nigeria-following-9m-2026-release/"
+  },
   {
    "date": "2026-11-16",
    "titre": "Ecobank Transnational parmi les huit banques suivies au Nigeria : bénéfice en nairas en léger recul",
@@ -1638,6 +1665,34 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-17",
+   "titre": "Agents d'IA et ruées bancaires : la Fed tire la sonnette d'alarme",
+   "resume": "Michael Barr, gouverneur de la Réserve fédérale américaine, juge que des assistants d'IA autorisés à gérer l'argent des clients pourraient retirer des dépôts en masse en quelques minutes ; plusieurs grandes banques bloquent déjà ces agents externes.",
+   "implication": "Les dépôts à vue, base du financement d'Ecobank Bénin, pourraient devenir plus volatils à mesure que les clients confient leurs opérations à des applications automatisées.",
+   "pistes": [
+    "Recenser les accès automatisés (robots, agrégateurs, API) déjà utilisés par nos clients entreprises et fixer des règles d'authentification claires.",
+    "Tester des scénarios de retraits rapides pilotés par l'IA dans nos exercices de résistance de liquidité.",
+    "Proposer aux grandes entreprises un service de trésorerie automatisé maison, encadré par la banque, plutôt que de laisser des outils externes s'interposer."
+   ],
+   "vigilance": "Aucune règle BCEAO n'encadre encore les agents d'IA : la banque doit fixer ses propres limites sans freiner les usages légitimes.",
+   "source": "The Daily Hodl",
+   "url": "https://dailyhodl.com/2026/11/17/federal-reserve-official-warns-ai-agents-could-speed-up-future-bank-runs/"
+  },
+  {
+   "date": "2026-11-16",
+   "titre": "Dépôts tokenisés : les grandes banques basculent vers le paiement 24 h/24",
+   "resume": "DBS et JPMorgan relient leurs réseaux de dépôts tokenisés pour des virements en dollars à toute heure entre Singapour et les États-Unis, et la banque centrale de Hong Kong teste avec Swift des paiements transfrontaliers du même type.",
+   "implication": "Les gros clients importateurs et les multinationales s'habituent à des règlements internationaux instantanés, y compris le week-end, ce qui relève leur niveau d'exigence envers les banques locales.",
+   "pistes": [
+    "Étudier avec le groupe l'accès des clients béninois aux réseaux de dépôts tokenisés de nos banques correspondantes pour les paiements vers l'Asie.",
+    "Mesurer les délais actuels de nos virements internationaux et cibler les couloirs prioritaires (Chine, Inde, Émirats) pour les raccourcir.",
+    "Présenter aux grands importateurs une offre de trésorerie en devises adossée aux solutions de nos correspondants."
+   ],
+   "vigilance": "Ces dispositifs restent réservés aux clients institutionnels et hors du cadre de la BCEAO : toute offre doit respecter la réglementation des changes de l'UEMOA.",
+   "source": "Disruption Banking ; Coinpaprika",
+   "url": "https://disruptionbanking.com/2026/11/16/dbs-and-jpmorgan-link-tokenized-deposit-networks-for-24-7-dollar-transfers"
+  },
   {
    "date": "2026-11-16",
    "titre": "Stablecoins : l'Asie réserve leur émission aux banques",
@@ -2164,33 +2219,6 @@
     "Renforcer les contrôles d'authentification sur les paiements initiés par des logiciels."
    ],
    "vigilance": "Questions de sécurité et de consentement encore ouvertes."
-  },
-  {
-   "date": "2026-10-20",
-   "titre": "BRI : les stablecoins ne suppriment pas les intermédiaires des paiements internationaux",
-   "resume": "Une étude de la Banque des règlements internationaux montre que le change via stablecoins suit les taux du marché, mais que les plateformes d'échange jouent le rôle des correspondants bancaires et que la liquidité reste très faible (environ 200 millions de dollars par jour sur la paire dollar-stablecoin/euro).",
-   "implication": "Les stablecoins ne menacent pas encore les virements internationaux des banques, mais leur adoption progresse et justifie une veille.",
-   "pistes": [
-    "Suivre la position de la BCEAO sur les crypto-actifs et les stablecoins avant toute réflexion produit.",
-    "Mettre en avant auprès des clients la sécurité et le coût des transferts via Swift et PAPSS.",
-    "Former les équipes conformité à repérer les flux liés aux stablecoins."
-   ],
-   "vigilance": "Les flux en stablecoins non encadrés présentent un risque élevé de blanchiment.",
-   "source": "Crowdfund Insider (BRI)",
-   "url": "https://www.crowdfundinsider.com/2026/10/319582-bis-paper-finds-stablecoins-compete-with-cross-border-banking-infrastructure/"
-  },
-  {
-   "date": "2026-10-19",
-   "titre": "Les stablecoins passent en exploitation commerciale",
-   "resume": "Visa Direct ouvre commercialement les versements en stablecoins ; Mastercard lance avec BVNK des comptes multi-devises.",
-   "implication": "Concurrence nouvelle sur les transferts internationaux et la diaspora.",
-   "source": "Crowdfund Insider",
-   "url": "https://www.crowdfundinsider.com/2026/10/319204-amex-marqeta-visa-paypal-among-giants-announcing-fintech-products-and-partnerships-last-week/",
-   "pistes": [
-    "Étudier des partenariats pour les transferts de la diaspora avant que des fintechs ne prennent ce marché.",
-    "Suivre les travaux de la BCEAO sur les crypto-actifs pour anticiper le cadre applicable."
-   ],
-   "vigilance": "Cadre réglementaire de l'UEMOA encore flou sur ces actifs."
   }
  ],
  "marche": {
@@ -2577,6 +2605,20 @@
   "url": "https://www.lejecos.com/Bourse-La-BRVM-demeure-toujours-en-zone-de-turbulence-ce-lundi-16-novembre-2026_a31859.html"
  },
  "opportunites": [
+  {
+   "date": "2026-11-17",
+   "titre": "Fonds africain de développement : une enveloppe record de 11 milliards de dollars",
+   "resume": "La 17e reconstitution du FAD, guichet de prêts à taux réduit de la BAD, atteint un niveau record, renforcée par un prêt japonais de 583 millions de dollars signé le 13 novembre.",
+   "implication": "Davantage de projets financés par la BAD au Bénin, éligible au FAD, signifie davantage d'entreprises sous-traitantes à financer, de garanties de marché et de comptes de projet à gérer.",
+   "pistes": [
+    "Se positionner comme banque des comptes de projets financés par la BAD au Bénin (énergie, routes, agriculture).",
+    "Proposer des cautions de soumission et de bonne exécution aux entreprises béninoises candidates à ces marchés.",
+    "Explorer avec la BAD des lignes de garantie ou de refinancement pour les PME sous-traitantes."
+   ],
+   "vigilance": "Les décaissements BAD suivent des procédures longues : prévoir des avances de trésorerie encadrées pour éviter des impayés des sous-traitants.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/Reconstitution-des-ressources-du-Fonds-africain-de-developpement-Un-accord-de-pret-de-5834-millions-de-dollars-signe_a31865.html"
+  },
   {
    "date": "2026-11-16",
    "titre": "Semaine du numérique à Cotonou : plus de 1 200 acteurs d'AfriLabs attendus",
@@ -3116,19 +3158,6 @@
     "Monter des cofinancements avec les bailleurs sur les projets d'infrastructures."
    ],
    "vigilance": "Exigences fortes des bailleurs en matière de normes environnementales et sociales."
-  },
-  {
-   "date": "2026-07-09",
-   "titre": "Titres publics béninois : forte demande, rendements en baisse",
-   "resume": "Le Trésor a levé 22 milliards FCFA à 91 jours à 3,2 % en juillet, avec une couverture de 219 % ; en janvier, le bon à 182 jours rapportait 5,32 % pour une couverture de 292 %.",
-   "implication": "La concurrence entre banques pour les titres de l'État comprime les rendements : la marge sur la trésorerie investie se resserre.",
-   "source": "AllAfrica / Sika Finance",
-   "url": "https://fr.allafrica.com/stories/202607100293.html",
-   "pistes": [
-    "Diversifier le placement de la trésorerie (crédit aux entreprises, titres d'autres États de l'UEMOA).",
-    "Proposer aux clients fortunés et institutionnels des placements en titres publics."
-   ],
-   "vigilance": "Marge sur la trésorerie investie qui se resserre."
   }
  ],
  "historique": {
@@ -3616,12 +3645,16 @@
   "AfriLabs": "Réseau panafricain d'incubateurs et de pôles d'innovation technologique qui organise chaque année une grande rencontre des start-up et investisseurs du continent.",
   "GAFI": "Groupe d'action financière (FATF en anglais) : organisme international qui fixe les normes de lutte contre le blanchiment d'argent et le financement du terrorisme.",
   "Charges de dépréciation": "Montants qu'une banque met de côté dans ses comptes pour couvrir les crédits qui risquent de ne pas être remboursés ; quand elles baissent, le bénéfice augmente.",
-  "Taux de couverture": "Rapport entre les montants proposés par les investisseurs et le montant demandé lors d'une émission de titres ; au-dessus de 100 %, la demande dépasse l'offre."
+  "Taux de couverture": "Rapport entre les montants proposés par les investisseurs et le montant demandé lors d'une émission de titres ; au-dessus de 100 %, la demande dépasse l'offre.",
+  "ruée bancaire": "Retrait massif et rapide des dépôts par les clients d'une banque qui craignent pour leur argent, pouvant la mettre à court de liquidités.",
+  "dépôt tokenisé": "Dépôt bancaire classique représenté sous forme numérique sur une blockchain, pour être transféré instantanément et à toute heure entre comptes.",
+  "Remtp": "Rencontres du marché des titres publics : rendez-vous annuel organisé autour d'UMOA-Titres entre les Trésors de l'UEMOA et les investisseurs, surtout les banques.",
+  "prêt concessionnel": "Prêt accordé à des conditions plus douces que celles du marché : taux très bas, longue durée et période de grâce."
  },
  "journal": [
   {
    "date": "2026-11-17",
-   "synthese": "Ce mardi, le budget 2027 entre dans sa phase d'auditions (vote le 8 décembre) et le gouvernement précise que le fonds industriel de 100 milliards passera par des garanties aux banques ; ailleurs, la BRVM poursuit sa baisse, le Sénégal emprunte à près de 7 % et le Nigeria voit son inflation reculer à 14 % avant la réunion de sa banque centrale.",
+   "synthese": "Ce mardi, le budget 2027 du Bénin affiche 1 597 milliards FCFA de dépenses sociales pendant que les auditions se poursuivent (vote le 8 décembre) et que le fonds industriel de 100 milliards passera par des garanties aux banques ; sur les marchés, la BRVM reste orientée à la baisse et les petits États de l'Union empruntent cher, tandis qu'à l'international la Fed alerte sur les agents d'IA et que les dépôts bancaires tokenisés progressent en Asie.",
    "articles": [
     {
      "theme": "Bénin",
@@ -3648,6 +3681,38 @@
      "url": "https://srtb.bj/benin-digital-innovation-week-cotonou-accueille-une-semaine-dediee-a-linnovation-numerique/"
     },
     {
+     "theme": "Bénin",
+     "date": "2026-11-17",
+     "titre": "Budget 2027 : 1 597,5 milliards FCFA de dépenses à caractère social",
+     "resume": "Sur un projet de 4 757 milliards FCFA (+14,7 % par rapport au budget rectifié 2026), les dépenses sociales passent de 1 285 à 1 597,5 milliards et l'investissement public atteint 1 545 milliards ; le texte table sur 7,5 % de croissance et un déficit limité à 2,8 % du PIB.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/benin-1-597-milliards-fcfa-consacres-aux-depenses-sociales-en-2027/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-16",
+     "titre": "BOA Niger garde sa note A- chez Bloomfield",
+     "resume": "L'agence de notation confirme la note de long terme A- (perspective stable) et A2 à court terme de la filiale nigérienne du groupe Bank of Africa, en soulignant toutefois la baisse continue de ses crédits et le recul de son résultat en 2025.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Notation-L-agence-Bloomfield-decerne-a-nouveau-la-note-A-a-la-BOA-Niger_a31855.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-16",
+     "titre": "Nigeria : huit grandes banques divisent presque par deux leurs provisions sur crédits",
+     "resume": "Sur neuf mois, leurs charges de dépréciation chutent de 46,9 % et leur bénéfice avant impôt cumulé monte de 12,2 % à 4 800 milliards de nairas, porté surtout par Zenith et Access ; Ecobank Transnational affiche en revanche un bénéfice en nairas en léger recul.",
+     "source": "ThisDay (via allAfrica)",
+     "url": "https://allafrica.com/stories/202611160824.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-17",
+     "titre": "Nigeria : classement des groupes bancaires les plus rentables sur neuf mois",
+     "resume": "First Holdco arrive en tête (744,6 milliards de nairas de bénéfice net), devant Ecobank Transnational (707,4 milliards), Zenith et GTCO, tous deux en recul de plus de 11 % ; Access progresse de 6 % à 474 milliards, tandis qu'UBA n'a pas encore publié ses chiffres.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/17/these-are-the-most-profitable-banks-in-nigeria-following-9m-2026-release/"
+    },
+    {
      "theme": "Régulation et marchés",
      "date": "2026-11-16",
      "titre": "BRVM : nouvelle séance de baisse, l'indice composite à 512,85 points",
@@ -3672,20 +3737,12 @@
      "url": "https://beninwebtv.com/uemoa-bceao-6425-milliards-liquidites-banques-16-novembre-2026/"
     },
     {
-     "theme": "Banques et concurrents",
+     "theme": "Régulation et marchés",
      "date": "2026-11-16",
-     "titre": "BOA Niger garde sa note A- chez Bloomfield",
-     "resume": "L'agence de notation confirme la note de long terme A- (perspective stable) et A2 à court terme de la filiale nigérienne du groupe Bank of Africa, en soulignant toutefois la baisse continue de ses crédits et le recul de son résultat en 2025.",
+     "titre": "Guinée-Bissau : 7,5 milliards FCFA levés, jusqu'à 8,26 % sur trois ans",
+     "resume": "L'émission du 16 novembre n'a couvert que 71 % du montant recherché ; le Trésor a payé 5,20 % sur les bons à un an et 8,26 % sur les obligations à trois ans, signe que les petits émetteurs de l'Union paient cher leur financement.",
      "source": "Le Jecos",
-     "url": "https://www.lejecos.com/Notation-L-agence-Bloomfield-decerne-a-nouveau-la-note-A-a-la-BOA-Niger_a31855.html"
-    },
-    {
-     "theme": "Banques et concurrents",
-     "date": "2026-11-16",
-     "titre": "Nigeria : huit grandes banques divisent presque par deux leurs provisions sur crédits",
-     "resume": "Sur neuf mois, leurs charges de dépréciation chutent de 46,9 % et leur bénéfice avant impôt cumulé monte de 12,2 % à 4 800 milliards de nairas, porté surtout par Zenith et Access ; Ecobank Transnational affiche en revanche un bénéfice en nairas en léger recul.",
-     "source": "ThisDay (via allAfrica)",
-     "url": "https://allafrica.com/stories/202611160824.html"
+     "url": "https://www.lejecos.com/La-Guinee-Bissau-encaisse-75-milliards-FCFA-sur-le-marche-financier-de-l-UEMOA_a31858.html"
     },
     {
      "theme": "Afrique",
@@ -3712,6 +3769,14 @@
      "url": "https://www.financialafrik.com/2026/11/16/le-directeur-general-de-la-brvm-edoh-kossi-amenounve-distingue-aux-global-banking-markets-awards-africa-2026/"
     },
     {
+     "theme": "Afrique",
+     "date": "2026-11-17",
+     "titre": "Le Japon prête 583 millions de dollars au Fonds africain de développement",
+     "resume": "La JICA, agence japonaise de coopération, a signé le 13 novembre avec la BAD un prêt concessionnel de 86,6 milliards de yens pour le fonds qui finance les pays africains à bas revenu, dont la 17e reconstitution a atteint le record de 11 milliards de dollars.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Reconstitution-des-ressources-du-Fonds-africain-de-developpement-Un-accord-de-pret-de-5834-millions-de-dollars-signe_a31865.html"
+    },
+    {
      "theme": "Monde",
      "date": "2026-11-16",
      "titre": "Taïwan veut confier l'émission de stablecoins aux banques",
@@ -3734,6 +3799,22 @@
      "resume": "Selon GlobalData, les primes mondiales passeraient de 16,6 milliards de dollars en 2026 à 18,3 milliards en 2027, mais beaucoup d'entreprises découvrent après une attaque que leur contrat ne couvre pas toutes leurs pertes.",
      "source": "Financial Afrik",
      "url": "https://www.financialafrik.com/2026/11/16/cyberassurance-un-marche-de-183-milliards-de-dollars-mais-une-couverture-trop-limitee/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-17",
+     "titre": "La Fed avertit : des agents d'IA pourraient accélérer les ruées bancaires",
+     "resume": "Le gouverneur Michael Barr estime que des assistants d'IA capables de déplacer seuls les dépôts pourraient vider une banque bien plus vite qu'aujourd'hui ; il demande des garde-fous, alors qu'au moins cinq grandes banques américaines bloquent déjà les agents externes.",
+     "source": "The Daily Hodl",
+     "url": "https://dailyhodl.com/2026/11/17/federal-reserve-official-warns-ai-agents-could-speed-up-future-bank-runs/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-16",
+     "titre": "Dépôts tokenisés : DBS et JPMorgan relient leurs réseaux, Hong Kong teste avec Swift",
+     "resume": "Les clients entreprises de DBS et de JPMorgan peuvent désormais transférer des dollars 24 h/24, week-end compris, entre Singapour et les États-Unis ; le même jour, la banque centrale de Hong Kong et Swift ont lancé un essai de paiements transfrontaliers en dépôts bancaires tokenisés avec HSBC, Standard Chartered et Bank of China.",
+     "source": "Disruption Banking ; Coinpaprika",
+     "url": "https://disruptionbanking.com/2026/11/16/dbs-and-jpmorgan-link-tokenized-deposit-networks-for-24-7-dollar-transfers"
     }
    ]
   },
