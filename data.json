@@ -1,10 +1,23 @@
 {
- "derniereMaj": "2026-11-18T05:19:21Z",
+ "derniereMaj": "2026-11-18T12:21:54Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
-  "titre": "Budget 2027 en commission, crédit plus cher qu'ailleurs dans l'UEMOA et bascule du carburant vers le circuit formel",
-  "intro": "Les cinq informations publiques qui comptent le plus pour la banque au Bénin cette semaine, classées par importance.",
+  "titre": "Coris Bank Bénin en route vers la Bourse, budget 2027 en commission et crédit plus cher au Bénin",
+  "intro": "Brief mis à jour mercredi après l'annonce de l'introduction en Bourse d'un concurrent direct : les cinq informations publiques qui comptent le plus pour la banque au Bénin cette semaine.",
   "points": [
+   {
+    "titre": "Coris Bank Bénin, 3e banque du pays, va entrer en Bourse",
+    "texte": "Le groupe Coris prépare pour janvier 2027 l'introduction à la BRVM de sa filiale béninoise (19 milliards FCFA à lever) et de sa filiale ivoirienne (62 milliards), avec l'accord de l'AMF-UMOA. Coris Bank Bénin, 850 milliards FCFA de bilan et 11,2 % du marché fin 2025, deviendrait la troisième banque béninoise cotée après la BIIC et Bank of Africa Bénin.",
+    "implication": "Un concurrent direct, déjà devant nous au classement, va renforcer ses fonds propres et sa notoriété auprès des épargnants béninois, ce qui accroît sa capacité à prêter aux grandes entreprises et à l'État.",
+    "pistes": [
+     "Analyser la note d'information dès sa sortie (prix, part cédée, dividende, plan de croissance) pour anticiper ses offensives commerciales sur nos segments.",
+     "Proposer à nos clients particuliers et institutionnels un accompagnement à la souscription (crédit adossé aux titres, conservation) plutôt que de subir des retraits de dépôts.",
+     "Mettre en avant auprès des grandes entreprises la force du réseau panafricain et la cotation de notre groupe (ETI) à la BRVM et dans d'autres Bourses."
+    ],
+    "vigilance": "Le calendrier, le prix et le montant peuvent encore évoluer ; ne rien communiquer avant la publication officielle de la note d'information.",
+    "source": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787"
+   },
    {
     "titre": "Budget 2027 : l'examen en commission s'ouvre, la taxe foncière fait débat",
     "texte": "Les députés examinent du 16 au 30 novembre le projet de budget 2027 (4 757 milliards FCFA, +14,7 %), qui prévoit notamment un taux national de taxe foncière unique de 4 % pour le non bâti et 6 % pour le bâti, à la place des taux votés par chaque commune. L'association des communes (ANCB) demande des fourchettes resserrées ou une compensation intégrale des pertes de recettes.",
@@ -32,19 +45,6 @@
     "url": "https://beninwebtv.bj/benin-inclusion-financiere-928-credit-bancaire-2025/"
    },
    {
-    "titre": "Carburant : les stations agréées vendent plus du double",
-    "texte": "Avec les restrictions sur l'essence informelle (« kpayo ») et la désorganisation des circuits venant du Nigeria, les ventes des stations officielles passent d'environ 270 000 à plus de 600 000 litres par jour, avec des pics à 2,5 millions. Le ministère du Commerce contrôle les ventes en bidons et les dépôts pétroliers annoncent 3 à 6 mois de stocks.",
-    "implication": "Les distributeurs et gérants de stations ont besoin de plus de trésorerie pour acheter des volumes plus élevés, tandis que les revendeurs informels et transporteurs voient leurs coûts monter.",
-    "pistes": [
-     "Proposer aux marketeurs pétroliers et gérants de stations des lignes de financement de stocks et des garanties fournisseurs.",
-     "Équiper les stations en terminaux de paiement par carte, QR code et virement instantané PI-SPI pour capter les nouveaux flux.",
-     "Accompagner l'ouverture de nouvelles stations-service dans les zones frontalières où l'informel dominait."
-    ],
-    "vigilance": "Une tension durable sur l'approvisionnement fragiliserait les taxis-motos, transporteurs et petits commerçants, et donc la qualité de leurs crédits.",
-    "source": "Le Matinal",
-    "url": "https://lematinal.bj/tensions-autour-du-carburant-au-benin-le-formel-a-lheure-du-grand-tournant/"
-   },
-   {
     "titre": "Grands projets : marché de gros de 160 hectares, écoles agricoles et port de Cotonou",
     "texte": "Un marché de gros de 160 hectares inspiré de Rungis doit ouvrir début 2027 au nord de Cotonou, et plus de 27,7 milliards FCFA de travaux d'écoles agricoles ont été attribués à des groupes chinois. La BERD doit par ailleurs se prononcer le 18 novembre sur un prêt de 20 millions d'euros pour le port de Cotonou.",
     "implication": "Ces chantiers créent des besoins de cautions, de préfinancement et de crédits d'équipement pour les entreprises et les commerçants qui s'installeront sur ces sites.",
@@ -58,17 +58,17 @@
     "url": "https://lanation.bj/actualites/agro-industrie-le-benin-cree-un-geant-marche-pour-propulser-ses-fruits-et-legumes-sur-la-scene-mondiale"
    },
    {
-    "titre": "Paiements : Visa s'installe à Dakar pour toute l'Afrique de l'Ouest",
-    "texte": "Visa ouvre d'ici fin 2026 un bureau à Dakar couvrant l'Afrique de l'Ouest et du Centre, appuyé sur des partenariats avec hôtels et applications de transport. Il rappelle que l'UEMOA comptait en 2025 près de 285 millions de comptes de monnaie électronique (+14 %) et près de 7 millions de points marchands (+86 %).",
-    "implication": "Un réseau de cartes plus présent dans la région peut accélérer les offres conjointes avec les banques et les portefeuilles mobiles, y compris chez nos concurrents au Bénin.",
+    "titre": "Carburant : les stations agréées vendent plus du double",
+    "texte": "Avec les restrictions sur l'essence informelle (« kpayo ») et la désorganisation des circuits venant du Nigeria, les ventes des stations officielles passent d'environ 270 000 à plus de 600 000 litres par jour, avec des pics à 2,5 millions. Le ministère du Commerce contrôle les ventes en bidons et les dépôts pétroliers annoncent 3 à 6 mois de stocks.",
+    "implication": "Les distributeurs et gérants de stations ont besoin de plus de trésorerie pour acheter des volumes plus élevés, tandis que les revendeurs informels et transporteurs voient leurs coûts monter.",
     "pistes": [
-     "Solliciter l'équipe régionale de Visa pour co-financer des campagnes de paiement par carte chez les commerçants de Cotonou.",
-     "Étudier une carte virtuelle liée aux portefeuilles mobiles pour les paiements en ligne et à l'étranger des jeunes clients.",
-     "Proposer aux hôtels et restaurants clients une acceptation carte et QR avec réductions partagées, sur le modèle dakarois."
+     "Proposer aux marketeurs pétroliers et gérants de stations des lignes de financement de stocks et des garanties fournisseurs.",
+     "Équiper les stations en terminaux de paiement par carte, QR code et virement instantané PI-SPI pour capter les nouveaux flux.",
+     "Accompagner l'ouverture de nouvelles stations-service dans les zones frontalières où l'informel dominait."
     ],
-    "vigilance": "Les réseaux de cartes nouent aussi des accords directs avec les opérateurs de mobile money, qui pourraient contourner les banques.",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/Paiements-numeriques-Visa-ouvre-un-bureau-a-Dakar-avec-une-forte-ambition-sous-regionale_a31846.html"
+    "vigilance": "Une tension durable sur l'approvisionnement fragiliserait les taxis-motos, transporteurs et petits commerçants, et donc la qualité de leurs crédits.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/tensions-autour-du-carburant-au-benin-le-formel-a-lheure-du-grand-tournant/"
    }
   ]
  },
@@ -240,17 +240,17 @@
    ]
   },
   {
-   "date": "2026-12-01",
-   "dateApprox": true,
-   "titre": "Prochaine réunion du Comité de politique monétaire de la BCEAO (date à confirmer)",
-   "detail": "Le Comité de politique monétaire de la BCEAO, qui fixe le taux directeur de l'UEMOA (3 % depuis mars 2026), tient habituellement sa dernière réunion de l'année début décembre ; la date n'est pas encore publiée. L'inflation de l'Union est remontée à 1,9 % en septembre sous l'effet du pétrole.",
+   "date": "2026-12-02",
+   "titre": "Réunion du Comité de politique monétaire de la BCEAO à Dakar (taux directeur)",
+   "detail": "Le Comité de politique monétaire (CPM) de la BCEAO, l'instance qui fixe le taux directeur des huit pays de l'UEMOA, se réunit à Dakar le 2 décembre 2026, dernière réunion de l'année. Le taux est à 3 % depuis mars 2026, mais l'inflation est remontée (1,9 % au Bénin en septembre) et la BAD signale 11,4 % en moyenne en Afrique de l'Ouest. Exemple : un relèvement de 0,25 point renchérirait le refinancement d'une banque béninoise auprès de la BCEAO dès le guichet suivant.",
    "pourquoi": "Le taux directeur détermine notre coût de refinancement et les taux de nos crédits et dépôts.",
    "preparer": [
-    "Préparer deux scénarios (statu quo, hausse) pour la tarification des crédits et des dépôts à terme.",
-    "Suivre le taux interbancaire (3,73 % à une semaine) comme indicateur avancé."
+    "Préparer deux scénarios chiffrés (statu quo, hausse de 0,25 point) pour nos taux de crédit et de dépôts à terme.",
+    "Suivre d'ici là le taux interbancaire et les résultats des adjudications de la BCEAO comme signaux avancés.",
+    "Prévoir un message clients prêt à diffuser le 3 décembre selon la décision."
    ],
-   "source": "BCEAO",
-   "url": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+   "source": "Leral (annonce BCEAO)",
+   "url": "https://www.leral.net/La-BCEAO-annonce-une-reunion-ordinaire-de-son-Comite-de-Politique-Monetaire_a411483.html"
   },
   {
    "date": "2026-12-03",
@@ -329,6 +329,20 @@
    ],
    "source": "La Nation",
    "url": "https://lanation.bj/actualites/agro-industrie-le-benin-cree-un-geant-marche-pour-propulser-ses-fruits-et-legumes-sur-la-scene-mondiale"
+  },
+  {
+   "date": "2027-01-01",
+   "dateApprox": true,
+   "titre": "Introduction en Bourse de Coris Bank Bénin à la BRVM",
+   "detail": "Le groupe burkinabè Coris veut faire coter à la BRVM, la Bourse régionale d'Abidjan, sa filiale béninoise en janvier 2027 en levant 19 milliards FCFA auprès du public, à quelques jours de Coris Bank Côte d'Ivoire (62 milliards). L'AMF-UMOA, le gendarme boursier régional, a donné son accord ; le prix par action et la part du capital vendue doivent être publiés prochainement. Coris Bank Bénin deviendrait la troisième banque cotée du Bénin, après la BIIC et Bank of Africa Bénin.",
+   "pourquoi": "Un troisième concurrent béninois coté gagne en visibilité et en fonds propres pour prêter davantage, et la souscription mobilisera l'épargne de nos clients particuliers et institutionnels.",
+   "preparer": [
+    "Analyser la note d'information dès sa publication (prix, part cédée, dividende promis) pour mesurer la capacité de prêt supplémentaire de ce concurrent.",
+    "Préparer une réponse aux clients qui voudront souscrire ou financer leur souscription (crédit adossé aux titres, conservation via la SGI du groupe).",
+    "Anticiper d'éventuels retraits de dépôts de clients investisseurs pendant la période de souscription."
+   ],
+   "source": "Sika Finance",
+   "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787"
   },
   {
    "date": "2027-01-04",
@@ -633,6 +647,12 @@
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
     {
+     "date": "2026-11-17",
+     "texte": "Coris Bank Bénin prépare son introduction à la BRVM en janvier 2027 pour lever 19 milliards FCFA, en même temps que Coris Bank Côte d'Ivoire (62 milliards) ; l'AMF-UMOA a donné son autorisation. En 2025, la filiale béninoise (3e banque du pays) affichait 850,3 milliards de bilan et environ 8 milliards de bénéfice.",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787"
+    },
+    {
      "date": "2026-11-13",
      "texte": "Au niveau du groupe : au Sénégal, Coris Money rend gratuits tous les virements instantanés PI-SPI, sans plafond de montant, depuis le 12 novembre.",
      "source": "Bénin Web TV",
@@ -661,12 +681,6 @@
      "texte": "Remaniement du groupe Coris : le directeur général adjoint de Coris Bank Bénin, Jean-Marie Kompaoré, part au Togo et est remplacé par Jean-Baptiste Kouamé ; aucun changement de directeur général annoncé au Bénin.",
      "source": "Ecomatin",
      "url": "https://ecomatin.net/abidjan-lome-libreville-idrissa-nassa-remanie-les-etats-majors-de-coris-bank-en-afrique"
-    },
-    {
-     "date": "2026-10-23",
-     "texte": "Le groupe nomme Michel Kodzo Gafan, jusqu'ici directeur régional UEMOA de la banque commerciale chez Ecobank Togo, à la direction générale de Coris Bank International Togo.",
-     "source": "Agence Ecofin",
-     "url": "https://www.agenceecofin.com/actualites-finance/2310-142691-togo-coris-bank-recrute-michel-kodzo-gafan-chez-ecobank-pour-sa-direction-generale"
     }
    ]
   },
@@ -1233,13 +1247,6 @@
     "url": "https://lanouvelletribune.info/2026/11/benin-la-sbee-fait-le-bilan-de-trois-ans-de-transformation-avec-114-million-de-clients-raccordes/"
    },
    {
-    "date": "2026-11-16",
-    "titre": "BAD : 14 pays ouest-africains sur 15 à plus de 4 % de croissance",
-    "resume": "La Banque africaine de développement prévoit une forte croissance régionale mais une inflation moyenne de 11,4 % en 2026, tirée par le Nigeria (15,9 %).",
-    "source": "PressAfrik",
-    "url": "https://www.pressafrik.com/%e2%80%8bAfrique-de-l-Ouest-14-pays-sur-15-a-plus-de-4-de-croissance-mais-une-inflation-record-de-114--selon-la-BAD_a314692.html"
-   },
-   {
     "date": "2026-11-17",
     "titre": "Budget 2027 : 1 597,5 milliards FCFA pour le social",
     "resume": "Les dépenses sociales progressent de près de 25 % et l'investissement public atteint 1 545 milliards FCFA, sur un budget de 4 757 milliards (+14,7 %).",
@@ -1247,11 +1254,18 @@
     "url": "https://lanouvelletribune.info/2026/11/benin-1-597-milliards-fcfa-consacres-aux-depenses-sociales-en-2027/"
    },
    {
-    "date": "2026-11-14",
-    "titre": "Bénin : inflation à 1,9 % en septembre",
-    "resume": "Contre 0,1 % en août selon la note de conjoncture de la BCEAO ; le taux moyen des crédits bancaires a augmenté de 13 points de base en août et la rémunération des dépôts a baissé de 33 points.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-linflation-remonte-a-19-en-septembre/"
+    "date": "2026-11-17",
+    "titre": "Budget 2027 : 11,59 milliards FCFA pour le Numérique",
+    "resume": "Le ministère de la Transformation digitale voit son budget baisser de 29,7 %, le projet PITN2R financé de l'extérieur sortant de son périmètre, mais l'effort national hors financements extérieurs progresse de 16 %.",
+    "source": "Le Matinal",
+    "url": "https://lematinal.bj/transformation-digitale-1159-milliards-fcfa-pour-accelerer-la-revolution-numerique-au-benin/"
+   },
+   {
+    "date": "2026-11-16",
+    "titre": "BAD : 14 pays ouest-africains sur 15 à plus de 4 % de croissance",
+    "resume": "La Banque africaine de développement prévoit une forte croissance régionale mais une inflation moyenne de 11,4 % en 2026, tirée par le Nigeria (15,9 %).",
+    "source": "PressAfrik",
+    "url": "https://www.pressafrik.com/%e2%80%8bAfrique-de-l-Ouest-14-pays-sur-15-a-plus-de-4-de-croissance-mais-une-inflation-record-de-114--selon-la-BAD_a314692.html"
    },
    {
     "date": "2026-11-16",
@@ -1317,6 +1331,20 @@
     "url": "https://beninwebtv.bj/benin-les-maires-vent-debout-contre-la-reforme-sur-les-taxes-foncieres/"
    },
    {
+    "date": "2026-11-15",
+    "titre": "Carburant : un réseau formel loin de couvrir la demande",
+    "resume": "Le réseau officiel ne distribue qu'environ 300 000 litres par jour pour une demande estimée à 2,5 millions de litres ; les autorités indiquent des stocks de trois à six mois et renforcent les contrôles.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-essence-controles-ventes-carburant-bidons/"
+   },
+   {
+    "date": "2026-11-14",
+    "titre": "Bénin : inflation à 1,9 % en septembre",
+    "resume": "Contre 0,1 % en août selon la note de conjoncture de la BCEAO ; le taux moyen des crédits bancaires a augmenté de 13 points de base en août et la rémunération des dépôts a baissé de 33 points.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-linflation-remonte-a-19-en-septembre/"
+   },
+   {
     "date": "2026-11-14",
     "titre": "Marché de gros de 160 hectares prévu début 2027",
     "resume": "Le site au nord de Cotonou doit structurer la filière fruits et légumes, l'agriculture pesant 25,4 % du PIB et 59,1 % des recettes d'exportation en 2025.",
@@ -1350,13 +1378,6 @@
     "resume": "L'écart avec le marché officiel (1 358,50) atteint 86,50 nairas, ce qui pèse sur le commerce transfrontalier avec le Bénin.",
     "source": "Nairametrics",
     "url": "https://nairametrics.com/2026/11/13/naira-depreciates-to-n1445-in-parallel-market-as-gap-with-official-rate-widens-to-n86-50/"
-   },
-   {
-    "date": "2026-11-15",
-    "titre": "Carburant : un réseau formel loin de couvrir la demande",
-    "resume": "Le réseau officiel ne distribue qu'environ 300 000 litres par jour pour une demande estimée à 2,5 millions de litres ; les autorités indiquent des stocks de trois à six mois et renforcent les contrôles.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-essence-controles-ventes-carburant-bidons/"
    },
    {
     "date": "2026-11-13",
@@ -1436,6 +1457,13 @@
     "url": "https://www.brvm.org/fr/indices"
    },
    {
+    "date": "2026-11-12",
+    "titre": "Douane : pilote de déclaration unique Nigeria-Bénin-Cameroun",
+    "resume": "Une seule déclaration douanière servira aux deux pays traversés, avec traduction automatique anglais-français.",
+    "source": "PRNigeria",
+    "url": "https://prnigeria.com/2026/11/12/nigeria-benin-cameroon-pilot/"
+   },
+   {
     "date": "2026-11-11",
     "titre": "Électricité : 60 % des besoins importés, coupures possibles pendant plusieurs mois",
     "resume": "Le gouvernement attribue les délestages aux difficultés d'un fournisseur nigérian et rappelle que la production nationale couvre environ 40 % des besoins.",
@@ -1490,20 +1518,6 @@
     "resume": "Le nouveau directeur national de la BCEAO au Togo fait du financement de l'économie sa priorité ; les prêts dégradés représentent 13,4 % du portefeuille.",
     "source": "Togo First",
     "url": "https://www.togofirst.com/fr/gestion-publique/0911-20579-togo-le-financement-de-l-economie-premier-defi-dekoue-djro-glokpor-nouveau-directeur-de-la-bceao"
-   },
-   {
-    "date": "2026-11-09",
-    "titre": "Dette publique 2024 révisée à 60,5 % du PIB",
-    "resume": "La réintégration de 22 prêts rétrocédés relève la dette de 7,1 points ; le FMI demande un suivi renforcé des entreprises publiques et une révision du tarif de l'eau, inchangé depuis 2009.",
-    "source": "La Marina",
-    "url": "https://lamarina.bj/2026/11/09/benin-entreprises-publiques-dette-et-risques-budgetaires-pourquoi-le-fmi-reclame-un-suivi-renforce/"
-   },
-   {
-    "date": "2026-11-09",
-    "titre": "UEMOA : inflation à 1,9 % en septembre",
-    "resume": "Hausse portée par les transports (+5,8 %) et l'alimentation (+2,2 %) ; inflation sous-jacente à 1,2 % et taux interbancaire à une semaine à 3,73 %.",
-    "source": "PressAfrik",
-    "url": "https://www.pressafrik.com/%E2%80%8BInflation-a-19-et-petrole-a-487-la-pression-des-cours-mondiaux-s-intensifie-dans-l-UEMOA_a314339.html"
    }
   ]
  },
@@ -1678,6 +1692,34 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-18",
+   "titre": "Les régulateurs passent à l'IA « agentique » contre la criminalité financière",
+   "resume": "L'autorité monétaire de Hong Kong teste des agents d'IA capables de croiser opérations sur la blockchain et transactions bancaires des clients pour repérer le blanchiment, alors que 84 % des fonds illicites de 2025 ont transité en stablecoins.",
+   "implication": "Les attentes de la BCEAO et de la CENTIF en matière de détection automatisée des flux suspects, y compris ceux liés aux cryptoactifs, devraient monter, notre dispositif de lutte anti-blanchiment devra suivre.",
+   "pistes": [
+    "Recenser les flux de nos clients vers des plateformes de cryptoactifs connues (cartes, virements) pour bâtir des règles d'alerte dédiées.",
+    "Tester avec le groupe un outil d'IA d'aide à l'analyse des alertes de conformité pour réduire les faux positifs.",
+    "Former l'équipe conformité aux typologies de blanchiment via stablecoins présentées dans le plan national 2026-2030."
+   ],
+   "vigilance": "Un outil d'IA mal paramétré peut multiplier les faux positifs ou laisser passer des schémas nouveaux : la décision finale doit rester humaine et traçable.",
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959"
+  },
+  {
+   "date": "2026-11-13",
+   "titre": "Fraude : seuls 7 % des spécialistes se jugent prêts face aux attaques dopées à l'IA",
+   "resume": "L'étude 2026 de l'ACFE (association mondiale des examinateurs de fraude) et de SAS montre qu'un quart des organisations utilisent l'IA contre la fraude et que 77 % constatent une hausse des escroqueries par hypertrucage (deepfake).",
+   "implication": "Les arnaques par faux appels, fausses voix de dirigeants ou faux conseillers visant nos clients et nos équipes vont se sophistiquer, ce qui exige des contrôles renforcés sur les virements et la relation à distance.",
+   "pistes": [
+    "Instaurer un rappel systématique sur numéro connu pour tout ordre de virement important reçu par téléphone, courriel ou message vocal.",
+    "Lancer une campagne de sensibilisation clients en français et en fon sur les faux appels de la banque, comme le font déjà des concurrents.",
+    "Évaluer un outil de détection d'anomalies sur les transactions cartes et mobile banking."
+   ],
+   "vigilance": "Le risque de réputation est fort : une fraude médiatisée sur un client peut coûter plus que la perte financière elle-même.",
+   "source": "SAS (communiqué)",
+   "url": "https://www.sas.com/en_us/news/press-releases/2026/november/fraud-week-ai-threats-test-defenses.html"
+  },
   {
    "date": "2026-11-17",
    "titre": "La Banque mondiale teste les stablecoins pour verser ses financements",
@@ -2204,34 +2246,6 @@
    "vigilance": "Le dispositif n'en est qu'au stade des tests : aucun usage bancaire n'est encore autorisé ni encadré.",
    "source": "Sika Finance",
    "url": "https://www.sikafinance.com/marches/interoperabilite-des-identites-numeriques-nationales-benin-ghana-et-rwanda-reussissent-le-test-pilote_65141"
-  },
-  {
-   "date": "2026-10-20",
-   "titre": "Mobile money UEMOA : 219 151 milliards FCFA de transactions en 2025",
-   "resume": "Selon le tableau de bord de l'inclusion financière publié par la BCEAO le 20 octobre, la valeur des transactions de mobile money a progressé de près de 40 % en 2025 et le taux d'inclusion financière de l'Union atteint 76,1 % ; le Bénin pèse 16,3 % du nombre de transactions mais seulement 6,4 % de leur valeur.",
-   "implication": "Au Bénin, le mobile money sert surtout à de petits montants très fréquents : la banque peut se positionner sur les flux de valeur plus élevée et sur le passage du wallet au compte.",
-   "pistes": [
-    "Proposer aux clients mobile money des passerelles simples vers un compte ou une épargne Ecobank (bank to wallet, wallet to bank).",
-    "Cibler les commerçants actifs en mobile money avec une offre d'encaissement et de crédit fondée sur leurs flux.",
-    "Exploiter le relèvement des plafonds de monnaie électronique pour des offres de trésorerie aux petits commerçants."
-   ],
-   "vigilance": "Près des deux tiers des comptes de mobile money sont inactifs : les volumes affichés ne reflètent pas tous un usage réel.",
-   "source": "Agence Ecofin",
-   "url": "https://www.agenceecofin.com/actualites-finance/2310-142687-uemoa-les-transactions-de-mobile-money-atteignent-374-milliards-en-2025"
-  },
-  {
-   "date": "2026-10-20",
-   "titre": "Afrique du Sud : les non-banques vont accéder au système de paiement",
-   "resume": "La banque centrale sud-africaine pousse les paiements numériques pour réduire l'usage coûteux des espèces et prévoit d'ouvrir l'accès direct au système de paiement à des acteurs non bancaires à partir de 2027.",
-   "implication": "Une autre grande banque centrale africaine suit la même voie que PI-SPI : la concurrence des fintechs et des opérateurs mobiles sur les paiements courants va s'installer durablement.",
-   "pistes": [
-    "Positionner la banque comme partenaire de règlement et de trésorerie des établissements de paiement béninois plutôt que comme simple concurrent.",
-    "Réduire le coût et la durée des paiements numériques du quotidien pour les particuliers afin de défendre les flux domiciliés.",
-    "Suivre les choix sud-africains (accès, tarifs, sécurité) comme repère pour anticiper les prochaines évolutions de la BCEAO."
-   ],
-   "vigilance": "Une ouverture plus large aux non-banques peut réduire les revenus de commissions sur les transferts : à mesurer dans les prévisions.",
-   "source": "TimesLIVE",
-   "url": "https://www.timeslive.co.za/news/south-africa/2026-10-20-reserve-bank-pushes-digital-payments-to-cut-cash-use/"
   }
  ],
  "marche": {
@@ -2618,6 +2632,20 @@
   "url": "https://www.sikafinance.com/marches/brvm-un-marche-peint-en-rouge_65794"
  },
  "opportunites": [
+  {
+   "date": "2026-11-12",
+   "titre": "Douane numérique commune Nigeria-Bénin-Cameroun : un pilote lancé",
+   "resume": "Les douanes nigérianes testent avec le Bénin et le Cameroun un système où le commerçant dépose une seule déclaration, reprise automatiquement par le pays de destination, avec traduction anglais-français par IA.",
+   "implication": "Un passage de frontière plus rapide à Sèmè-Kraké peut relancer le commerce formel Bénin-Nigeria et donc les besoins de financement, de garanties et de paiements transfrontaliers de nos clients importateurs.",
+   "pistes": [
+    "Proposer aux transitaires et importateurs du corridor Cotonou-Lagos une offre groupée (crédit documentaire, caution en douane, paiement en naira via le réseau Ecobank Nigeria).",
+    "Approcher les commerçants informels qui basculent vers le circuit déclaré avec un compte et un paiement mobile simplifiés.",
+    "Suivre le forum douanier prévu le 8 décembre pour repérer les premiers opérateurs inscrits au pilote."
+   ],
+   "vigilance": "Ce n'est qu'un pilote : la fermeture de la frontière avec le Niger et les changements de politique nigériane peuvent freiner l'effet attendu.",
+   "source": "PRNigeria",
+   "url": "https://prnigeria.com/2026/11/12/nigeria-benin-cameroon-pilot/"
+  },
   {
    "date": "2026-11-17",
    "titre": "SBEE : 52 milliards FCFA pour étendre le réseau électrique",
@@ -3158,20 +3186,6 @@
     "Mettre en avant l'API PI-SPI Business de la banque auprès des administrations."
    ],
    "vigilance": "Les banques non prêtes risquent de perdre des flux de domiciliation de salaires."
-  },
-  {
-   "date": "2026-10-08",
-   "titre": "Budget 2027 en hausse de 14,7 %",
-   "resume": "Le projet de loi de finances 2027 s'élève à 4 757 milliards FCFA, avec une croissance attendue de 7,5 % et un déficit de 2,8 % du PIB ; les dépenses sociales atteignent près de 1 598 milliards.",
-   "implication": "Une commande publique et des dépenses sociales en hausse soutiendront l'activité des entreprises et les flux de paiement de l'État.",
-   "pistes": [
-    "Cibler les fournisseurs de l'État dans les secteurs prioritaires du budget avec des offres d'affacturage et d'avances sur marchés.",
-    "Se positionner sur les paiements de masse des programmes sociaux (bourses, transferts) via PI-SPI.",
-    "Anticiper les émissions de titres publics de 2027 dans la gestion de la trésorerie."
-   ],
-   "vigilance": "Hausse des besoins de financement de l'État pouvant peser sur la liquidité bancaire.",
-   "source": "Bénin Web TV",
-   "url": "https://beninwebtv.com/en/in-benin-the-2027-budget-proposal-jumps-by-14-7-to-4757-billion-fcfa/"
   }
  ],
  "historique": {
@@ -3528,6 +3542,77 @@
      "url": "https://www.banouto.bj/politique/article/20261104-conseil-des-ministres-au-benin-les-grandes-decisions-de-la-seance-du-mercredi-4-novembre-2026"
     }
    ]
+  },
+  {
+   "periode": "Semaine du 16 novembre 2026 (version du lundi)",
+   "titre": "Budget 2027 en commission, crédit plus cher qu'ailleurs dans l'UEMOA et bascule du carburant vers le circuit formel",
+   "points": [
+    {
+     "titre": "Budget 2027 : l'examen en commission s'ouvre, la taxe foncière fait débat",
+     "texte": "Les députés examinent du 16 au 30 novembre le projet de budget 2027 (4 757 milliards FCFA, +14,7 %), qui prévoit notamment un taux national de taxe foncière unique de 4 % pour le non bâti et 6 % pour le bâti, à la place des taux votés par chaque commune. L'association des communes (ANCB) demande des fourchettes resserrées ou une compensation intégrale des pertes de recettes.",
+     "implication": "Le texte voté fixera la fiscalité 2027 de nos clients propriétaires et promoteurs, les ressources des communes que nous finançons et les besoins d'emprunt de l'État sur le marché régional.",
+     "pistes": [
+      "Préparer pour nos clients immobiliers et entreprises une note simple sur l'effet du taux national (exemple : 60 000 FCFA d'impôt à 6 % contre 80 000 FCFA à 8 % pour 1 million de valeur locative).",
+      "Recenser nos encours et projets avec les communes et vérifier leur dépendance aux recettes foncières avant d'accorder de nouveaux crédits.",
+      "Ajuster nos prévisions de souscription aux titres publics béninois de 2027 selon le déficit finalement voté."
+     ],
+     "vigilance": "Le texte peut encore changer en commission ou en plénière : aucune mesure n'est définitive avant le vote et la promulgation.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-les-maires-vent-debout-contre-la-reforme-sur-les-taxes-foncieres/"
+    },
+    {
+     "titre": "BCEAO : le crédit bancaire est plus cher au Bénin que dans le reste de l'UEMOA",
+     "texte": "Selon le rapport annuel 2025 de la BCEAO, le taux moyen des crédits bancaires au Bénin monte à 7,32 % (contre 7,24 %) alors que la moyenne de l'Union baisse à 6,69 %, et les dépôts sont rémunérés à 5,58 %. Le pays reste premier pour l'inclusion financière (92,8 % des adultes), mais seuls 39,8 % ont un compte au sens strict.",
+     "implication": "La marge entre crédits et dépôts se resserre et les entreprises béninoises peuvent comparer nos conditions à celles des banques de la région : le prix devient un argument de conquête comme de perte de clients.",
+     "pistes": [
+      "Comparer nos taux moyens par segment (grandes entreprises, PME, particuliers) avec les 7,32 % publiés et cibler les clients payant nettement plus chez un concurrent.",
+      "Revoir le coût de nos ressources en développant les dépôts à vue et les encaissements de grands clients plutôt que les dépôts à terme chers.",
+      "Transformer une partie des 60 % d'adultes sans compte bancaire, déjà clients du mobile money, avec un compte simple ouvert à distance."
+     ],
+     "vigilance": "Un taux moyen agrège des risques différents : une baisse de prix trop générale pèserait sur la rentabilité sans gain de parts de marché.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-inclusion-financiere-928-credit-bancaire-2025/"
+    },
+    {
+     "titre": "Carburant : les stations agréées vendent plus du double",
+     "texte": "Avec les restrictions sur l'essence informelle (« kpayo ») et la désorganisation des circuits venant du Nigeria, les ventes des stations officielles passent d'environ 270 000 à plus de 600 000 litres par jour, avec des pics à 2,5 millions. Le ministère du Commerce contrôle les ventes en bidons et les dépôts pétroliers annoncent 3 à 6 mois de stocks.",
+     "implication": "Les distributeurs et gérants de stations ont besoin de plus de trésorerie pour acheter des volumes plus élevés, tandis que les revendeurs informels et transporteurs voient leurs coûts monter.",
+     "pistes": [
+      "Proposer aux marketeurs pétroliers et gérants de stations des lignes de financement de stocks et des garanties fournisseurs.",
+      "Équiper les stations en terminaux de paiement par carte, QR code et virement instantané PI-SPI pour capter les nouveaux flux.",
+      "Accompagner l'ouverture de nouvelles stations-service dans les zones frontalières où l'informel dominait."
+     ],
+     "vigilance": "Une tension durable sur l'approvisionnement fragiliserait les taxis-motos, transporteurs et petits commerçants, et donc la qualité de leurs crédits.",
+     "source": "Le Matinal",
+     "url": "https://lematinal.bj/tensions-autour-du-carburant-au-benin-le-formel-a-lheure-du-grand-tournant/"
+    },
+    {
+     "titre": "Grands projets : marché de gros de 160 hectares, écoles agricoles et port de Cotonou",
+     "texte": "Un marché de gros de 160 hectares inspiré de Rungis doit ouvrir début 2027 au nord de Cotonou, et plus de 27,7 milliards FCFA de travaux d'écoles agricoles ont été attribués à des groupes chinois. La BERD doit par ailleurs se prononcer le 18 novembre sur un prêt de 20 millions d'euros pour le port de Cotonou.",
+     "implication": "Ces chantiers créent des besoins de cautions, de préfinancement et de crédits d'équipement pour les entreprises et les commerçants qui s'installeront sur ces sites.",
+     "pistes": [
+      "Contacter les attributaires et leurs sous-traitants locaux pour leurs cautions de bonne exécution, avances de démarrage et comptes de chantier.",
+      "Préparer une offre « commerçant du marché de gros » : crédit d'aménagement de pavillon, terminaux de paiement et paiement des fournisseurs agricoles par mobile money.",
+      "Proposer aux exportateurs de fruits et légumes un financement de la chaîne du froid lié au futur marché."
+     ],
+     "vigilance": "Le calendrier d'ouverture du marché de gros et le mode d'attribution des pavillons ne sont pas encore publiés.",
+     "source": "La Nation",
+     "url": "https://lanation.bj/actualites/agro-industrie-le-benin-cree-un-geant-marche-pour-propulser-ses-fruits-et-legumes-sur-la-scene-mondiale"
+    },
+    {
+     "titre": "Paiements : Visa s'installe à Dakar pour toute l'Afrique de l'Ouest",
+     "texte": "Visa ouvre d'ici fin 2026 un bureau à Dakar couvrant l'Afrique de l'Ouest et du Centre, appuyé sur des partenariats avec hôtels et applications de transport. Il rappelle que l'UEMOA comptait en 2025 près de 285 millions de comptes de monnaie électronique (+14 %) et près de 7 millions de points marchands (+86 %).",
+     "implication": "Un réseau de cartes plus présent dans la région peut accélérer les offres conjointes avec les banques et les portefeuilles mobiles, y compris chez nos concurrents au Bénin.",
+     "pistes": [
+      "Solliciter l'équipe régionale de Visa pour co-financer des campagnes de paiement par carte chez les commerçants de Cotonou.",
+      "Étudier une carte virtuelle liée aux portefeuilles mobiles pour les paiements en ligne et à l'étranger des jeunes clients.",
+      "Proposer aux hôtels et restaurants clients une acceptation carte et QR avec réductions partagées, sur le modèle dakarois."
+     ],
+     "vigilance": "Les réseaux de cartes nouent aussi des accords directs avec les opérateurs de mobile money, qui pourraient contourner les banques.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Paiements-numeriques-Visa-ouvre-un-bureau-a-Dakar-avec-une-forte-ambition-sous-regionale_a31846.html"
+    }
+   ]
   }
  ],
  "alerte": null,
@@ -3672,13 +3757,56 @@
   "prêt concessionnel": "Prêt accordé à des conditions plus douces que celles du marché : taux très bas, longue durée et période de grâce.",
   "DC/BR": "Dépositaire central / Banque de règlement de l'UMOA : il conserve les titres cotés à la BRVM et règle les opérations entre acheteurs et vendeurs.",
   "SBEE": "Société béninoise d'énergie électrique : l'entreprise publique qui distribue l'électricité au Bénin, gérée depuis 2024 avec le groupe Eranove.",
-  "Banque correspondante": "Banque étrangère qui tient un compte pour une autre banque afin d'exécuter en son nom des paiements internationaux."
+  "Banque correspondante": "Banque étrangère qui tient un compte pour une autre banque afin d'exécuter en son nom des paiements internationaux.",
+  "IA agentique": "Intelligence artificielle capable d'enchaîner seule plusieurs tâches (rechercher, analyser, alerter) pour atteindre un objectif, sous la supervision d'un humain.",
+  "Hypertrucage (deepfake)": "Fausse vidéo ou fausse voix fabriquée par intelligence artificielle pour imiter une personne réelle, utilisée notamment dans les escroqueries au virement.",
+  "Comité de politique monétaire (CPM)": "Instance de la BCEAO qui se réunit chaque trimestre pour fixer les taux directeurs applicables aux huit pays de l'UEMOA."
  },
  "journal": [
   {
    "date": "2026-11-18",
-   "synthese": "Ce mercredi, la BRVM a vécu une séance sans aucune hausse (composite −1,98 %) pendant que les auditions budgétaires se poursuivent à Porto-Novo et que la SBEE revendique 1,14 million de clients raccordés ; côté concurrents, UBA multiplie les initiatives (alerte anti-fraude, 55 millions de dollars en Guinée) et, à l'international, la Banque mondiale annonce tester des stablecoins pour ses décaissements.",
+   "synthese": "La journée est dominée par l'annonce de l'introduction en Bourse de Coris Bank Bénin (19 milliards FCFA, janvier 2027), troisième banque du pays, et par la date du prochain comité de la BCEAO sur le taux directeur (2 décembre) ; au Bénin, l'examen du budget 2027 se poursuit ministère par ministère, tandis que la BRVM a fini le 17 novembre sans aucune hausse et que les régulateurs mondiaux misent sur l'IA contre la fraude.",
    "articles": [
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-17",
+     "titre": "UBA Guinée signe 55 millions de dollars de protocoles de financement minier",
+     "resume": "Au Simandou Mining Summit de Conakry, la filiale guinéenne d'UBA a signé deux protocoles d'accord (45 et 10 millions de dollars) avec des entreprises locales ; aucun décaissement n'est encore annoncé.",
+     "source": "The Rio Times",
+     "url": "https://www.riotimesonline.com/uba-guinea-signs-mining-finance-deals-simandou-summit/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-17",
+     "titre": "NSIA Banque Sénégal porte son capital de 27 à 51 milliards FCFA",
+     "resume": "Devenue filiale à part entière du groupe NSIA, la banque (12 agences) vise le top 5 du marché sénégalais et le statut de banque universelle de référence d'ici 2030.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/DANS-LA-COUR-DES-LEADERS-NSIA-Banque-Senegal-change-d-echelle_a31869.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-17",
+     "titre": "Coris Bank Bénin prépare son entrée en Bourse pour 19 milliards FCFA",
+     "resume": "Le groupe Coris prévoit d'introduire à la BRVM en janvier 2027 ses filiales du Bénin (19 milliards FCFA à lever) et de Côte d'Ivoire (62 milliards), avec l'accord du régulateur boursier régional ; prix et part du capital cédée seront annoncés sous peu.",
+     "source": "Sika Finance",
+     "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-18",
+     "titre": "UBA lance sa semaine de sensibilisation à la fraude",
+     "resume": "Du 16 au 20 novembre, le groupe rappelle à ses clients qu'il ne demande jamais code, mot de passe ou code à usage unique par lien, SMS ou téléphone, face à la hausse des escroqueries par hameçonnage.",
+     "source": "ThisDay",
+     "url": "https://www.thisdaylive.com/2026/11/18/uba-deepens-fight-against-phishing-scam/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-16",
+     "titre": "Cyber Africa Forum : Cotonou met la confiance numérique au premier plan",
+     "resume": "La 6e édition, réunissant une quarantaine de pays les 16 et 17 novembre, a fixé quatre priorités : souveraineté, infrastructures critiques, cadre juridique et compétences locales.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/cyber-africa-forum-2026-le-benin-erige-la-confiance-et-la-souverainete-numeriques-en-priorites-strategiques/"
+    },
     {
      "theme": "Bénin",
      "date": "2026-11-17",
@@ -3698,14 +3826,6 @@
     {
      "theme": "Bénin",
      "date": "2026-11-17",
-     "titre": "Wadagni explore une coopération économique avec le Vietnam",
-     "resume": "En marge du Sommet de la Francophonie à Phnom Penh, le président béninois a évoqué avec le dirigeant vietnamien Tô Lâm le riz, l'anacarde, le coton, les ports et les investissements vietnamiens ; aucun accord chiffré n'a été annoncé.",
-     "source": "Le Matinal",
-     "url": "https://lematinal.bj/cooperation-benin-vietnam-wadagni-explore-de-nouvelles-opportunites-de-partenariats-economiques/"
-    },
-    {
-     "theme": "Bénin",
-     "date": "2026-11-17",
      "titre": "GDIZ : un textile de Glo-Djigbé en discussion pour fabriquer des maillots du FC Barcelone",
      "resume": "Selon la presse, l'usine Panafritex étudie un partenariat avec le club catalan, sans contrat signé à ce stade ; la zone transforme déjà plus de 40 000 tonnes de fibre de coton par an et vise 100 000 tonnes en 2030.",
      "source": "La Nouvelle Tribune",
@@ -3713,11 +3833,11 @@
     },
     {
      "theme": "Bénin",
-     "date": "2026-11-16",
-     "titre": "Le Conseil économique et social explique trois lois à 2 400 acteurs",
-     "resume": "À partir du 17 novembre, 24 séances dans les 12 départements présentent la loi d'orientation agricole, le Code pastoral et le nouveau Code de la route adopté le 26 octobre ; une deuxième phase est prévue du 7 au 11 décembre.",
-     "source": "Bénin Web TV",
-     "url": "https://beninwebtv.bj/benin-ces-2400-acteurs-trois-lois-17-novembre-2026/"
+     "date": "2026-11-17",
+     "titre": "Budget 2027 : 11,59 milliards FCFA pour le ministère du Numérique",
+     "resume": "Le budget du ministère de la Transformation digitale baisse de près de 30 % car un projet financé de l'extérieur sort de son périmètre, mais l'effort sur ressources propres augmente de 16 % et l'investissement pèse les deux tiers.",
+     "source": "Le Matinal",
+     "url": "https://lematinal.bj/transformation-digitale-1159-milliards-fcfa-pour-accelerer-la-revolution-numerique-au-benin/"
     },
     {
      "theme": "Régulation et marchés",
@@ -3746,34 +3866,18 @@
     {
      "theme": "Régulation et marchés",
      "date": "2026-11-17",
-     "titre": "Revue des réformes de l'UEMOA : le taux de mise en œuvre du Sénégal recule",
-     "resume": "La phase technique de la 12e revue, ouverte à Dakar, évalue 149 textes communautaires ; le Sénégal passe de 78,6 % à 76,5 % d'application, alors que le Bénin annonçait la semaine dernière des estimations au-delà de 80 %.",
-     "source": "Financial Afrik",
-     "url": "https://www.financialafrik.com/2026/11/17/uemoa-la-12%E1%B5%89-revue-annuelle-des-reformes-communautaires-fait-etape-au-senegal/"
+     "titre": "La BCEAO fixe au 2 décembre la prochaine réunion sur son taux directeur",
+     "resume": "Le Comité de politique monétaire se réunira à Dakar le 2 décembre 2026 ; le taux directeur est à 3 % et l'inflation de l'Union remonte.",
+     "source": "Leral",
+     "url": "https://www.leral.net/La-BCEAO-annonce-une-reunion-ordinaire-de-son-Comite-de-Politique-Monetaire_a411483.html"
     },
     {
-     "theme": "Banques et concurrents",
+     "theme": "Régulation et marchés",
      "date": "2026-11-18",
-     "titre": "UBA lance sa semaine de sensibilisation à la fraude",
-     "resume": "Du 16 au 20 novembre, le groupe rappelle à ses clients qu'il ne demande jamais code, mot de passe ou code à usage unique par lien, SMS ou téléphone, face à la hausse des escroqueries par hameçonnage.",
-     "source": "ThisDay",
-     "url": "https://www.thisdaylive.com/2026/11/18/uba-deepens-fight-against-phishing-scam/"
-    },
-    {
-     "theme": "Banques et concurrents",
-     "date": "2026-11-17",
-     "titre": "UBA Guinée signe 55 millions de dollars de protocoles de financement minier",
-     "resume": "Au Simandou Mining Summit de Conakry, la filiale guinéenne d'UBA a signé deux protocoles d'accord (45 et 10 millions de dollars) avec des entreprises locales ; aucun décaissement n'est encore annoncé.",
-     "source": "The Rio Times",
-     "url": "https://www.riotimesonline.com/uba-guinea-signs-mining-finance-deals-simandou-summit/"
-    },
-    {
-     "theme": "Banques et concurrents",
-     "date": "2026-11-17",
-     "titre": "NSIA Banque Sénégal porte son capital de 27 à 51 milliards FCFA",
-     "resume": "Devenue filiale à part entière du groupe NSIA, la banque (12 agences) vise le top 5 du marché sénégalais et le statut de banque universelle de référence d'ici 2030.",
-     "source": "Le Jecos",
-     "url": "https://www.lejecos.com/DANS-LA-COUR-DES-LEADERS-NSIA-Banque-Senegal-change-d-echelle_a31869.html"
+     "titre": "La Côte d'Ivoire lève 55 milliards FCFA sur le marché régional",
+     "resume": "Le Trésor ivoirien a placé le 17 novembre des bons à un an et des obligations de 3 à 7 ans, signe que les États continuent de solliciter fortement la liquidité des banques en fin d'année.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/18/la-cote-divoire-leve-55-milliards-fcfa-sur-le-marche-financier-de-lumoa-2/"
     },
     {
      "theme": "Afrique",
@@ -3814,6 +3918,14 @@
      "resume": "Devant un juge de Brooklyn, les deux réseaux défendent un règlement qui réduirait les commissions payées par les commerçants américains et assouplirait l'obligation d'accepter toutes les cartes ; la décision n'est pas encore rendue.",
      "source": "The Daily Hodl (d'après Reuters)",
      "url": "https://dailyhodl.com/2026/11/17/visa-and-mastercard-urge-federal-judge-to-approve-38000000000-swipe-fee-settlement/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-18",
+     "titre": "Hong Kong veut des agents d'IA pour traquer la criminalité liée aux cryptos",
+     "resume": "L'autorité monétaire de Hong Kong étudie l'IA « agentique » pour croiser transferts sur la blockchain et opérations bancaires des clients ; 84 % des fonds illicites reçus en 2025 l'ont été en stablecoins selon Chainalysis.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959"
     }
    ]
   },
