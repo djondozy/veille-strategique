@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-18T12:21:54Z",
+ "derniereMaj": "2026-11-19T05:14:08Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Coris Bank Bénin en route vers la Bourse, budget 2027 en commission et crédit plus cher au Bénin",
@@ -647,6 +647,12 @@
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
     {
+     "date": "2026-11-18",
+     "texte": "Le groupe Coris confirme que les introductions en Bourse de Coris Bank Bénin (19 milliards FCFA) et de sa filiale ivoirienne (62 milliards) auront lieu à quelques jours d'écart en janvier 2027 ; prix et part offerte restent à publier, une campagne de promotion est annoncée.",
+     "source": "Billionaires.Africa",
+     "url": "https://www.billionaires.africa/2026/11/18/burkina-faso-banker-idrissa-nassa-plans-138-million-listings-for-two-banks/"
+    },
+    {
      "date": "2026-11-17",
      "texte": "Coris Bank Bénin prépare son introduction à la BRVM en janvier 2027 pour lever 19 milliards FCFA, en même temps que Coris Bank Côte d'Ivoire (62 milliards) ; l'AMF-UMOA a donné son autorisation. En 2025, la filiale béninoise (3e banque du pays) affichait 850,3 milliards de bilan et environ 8 milliards de bénéfice.",
      "source": "Sika Finance",
@@ -675,12 +681,6 @@
      "texte": "Au niveau du groupe : la maison mère burkinabè publie un résultat net de 62,3 milliards FCFA à fin septembre (+17,8 %), des dépôts en hausse de 26,4 % et des crédits nets en hausse de 15,2 %.",
      "source": "allAfrica",
      "url": "https://allafrica.com/stories/202611040060.html"
-    },
-    {
-     "date": "2026-10-23",
-     "texte": "Remaniement du groupe Coris : le directeur général adjoint de Coris Bank Bénin, Jean-Marie Kompaoré, part au Togo et est remplacé par Jean-Baptiste Kouamé ; aucun changement de directeur général annoncé au Bénin.",
-     "source": "Ecomatin",
-     "url": "https://ecomatin.net/abidjan-lome-libreville-idrissa-nassa-remanie-les-etats-majors-de-coris-bank-en-afrique"
     }
    ]
   },
@@ -1240,6 +1240,34 @@
   ],
   "actus": [
    {
+    "date": "2026-11-18",
+    "titre": "Gaz domestique : un navire de butane arrivé, la distribution reste perturbée",
+    "resume": "Le gouvernement annonce une baisse des prix une fois le gaz disponible partout, mais les recharges de 6 kg restaient introuvables à Cotonou et Abomey-Calavi le 18 novembre.",
+    "source": "La Nouvelle Tribune ; Matin Libre",
+    "url": "https://lanouvelletribune.info/2026/11/gaz-au-benin-leandre-houngbedji-annonce-larrivee-dun-navire-pour-soulager-les-consommateurs/"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "Électricité : le Bénin ne couvre que 40 % de ses besoins",
+    "resume": "Le reste est importé du Nigeria et du Ghana ; le barrage de Dogo-Bis (128 MW) est mis en avant dans le programme d'action 2026-2033.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/electricite-au-benin-leandre-houngbedji-devoile-ce-que-prevoit-le-pag-2026-2033/"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "BRVM : le composite à 500,95 points après quatre séances de baisse",
+    "resume": "Recul de 0,34 % le 18 novembre, avec seulement 1,38 milliard FCFA de transactions.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/BRVM-Quatrieme-journee-de-baisse-ininterrompue-des-indices-phares-ce-mercredi-18-novembre-2026_a31874.html"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "Nigeria : accord banque centrale–NNPC sur les devises",
+    "resume": "Le voisin cherche à mieux rapatrier ses recettes pétrolières pour stabiliser le naira, un enjeu pour le commerce frontalier avec le Bénin.",
+    "source": "CNBC Africa (Reuters)",
+    "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding"
+   },
+   {
     "date": "2026-11-17",
     "titre": "SBEE : 1,14 million de clients et 52 milliards FCFA de l'AFD pour le réseau",
     "resume": "Trois ans après l'arrivée d'Eranove, l'opérateur public d'électricité revendique 4 711 postes et 18 000 km de lignes.",
@@ -1490,38 +1518,17 @@
     "resume": "Le 4e rapport sur l'économie béninoise relève une hausse de l'emploi salarié des grandes entreprises limitée à 0,2 % en 2025 et une informalité de 96 %.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/marche-du-travail-malgre-un-pib-robuste-a-81-en-2025-la-creation-demplois-salaries-stagne-a-02-dans-les-grandes-entreprises-au-benin/"
-   },
-   {
-    "date": "2026-11-09",
-    "titre": "Croissance forte, emploi salarié faible",
-    "resume": "La Banque mondiale note que l'emploi des grandes entreprises n'a crû que de 0,2 % en 2025 malgré 8,1 % de croissance ; le salariat représente moins de 20 % des emplois.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-81-de-croissance-mais-seulement-02-de-hausse-de-lemploi-dans-les-grandes-entreprises/"
-   },
-   {
-    "date": "2026-11-09",
-    "titre": "Inflation alimentaire de 5,6 % au second semestre 2025",
-    "resume": "La Banque mondiale relève une flambée de l'huile de palme (+21,4 %), du piment (+16,1 %) et de l'igname (+11,3 %), alors que l'inflation générale est restée à 1,1 %.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-huile-de-palme-piment-et-igname-ont-fortement-rencheri-en-2025/"
-   },
-   {
-    "date": "2026-11-09",
-    "titre": "Exportations vers le Royaume-Uni : +62,5 %",
-    "resume": "Les ventes du Bénin au Royaume-Uni atteignent 13 millions de livres sur douze mois à fin juin 2026, surtout des fruits et légumes.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/benin-les-exportations-vers-le-royaume-uni-bondissent-de-625-les-fruits-dominent/"
-   },
-   {
-    "date": "2026-11-09",
-    "titre": "Togo : 1,5 % des crédits bancaires pour l'agriculture",
-    "resume": "Le nouveau directeur national de la BCEAO au Togo fait du financement de l'économie sa priorité ; les prêts dégradés représentent 13,4 % du portefeuille.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gestion-publique/0911-20579-togo-le-financement-de-l-economie-premier-defi-dekoue-djro-glokpor-nouveau-directeur-de-la-bceao"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-18",
+   "titre": "Nigeria : les provisions d'Ecobank restent stables quand celles des concurrents chutent",
+   "resume": "Selon BusinessDay, les charges de dépréciation d'Ecobank sur neuf mois sont restées autour de 393,8 milliards de nairas, alors que Zenith et Access les ont réduites de plus de 70 % et le secteur de 47 %.",
+   "source": "BusinessDay",
+   "url": "https://businessday.ng/business-economy/article/banks-47-drop-in-bad-loan-charges-offers-little-relief-to-borrowers"
+  },
   {
    "date": "2026-11-17",
    "titre": "ETI deuxième groupe le plus rentable parmi les banques cotées au Nigeria sur neuf mois",
@@ -1692,6 +1699,34 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-18",
+   "titre": "Stablecoins : Visa en fait un outil de trésorerie pour les virements internationaux",
+   "resume": "Visa Direct étend à l'Asie-Pacifique le préfinancement des paiements transfrontaliers en stablecoins, déjà commercialisé aux États-Unis, ce qui permet aux prestataires d'alimenter leurs comptes 24h/24 sans attendre l'ouverture des banques.",
+   "implication": "Les acteurs de transfert d'argent et les fintechs qui servent la diaspora béninoise pourraient, à terme, régler leurs flux sans passer par les correspondants bancaires classiques, ce qui menace une partie de nos commissions sur les rapatriements.",
+   "pistes": [
+    "Cartographier nos flux de rapatriement (Europe, Nigeria, Asie) et leurs coûts pour mesurer l'exposition à ces nouveaux circuits.",
+    "Étudier avec le groupe et les sociétés de transfert partenaires une offre de crédit en compte instantané au Bénin, y compris le week-end, via PI-SPI.",
+    "Suivre la position de la BCEAO sur les stablecoins avant toute expérimentation, puisqu'ils restent exclus de son bac à sable."
+   ],
+   "vigilance": "Dans l'UEMOA, les cryptoactifs et stablecoins n'ont pas de cadre autorisé : tout usage par des clients doit être surveillé au titre de la lutte anti-blanchiment.",
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "Agents d'IA et API de paiement : les banques centrales serrent la vis",
+   "resume": "La banque centrale du Nigeria met en garde contre les droits trop larges donnés aux agents d'IA, et celle de l'Inde impose des contrôles renforcés sur les interfaces de virement (limites de débit, listes blanches, vérification du bénéficiaire, alerte sous six heures).",
+   "implication": "Avec PI-SPI, l'ouverture des comptes aux fintechs et l'usage croissant de l'IA, la BCEAO devrait à son tour durcir ses exigences sur la sécurité de nos API et de nos outils automatisés.",
+   "pistes": [
+    "Faire l'inventaire des API exposées (PI-SPI, agrégateurs comme FedaPay ou KkiaPay, partenaires) et des limites de débit appliquées à chacune.",
+    "Mettre en place la vérification du nom du bénéficiaire avant validation des virements instantanés pour réduire les fraudes par usurpation.",
+    "Définir une règle interne sur les droits accordés aux outils d'IA (lecture seule par défaut, validation humaine pour les opérations)."
+   ],
+   "vigilance": "Une API mal protégée peut permettre des virements frauduleux en rafale en quelques minutes, sans possibilité de retour avec le paiement instantané.",
+   "source": "BusinessDay ; Business Standard",
+   "url": "https://businessday.ng/news/article/ai-agents-pose-new-risks-to-nigerian-banks-cbn-warns/"
+  },
   {
    "date": "2026-11-18",
    "titre": "Les régulateurs passent à l'IA « agentique » contre la criminalité financière",
@@ -2218,34 +2253,6 @@
    "vigilance": "Aucune offre liée aux crypto-actifs sans cadre explicite de la BCEAO.",
    "source": "Banking Dive",
    "url": "https://www.bankingdive.com/news/occ-final-rule-genius-stablecoin-yield-gould-bessent-icba/833638/"
-  },
-  {
-   "date": "2026-10-21",
-   "titre": "Inde : la première banque du pays déclare une fuite de données clients",
-   "resume": "State Bank of India a signalé aux bourses un incident de perte de données : 3 897 enregistrements contenaient des données personnelles (nom, téléphone, date de naissance, adresse, numéro client), sans mot de passe ni fonds détourné.",
-   "implication": "Même sans perte d'argent, une fuite de données oblige à communiquer publiquement et expose à l'hameçonnage ciblé des clients.",
-   "pistes": [
-    "Vérifier où sont stockés les fichiers clients extraits (rapports, tableaux) et qui y a accès.",
-    "Préparer un plan de communication et de notification aux clients en cas de fuite, conforme à la loi béninoise sur les données personnelles.",
-    "Sensibiliser les clients aux faux appels utilisant leurs données personnelles."
-   ],
-   "vigilance": "Les extractions de données pour les rapports internes sont souvent le maillon faible.",
-   "source": "Safeguard (déclaration de SBI)",
-   "url": "https://safeguard.sh/resources/blog/sbi-data-exposure-october-2026"
-  },
-  {
-   "date": "2026-10-20",
-   "titre": "Identités numériques : le Bénin teste l'interopérabilité avec le Ghana et le Rwanda",
-   "resume": "Le Bénin, le Ghana et le Rwanda ont réussi une première phase de test d'interopérabilité de leurs identités numériques nationales dans le cadre de l'initiative Smart Africa soutenue par la ZLECAf ; une phase pilote opérationnelle doit suivre.",
-   "implication": "À terme, la vérification d'identité de clients étrangers pourrait se faire en temps réel auprès des registres officiels de leur pays, ce qui faciliterait l'ouverture de comptes transfrontalière.",
-   "pistes": [
-    "Suivre la phase pilote pour préparer un raccordement de l'entrée en relation client aux registres d'identité numérique.",
-    "Étudier avec le groupe une offre d'ouverture de compte simplifiée pour les clients ghanéens et nigérians actifs au Bénin.",
-    "Mesurer les gains possibles sur les délais et coûts de vérification KYC."
-   ],
-   "vigilance": "Le dispositif n'en est qu'au stade des tests : aucun usage bancaire n'est encore autorisé ni encadré.",
-   "source": "Sika Finance",
-   "url": "https://www.sikafinance.com/marches/interoperabilite-des-identites-numeriques-nationales-benin-ghana-et-rwanda-reussissent-le-test-pilote_65141"
   }
  ],
  "marche": {
@@ -2632,6 +2639,34 @@
   "url": "https://www.sikafinance.com/marches/brvm-un-marche-peint-en-rouge_65794"
  },
  "opportunites": [
+  {
+   "date": "2026-11-18",
+   "titre": "Barrage de Dogo-Bis et déficit électrique : un chantier de financement énergétique en vue",
+   "resume": "Le gouvernement présente la centrale hydroélectrique de Dogo-Bis (128 MW, Kétou) comme prête à être réalisée dans le programme 2026-2033, alors que le pays ne produit qu'environ 40 % de l'électricité qu'il consomme.",
+   "implication": "Ce projet et la recherche d'autonomie électrique ouvrent des besoins de financement, de garanties et de services de trésorerie pour l'État, les constructeurs et les entreprises qui investissent dans leur propre production.",
+   "pistes": [
+    "Se positionner auprès de l'équipe de pilotage du projet pour les cautions de marché, les garanties de bonne exécution et la gestion des comptes du chantier.",
+    "Proposer aux industriels et PME très consommateurs d'électricité un crédit dédié aux centrales solaires et groupes de secours.",
+    "Étudier un cofinancement avec la BOAD, la BAD ou l'AIIB, déjà actives sur l'énergie au Bénin."
+   ],
+   "vigilance": "Le calendrier et le montage financier du barrage ne sont pas encore publiés : aucun engagement ne doit être anticipé avant l'annonce officielle des bailleurs.",
+   "source": "La Nouvelle Tribune",
+   "url": "https://lanouvelletribune.info/2026/11/electricite-au-benin-leandre-houngbedji-devoile-ce-que-prevoit-le-pag-2026-2033/"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "Obligations vertes garanties : un modèle pour financer l'agro-industrie béninoise",
+   "resume": "Swami Agri a coté à la BRVM 30 milliards FCFA d'obligations vertes à 7 % sur cinq ans, garanties par le FAGACE, pour construire des entrepôts frigorifiques et une centrale solaire.",
+   "implication": "Des entreprises agro-industrielles béninoises (coton, anacarde, soja, GDIZ) pourraient suivre ce modèle, ce qui ouvre un rôle d'arrangeur et de banque d'accompagnement, mais aussi un risque de désintermédiation de nos crédits.",
+   "pistes": [
+    "Identifier deux ou trois grands clients agro-industriels capables d'émettre et leur présenter, avec une SGI partenaire, un montage obligataire vert garanti.",
+    "Approcher le FAGACE pour des garanties sur nos propres crédits agricoles à moyen terme.",
+    "Proposer des comptes de séquestre et la gestion des fonds levés pour garder la relation bancaire après l'émission."
+   ],
+   "vigilance": "Une émission réussie remplace souvent des crédits bancaires : il faut proposer le service d'arrangement avant qu'un concurrent ou une SGI ne capte le client.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/Finance-verte-Swami-Agri-mobilise-30-milliards-de-FCFA-pour-renforcer-ses-capacites-de-production-et-de-stockage_a31870.html"
+  },
   {
    "date": "2026-11-12",
    "titre": "Douane numérique commune Nigeria-Bénin-Cameroun : un pilote lancé",
@@ -3158,34 +3193,6 @@
     "Coordonner avec le groupe le calendrier des décaissements pour préparer les lignes de crédit locales."
    ],
    "vigilance": "Délais de paiement de l'État et concentration du risque."
-  },
-  {
-   "date": "2026-10-13",
-   "titre": "249,5 milliards FCFA de la BID et de la BADEA pour les routes et l'électrification",
-   "resume": "Trois accords signés en marge des Assemblées annuelles BM/FMI financeront notamment l'élargissement de la route Godomey-Ouidah-Hillacondji et l'électrification de plus de 100 localités.",
-   "implication": "De nouveaux marchés publics de BTP et d'énergie vont générer des besoins de cautions, de préfinancement et de paiements fournisseurs.",
-   "pistes": [
-    "Suivre les appels d'offres de ces projets pour approcher les entreprises adjudicataires en amont.",
-    "Proposer des cautions de soumission et de bonne exécution aux entreprises de BTP locales.",
-    "Étudier une offre conforme à la finance islamique, exigée par certains projets financés par la BID."
-   ],
-   "vigilance": "Délais de décaissement des bailleurs pouvant retarder les paiements aux entreprises.",
-   "source": "Capmad",
-   "url": "https://www.capmad.com/article/benin-2495-milliards-de-fcfa-mobilises-en-marge-des-assemblees-annuelles-bmfmi"
-  },
-  {
-   "date": "2026-10-12",
-   "titre": "Les paiements de masse de l'État passent au paiement instantané",
-   "resume": "Le Trésor ivoirien paie salaires, bourses et transferts sociaux via PI-SPI ; les sept autres Trésors de l'Union doivent suivre.",
-   "implication": "Le jour où le Trésor béninois bascule, les banques prêtes capteront les flux de salaires et d'allocations.",
-   "source": "Capmad",
-   "url": "https://www.capmad.com/article/finances-publiques-la-cote-divoire-adopte-les-paiements-instantanes-de-la-bceao",
-   "pistes": [
-    "Se positionner auprès du Trésor béninois pour être prêts dès sa bascule.",
-    "Proposer aux employeurs privés le paiement des salaires par PI-SPI.",
-    "Mettre en avant l'API PI-SPI Business de la banque auprès des administrations."
-   ],
-   "vigilance": "Les banques non prêtes risquent de perdre des flux de domiciliation de salaires."
   }
  ],
  "historique": {
@@ -3760,9 +3767,126 @@
   "Banque correspondante": "Banque étrangère qui tient un compte pour une autre banque afin d'exécuter en son nom des paiements internationaux.",
   "IA agentique": "Intelligence artificielle capable d'enchaîner seule plusieurs tâches (rechercher, analyser, alerter) pour atteindre un objectif, sous la supervision d'un humain.",
   "Hypertrucage (deepfake)": "Fausse vidéo ou fausse voix fabriquée par intelligence artificielle pour imiter une personne réelle, utilisée notamment dans les escroqueries au virement.",
-  "Comité de politique monétaire (CPM)": "Instance de la BCEAO qui se réunit chaque trimestre pour fixer les taux directeurs applicables aux huit pays de l'UEMOA."
+  "Comité de politique monétaire (CPM)": "Instance de la BCEAO qui se réunit chaque trimestre pour fixer les taux directeurs applicables aux huit pays de l'UEMOA.",
+  "API": "Interface de programmation : « prise » informatique qui permet à un autre logiciel (fintech, partenaire, PI-SPI) d'envoyer des ordres ou de lire des données dans le système de la banque.",
+  "FAGACE": "Fonds africain de garantie et de coopération économique : institution panafricaine basée à Cotonou qui garantit des prêts et des emprunts obligataires d'entreprises.",
+  "Obligation verte": "Emprunt obligataire dont les fonds sont réservés à des projets bénéfiques pour l'environnement (énergie solaire, efficacité énergétique, etc.).",
+  "Préfinancement": "Dépôt de fonds à l'avance par un prestataire de paiement auprès d'un réseau, pour que ses virements puissent être exécutés immédiatement.",
+  "Établissement de monnaie électronique": "Société agréée par la banque centrale pour émettre de la monnaie électronique (porte-monnaie mobile), comme MTN MoMo, Moov Money ou Wave.",
+  "CBN": "Central Bank of Nigeria : la banque centrale du Nigeria, qui fixe le taux directeur et réglemente les banques nigérianes comme UBA ou Access.",
+  "SFI": "Société financière internationale (IFC en anglais) : filiale de la Banque mondiale qui investit et prête au secteur privé, y compris aux banques."
  },
  "journal": [
+  {
+   "date": "2026-11-19",
+   "synthese": "La journée est marquée au Bénin par les tensions persistantes sur le gaz domestique et le rappel de la dépendance électrique (40 % des besoins couverts localement) ; côté marché, la BRVM enchaîne une quatrième baisse tandis que l'introduction en Bourse de Coris se précise pour janvier, qu'Access Bank ouvre le capital de ses filiales et que les régulateurs (Nigeria, Inde) durcissent la sécurité des paiements face à l'IA.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-18",
+     "titre": "Gaz domestique : un navire de butane arrivé à Cotonou, mais les bouteilles restent introuvables",
+     "resume": "Un bateau de butane est arrivé au port le 17 novembre et le porte-parole du gouvernement promet une baisse des prix une fois la distribution rétablie ; sur le terrain, les recharges de 6 kg manquaient encore le 18 à Cotonou et Abomey-Calavi, l'administration évoquant des difficultés logistiques plutôt qu'une pénurie.",
+     "source": "La Nouvelle Tribune ; Matin Libre",
+     "url": "https://lanouvelletribune.info/2026/11/gaz-au-benin-leandre-houngbedji-annonce-larrivee-dun-navire-pour-soulager-les-consommateurs/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-18",
+     "titre": "Électricité : le barrage de Dogo-Bis (128 MW) mis en avant dans le programme 2026-2033",
+     "resume": "Le gouvernement rappelle que la production nationale ne couvre qu'environ 40 % des besoins, le reste étant importé du Nigeria et du Ghana, et présente la centrale hydroélectrique de Dogo-Bis à Kétou comme prête à être réalisée.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/electricite-au-benin-leandre-houngbedji-devoile-ce-que-prevoit-le-pag-2026-2033/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-19",
+     "titre": "PIB 2026 selon le FMI : le Bénin hors du top 10 africain",
+     "resume": "Le classement du FMI par PIB nominal place l'Afrique du Sud, l'Égypte et le Nigeria en tête ; malgré sa croissance de près de 8 %, le Bénin reste une économie de taille modeste à l'échelle du continent.",
+     "source": "Matin Libre",
+     "url": "https://matinlibre.com/2026/11/19/classement-fmi-2026-le-benin-absent-du-top-10-continental/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-18",
+     "titre": "Access Bank va ouvrir jusqu'à 25 % du capital de ses filiales africaines",
+     "resume": "Le groupe nigérian veut céder des participations minoritaires à des investisseurs locaux pour respecter le plafond de la banque centrale nigériane sur les investissements à l'étranger (10 % des fonds propres, contre 19,4 % aujourd'hui), après des ventes déjà réalisées en Afrique du Sud, au Botswana et au Ghana.",
+     "source": "EcoMatin ; Forbes Afrique",
+     "url": "https://ecomatin.net/afrique-access-bank-veut-ouvrir-le-capital-de-ses-filiales-aux-investisseurs-locaux"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-17",
+     "titre": "SUNU veut devenir une banque de référence en Afrique de l'Ouest",
+     "resume": "La holding bancaire du groupe d'assurance SUNU, où la SFI (filiale de la Banque mondiale) est entrée au capital, revendique environ 1 000 milliards FCFA de bilan pour ses banques du Sénégal et du Togo, avec des crédits en hausse de 10 % en 2025.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/17/myriam-agbanglanon-adotevi-lambition-de-sunu-investment-holding-est-de-devenir-un-acteur-bancaire-de-reference-en-afrique-de-louest/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-18",
+     "titre": "Wave obtient une licence de monnaie électronique en RDC",
+     "resume": "Premier nouvel agrément depuis 2015 dans ce pays ; l'article rappelle que Wave détient environ 80 % des encours de monnaie électronique au Sénégal et que ces encours ont progressé de 35 % dans l'UEMOA en 2025.",
+     "source": "Ecofin Agency",
+     "url": "https://www.ecofinagency.com/news-finances/1811-60947-wave-wins-drc-mobile-money-license-ending-11-year-freeze-on-new-entrants"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-18",
+     "titre": "BRVM : quatrième séance de baisse, le composite passe sous 501 points",
+     "resume": "Le 18 novembre, l'indice BRVM Composite a reculé de 0,34 % à 500,95 points, dans un marché peu actif (1,38 milliard FCFA échangés contre 2,4 milliards la veille).",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/BRVM-Quatrieme-journee-de-baisse-ininterrompue-des-indices-phares-ce-mercredi-18-novembre-2026_a31874.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-18",
+     "titre": "Swami Agri cote à la BRVM la première obligation verte d'une entreprise agricole de l'Union",
+     "resume": "L'entreprise sénégalaise a levé 30 milliards FCFA à 7 % sur cinq ans, garantis par le FAGACE, pour financer des entrepôts frigorifiques et une centrale solaire.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Finance-verte-Swami-Agri-mobilise-30-milliards-de-FCFA-pour-renforcer-ses-capacites-de-production-et-de-stockage_a31870.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-18",
+     "titre": "Coris : la levée de 81 milliards FCFA en Bourse se précise pour janvier",
+     "resume": "Les deux introductions (Côte d'Ivoire et Bénin) auront lieu à quelques jours d'écart en janvier 2027 ; le prix et la part du capital offerte restent à annoncer, une campagne de promotion étant attendue dans les prochains jours.",
+     "source": "Billionaires.Africa",
+     "url": "https://www.billionaires.africa/2026/11/18/burkina-faso-banker-idrissa-nassa-plans-138-million-listings-for-two-banks/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Nigeria : accord entre la banque centrale et NNPC pour mieux rapatrier les devises pétrolières",
+     "resume": "L'accord signé le 18 novembre vise à canaliser les recettes d'exportation de pétrole et de gaz et à attirer des investissements dans le gaz, afin de stabiliser le naira ; aucun montant n'est publié.",
+     "source": "CNBC Africa (Reuters)",
+     "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Nigeria : la banque centrale alerte sur les risques des agents d'IA dans les banques",
+     "resume": "La CBN appelle à limiter les accès donnés aux agents d'IA ; les pertes liées à la fraude sur paiements électroniques ont pourtant été divisées par deux en 2025, à environ 26 milliards de nairas.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/news/article/ai-agents-pose-new-risks-to-nigerian-banks-cbn-warns/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-18",
+     "titre": "Visa étend à l'Asie le préfinancement des virements internationaux en stablecoins",
+     "resume": "Après des tests avec USDC et EURC et un lancement commercial aux États-Unis en octobre, Visa Direct permet à des prestataires asiatiques de financer leurs paiements transfrontaliers en stablecoins, y compris hors heures bancaires.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-18",
+     "titre": "Inde : la banque centrale exige des banques une sécurité renforcée de leurs API",
+     "resume": "La RBI impose limites de débit, listes blanches, chiffrement et vérification préalable des bénéficiaires sur les interfaces de virement, et un signalement des incidents cyber sous six heures.",
+     "source": "Business Standard",
+     "url": "https://www.business-standard.com/industry/banking/rbi-asks-lenders-to-tighten-api-security-amid-rising-cyberattack-risks-126111801271_1.html"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "synthese": "La journée est dominée par l'annonce de l'introduction en Bourse de Coris Bank Bénin (19 milliards FCFA, janvier 2027), troisième banque du pays, et par la date du prochain comité de la BCEAO sur le taux directeur (2 décembre) ; au Bénin, l'examen du budget 2027 se poursuit ministère par ministère, tandis que la BRVM a fini le 17 novembre sans aucune hausse et que les régulateurs mondiaux misent sur l'IA contre la fraude.",
