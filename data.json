@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-19T12:22:51Z",
+ "derniereMaj": "2026-11-20T05:14:57Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Coris Bank Bénin en route vers la Bourse, budget 2027 en commission et crédit plus cher au Bénin",
@@ -1283,6 +1283,27 @@
   "actus": [
    {
     "date": "2026-11-19",
+    "titre": "BRVM : le composite recule de 1,40 % à 493,95 points",
+    "resume": "Cinquième séance de baisse ; 11,1 milliards FCFA échangés, Coris Bank International −6,33 %, BIIC −2,44 %.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "Togo : crédit bancaire à 8-12 % et électricité chère freinent l'industrie",
+    "resume": "Les industriels réunis à Lomé demandent un meilleur accès au financement ; le patronat a négocié une garantie de 50 milliards FCFA auprès du FSA.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/1811-20686-semaine-nationale-de-l-industrie-2026-de-quoi-ont-besoin-les-entreprises-togolaises"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "Côte d'Ivoire : 55 milliards FCFA levés sur le marché des titres publics",
+    "resume": "L'émission du 17 novembre a dépassé l'objectif de 50 milliards FCFA.",
+    "source": "Financial Afrik",
+    "url": "https://www.financialafrik.com/2026/11/18/la-cote-divoire-leve-55-milliards-fcfa-sur-le-marche-financier-de-lumoa-2/"
+   },
+   {
+    "date": "2026-11-19",
     "titre": "Inflation au Bénin : 2,5 % sur un an en octobre",
     "resume": "Les transports (+17,9 %) et l'énergie (+14,6 %) tirent les prix, l'alimentation ne progressant que de 1,1 % ; l'inflation moyenne sur douze mois reste à 0,5 %.",
     "source": "Matin Libre (données INStaD)",
@@ -1539,27 +1560,6 @@
     "resume": "Le comité prépare la stratégie nationale de facilitation des échanges et la garantie unique de transit douanier, pour faire du Bénin un pôle logistique régional.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/commerce-exterieur-le-comite-national-de-facilitation-des-echanges-lance-sa-premiere-session-ordinaire-de-2026-a-cotonou/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Budget 2027 : audition des syndicats en commission",
-    "resume": "Le projet de budget 2027 (4 757 milliards FCFA, déficit de 2,8 % du PIB) est examiné à l'Assemblée ; les syndicats ont réclamé le 11 novembre des négociations salariales en 2027.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/budget-2027-au-benin-les-syndicats-reclament-1-000-beneficiaires-de-plus-et-des-negociations-salariales/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Éducation : 598 milliards FCFA de budget en 2026",
-    "resume": "Selon le ministre, le budget de l'éducation atteint 598 milliards FCFA en 2026 contre 508 milliards en 2025, avec un périmètre ministériel modifié.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-budget-education-598-milliards-2026-revue-sectorielle/"
-   },
-   {
-    "date": "2026-11-12",
-    "titre": "Pétrole : 330 000 barils de Sèmè exportés vers Rotterdam",
-    "resume": "Première cargaison de brut béninois depuis près de 30 ans, produite par Akrake Petroleum sur un champ relancé début 2026 et qui donne environ 3 000 barils par jour.",
-    "source": "gCaptain (dépêche Bloomberg)",
-    "url": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/"
    }
   ]
  },
@@ -2653,34 +2653,62 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "7 995",
-    "detail": "+0,44 % sur la séance du 18 novembre (7 960 FCFA la veille) selon brvm.org, l'un des rares titres en hausse ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre.",
+    "cours": "7 800",
+    "detail": "−2,44 % sur la séance du 19 novembre (7 995 FCFA la veille) selon brvm.org, dans un marché en net repli ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre.",
     "url": "https://www.brvm.org/en/cours-actions/officiel"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 050",
-    "detail": "−0,55 % sur la séance du 18 novembre (9 100 FCFA la veille) selon brvm.org ; résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
+    "cours": "9 045",
+    "detail": "−0,06 % sur la séance du 19 novembre (9 050 FCFA la veille) selon brvm.org ; résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
     "url": "https://www.brvm.org/en/cours-actions/officiel"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
     "cours": "57",
-    "detail": "−1,72 % sur la séance du 18 novembre (58 FCFA la veille) selon brvm.org, avec près de 782 000 titres échangés ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
+    "detail": "Stable sur la séance du 19 novembre selon brvm.org, avec près de 2,07 millions de titres échangés ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
     "url": "https://www.brvm.org/en/cours-actions/officiel"
    }
   ],
-  "source": "BRVM, séance du 18 novembre 2026 (BRVM Composite −0,34 %, à 500,95 points, quatrième baisse d'affilée) ; Le Jecos",
-  "url": "https://www.lejecos.com/BRVM-Quatrieme-journee-de-baisse-ininterrompue-des-indices-phares-ce-mercredi-18-novembre-2026_a31874.html"
+  "source": "BRVM, séance du 19 novembre 2026 (BRVM Composite −1,40 %, à 493,95 points, cinquième baisse d'affilée) ; Le Jecos",
+  "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
  },
  "opportunites": [
+  {
+   "date": "2026-11-19",
+   "titre": "Cantines scolaires : 41,4 milliards FCFA en 2027, un marché de fournisseurs à financer",
+   "resume": "Le budget 2027 porte les crédits des cantines scolaires de 33,67 à 41,41 milliards FCFA, avec 4,17 milliards pour les infrastructures de cantines dans les communes et 3 milliards pour construire et réhabiliter des écoles primaires.",
+   "implication": "Cette hausse alimente des centaines de fournisseurs locaux (vivres, cuisinières, petites entreprises de BTP) qui ont besoin de trésorerie en attendant les paiements publics.",
+   "pistes": [
+    "Étudier une offre d'avance sur bons de commande publics pour les fournisseurs de vivres et les entreprises de BTP retenues",
+    "Proposer aux groupements de cuisinières et de producteurs un compte simplifié avec paiement par mobile money",
+    "Approcher les communes pour domicilier les fonds FADeC liés aux cantines et proposer le paiement électronique des prestataires"
+   ],
+   "vigilance": "Les retards de paiement de l'État ou des communes peuvent tendre la trésorerie des petits fournisseurs et dégrader leur remboursement.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/budget-2027-benin-774-milliards-supplementaires-cantines-scolaires/"
+  },
+  {
+   "date": "2026-11-19",
+   "titre": "Numérique public : 5 milliards FCFA en 2027 pour digitaliser l'administration",
+   "resume": "Le ministère de la Transformation digitale consacre 43,6 % de son budget 2027 de 11,59 milliards FCFA à la digitalisation de l'administration et 34,3 % aux infrastructures numériques ; la Cour des comptes prévoit aussi une plateforme de données de contrôle.",
+   "implication": "La numérisation des services publics multiplie les points où un paiement en ligne ou une API bancaire peut être intégré.",
+   "pistes": [
+    "Proposer une passerelle de paiement des frais administratifs en ligne reliant carte, compte et PI-SPI",
+    "Se positionner sur l'intégration bancaire des plateformes publiques (API de vérification de paiement, rapprochement automatique)",
+    "Offrir aux prestataires informatiques retenus des cautions de marché et du préfinancement"
+   ],
+   "vigilance": "Les choix techniques de l'État peuvent privilégier un intégrateur ou un opérateur unique, ce qui limiterait la place des banques.",
+   "source": "Matin Libre",
+   "url": "https://matinlibre.com/2026/11/19/benin-budget-2027-1159-milliards-pour-un-benin-numerique-utile-a-tous/"
+  },
   {
    "date": "2026-11-19",
    "titre": "GDIZ et filières agricoles : soja proche d'un million de tonnes, prime publique de 10 FCFA/kg",
@@ -3207,34 +3235,6 @@
    "vigilance": "Les montants, les financeurs et les dates de mise en service ne sont pas encore publics : à confirmer avant tout engagement.",
    "source": "La Nouvelle Tribune",
    "url": "https://lanouvelletribune.info/2026/10/benin-la-gdiz-prepare-une-offensive-energetique-de-plus-de-625-mw/"
-  },
-  {
-   "date": "2026-10-21",
-   "titre": "Zones économiques spéciales : Afreximbank mobilise les investisseurs à Cotonou",
-   "resume": "Au forum organisé avec la SIPI-Bénin, la GDIZ a annoncé une centrale thermique de plus de 225 MW et des projets solaires ; Afreximbank a syndiqué 69,3 millions d'euros pour la zone.",
-   "implication": "Les industriels et fournisseurs de la GDIZ auront besoin de financement du commerce, de garanties et de gestion de flux en devises.",
-   "pistes": [
-    "Recenser les entreprises installées ou annoncées à la GDIZ et leur proposer une offre dédiée (comptes, crédits documentaires, change).",
-    "Étudier une participation aux financements syndiqués d'Afreximbank sur les projets énergétiques de la zone.",
-    "Proposer la domiciliation des salaires des plus de 25 000 employés de la zone avec paiement par PI-SPI."
-   ],
-   "vigilance": "BSIC Bénin dispose déjà d'un centre d'affaires dans la zone depuis janvier.",
-   "source": "Matin Libre",
-   "url": "https://matinlibre.com/2026/10/22/pour-dynamiser-les-zones-economiques-speciales-afreximbank-et-la-sipi-benin-reunissent-acteurs-economiques-et-decideurs-a-cotonou/"
-  },
-  {
-   "date": "2026-10-21",
-   "titre": "Bénin–Union européenne : l'accès des PME au financement au menu",
-   "resume": "Le deuxième dialogue de partenariat tenu à Cotonou a porté sur le réseau électrique, la modernisation du port et le financement des PME, sans nouvel engagement chiffré annoncé.",
-   "implication": "Les programmes européens d'appui aux PME peuvent offrir des garanties ou des lignes qui réduisent le risque des crédits aux PME béninoises.",
-   "pistes": [
-    "Se rapprocher de la délégation de l'UE et des programmes existants pour se positionner comme banque partenaire.",
-    "Préparer une offre PME adossée à une garantie partielle de crédit d'un bailleur.",
-    "Cibler les sous-traitants du port et du réseau électrique pour les cautions et le préfinancement."
-   ],
-   "vigilance": "Aucun montant ni calendrier n'a été annoncé : éviter d'engager des moyens avant des appels à partenaires concrets.",
-   "source": "Sika Finance",
-   "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172"
   }
  ],
  "historique": {
@@ -3380,6 +3380,12 @@
     "date": "2026-11-18",
     "BICB": 7995,
     "BOAB": 9050,
+    "ETIT": 57
+   },
+   {
+    "date": "2026-11-19",
+    "BICB": 7800,
+    "BOAB": 9045,
     "ETIT": 57
    }
   ]
@@ -3826,9 +3832,73 @@
   "RTGS": "Règlement brut en temps réel : système où les gros paiements entre banques sont réglés un par un, immédiatement et définitivement, sur les livres de la banque centrale.",
   "faux positif": "Opération légitime bloquée à tort par un contrôle anti-fraude parce qu'elle ressemble à une opération suspecte.",
   "SIIPS": "Rapport annuel sur l'état des systèmes de paiement instantané inclusifs en Afrique, publié par AfricaNenda avec la CEA et la Banque mondiale.",
-  "loi organique relative aux lois de finances": "Texte qui fixe les règles de préparation, de vote et d'exécution du budget de l'État ; le Bénin prévoit de la réviser en 2027."
+  "loi organique relative aux lois de finances": "Texte qui fixe les règles de préparation, de vote et d'exécution du budget de l'État ; le Bénin prévoit de la réviser en 2027.",
+  "FADeC": "Fonds d'appui au développement des communes : mécanisme par lequel l'État béninois transfère aux communes des ressources pour financer leurs investissements (écoles, cantines, marchés…).",
+  "FSA": "Fonds de solidarité africain : institution panafricaine qui garantit des prêts accordés par les banques aux entreprises et aux États pour faciliter leur accès au crédit."
  },
  "journal": [
+  {
+   "date": "2026-11-20",
+   "synthese": "La journée est dominée au Bénin par la suite des auditions budgétaires 2027 (cantines scolaires en hausse de 23 %, numérique, Cour des comptes) ; sur les marchés, la BRVM enchaîne une cinquième baisse (−1,40 %, sous 494 points) avec un net recul de Coris Bank, pendant que les industriels togolais pointent le coût du crédit et de l'énergie.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-20",
+     "titre": "Budget 2027 : 7,74 milliards FCFA de plus pour les cantines scolaires",
+     "resume": "Devant la commission budgétaire le 19 novembre, le ministre des Enseignements maternel et primaire a présenté des crédits de cantines passant de 33,67 à 41,41 milliards FCFA (+23 % environ), pour un budget du ministère de 212,26 milliards ; 4,17 milliards iront aux infrastructures de cantines des communes via le FADeC.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/budget-2027-benin-774-milliards-supplementaires-cantines-scolaires/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-19",
+     "titre": "Budget 2027 : 11,59 milliards FCFA pour le numérique, dont 43,6 % pour digitaliser l'administration",
+     "resume": "Le ministère de la Transformation digitale présente un budget en baisse apparente de 29,7 % à cause de la fin d'un projet financé de l'extérieur, mais en hausse de 16 % hors financements extérieurs ; près de 7,7 milliards sont consacrés à l'investissement.",
+     "source": "Matin Libre",
+     "url": "https://matinlibre.com/2026/11/19/benin-budget-2027-1159-milliards-pour-un-benin-numerique-utile-a-tous/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-19",
+     "titre": "Cour des comptes : budget 2027 de 4,92 milliards FCFA centré sur la numérisation des contrôles",
+     "resume": "Le budget de la juridiction financière progresse de 1,28 % ; il prévoit un schéma directeur informatique et une plateforme de partage des données de contrôle des finances publiques.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-la-cour-des-comptes-defend-un-projet-de-budget-2027-de-492-milliards-de-fcfa-axe-sur-la-transformation-numerique/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-19",
+     "titre": "BRVM : cinquième baisse d'affilée, le composite tombe sous 494 points",
+     "resume": "Le 19 novembre, l'indice BRVM Composite a reculé de 1,40 % à 493,95 points, avec 11,1 milliards FCFA échangés (contre 1,4 milliard la veille) ; Coris Bank International a perdu 6,33 %, la BIIC 2,44 %, tandis que la Loterie nationale du Bénin a gagné 2,63 %.",
+     "source": "Le Jecos ; BRVM",
+     "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Togo : les industriels dénoncent un crédit bancaire à 8-12 % et une électricité trop chère",
+     "resume": "Lors de la Semaine nationale de l'industrie à Lomé, les industriels ont comparé leurs taux d'emprunt de 8 à 12 % et une électricité à 100-110 FCFA/kWh (jusqu'à 35 % du coût de revient) à ceux d'autres régions ; le patronat a négocié une ligne de garantie de 50 milliards FCFA auprès du Fonds africain de garantie (FSA).",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/1811-20686-semaine-nationale-de-l-industrie-2026-de-quoi-ont-besoin-les-entreprises-togolaises"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-19",
+     "titre": "Afrique du Sud : la banque centrale maintient son taux à 7,25 % malgré l'inflation à 5,2 %",
+     "resume": "Le comité de politique monétaire s'est divisé (4 voix contre 3 pour une hausse), l'inflation ayant bondi en octobre sous l'effet des carburants ; la prochaine décision est prévue le 28 janvier 2027.",
+     "source": "The Rio Times",
+     "url": "https://riotimesonline.com/south-africa-reserve-bank-holds-rate-7-25-percent-november-2026"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Afrique du Sud : Moody's renonce à son statut d'agence de notation agréée",
+     "resume": "Les banques sud-africaines ont jusqu'en avril 2028 pour remplacer les notes Moody's dans leurs calculs réglementaires ; African Bank a déjà rompu avec l'agence, qui a retiré ses notes le 12 novembre.",
+     "source": "IOL",
+     "url": "https://iol.co.za/business/economy/2026-11-18-moodys-steps-back-from-south-africas-regulated-credit-rating-market"
+    }
+   ]
+  },
   {
    "date": "2026-11-19",
    "synthese": "La journée est dominée au Bénin par les chiffres macroéconomiques (inflation remontée à 2,5 % en octobre, croissance de 8,2 % au premier semestre selon le FMI) et la suite des auditions budgétaires, dont un programme d'inclusion financière au ministère des Finances ; dans la région, le salon monétique de Dakar met en avant PI-SPI et la sécurité des paiements, tandis que le rejet du budget sénégalais et le recul continu de la BRVM pèsent sur le climat des marchés.",
