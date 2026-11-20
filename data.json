@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-20T05:14:57Z",
+ "derniereMaj": "2026-11-20T12:15:21Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Coris Bank Bénin en route vers la Bourse, budget 2027 en commission et crédit plus cher au Bénin",
@@ -779,6 +779,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-11-17",
+   "organisme": "BCEAO",
+   "titre": "Paiements : la BCEAO généralise l'authentification forte et sécurise API et USSD",
+   "resume": "Annoncé au 9e Salon monétique régional de Dakar : l'authentification forte (deux facteurs de vérification) devient la règle et les interfaces de programmation (API) et le canal USSD doivent être sécurisés, alors que PI-SPI est obligatoire depuis le 2 novembre.",
+   "implication": "Nos canaux carte, mobile et USSD devront appliquer la double vérification sur toutes les opérations sensibles, avec un coût de mise en conformité mais moins de fraude.",
+   "pistes": [
+    "Cartographier dès maintenant nos parcours (carte en ligne, appli, USSD, API partenaires) qui n'ont pas encore de double vérification",
+    "Proposer aux clients une validation simple par appli ou biométrie pour éviter que la sécurité ne fasse fuir les paiements",
+    "Faire de la sécurité un argument commercial auprès des entreprises et fintechs connectées à nos API"
+   ],
+   "vigilance": "Attendre le texte officiel et son calendrier avant d'engager de gros investissements, et surveiller le taux d'abandon des paiements après mise en place.",
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/9E-SALON-MONETIQUE-REGIONAL-L-UEMOA-mise-sur-l-interoperabilite-l-innovation-et-la-cybersecurite-pour-batir-des_a31883.html"
+  },
+  {
    "date": "2026-11-18",
    "organisme": "Banques centrales de la CEDEAO",
    "titre": "CEDEAO : répartition proposée pour le futur système de paiement régional",
@@ -1282,6 +1297,34 @@
   ],
   "actus": [
    {
+    "date": "2026-11-18",
+    "titre": "Citi table sur un record d'émissions obligataires africaines en 2027",
+    "resume": "Les entreprises africaines ont levé un record de 21,2 milliards de dollars en 2026 et neuf États 16,9 milliards en eurobonds.",
+    "source": "BusinessDay",
+    "url": "https://businessday.ng/companies/article/citi-sees-africas-bond-sales-topping-2026-record-next-year/"
+   },
+   {
+    "date": "2026-11-19",
+    "titre": "Sénégal : budget rectificatif 2026 imposé par décret",
+    "resume": "Déficit prévu à 7,6 % du PIB et fonds de 300 milliards FCFA pour les arriérés intérieurs, préalable à un programme FMI d'environ 2,2 milliards de dollars.",
+    "source": "La Nouvelle Tribune",
+    "url": "https://lanouvelletribune.info/2026/11/senegal-diomaye-faye-impose-par-decret-le-budget-rectificatif-2026-rejete-par-lassemblee/"
+   },
+   {
+    "date": "2026-11-19",
+    "titre": "Port de Cotonou : 854 mètres de quais réceptionnés",
+    "resume": "Nouvelle étape du programme d'extension du port pour accroître sa capacité d'accueil.",
+    "source": "Agence Ecofin",
+    "url": "https://www.agenceecofin.com/actualites-infrastructures/1911-143605-le-port-de-cotonou-poursuit-ses-objectifs-de-capacite-avec-la-reception-de-854-metres-de-quais"
+   },
+   {
+    "date": "2026-11-19",
+    "titre": "Gaz : protocole Bénin-Togo-Côte d'Ivoire pour des achats communs de GNL",
+    "resume": "Signé à Abidjan, il prépare des approvisionnements concertés ; études financées par le programme PRIME-GAS de la Banque mondiale (140 millions de dollars, dont 45 pour le Bénin).",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/benin-togo-cote-ivoire-accord-gaz-gnl-19-novembre-2026/"
+   },
+   {
     "date": "2026-11-19",
     "titre": "BRVM : le composite recule de 1,40 % à 493,95 points",
     "resume": "Cinquième séance de baisse ; 11,1 milliards FCFA échangés, Coris Bank International −6,33 %, BIIC −2,44 %.",
@@ -1532,38 +1575,17 @@
     "resume": "Arrêté du 11 novembre : les cargaisons exportées sans autorisation seront saisies ; dérogations possibles vers le Burkina et le Mali.",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.bj/niger-exportation-arachide-interdite-saisie-cargaisons/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Niger : 561 millions de dollars à mobiliser pour le barrage de Kandadji",
-    "resume": "La Banque mondiale annonce une relance du chantier ; feuille de route attendue d'ici le 30 novembre, réunion de haut niveau en janvier 2027.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/niger-kandadji-561-millions-de-dollars-a-trouver-pour-relancer-le-barrage/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Budget 2027 : 94,3 milliards FCFA contre les catastrophes",
-    "resume": "La note circulaire sur le FONCAT prévoit 50,1 milliards de réserve d'urgence et 44,2 milliards pour la résilience ; les besoins d'urgence sont estimés à 59,6 milliards.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-943-milliards-catastrophes-foncat-budget-2027/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Togo : perspectives de notation relevées à « positive »",
-    "resume": "Moody's (B3) et S&P (B+) envisagent un relèvement ; la dette togolaise est revenue à 60,2 % du PIB fin juin 2026.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gouvernance-economique/1311-20637-notation-souveraine-moody-s-et-s-p-relevent-les-perspectives-du-togo-a-positive"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Commerce extérieur : session du comité de facilitation des échanges",
-    "resume": "Le comité prépare la stratégie nationale de facilitation des échanges et la garantie unique de transit douanier, pour faire du Bénin un pôle logistique régional.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/commerce-exterieur-le-comite-national-de-facilitation-des-echanges-lance-sa-premiere-session-ordinaire-de-2026-a-cotonou/"
    }
   ]
  },
  "groupe": [
+  {
+   "date": "2026-11-17",
+   "titre": "Togo : convention entre Ecobank Togo et le ministère du Commerce pour le crédit aux PME",
+   "resume": "Signée à Lomé avec un accord parallèle avec l'agence de garantie ANPGF, elle vise à mieux préparer les dossiers de crédit des PME ; Ecobank y a rappelé que le cash-flow prime sur la garantie dans l'analyse.",
+   "source": "Togo First",
+   "url": "https://www.togofirst.com/fr/gouvernance-economique/2011-20706-togo-un-accord-entre-le-ministere-du-commerce-ecobank-et-l-anpgf-pour-faciliter-le-credit-aux-pme"
+  },
   {
    "date": "2026-11-18",
    "titre": "Nigeria : les provisions d'Ecobank restent stables quand celles des concurrents chutent",
@@ -1741,6 +1763,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-18",
+   "titre": "Cyberattaques : les prestataires, maillon faible des grands réseaux de paiement",
+   "resume": "Visa a confirmé un incident de sécurité chez un prestataire tiers, revendiqué par le groupe de rançongiciel n0n qui dit aussi avoir visé JPMorgan ; Visa assure que ses systèmes et les données de cartes ne sont pas touchés.",
+   "implication": "Nos propres risques cyber passent aussi par nos sous-traitants (centre d'appels, éditeurs, agrégateurs, fintechs connectées).",
+   "pistes": [
+    "Recenser les prestataires qui accèdent à nos données clients et vérifier leurs clauses de sécurité et de notification d'incident",
+    "Tester avec eux un scénario d'attaque par rançongiciel pour mesurer le temps de réaction",
+    "Mettre en avant auprès des grandes entreprises clientes notre dispositif de sécurité des paiements"
+   ],
+   "vigilance": "Les revendications des pirates ne sont pas toujours vérifiées : réagir sur des faits confirmés et éviter de relayer des alertes non fondées auprès des clients.",
+   "source": "TechRadar",
+   "url": "https://techradar.com/pro/security/visa-confirms-apparent-cyberattack-hackers-also-claim-hit-on-jpmorgan"
+  },
   {
    "date": "2026-11-19",
    "titre": "PI-SPI atteint 175 participants : la sécurité des paiements au cœur du salon monétique de Dakar",
@@ -2281,20 +2317,6 @@
    "vigilance": "La gratuité pèse sur les revenus de commissions ; il faut un modèle où l'encaissement attire les dépôts et le crédit.",
    "source": "TechMoran / The Rio Times",
    "url": "https://techmoran.com/2026/10/23/inside-safaricoms-new-m-pesa-scan-to-pay-tap-to-pay-and-ai-pay/"
-  },
-  {
-   "date": "2026-10-22",
-   "titre": "Mobile money : sept comptes sur dix inactifs au Bénin",
-   "resume": "Le tableau de bord de la BCEAO recense 40,7 millions de comptes de monnaie électronique au Bénin en 2025, dont 11,7 millions actifs (au moins une opération en 90 jours), soit 28,6 % contre 32,6 % en moyenne dans l'UEMOA.",
-   "implication": "Le nombre de comptes ne dit pas l'usage réel : beaucoup de Béninois ont plusieurs wallets peu utilisés, ce qui laisse une place à une offre bancaire simple qui devient l'outil du quotidien.",
-   "pistes": [
-    "Mesurer le taux d'activité de nos propres comptes et cartes et lancer une campagne de réactivation ciblée avant le 2 novembre.",
-    "Proposer un compte bancaire relié aux wallets avec des virements PI-SPI gratuits jusqu'au plafond réglementaire pour devenir le compte principal.",
-    "Cibler les commerçants qui encaissent déjà par mobile money avec une offre de paiement marchand et d'épargne automatique."
-   ],
-   "vigilance": "Les comptes inactifs coûtent (conformité, fraude, maintenance) : toute campagne d'ouverture doit viser l'usage, pas le nombre.",
-   "source": "Agence Ecofin",
-   "url": "https://www.agenceecofin.com/actualites-finance/2210-142638-uemoa-192-millions-de-comptes-de-monnaie-electronique-inactifs-en-2025"
   }
  ],
  "marche": {
@@ -2681,6 +2703,20 @@
   "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
  },
  "opportunites": [
+  {
+   "date": "2026-11-19",
+   "titre": "Gaz naturel régional : des projets d'infrastructures et d'énergie à financer",
+   "resume": "Le Bénin, le Togo et la Côte d'Ivoire ont signé un protocole pour acheter du gaz naturel liquéfié (GNL) ensemble ; la Banque mondiale finance les études (45 millions de dollars pour le Bénin) et estime que ce travail pourrait attirer jusqu'à 1,5 milliard de dollars de capitaux privés dans la région.",
+   "implication": "Des projets de terminaux, de centrales et de distribution de gaz pourraient chercher des banques locales pour des cautions, du financement en FCFA et des comptes de projet.",
+   "pistes": [
+    "Suivre avec la Banque mondiale et le ministère de l'Énergie les futurs appels d'offres PRIME-GAS pour se positionner tôt",
+    "Monter avec le réseau Ecobank Togo et Côte d'Ivoire une offre régionale de cautions et de financement de projet pour les opérateurs gaziers",
+    "Préparer des crédits d'équipement pour les industriels de la GDIZ qui passeraient au gaz pour réduire leurs coûts d'énergie"
+   ],
+   "vigilance": "Aucun volume ni calendrier n'est fixé : ce sont des perspectives à moyen terme, à ne pas inscrire dans les prévisions avant les premières décisions d'investissement.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.com/benin-togo-cote-ivoire-accord-gaz-gnl-19-novembre-2026/"
+  },
   {
    "date": "2026-11-19",
    "titre": "Cantines scolaires : 41,4 milliards FCFA en 2027, un marché de fournisseurs à financer",
@@ -3221,20 +3257,6 @@
    "vigilance": "Le protocole ne fixe ni montant ni pays : il faut attendre des projets concrets avant d'engager des ressources commerciales.",
    "source": "Banque africaine de développement",
    "url": "https://www.afdb.org/fr/news-and-events/press-releases/wcaf-v-groupe-banque-africaine-developpement-uk-97801"
-  },
-  {
-   "date": "2026-10-21",
-   "titre": "Zone industrielle de Glo-Djigbé : plus de 625 MW d'électricité en projet",
-   "resume": "La SIPI-Bénin, qui gère la zone de Glo-Djigbé (GDIZ), annonce une centrale thermique au gaz de plus de 225 MW à déployer dans les prochains mois, 300 MW de centrales solaires (premier chantier sous 18 mois) et environ 100 MW de panneaux sur les toits des entrepôts ; aucun montant ni financeur n'est encore publié.",
-   "implication": "Ces chantiers vont créer des besoins de financement, de cautions et de paiements pour les constructeurs, les sous-traitants et les industriels de la zone, que les banques locales peuvent capter.",
-   "pistes": [
-    "Prendre contact avec la SIPI-Bénin pour connaître le calendrier des appels d'offres et se positionner sur les cautions de soumission et de bonne exécution.",
-    "Proposer aux industriels de la zone un financement de panneaux solaires sur toiture, remboursé par les économies d'électricité.",
-    "Étudier avec le groupe et des bailleurs (BOAD, SFI, Afreximbank) une participation à un prêt syndiqué pour les centrales solaires."
-   ],
-   "vigilance": "Les montants, les financeurs et les dates de mise en service ne sont pas encore publics : à confirmer avant tout engagement.",
-   "source": "La Nouvelle Tribune",
-   "url": "https://lanouvelletribune.info/2026/10/benin-la-gdiz-prepare-une-offensive-energetique-de-plus-de-625-mw/"
   }
  ],
  "historique": {
@@ -3834,12 +3856,16 @@
   "SIIPS": "Rapport annuel sur l'état des systèmes de paiement instantané inclusifs en Afrique, publié par AfricaNenda avec la CEA et la Banque mondiale.",
   "loi organique relative aux lois de finances": "Texte qui fixe les règles de préparation, de vote et d'exécution du budget de l'État ; le Bénin prévoit de la réviser en 2027.",
   "FADeC": "Fonds d'appui au développement des communes : mécanisme par lequel l'État béninois transfère aux communes des ressources pour financer leurs investissements (écoles, cantines, marchés…).",
-  "FSA": "Fonds de solidarité africain : institution panafricaine qui garantit des prêts accordés par les banques aux entreprises et aux États pour faciliter leur accès au crédit."
+  "FSA": "Fonds de solidarité africain : institution panafricaine qui garantit des prêts accordés par les banques aux entreprises et aux États pour faciliter leur accès au crédit.",
+  "GNL": "Gaz naturel liquéfié : gaz refroidi à l'état liquide pour être transporté par navire, puis regazéifié à l'arrivée pour produire de l'électricité ou alimenter l'industrie.",
+  "Authentification forte": "Vérification de l'identité du client par au moins deux éléments différents (par exemple un code secret et un téléphone, ou une empreinte digitale) avant une opération sensible.",
+  "Rançongiciel": "Logiciel malveillant qui bloque ou vole les données d'une organisation pour exiger une rançon en échange de leur restitution ou de leur non-publication.",
+  "USSD": "Service de menus par codes courts (du type *123#) qui fonctionne sur tous les téléphones, même sans internet, très utilisé pour le mobile money."
  },
  "journal": [
   {
    "date": "2026-11-20",
-   "synthese": "La journée est dominée au Bénin par la suite des auditions budgétaires 2027 (cantines scolaires en hausse de 23 %, numérique, Cour des comptes) ; sur les marchés, la BRVM enchaîne une cinquième baisse (−1,40 %, sous 494 points) avec un net recul de Coris Bank, pendant que les industriels togolais pointent le coût du crédit et de l'énergie.",
+   "synthese": "Au Bénin, la journée reste dominée par les auditions budgétaires 2027 (cantines, numérique, enseignement secondaire) et par un accord régional sur l'achat de gaz naturel avec le Togo et la Côte d'Ivoire ; côté paiements, la BCEAO généralise l'authentification forte, pendant que la BRVM aligne une cinquième baisse et que le Sénégal impose son budget rectificatif par décret.",
    "articles": [
     {
      "theme": "Bénin",
@@ -3896,6 +3922,78 @@
      "resume": "Les banques sud-africaines ont jusqu'en avril 2028 pour remplacer les notes Moody's dans leurs calculs réglementaires ; African Bank a déjà rompu avec l'agence, qui a retiré ses notes le 12 novembre.",
      "source": "IOL",
      "url": "https://iol.co.za/business/economy/2026-11-18-moodys-steps-back-from-south-africas-regulated-credit-rating-market"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-20",
+     "titre": "Gaz naturel : le Bénin, le Togo et la Côte d'Ivoire signent un protocole pour acheter du GNL ensemble",
+     "resume": "Signé le 19 novembre à Abidjan en marge du SIREXE, l'accord prépare des achats concertés de gaz naturel liquéfié et des échanges de gaz entre les trois pays, sans volume ni date annoncés ; les études sont financées par le programme PRIME-GAS de la Banque mondiale (45 millions de dollars pour le Bénin).",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.com/benin-togo-cote-ivoire-accord-gaz-gnl-19-novembre-2026/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-20",
+     "titre": "Budget 2027 : 124,84 milliards FCFA pour l'enseignement secondaire (+5,5 %)",
+     "resume": "Devant la commission budgétaire le 19 novembre, le ministre Clément Kouchadé a présenté un budget en hausse par rapport aux 118,28 milliards de 2026, avec des investissements publics multipliés par près de six, portés par le projet PRIGES et la gratuité de la scolarité des filles au second cycle.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-le-ministre-clement-kouchade-defend-un-projet-de-budget-2027-de-12484-milliards-de-fcfa-pour-lenseignement-secondaire/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-19",
+     "titre": "Port de Cotonou : 854 mètres de nouveaux quais réceptionnés",
+     "resume": "Le port autonome de Cotonou a réceptionné 854 mètres de quais dans le cadre de son programme d'extension, une étape vers ses objectifs de capacité d'accueil des navires.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites-infrastructures/1911-143605-le-port-de-cotonou-poursuit-ses-objectifs-de-capacite-avec-la-reception-de-854-metres-de-quais"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-20",
+     "titre": "Salon monétique de Dakar : la BCEAO généralise l'authentification forte des paiements",
+     "resume": "La BCEAO a annoncé la généralisation de l'authentification forte et la sécurisation des API et du canal USSD ; elle rappelle 76,1 % d'inclusion financière dans l'UEMOA en 2025, 294 millions de comptes de monnaie électronique et des candidatures à son laboratoire d'innovation ouvertes jusqu'au 30 novembre.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/9E-SALON-MONETIQUE-REGIONAL-L-UEMOA-mise-sur-l-interoperabilite-l-innovation-et-la-cybersecurite-pour-batir-des_a31883.html"
+    },
+    {
+     "theme": "Ecobank",
+     "date": "2026-11-20",
+     "titre": "Togo : Ecobank et l'État signent une convention pour faciliter le crédit aux PME",
+     "resume": "Le 17 novembre à Lomé, le ministère délégué au Commerce a signé une convention avec Ecobank Togo et une autre avec l'agence de garantie ANPGF pour aider les PME à monter des dossiers de crédit recevables ; les montants et le calendrier ne sont pas précisés.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2011-20706-togo-un-accord-entre-le-ministere-du-commerce-ecobank-et-l-anpgf-pour-faciliter-le-credit-aux-pme"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-19",
+     "titre": "Sénégal : le président met en vigueur par décret le budget rectificatif 2026 rejeté par les députés",
+     "resume": "Le décret applique une loi de finances rectificative prévoyant un déficit de 7,6 % du PIB, 790 milliards FCFA de subventions énergétiques et un fonds de 300 milliards pour les arriérés intérieurs, une condition posée par le FMI pour un nouveau programme.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/senegal-diomaye-faye-impose-par-decret-le-budget-rectificatif-2026-rejete-par-lassemblee/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-20",
+     "titre": "CEMAC : les États s'endettent de plus en plus auprès des banques de la région, au détriment du crédit aux entreprises",
+     "resume": "Selon la BEAC, les six États ont mobilisé 10 560 milliards FCFA sur le marché régional, à un taux moyen de 8,53 % en juillet, tandis que le crédit à l'économie a reculé d'environ 20 % sur un an au premier trimestre 2026.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/dette-de-la-cemac-pourquoi-les-etats-se-financent-de-plus-en-plus-aupres-de-leurs-propres-banques/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Citi prévoit un nouveau record d'émissions obligataires africaines en 2027",
+     "resume": "Selon Citigroup, les émissions en dollars de 2027 devraient dépasser celles de 2026, année où les entreprises africaines ont levé un record de 21,2 milliards de dollars et neuf États 16,9 milliards en eurobonds.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/companies/article/citi-sees-africas-bond-sales-topping-2026-record-next-year/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-18",
+     "titre": "Visa confirme un incident de sécurité chez un prestataire, revendiqué par un groupe de rançongiciel",
+     "resume": "Le groupe n0n affirme avoir volé des données à Visa et JPMorgan ; Visa indique que ses propres systèmes et les données de cartes ne semblent pas touchés, et JPMorgan dément toute cyberattaque.",
+     "source": "TechRadar",
+     "url": "https://techradar.com/pro/security/visa-confirms-apparent-cyberattack-hackers-also-claim-hit-on-jpmorgan"
     }
    ]
   },
