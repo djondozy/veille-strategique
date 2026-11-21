@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-20T12:15:21Z",
+ "derniereMaj": "2026-11-21T05:13:35Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Coris Bank Bénin en route vers la Bourse, budget 2027 en commission et crédit plus cher au Bénin",
@@ -73,19 +73,6 @@
   ]
  },
  "echeances": [
-  {
-   "date": "2026-11-13",
-   "titre": "Benin Compliance Days : deux jours sur la lutte contre la criminalité financière à Cotonou",
-   "detail": "La première édition des « Benin Compliance Days » se tient les 13 et 14 novembre 2026 à l'hôtel Azalaï de Cotonou, à l'initiative de l'Association Bénin Compliance. La conformité (en anglais « compliance ») désigne les contrôles qu'une banque fait pour respecter les lois, notamment contre le blanchiment d'argent et le financement du terrorisme (LBC/FT). Exemple concret : vérifier l'identité d'un client et l'origine des fonds avant un gros dépôt en espèces.",
-   "pourquoi": "Le Bénin vient d'adopter une stratégie nationale contre les flux financiers illicites à l'horizon 2030 : ce rendez-vous permet de connaître les attentes des autorités et les pratiques des autres banques.",
-   "preparer": [
-    "Désigner un ou deux représentants de la conformité pour suivre les échanges.",
-    "Recenser les nouvelles attentes exprimées (contrôle des clients, déclarations de soupçon) et les comparer à nos procédures.",
-    "Repérer les partenaires et outils de filtrage présentés qui pourraient renforcer notre dispositif."
-   ],
-   "source": "Financial Afrik",
-   "url": "https://www.financialafrik.com/2026/10/06/lutte-contre-la-criminalite-financiere-cotonou-accueille-les-benin-compliance-days-2026-en-novembre/"
-  },
   {
    "date": "2026-11-15",
    "titre": "Lancement annoncé du projet de port de pêche de Cotonou",
@@ -224,6 +211,19 @@
    ],
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.com/en/the-bceao-opens-its-tests-to-fintechs-applications-expected-before-november-30/"
+  },
+  {
+   "date": "2026-11-30",
+   "titre": "Coris Bank Côte d'Ivoire : souscription à son entrée en Bourse (30 novembre - 4 décembre)",
+   "detail": "Coris Bank International Côte d'Ivoire, filiale du groupe burkinabè Coris, vend 20 % de son capital au public à 7 720 FCFA l'action, par une offre publique de vente (OPV) ouverte du 30 novembre au 4 décembre 2026 auprès des sociétés de gestion et d'intermédiation (SGI). C'est le préalable à sa cotation à la BRVM, la Bourse régionale d'Abidjan ; le même groupe prépare l'introduction de Coris Bank Bénin, 3e banque du pays.",
+   "pourquoi": "Le succès ou non de cette opération donnera le ton de celle de Coris Bank Bénin et pourra attirer une partie de l'épargne de nos clients investisseurs vers les titres d'un concurrent.",
+   "preparer": [
+    "Suivre le taux de souscription et le prix retenu pour anticiper les conditions de l'introduction de Coris Bank Bénin",
+    "Préparer une réponse pour nos clients patrimoniaux qui voudront souscrire (financement de souscription, compte titres via une SGI partenaire)",
+    "Analyser les chiffres publiés dans le prospectus pour actualiser notre comparaison avec Coris Bank Bénin"
+   ],
+   "source": "Burkina24",
+   "url": "https://burkina24.com/2026/11/20/cote-divoire-coris-bank-international-ouvre-20-de-son-capital-au-public-a-7-720-fcfa-laction/"
   },
   {
    "date": "2026-12-01",
@@ -545,6 +545,12 @@
    "resume": "Filiale du groupe nigérian United Bank for Africa.",
    "actus": [
     {
+     "date": "2026-11-20",
+     "texte": "Au niveau du groupe : UBA a tenu du 16 au 20 novembre sa semaine de sensibilisation à la fraude (hameçonnage, demandes de code PIN ou d'OTP), avec la police nigériane et l'interbancaire NIBSS.",
+     "source": "EPA",
+     "url": "https://epa.com.ng/2026/11/20/uba-intensifies-fight-against-phishing-scam-as-2026-fraud-awareness-week-holds"
+    },
+    {
      "date": "2026-11-17",
      "texte": "Au niveau du groupe : UBA Guinée signe au Simandou Mining Summit deux protocoles de financement d'environ 55 millions de dollars avec des entreprises guinéennes (non encore décaissés) ; UBA mène aussi du 16 au 20 novembre une semaine anti-fraude contre l'hameçonnage.",
      "source": "The Rio Times ; ThisDay",
@@ -573,12 +579,6 @@
      "texte": "Au niveau du groupe : Fitch relève de stable à positive la perspective de la note « B » d'UBA, comme pour huit autres banques nigérianes, après celle du Nigeria.",
      "source": "MyJoyOnline",
      "url": "https://www.myjoyonline.com/fitch-revises-access-zenith-uba-gt-5-others-outlook-to-positive/"
-    },
-    {
-     "date": "2026-10-20",
-     "texte": "Au niveau du groupe : UBA doit rembourser 600 millions de dollars en novembre (un eurobond de 300 millions arrivant à échéance le 19 novembre et une facilité Afreximbank de même montant) ; Fitch estime que la banque peut payer sans refinancement et a relevé sa perspective à positive le 14 octobre.",
-     "source": "Agence Ecofin",
-     "url": "https://www.ecofinagency.com/news-finances/2010-59935-nigerias-uba-faces-600-million-debt-repayment-deadline-in-november"
     }
    ]
   },
@@ -659,6 +659,12 @@
    "resume": "Filiale du groupe burkinabè Coris Bank International.",
    "actus": [
     {
+     "date": "2026-11-20",
+     "texte": "Au niveau du groupe : Coris Bank Côte d'Ivoire lance une offre publique de vente de 20 % de son capital à 7 720 FCFA l'action, du 30 novembre au 4 décembre 2026, préalable à sa cotation à la BRVM ; l'introduction de Coris Bank Bénin, annoncée pour la même période, n'a pas encore de calendrier de souscription publié.",
+     "source": "Burkina24",
+     "url": "https://burkina24.com/2026/11/20/cote-divoire-coris-bank-international-ouvre-20-de-son-capital-au-public-a-7-720-fcfa-laction/"
+    },
+    {
      "date": "2026-11-18",
      "texte": "Le groupe Coris confirme que les introductions en Bourse de Coris Bank Bénin (19 milliards FCFA) et de sa filiale ivoirienne (62 milliards) auront lieu à quelques jours d'écart en janvier 2027 ; prix et part offerte restent à publier, une campagne de promotion est annoncée.",
      "source": "Billionaires.Africa",
@@ -687,12 +693,6 @@
      "texte": "La banque mère Coris Bank International (Burkina Faso) annonce un bénéfice net de 62,3 milliards FCFA à fin septembre 2026 (+18 %), des dépôts en hausse de 26 % à 2 372 milliards et des crédits nets de 1 386 milliards (+15 %).",
      "source": "Sika Finance",
      "url": "https://www.sikafinance.com/marches/coris-bank-international-bf-le-benefice-progresse-de-18-a-62-milliards-fcfa-a-fin-septembre-2026_65442"
-    },
-    {
-     "date": "2026-11-03",
-     "texte": "Au niveau du groupe : la maison mère burkinabè publie un résultat net de 62,3 milliards FCFA à fin septembre (+17,8 %), des dépôts en hausse de 26,4 % et des crédits nets en hausse de 15,2 %.",
-     "source": "allAfrica",
-     "url": "https://allafrica.com/stories/202611040060.html"
     }
    ]
   },
@@ -1297,6 +1297,27 @@
   ],
   "actus": [
    {
+    "date": "2026-11-20",
+    "titre": "Nigeria : la banque centrale a retiré plus de 90 000 milliards de nairas en 2026",
+    "resume": "Ses opérations d'open market ont plus que doublé sur un an pour contenir l'inflation et soutenir le naira.",
+    "source": "Parrot Nigeria",
+    "url": "https://parrotnigeria.com/2026/11/20/cbns-cash-mop-up-more-than-doubles-ahead-of-2027/"
+   },
+   {
+    "date": "2026-11-20",
+    "titre": "Sénégal : 55 milliards FCFA levés sur le marché régional à 7,24-8,33 %",
+    "resume": "Le Trésor a obtenu 110 milliards de soumissions pour 50 milliards recherchés, sur des titres à 3 et 5 ans.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/Senegal-La-DGFD-leve-55-milliards-FCFA-au-niveau-du-marche-financier-de-l-UEMOA_a31885.html"
+   },
+   {
+    "date": "2026-11-20",
+    "titre": "ECO : la CEDEAO tente de lever les derniers verrous avant un lancement progressif en 2027",
+    "resume": "Le comité ministériel de la Task Force se réunit à Abidjan les 20 et 21 novembre ; gouvernance de la banque centrale, système de paiement et fonds de stabilisation restent à trancher.",
+    "source": "Koaci",
+    "url": "https://www.koaci.com/article/2026/11/20/cote-divoire/economie/cote-divoire-eco-2027-abidjan-les-etats-membres-sactivent-a-faire-sauter-les-derniers-verrous-politiques-et-institutionnels-pour-concretiser-la-monnaie-unique-ouest-africaine_202860.html"
+   },
+   {
     "date": "2026-11-18",
     "titre": "Citi table sur un record d'émissions obligataires africaines en 2027",
     "resume": "Les entreprises africaines ont levé un record de 21,2 milliards de dollars en 2026 et neuf États 16,9 milliards en eurobonds.",
@@ -1554,27 +1575,6 @@
     "resume": "L'écart avec le marché officiel (1 358,50) atteint 86,50 nairas, ce qui pèse sur le commerce transfrontalier avec le Bénin.",
     "source": "Nairametrics",
     "url": "https://nairametrics.com/2026/11/13/naira-depreciates-to-n1445-in-parallel-market-as-gap-with-official-rate-widens-to-n86-50/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Bénin-Nigeria : 1,3 milliard de dollars de revenus potentiels par an",
-    "resume": "Une intégration économique renforcée entre les deux pays pourrait rapporter environ 1,3 milliard de dollars par an selon une analyse relayée par l'Agence Ecofin.",
-    "source": "Agence Ecofin",
-    "url": "https://www.agenceecofin.com/actualites/1311-143422-benin-nigeria-l-integration-economique-presente-un-potentiel-de-1-3-milliard-de-revenus-par-an"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Éducation : 598 milliards FCFA de crédits en 2026",
-    "resume": "Contre 344 milliards en 2022 ; chiffre rappelé à l'ouverture de la revue sectorielle conjointe de l'éducation à Cotonou.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/benin-lancement-a-cotonou-de-la-revue-sectorielle-conjointe-de-leducation-autour-dun-budget-porte-a-598-milliards-de-fcfa/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Niger : interdiction d'exporter l'arachide",
-    "resume": "Arrêté du 11 novembre : les cargaisons exportées sans autorisation seront saisies ; dérogations possibles vers le Burkina et le Mali.",
-    "source": "Bénin Web TV",
-    "url": "https://beninwebtv.bj/niger-exportation-arachide-interdite-saisie-cargaisons/"
    }
   ]
  },
@@ -1763,6 +1763,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-20",
+   "titre": "Paiement instantané : un an après, PI-SPI s'impose comme infrastructure commune",
+   "resume": "La plateforme de la BCEAO a dépassé 4 millions d'opérations et 300 milliards FCFA en un an, avec 175 institutions connectées, et un pilote la relie au système panafricain PAPSS ; l'UEMOA compte 294 millions de comptes de monnaie électronique.",
+   "implication": "Les virements entre banques et portefeuilles mobiles deviennent instantanés et bon marché : la différence se fera sur l'expérience client et les services ajoutés, plus sur l'accès au réseau.",
+   "pistes": [
+    "Intégrer le paiement par PI-SPI dans nos offres aux commerçants et aux entreprises (encaissement, paiement des salaires)",
+    "Proposer aux importateurs béninois un parcours de paiement vers le Nigeria et le Ghana via PAPSS dès son ouverture",
+    "Mesurer chaque mois nos volumes PI-SPI face aux concurrents pour ajuster les tarifs et la communication"
+   ],
+   "vigilance": "Plus de flux instantanés signifie aussi des fraudes plus rapides : renforcer les contrôles en temps réel et l'information des clients.",
+   "source": "Financial Afrik ; allAfrica",
+   "url": "https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/"
+  },
   {
    "date": "2026-11-18",
    "titre": "Cyberattaques : les prestataires, maillon faible des grands réseaux de paiement",
@@ -2303,20 +2317,6 @@
    "vigilance": "Les stablecoins n'ont pas de cadre légal dans l'UEMOA : toute offre devra attendre une position claire de la BCEAO.",
    "source": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028"
-  },
-  {
-   "date": "2026-10-23",
-   "titre": "Kenya : M-Pesa généralise le paiement par QR code et sans contact, et baisse ses frais marchands",
-   "resume": "Safaricom lance le paiement par QR code chez plus de 60 000 commerçants (objectif 500 000 en un an), le paiement sans contact par téléphone et un service qui lit les factures grâce à l'IA ; il a aussi rendu gratuits les paiements marchands jusqu'à 500 shillings.",
-   "implication": "Le leader africain du mobile money montre la direction : paiement marchand gratuit pour les petits montants et simplicité d'usage, ce que MTN MoMo et Moov Money pourraient reproduire au Bénin.",
-   "pistes": [
-    "Étudier un paiement marchand par QR code interopérable via PI-SPI, gratuit pour les petits montants, afin de capter les flux des commerçants.",
-    "Tester avec quelques grands distributeurs de Cotonou un paiement sans contact par téléphone pour les clients de la banque.",
-    "Mesurer le coût réel d'un paiement marchand pour la banque afin de fixer une tarification compétitive face aux opérateurs."
-   ],
-   "vigilance": "La gratuité pèse sur les revenus de commissions ; il faut un modèle où l'encaissement attire les dépôts et le crédit.",
-   "source": "TechMoran / The Rio Times",
-   "url": "https://techmoran.com/2026/10/23/inside-safaricoms-new-m-pesa-scan-to-pay-tap-to-pay-and-ai-pay/"
   }
  ],
  "marche": {
@@ -2675,34 +2675,48 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "7 800",
-    "detail": "−2,44 % sur la séance du 19 novembre (7 995 FCFA la veille) selon brvm.org, dans un marché en net repli ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre.",
-    "url": "https://www.brvm.org/en/cours-actions/officiel"
+    "cours": "7 500",
+    "detail": "−3,85 % sur la séance du 20 novembre (7 800 FCFA la veille), parmi les cinq plus fortes baisses selon Le Jecos ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %) publié le 10 novembre.",
+    "url": "https://www.lejecos.com/BRVM-Les-indices-phares-enregistrent-leur-sixieme-journee-de-baisse-ininterrompue-ce-vendredi-20-novembre-2026_a31884.html"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "9 045",
-    "detail": "−0,06 % sur la séance du 19 novembre (9 050 FCFA la veille) selon brvm.org ; résultat net d'environ 15 milliards FCFA sur neuf mois selon Sika Finance.",
-    "url": "https://www.brvm.org/en/cours-actions/officiel"
+    "cours": "9 100",
+    "detail": "+0,61 % sur la séance du 20 novembre (9 045 FCFA la veille) selon Sika Finance ; résultat net d'environ 15 milliards FCFA sur neuf mois.",
+    "url": "https://www.sikafinance.com/marches/cotation_BOAB.bj"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
     "cours": "57",
-    "detail": "Stable sur la séance du 19 novembre selon brvm.org, avec près de 2,07 millions de titres échangés ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
-    "url": "https://www.brvm.org/en/cours-actions/officiel"
+    "detail": "Stable sur la séance du 20 novembre selon Sika Finance, avec environ 950 000 titres échangés ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %) publié le 27 octobre.",
+    "url": "https://www.sikafinance.com/marches/cotation_ETIT.TG"
    }
   ],
-  "source": "BRVM, séance du 19 novembre 2026 (BRVM Composite −1,40 %, à 493,95 points, cinquième baisse d'affilée) ; Le Jecos",
-  "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
+  "source": "BRVM, séance du 20 novembre 2026 (BRVM Composite −0,21 %, à 492,89 points, sixième baisse d'affilée) ; Le Jecos ; Sika Finance",
+  "url": "https://www.lejecos.com/BRVM-Les-indices-phares-enregistrent-leur-sixieme-journee-de-baisse-ininterrompue-ce-vendredi-20-novembre-2026_a31884.html"
  },
  "opportunites": [
+  {
+   "date": "2026-11-20",
+   "titre": "Épargne longue : la BCEAO pousse à transformer les dépôts en financements de long terme",
+   "resume": "Le gouverneur de la BCEAO a appelé le 19 novembre à élargir l'épargne financière et à l'orienter vers l'investissement privé productif, alors que 87,6 % des 4 204,7 milliards FCFA levés sur le marché régional en 2025 l'ont été par les États.",
+   "implication": "Les banques capables de proposer une épargne longue rémunérée et de la recycler en crédits d'investissement aux entreprises béninoises répondent directement à la priorité affichée par le régulateur.",
+   "pistes": [
+    "Étudier un plan d'épargne à terme de 3 à 5 ans pour la diaspora et les cadres, adossé au financement des PME de la GDIZ",
+    "Proposer aux caisses de retraite et assureurs béninois des dépôts à terme longs ou un placement privé obligataire de la banque",
+    "Monter avec une SGI de la place un fonds commun de placement grand public distribué dans nos agences"
+   ],
+   "vigilance": "Allonger la durée des crédits sans ressources stables de même durée accroît le risque de transformation : suivre de près les ratios de liquidité de la Commission bancaire.",
+   "source": "Koaci ; Financial Afrik",
+   "url": "https://www.koaci.com/article/2026/11/20/cote-divoire/economie/cote-divoire-depuis-abidjan-kassi-brou-souligne-la-necessite-de-mobiliser-davantage-lepargne-interieure-pour-financer-les-investissements-productifs-a-long-terme_202829.html"
+  },
   {
    "date": "2026-11-19",
    "titre": "Gaz naturel régional : des projets d'infrastructures et d'énergie à financer",
@@ -3243,20 +3257,6 @@
    "vigilance": "Le risque souverain de certains émetteurs de l'Union est plus élevé que celui du Bénin : le rendement supplémentaire doit être pesé.",
    "source": "Le Jecos",
    "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
-  },
-  {
-   "date": "2026-10-21",
-   "titre": "La BAD et UK Export Finance vont cofinancer des projets en Afrique",
-   "resume": "Premier accord-cadre entre la Banque africaine de développement et l'agence britannique de crédit à l'exportation : il combine prêts de développement et garanties export pour des projets publics et privés (énergie, infrastructures, eau, santé, numérique, agriculture, financement du commerce).",
-   "implication": "Les grands projets béninois pourront associer BAD et garanties britanniques, ce qui crée des places à prendre pour les banques locales comme arrangeur, banque de paiement ou prêteur aux sous-traitants.",
-   "pistes": [
-    "Recenser avec la direction Grandes entreprises les projets béninois (énergie, eau, santé) susceptibles d'un cofinancement BAD–UKEF et contacter leurs promoteurs.",
-    "Proposer aux entreprises béninoises sous-traitantes de ces projets des cautions de marché et des préfinancements adossés aux contrats.",
-    "Étudier avec le groupe une offre de financement du commerce s'appuyant sur les garanties UKEF pour les importateurs d'équipements britanniques."
-   ],
-   "vigilance": "Le protocole ne fixe ni montant ni pays : il faut attendre des projets concrets avant d'engager des ressources commerciales.",
-   "source": "Banque africaine de développement",
-   "url": "https://www.afdb.org/fr/news-and-events/press-releases/wcaf-v-groupe-banque-africaine-developpement-uk-97801"
   }
  ],
  "historique": {
@@ -3408,6 +3408,12 @@
     "date": "2026-11-19",
     "BICB": 7800,
     "BOAB": 9045,
+    "ETIT": 57
+   },
+   {
+    "date": "2026-11-20",
+    "BICB": 7500,
+    "BOAB": 9100,
     "ETIT": 57
    }
   ]
@@ -3860,9 +3866,131 @@
   "GNL": "Gaz naturel liquéfié : gaz refroidi à l'état liquide pour être transporté par navire, puis regazéifié à l'arrivée pour produire de l'électricité ou alimenter l'industrie.",
   "Authentification forte": "Vérification de l'identité du client par au moins deux éléments différents (par exemple un code secret et un téléphone, ou une empreinte digitale) avant une opération sensible.",
   "Rançongiciel": "Logiciel malveillant qui bloque ou vole les données d'une organisation pour exiger une rançon en échange de leur restitution ou de leur non-publication.",
-  "USSD": "Service de menus par codes courts (du type *123#) qui fonctionne sur tous les téléphones, même sans internet, très utilisé pour le mobile money."
+  "USSD": "Service de menus par codes courts (du type *123#) qui fonctionne sur tous les téléphones, même sans internet, très utilisé pour le mobile money.",
+  "OPV": "Offre publique de vente : mise en vente d'une partie des actions d'une société auprès du public, souvent avant son entrée en Bourse.",
+  "ECO": "Projet de monnaie unique des 15 pays de la CEDEAO, dont le lancement progressif est visé pour 2027.",
+  "Créances douteuses": "Prêts dont le remboursement est compromis (retards importants ou difficultés de l'emprunteur), suivis par un ratio par rapport à l'encours total.",
+  "AFIS": "Africa Financial Industry Summit : rencontre annuelle des dirigeants de banques et de banques centrales africaines, tenue en 2026 à Luanda."
  },
  "journal": [
+  {
+   "date": "2026-11-21",
+   "synthese": "La journée est dominée par les marchés : la BRVM aligne une sixième baisse (BIIC −3,85 %) pendant que Coris Bank Côte d'Ivoire fixe son entrée en Bourse (souscription du 30 novembre au 4 décembre) ; la BCEAO met en avant le succès de PI-SPI et l'urgence de transformer l'épargne en crédits longs, et au Bénin le budget 2027 des Finances renforce le volet microfinance et inclusion financière.",
+   "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-20",
+     "titre": "Budget 2027 : le ministère des Finances et de la Microfinance en hausse de 15 %, à 36,8 milliards FCFA",
+     "resume": "Présenté aux députés le 17 novembre par le ministre Nicolas Yènoussi, ce budget comprend un programme dédié au développement du secteur financier et à l'inclusion financière (digitalisation, financements de proximité, consolidation de la microfinance) ; les dépôts des microfinances atteignaient 228 milliards FCFA fin juin 2026.",
+     "source": "Agence Ecofin ; lamétéo.info",
+     "url": "https://www.ecofinagency.com/news/2011-61013-the-republic-of-benin-sets-aside-15-more-funding-for-finance-and-microfinance-in-2027"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-20",
+     "titre": "Coris Bank Côte d'Ivoire met 20 % de son capital en vente avant d'entrer à la BRVM",
+     "resume": "L'offre publique de vente se fera à 7 720 FCFA par action du 30 novembre au 4 décembre 2026 ; la filiale ivoirienne du groupe Coris, qui prépare aussi la cotation de Coris Bank Bénin, affichait fin 2025 un bilan de 1 323 milliards FCFA et un bénéfice de 24,5 milliards.",
+     "source": "Burkina24 ; Financial Afrik",
+     "url": "https://burkina24.com/2026/11/20/cote-divoire-coris-bank-international-ouvre-20-de-son-capital-au-public-a-7-720-fcfa-laction/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-20",
+     "titre": "BRVM : sixième baisse d'affilée, la BIIC parmi les plus fortes baisses",
+     "resume": "Le 20 novembre, le BRVM Composite a cédé 0,21 % à 492,89 points pour 4,6 milliards FCFA échangés ; la BIIC a perdu 3,85 % à 7 500 FCFA et Coris Bank International 4,66 %, tandis qu'Unilever CI a gagné 7,37 %.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/BRVM-Les-indices-phares-enregistrent-leur-sixieme-journee-de-baisse-ininterrompue-ce-vendredi-20-novembre-2026_a31884.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-20",
+     "titre": "Paiement instantané : PI-SPI dépasse 4 millions d'opérations en un an",
+     "resume": "Un an après son lancement, la plateforme de la BCEAO a traité plus de 4 millions de transactions pour plus de 300 milliards FCFA, avec 175 institutions connectées et 86 % des institutions financières hors microfinance raccordées ; un pilote la relie au système panafricain PAPSS depuis octobre.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-20",
+     "titre": "Salon monétique de Dakar : 294 millions de comptes de monnaie électronique dans l'UEMOA",
+     "resume": "Les chiffres présentés au salon du GIM-UEMOA font état d'une inclusion financière de 76,1 % en 2025 et de 17 milliards de transactions numériques ; l'IA serait impliquée dans 55 % des cyberattaques signalées en Afrique selon des études citées.",
+     "source": "allAfrica ; Le Jecos",
+     "url": "https://fr.allafrica.com/stories/202611200507.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-20",
+     "titre": "Le gouverneur de la BCEAO veut transformer l'épargne en financements longs",
+     "resume": "À Abidjan le 19 novembre, Jean-Claude Kassi Brou a rappelé que l'inclusion financière de l'Union est passée de 47 % en 2016 à plus de 76 % en 2025, et a fixé trois défis : allonger la durée des financements, élargir l'épargne financière et l'orienter vers l'investissement privé.",
+     "source": "Koaci",
+     "url": "https://www.koaci.com/article/2026/11/20/cote-divoire/economie/cote-divoire-depuis-abidjan-kassi-brou-souligne-la-necessite-de-mobiliser-davantage-lepargne-interieure-pour-financer-les-investissements-productifs-a-long-terme_202829.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-20",
+     "titre": "UEMOA : le marché financier régional reste dominé par les emprunts des États",
+     "resume": "Sur 4 204,7 milliards FCFA levés sur le marché régional en 2025, 87,6 % l'ont été par les États ; face au recul de l'aide publique au développement, les intervenants appellent à mobiliser davantage l'épargne locale et les caisses de dépôts.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/20/face-au-recul-de-laide-exterieure-luemoa-et-abidjan-activent-les-leviers-du-financement-endogene/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-20",
+     "titre": "Monnaie unique ECO : réunions à Abidjan pour lever les derniers blocages avant 2027",
+     "resume": "Le comité ministériel de la Task Force présidentielle de la CEDEAO se réunit les 20 et 21 novembre ; restent à trancher le siège et la gouvernance de la future banque centrale, l'hébergement du système de paiement et du fonds de stabilisation.",
+     "source": "Koaci",
+     "url": "https://www.koaci.com/article/2026/11/20/cote-divoire/economie/cote-divoire-eco-2027-abidjan-les-etats-membres-sactivent-a-faire-sauter-les-derniers-verrous-politiques-et-institutionnels-pour-concretiser-la-monnaie-unique-ouest-africaine_202860.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-20",
+     "titre": "Sénégal : 55 milliards FCFA levés à 7,24 % sur 3 ans et 8,33 % sur 5 ans",
+     "resume": "Le Trésor sénégalais a reçu 110 milliards FCFA de soumissions pour 50 milliards recherchés ; les rendements élevés reflètent la prime exigée sur ce pays en pleine négociation avec le FMI.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Senegal-La-DGFD-leve-55-milliards-FCFA-au-niveau-du-marche-financier-de-l-UEMOA_a31885.html"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Sénégal : le FMI pose trois conditions avant son programme de 2,2 milliards de dollars",
+     "resume": "Le FMI attend un cadre budgétaire cohérent, des mesures correctrices sur la dette mal déclarée et des assurances de financement des partenaires, alors que l'Assemblée a rejeté la loi de finances rectificative 2026.",
+     "source": "Les Afriques",
+     "url": "https://lesafriques.com/2026/11/senegal-fmi-trois-conditions-programme/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-20",
+     "titre": "Nigeria : la banque centrale a retiré plus de 90 000 milliards de nairas du marché en 2026",
+     "resume": "Ses opérations d'open market (OMO) ont plus que doublé par rapport à 2025 (40 900 milliards) pour contenir l'inflation et soutenir le naira avant les élections de 2027.",
+     "source": "Parrot Nigeria (The Punch)",
+     "url": "https://parrotnigeria.com/2026/11/20/cbns-cash-mop-up-more-than-doubles-ahead-of-2027/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-18",
+     "titre": "Ghana : créances douteuses ramenées à 13,1 % et crédit privé en hausse de 37 %",
+     "resume": "Selon la banque centrale, les banques ghanéennes sont solvables et rentables : ratio de fonds propres à 18,5 %, taux moyen des prêts tombé à 15,8 % contre 22,2 % un an plus tôt.",
+     "source": "Citi Newsroom",
+     "url": "https://www.citinewsroom.com/2026/11/bog-banking-sector-remains-solvent-profitable/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-20",
+     "titre": "Access Bank plaide pour financer l'agriculture, qui ne reçoit que 5 à 6 % des prêts bancaires",
+     "resume": "À l'AFIS de Luanda, le groupe nigérian (60 millions de clients dans 24 pays) a souligné que l'agriculture pèse 20 à 30 % du PIB de plusieurs pays africains, pour un besoin de financement d'environ 100 milliards de dollars par an.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/20/access-calls-for-mobilising-capital-to-finance-africas-productive-economy-at-afis-2026"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-20",
+     "titre": "UBA clôt sa semaine de sensibilisation à la fraude et à l'hameçonnage",
+     "resume": "Du 16 au 20 novembre, le groupe a rappelé à ses clients qu'il ne demande jamais code PIN, mot de passe ou code à usage unique par lien, SMS ou téléphone, avec la police nigériane et l'interbancaire NIBSS.",
+     "source": "EPA",
+     "url": "https://epa.com.ng/2026/11/20/uba-intensifies-fight-against-phishing-scam-as-2026-fraud-awareness-week-holds"
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "synthese": "Au Bénin, la journée reste dominée par les auditions budgétaires 2027 (cantines, numérique, enseignement secondaire) et par un accord régional sur l'achat de gaz naturel avec le Togo et la Côte d'Ivoire ; côté paiements, la BCEAO généralise l'authentification forte, pendant que la BRVM aligne une cinquième baisse et que le Sénégal impose son budget rectificatif par décret.",
