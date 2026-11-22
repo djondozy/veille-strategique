@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-21T05:13:35Z",
+ "derniereMaj": "2026-11-22T05:14:38Z",
  "brief": {
   "periode": "Semaine du 16 novembre 2026",
   "titre": "Coris Bank Bénin en route vers la Bourse, budget 2027 en commission et crédit plus cher au Bénin",
@@ -545,6 +545,12 @@
    "resume": "Filiale du groupe nigérian United Bank for Africa.",
    "actus": [
     {
+     "date": "2026-11-21",
+     "texte": "Au niveau du groupe : UBA publie ses comptes non audités à fin septembre 2026 : bénéfice après impôt de 401,6 milliards de nairas (−25,3 %), dépréciations de crédits portées à 272 milliards (57 milliards un an plus tôt), mais revenus hors intérêts en hausse de 48,8 % et total de bilan proche de 35 000 milliards de nairas.",
+     "source": "Nairametrics ; BusinessDay",
+     "url": "https://nairametrics.com/2026/11/21/uba-records-n503-billion-pre-tax-profit-in-9m-2026-down-13-yoy/"
+    },
+    {
      "date": "2026-11-20",
      "texte": "Au niveau du groupe : UBA a tenu du 16 au 20 novembre sa semaine de sensibilisation à la fraude (hameçonnage, demandes de code PIN ou d'OTP), avec la police nigériane et l'interbancaire NIBSS.",
      "source": "EPA",
@@ -573,12 +579,6 @@
      "texte": "Au niveau du groupe : UBA reporte la publication de ses comptes semestriels audités et de ses chiffres à neuf mois dans l'attente de l'accord de la banque centrale du Nigeria ; son bénéfice du premier trimestre avait reculé de 24,8 %.",
      "source": "Ecofin Agency",
      "url": "https://www.ecofinagency.com/news-finances/0111-60335-uba-shares-trail-nigerian-banks-by-59-points-as-african-units-lean-on-lower-bad-loan-charges-and-fresh-capital"
-    },
-    {
-     "date": "2026-10-26",
-     "texte": "Au niveau du groupe : Fitch relève de stable à positive la perspective de la note « B » d'UBA, comme pour huit autres banques nigérianes, après celle du Nigeria.",
-     "source": "MyJoyOnline",
-     "url": "https://www.myjoyonline.com/fitch-revises-access-zenith-uba-gt-5-others-outlook-to-positive/"
     }
    ]
   },
@@ -1297,6 +1297,13 @@
   ],
   "actus": [
    {
+    "date": "2026-11-21",
+    "titre": "GDIZ : plus de 30 000 emplois et un nouveau point de vente textile à Porto-Novo",
+    "resume": "La marque SùSù, produite à Glo-Djigbé à partir de coton béninois, ouvre un troisième showroom ; le gestionnaire de la zone revendique plus de 30 000 emplois.",
+    "source": "Banouto",
+    "url": "https://www.banouto.bj/economie/article/20261119-linge-de-maison-made-in-benin-draps-serviettes-et-taies-de-la-marque-susu-desormais-disponibles-a-porto-novo"
+   },
+   {
     "date": "2026-11-20",
     "titre": "Nigeria : la banque centrale a retiré plus de 90 000 milliards de nairas en 2026",
     "resume": "Ses opérations d'open market ont plus que doublé sur un an pour contenir l'inflation et soutenir le naira.",
@@ -1316,13 +1323,6 @@
     "resume": "Le comité ministériel de la Task Force se réunit à Abidjan les 20 et 21 novembre ; gouvernance de la banque centrale, système de paiement et fonds de stabilisation restent à trancher.",
     "source": "Koaci",
     "url": "https://www.koaci.com/article/2026/11/20/cote-divoire/economie/cote-divoire-eco-2027-abidjan-les-etats-membres-sactivent-a-faire-sauter-les-derniers-verrous-politiques-et-institutionnels-pour-concretiser-la-monnaie-unique-ouest-africaine_202860.html"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "Citi table sur un record d'émissions obligataires africaines en 2027",
-    "resume": "Les entreprises africaines ont levé un record de 21,2 milliards de dollars en 2026 et neuf États 16,9 milliards en eurobonds.",
-    "source": "BusinessDay",
-    "url": "https://businessday.ng/companies/article/citi-sees-africas-bond-sales-topping-2026-record-next-year/"
    },
    {
     "date": "2026-11-19",
@@ -1351,20 +1351,6 @@
     "resume": "Cinquième séance de baisse ; 11,1 milliards FCFA échangés, Coris Bank International −6,33 %, BIIC −2,44 %.",
     "source": "Le Jecos",
     "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "Togo : crédit bancaire à 8-12 % et électricité chère freinent l'industrie",
-    "resume": "Les industriels réunis à Lomé demandent un meilleur accès au financement ; le patronat a négocié une garantie de 50 milliards FCFA auprès du FSA.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/gouvernance-economique/1811-20686-semaine-nationale-de-l-industrie-2026-de-quoi-ont-besoin-les-entreprises-togolaises"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "Côte d'Ivoire : 55 milliards FCFA levés sur le marché des titres publics",
-    "resume": "L'émission du 17 novembre a dépassé l'objectif de 50 milliards FCFA.",
-    "source": "Financial Afrik",
-    "url": "https://www.financialafrik.com/2026/11/18/la-cote-divoire-leve-55-milliards-fcfa-sur-le-marche-financier-de-lumoa-2/"
    },
    {
     "date": "2026-11-19",
@@ -1410,6 +1396,27 @@
    },
    {
     "date": "2026-11-18",
+    "titre": "Citi table sur un record d'émissions obligataires africaines en 2027",
+    "resume": "Les entreprises africaines ont levé un record de 21,2 milliards de dollars en 2026 et neuf États 16,9 milliards en eurobonds.",
+    "source": "BusinessDay",
+    "url": "https://businessday.ng/companies/article/citi-sees-africas-bond-sales-topping-2026-record-next-year/"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "Togo : crédit bancaire à 8-12 % et électricité chère freinent l'industrie",
+    "resume": "Les industriels réunis à Lomé demandent un meilleur accès au financement ; le patronat a négocié une garantie de 50 milliards FCFA auprès du FSA.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/1811-20686-semaine-nationale-de-l-industrie-2026-de-quoi-ont-besoin-les-entreprises-togolaises"
+   },
+   {
+    "date": "2026-11-18",
+    "titre": "Côte d'Ivoire : 55 milliards FCFA levés sur le marché des titres publics",
+    "resume": "L'émission du 17 novembre a dépassé l'objectif de 50 milliards FCFA.",
+    "source": "Financial Afrik",
+    "url": "https://www.financialafrik.com/2026/11/18/la-cote-divoire-leve-55-milliards-fcfa-sur-le-marche-financier-de-lumoa-2/"
+   },
+   {
+    "date": "2026-11-18",
     "titre": "Gaz domestique : un navire de butane arrivé, la distribution reste perturbée",
     "resume": "Le gouvernement annonce une baisse des prix une fois le gaz disponible partout, mais les recharges de 6 kg restaient introuvables à Cotonou et Abomey-Calavi le 18 novembre.",
     "source": "La Nouvelle Tribune ; Matin Libre",
@@ -1435,6 +1442,13 @@
     "resume": "Le voisin cherche à mieux rapatrier ses recettes pétrolières pour stabiliser le naira, un enjeu pour le commerce frontalier avec le Bénin.",
     "source": "CNBC Africa (Reuters)",
     "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding"
+   },
+   {
+    "date": "2026-11-17",
+    "titre": "Nigeria : statu quo attendu à 23 % au comité monétaire des 23-24 novembre",
+    "resume": "L'inflation est tombée à 14,06 % en octobre, mais les analystes jugent prudent de maintenir le taux après la baisse de septembre.",
+    "source": "Lagos Metropolitan",
+    "url": "https://lagosmetropolitan.com/2026/11/17/analysts-expect-cbn-to-hold-interest-rate-at-23-as-mpc-meets-next-week/"
    },
    {
     "date": "2026-11-17",
@@ -1561,20 +1575,6 @@
     "resume": "Contre environ 270 000 auparavant, avec des pics à 2,5 millions, à mesure que l'essence informelle recule.",
     "source": "Le Matinal",
     "url": "https://lematinal.bj/tensions-autour-du-carburant-au-benin-le-formel-a-lheure-du-grand-tournant/"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Togo : budget 2027 de 2 684 milliards FCFA",
-    "resume": "Il prévoit 371,8 milliards FCFA de titres publics sur le marché régional et 921,4 milliards de service de la dette.",
-    "source": "Togo First",
-    "url": "https://www.togofirst.com/fr/finances-publiques/1311-20633-togo-comment-le-gouvernement-prevoit-de-financer-son-budget-2027"
-   },
-   {
-    "date": "2026-11-13",
-    "titre": "Nigeria : naira à 1 445 pour un dollar au marché parallèle",
-    "resume": "L'écart avec le marché officiel (1 358,50) atteint 86,50 nairas, ce qui pèse sur le commerce transfrontalier avec le Bénin.",
-    "source": "Nairametrics",
-    "url": "https://nairametrics.com/2026/11/13/naira-depreciates-to-n1445-in-parallel-market-as-gap-with-official-rate-widens-to-n86-50/"
    }
   ]
  },
@@ -1765,6 +1765,20 @@
  "tendances": [
   {
    "date": "2026-11-20",
+   "titre": "Stablecoins : banques centrales américaine et européenne en alerte",
+   "resume": "Le gouverneur de la Fed Christopher Waller juge que le monopole des banques sur les paiements se fissure, et Olaf Sleijpen (BCE) prévient qu'une panique sur les stablecoins pourrait forcer à revoir la politique monétaire.",
+   "implication": "Les monnaies numériques privées gagnent du terrain dans les transferts internationaux : les flux de la diaspora et du commerce vers le Bénin pourraient en partie contourner les banques.",
+   "pistes": [
+    "Suivre la position de la BCEAO sur les cryptoactifs et préparer une note sur l'exposition de nos clients",
+    "Rendre nos transferts internationaux et rapatriements de la diaspora plus rapides et moins chers pour rester compétitifs",
+    "Étudier avec le groupe les dépôts tokenisés comme réponse bancaire régulée"
+   ],
+   "vigilance": "Les cryptoactifs restent exclus du bac à sable de la BCEAO : toute offre doit attendre un cadre clair et respecter les règles anti-blanchiment.",
+   "source": "crypto.news ; The Coin Republic",
+   "url": "https://crypto.news/ecb-policymaker-warns-stablecoin-runs-could-force-interest-rate-changes"
+  },
+  {
+   "date": "2026-11-20",
    "titre": "Paiement instantané : un an après, PI-SPI s'impose comme infrastructure commune",
    "resume": "La plateforme de la BCEAO a dépassé 4 millions d'opérations et 300 milliards FCFA en un an, avec 175 institutions connectées, et un pilote la relie au système panafricain PAPSS ; l'UEMOA compte 294 millions de comptes de monnaie électronique.",
    "implication": "Les virements entre banques et portefeuilles mobiles deviennent instantanés et bon marché : la différence se fera sur l'expérience client et les services ajoutés, plus sur l'accès au réseau.",
@@ -1776,20 +1790,6 @@
    "vigilance": "Plus de flux instantanés signifie aussi des fraudes plus rapides : renforcer les contrôles en temps réel et l'information des clients.",
    "source": "Financial Afrik ; allAfrica",
    "url": "https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/"
-  },
-  {
-   "date": "2026-11-18",
-   "titre": "Cyberattaques : les prestataires, maillon faible des grands réseaux de paiement",
-   "resume": "Visa a confirmé un incident de sécurité chez un prestataire tiers, revendiqué par le groupe de rançongiciel n0n qui dit aussi avoir visé JPMorgan ; Visa assure que ses systèmes et les données de cartes ne sont pas touchés.",
-   "implication": "Nos propres risques cyber passent aussi par nos sous-traitants (centre d'appels, éditeurs, agrégateurs, fintechs connectées).",
-   "pistes": [
-    "Recenser les prestataires qui accèdent à nos données clients et vérifier leurs clauses de sécurité et de notification d'incident",
-    "Tester avec eux un scénario d'attaque par rançongiciel pour mesurer le temps de réaction",
-    "Mettre en avant auprès des grandes entreprises clientes notre dispositif de sécurité des paiements"
-   ],
-   "vigilance": "Les revendications des pirates ne sont pas toujours vérifiées : réagir sur des faits confirmés et éviter de relayer des alertes non fondées auprès des clients.",
-   "source": "TechRadar",
-   "url": "https://techradar.com/pro/security/visa-confirms-apparent-cyberattack-hackers-also-claim-hit-on-jpmorgan"
   },
   {
    "date": "2026-11-19",
@@ -1835,6 +1835,20 @@
   },
   {
    "date": "2026-11-18",
+   "titre": "Cyberattaques : les prestataires, maillon faible des grands réseaux de paiement",
+   "resume": "Visa a confirmé un incident de sécurité chez un prestataire tiers, revendiqué par le groupe de rançongiciel n0n qui dit aussi avoir visé JPMorgan ; Visa assure que ses systèmes et les données de cartes ne sont pas touchés.",
+   "implication": "Nos propres risques cyber passent aussi par nos sous-traitants (centre d'appels, éditeurs, agrégateurs, fintechs connectées).",
+   "pistes": [
+    "Recenser les prestataires qui accèdent à nos données clients et vérifier leurs clauses de sécurité et de notification d'incident",
+    "Tester avec eux un scénario d'attaque par rançongiciel pour mesurer le temps de réaction",
+    "Mettre en avant auprès des grandes entreprises clientes notre dispositif de sécurité des paiements"
+   ],
+   "vigilance": "Les revendications des pirates ne sont pas toujours vérifiées : réagir sur des faits confirmés et éviter de relayer des alertes non fondées auprès des clients.",
+   "source": "TechRadar",
+   "url": "https://techradar.com/pro/security/visa-confirms-apparent-cyberattack-hackers-also-claim-hit-on-jpmorgan"
+  },
+  {
+   "date": "2026-11-18",
    "titre": "Stablecoins : Visa en fait un outil de trésorerie pour les virements internationaux",
    "resume": "Visa Direct étend à l'Asie-Pacifique le préfinancement des paiements transfrontaliers en stablecoins, déjà commercialisé aux États-Unis, ce qui permet aux prestataires d'alimenter leurs comptes 24h/24 sans attendre l'ouverture des banques.",
    "implication": "Les acteurs de transfert d'argent et les fintechs qui servent la diaspora béninoise pourraient, à terme, régler leurs flux sans passer par les correspondants bancaires classiques, ce qui menace une partie de nos commissions sur les rapatriements.",
@@ -1874,6 +1888,20 @@
    "vigilance": "Un outil d'IA mal paramétré peut multiplier les faux positifs ou laisser passer des schémas nouveaux : la décision finale doit rester humaine et traçable.",
    "source": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959"
+  },
+  {
+   "date": "2026-11-17",
+   "titre": "Fraude aux paiements : l'IA et les prestataires tiers en première ligne",
+   "resume": "Selon le rapport semestriel de Visa (janvier-juin 2026), les tentatives automatisées de deviner des numéros de cartes ont augmenté de 35 % et les incidents chez des prestataires tiers de 62 % ; ces derniers sont liés à 56 % des données de paiement volées.",
+   "implication": "Nos cartes et nos canaux digitaux sont exposés via nos sous-traitants (processeurs, agrégateurs, centres d'appel) autant que via nos propres systèmes.",
+   "pistes": [
+    "Recenser les prestataires qui manipulent des données cartes et exiger d'eux des tests de sécurité réguliers",
+    "Activer des règles anti-« devinette » de numéros (blocage des rafales de petites transactions) sur le e-commerce",
+    "Lancer une campagne client sur les faux appels et SMS avant les fêtes de fin d'année"
+   ],
+   "vigilance": "Une fuite chez un prestataire peut toucher nos clients sans faille chez nous : prévoir les clauses de responsabilité et un plan de réémission rapide des cartes.",
+   "source": "Visa (communiqué)",
+   "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22981.html"
   },
   {
    "date": "2026-11-17",
@@ -2289,34 +2317,6 @@
    "vigilance": "Dans l'UEMOA, aucun cadre BCEAO n'autorise aujourd'hui l'émission ou l'usage de stablecoins par les banques ; toute initiative doit rester à l'étude.",
    "source": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
-  },
-  {
-   "date": "2026-10-24",
-   "titre": "OPay prépare une introduction à la Bourse de New York",
-   "resume": "La fintech nigériane vise jusqu'à 336 millions de dollars, pour une valorisation d'environ 4,4 milliards ; elle déclare 50 millions d'utilisateurs mensuels et un bénéfice de 90,9 millions de dollars au premier semestre 2026.",
-   "implication": "Les fintechs de paiement d'Afrique de l'Ouest deviennent rentables et vont disposer de moyens importants pour s'étendre, y compris vers les pays voisins du Nigeria.",
-   "pistes": [
-    "Suivre les intentions d'OPay et des autres fintechs nigérianes envers l'UEMOA et le Bénin.",
-    "Étudier des partenariats avec ces acteurs (compte de cantonnement, transferts Nigeria–Bénin, règlement en FCFA) plutôt que de les subir.",
-    "Comparer notre parcours d'ouverture de compte et de paiement mobile avec le leur pour combler les écarts."
-   ],
-   "vigilance": "Une fintech bien capitalisée peut casser les prix des transferts et des paiements sur le corridor Lagos–Cotonou.",
-   "source": "Techpoint Africa",
-   "url": "https://techpoint.africa/news/opay-336m-ipo-demand/"
-  },
-  {
-   "date": "2026-10-23",
-   "titre": "Corée du Sud : les stablecoins reconnus comme moyens de paiement",
-   "resume": "Le gouvernement sud-coréen et la Banque de Corée préparent cette année une révision de la loi sur les changes pour traiter les stablecoins (cryptomonnaies adossées à une monnaie classique) comme des instruments de paiement, avec une surveillance renforcée des actifs virtuels et de leurs risques de blanchiment.",
-   "implication": "Après les États-Unis, une autre grande économie encadre les stablecoins : les transferts de la diaspora et les paiements commerciaux en stablecoins vont gagner en légitimité et concurrencer les virements internationaux classiques.",
-   "pistes": [
-    "Suivre la position de la BCEAO sur les stablecoins et préparer une note interne sur l'impact pour les transferts reçus de la diaspora.",
-    "Renforcer le contrôle des flux entre comptes clients et plateformes de cryptomonnaies dans le dispositif anti-blanchiment.",
-    "Mettre en avant la rapidité et le coût des transferts internationaux du groupe auprès des clients commerçants qui paient l'Asie."
-   ],
-   "vigilance": "Les stablecoins n'ont pas de cadre légal dans l'UEMOA : toute offre devra attendre une position claire de la BCEAO.",
-   "source": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028"
   }
  ],
  "marche": {
@@ -2703,6 +2703,20 @@
   "url": "https://www.lejecos.com/BRVM-Les-indices-phares-enregistrent-leur-sixieme-journee-de-baisse-ininterrompue-ce-vendredi-20-novembre-2026_a31884.html"
  },
  "opportunites": [
+  {
+   "date": "2026-11-20",
+   "titre": "Recul de l'aide extérieure : l'épargne locale appelée à financer les projets",
+   "resume": "À Abidjan, les autorités ivoiriennes et l'UEMOA ont plaidé pour mobiliser les capitaux domestiques face à une baisse d'environ 23 % de l'aide publique au développement, alors que 87,6 % des fonds levés sur le marché régional en 2025 sont allés aux États.",
+   "implication": "Les projets béninois (infrastructures, industrie, collectivités) chercheront davantage de financements bancaires et de marché locaux : une demande à capter pour les banques bien capitalisées.",
+   "pistes": [
+    "Proposer aux collectivités et entreprises publiques béninoises des montages de crédit ou d'emprunt obligataire arrangés avec le groupe",
+    "Lancer un produit d'épargne longue (5 ans et plus) pour les particuliers et les institutionnels béninois",
+    "Cofinancer avec la BOAD ou la BAD des projets privés pour partager le risque"
+   ],
+   "vigilance": "Une concentration excessive sur les titres et projets publics alourdirait notre exposition au risque souverain.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/20/face-au-recul-de-laide-exterieure-luemoa-et-abidjan-activent-les-leviers-du-financement-endogene/"
+  },
   {
    "date": "2026-11-20",
    "titre": "Épargne longue : la BCEAO pousse à transformer les dépôts en financements de long terme",
@@ -3243,20 +3257,6 @@
    "vigilance": "Ces mécanismes sont souvent négociés entre États et grandes banques internationales : la part réservée aux banques locales reste à vérifier projet par projet.",
    "source": "Le Matinal",
    "url": "https://lematinal.bj/diplomatie-economique-le-royaume-uni-sappuie-sur-la-cite-ministerielle-de-cotonou/"
-  },
-  {
-   "date": "2026-10-22",
-   "titre": "Aucune émission béninoise prévue sur UMOA-Titres au 4e trimestre",
-   "resume": "Les États de l'Union prévoient de lever 2 057 milliards FCFA de titres publics d'octobre à décembre, dont 1 632 milliards en obligations ; le Bénin n'annonce aucun montant, quand la Côte d'Ivoire vise 804 milliards et le Sénégal 478 milliards.",
-   "implication": "Sans nouveaux titres béninois d'ici fin 2026, la liquidité de la banque devra être placée sur d'autres signatures de l'Union ou redéployée en crédits.",
-   "pistes": [
-    "Arbitrer les placements vers les titres des autres États de l'Union selon leur rendement et leur risque.",
-    "Accélérer les crédits aux entreprises béninoises bien notées pour employer la liquidité disponible.",
-    "Proposer aux clients institutionnels des placements de trésorerie alternatifs (dépôts à terme, fonds) pour fidéliser leurs ressources."
-   ],
-   "vigilance": "Le risque souverain de certains émetteurs de l'Union est plus élevé que celui du Bénin : le rendement supplémentaire doit être pesé.",
-   "source": "Le Jecos",
-   "url": "https://www.lejecos.com/UEMOA-Les-intentions-d-emissions-de-titres-publics-par-les-Etats-chiffrees-a-2-057-milliards-de-FCFA-pour-le-4eme_a31709.html"
   }
  ],
  "historique": {
@@ -3870,9 +3870,90 @@
   "OPV": "Offre publique de vente : mise en vente d'une partie des actions d'une société auprès du public, souvent avant son entrée en Bourse.",
   "ECO": "Projet de monnaie unique des 15 pays de la CEDEAO, dont le lancement progressif est visé pour 2027.",
   "Créances douteuses": "Prêts dont le remboursement est compromis (retards importants ou difficultés de l'emprunteur), suivis par un ratio par rapport à l'encours total.",
-  "AFIS": "Africa Financial Industry Summit : rencontre annuelle des dirigeants de banques et de banques centrales africaines, tenue en 2026 à Luanda."
+  "AFIS": "Africa Financial Industry Summit : rencontre annuelle des dirigeants de banques et de banques centrales africaines, tenue en 2026 à Luanda.",
+  "Dépôt tokenisé": "Dépôt bancaire classique représenté sous forme de jeton numérique sur une blockchain, pour être transféré plus vite tout en restant garanti par la banque.",
+  "Dépréciation de crédit": "Montant qu'une banque met de côté dans ses comptes pour couvrir les prêts qu'elle risque de ne pas récupérer ; il réduit directement le bénéfice.",
+  "Prestataire tiers": "Entreprise extérieure (processeur de cartes, agrégateur, hébergeur) à qui une banque confie une partie de ses opérations et de ses données."
  },
  "journal": [
+  {
+   "date": "2026-11-22",
+   "synthese": "Journée calme de week-end : les résultats d'UBA (bénéfice −25 % sur neuf mois à cause des provisions) dominent côté concurrence, tandis que les régulateurs mondiaux s'inquiètent des stablecoins et de la fraude dopée à l'IA ; au Bénin, la GDIZ et l'agro-industrie occupent l'actualité, à la veille du comité de la banque centrale du Nigeria.",
+   "articles": [
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-21",
+     "titre": "UBA : bénéfice net en recul de 25 % sur neuf mois, plombé par les provisions",
+     "resume": "Le groupe nigérian, maison mère d'UBA Bénin, affiche un bénéfice après impôt de 401,6 milliards de nairas fin septembre 2026 (−25,3 %), ses dépréciations de crédits ayant presque quintuplé à 272 milliards ; le total de bilan atteint près de 35 000 milliards de nairas et les revenus hors intérêts bondissent de 48,8 %.",
+     "source": "Nairametrics ; BusinessDay ; Investors King",
+     "url": "https://nairametrics.com/2026/11/21/uba-records-n503-billion-pre-tax-profit-in-9m-2026-down-13-yoy/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-19",
+     "titre": "GDIZ : la marque textile SùSù ouvre un point de vente à Porto-Novo",
+     "resume": "Bénin Textile (BTEX) et son distributeur ont inauguré le 12 novembre un troisième showroom de linge de maison fabriqué à partir de coton béninois transformé dans la zone de Glo-Djigbé, qui dépasse désormais 30 000 emplois selon son gestionnaire SIPI-Bénin.",
+     "source": "Banouto",
+     "url": "https://www.banouto.bj/economie/article/20261119-linge-de-maison-made-in-benin-draps-serviettes-et-taies-de-la-marque-susu-desormais-disponibles-a-porto-novo"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-18",
+     "titre": "Greentech City : salon agro-industriel à Cotonou du 18 au 21 novembre",
+     "resume": "Organisée par Holland Greentech et la Chambre nationale d'agriculture, la 2e édition vise 5 000 visiteurs (1 500 l'an dernier), avec mécanisation, élevage, rencontres d'affaires et un volet financement ; 348 productrices doivent visiter la GDIZ.",
+     "source": "Banouto",
+     "url": "https://www.banouto.bj/economie/article/20261118-greentech-city-2026-au-benin-ce-qu-il-faut-retenir-de-la-2e-edition-du-salon-agro-industriel-qui-s-ouvre-a-cotonou"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-21",
+     "titre": "Village de l'innovation : le ministre du Numérique plaide pour soutenir les entrepreneurs",
+     "resume": "En marge de la Benin Digital & Innovation Week (18-20 novembre), Mahuna Akplogan a visité des jeunes entreprises (textile en fibre de bananier, solutions pour l'administration et la santé) et envisage une 2e édition en 2027.",
+     "source": "Banouto",
+     "url": "https://www.banouto.bj/sciences-tech/article/20261121-village-de-l-innovation-au-benin-le-minsitre-mahuna-akplogan-mise-sur-l-experience-pratique"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-17",
+     "titre": "Nigeria : la banque centrale devrait garder son taux à 23 % les 23 et 24 novembre",
+     "resume": "Les analystes interrogés anticipent un statu quo après la forte baisse de septembre (de 26,5 % à 23 %), l'inflation étant tombée à 14,06 % en octobre mais la hausse mensuelle des prix étant repartie.",
+     "source": "Lagos Metropolitan",
+     "url": "https://lagosmetropolitan.com/2026/11/17/analysts-expect-cbn-to-hold-interest-rate-at-23-as-mpc-meets-next-week/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-10",
+     "titre": "Conakry accueille du 20 au 23 novembre le Salon des banques et des PME de Guinée",
+     "resume": "La 12e édition, centrée sur le projet minier Simandou et la zone de libre-échange africaine, reçoit la Côte d'Ivoire en invitée d'honneur avec une trentaine d'entreprises.",
+     "source": "Abidjan.net",
+     "url": "https://news.abidjan.net/articles/749948/cooperation-economique-la-cote-divoire-pays-invite-dhonneur-du-sbpme-guinee-2026"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-17",
+     "titre": "Visa : l'IA accélère la fraude et les attaques via les prestataires",
+     "resume": "Le rapport semestriel de Visa (janvier-juin 2026) relève +35 % de tentatives de « devinette » de numéros de cartes, +62 % d'incidents chez des prestataires tiers (liés à 56 % des données volées) et 1,4 milliard de dollars de fraudes potentielles détectées.",
+     "source": "Visa (communiqué)",
+     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22981.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-20",
+     "titre": "BCE : une panique sur les stablecoins pourrait obliger à revoir la politique monétaire",
+     "resume": "Le gouverneur de la banque centrale néerlandaise Olaf Sleijpen estime qu'un retrait massif forcerait les émetteurs à vendre leurs réserves en urgence ; l'Eurosystème propose de durcir les règles de liquidité de ces réserves.",
+     "source": "crypto.news ; TokenPost",
+     "url": "https://crypto.news/ecb-policymaker-warns-stablecoin-runs-could-force-interest-rate-changes"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-17",
+     "titre": "Fed : le monopole des banques sur les paiements « se fissure », selon Christopher Waller",
+     "resume": "Le gouverneur de la Réserve fédérale voit stablecoins, dépôts tokenisés et fonds monétaires tokenisés répondre à des besoins différents, tout en rappelant que la monnaie de banque centrale doit rester le socle du système.",
+     "source": "The Coin Republic",
+     "url": "https://www.thecoinrepublic.com/2026/11/17/stablecoin-regulation-in-focus-as-waller-says-banks-payments-monopoly-is-breakin/"
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "synthese": "La journée est dominée par les marchés : la BRVM aligne une sixième baisse (BIIC −3,85 %) pendant que Coris Bank Côte d'Ivoire fixe son entrée en Bourse (souscription du 30 novembre au 4 décembre) ; la BCEAO met en avant le succès de PI-SPI et l'urgence de transformer l'épargne en crédits longs, et au Bénin le budget 2027 des Finances renforce le volet microfinance et inclusion financière.",
