@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-24T05:20:45Z",
+ "derniereMaj": "2026-11-24T12:14:32Z",
  "brief": {
   "periode": "Semaine du 23 novembre 2026",
   "titre": "Coris ouvre son capital au public, le budget 2027 entre dans sa dernière ligne droite et les fintechs se donnent rendez-vous à Cotonou",
@@ -470,6 +470,12 @@
    "resume": "Filiale du groupe Bank of Africa, cotée à la BRVM.",
    "actus": [
     {
+     "date": "2026-11-23",
+     "texte": "Au niveau du groupe : Bank of Africa (Maroc) annonce un résultat net part du groupe d'environ 340 millions de dollars sur neuf mois (+13 %), des crédits et dépôts en hausse de 9 % et un coefficient d'exploitation de 45,6 %.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/23/bank-of-africa-le-benefice-net-du-groupe-progresse-de-13-a-fin-septembre/"
+    },
+    {
      "date": "2026-11-16",
      "texte": "Au niveau du groupe : Bloomfield confirme la note A- (perspective stable) de BOA Niger, en relevant la baisse de ses crédits et de son résultat 2025.",
      "source": "Le Jecos",
@@ -498,12 +504,6 @@
      "texte": "Signe le 1er octobre à Cotonou, avec la BOAD, un document de garantie lié à un prêt de 33,2 milliards FCFA à la Société des Ciments du Bénin (Ciment Bouclier) pour une unité de broyage d'un million de tonnes à Sèmè-Podji.",
      "source": "La Nouvelle Tribune",
      "url": "https://lanouvelletribune.info/2026/10/la-boa-benin-et-la-boad-mobilisent-332-milliards-fcfa-pour-une-usine-de-ciment-a-seme-podji/"
-    },
-    {
-     "date": "2026-06-11",
-     "texte": "La BERD accorde une ligne de 20 millions de dollars pour le financement du commerce (importations, exportations, distribution).",
-     "source": "BERD",
-     "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-and-bank-of-africa-benin-support-trade-finance-in-benin.html"
     }
    ]
   },
@@ -1332,6 +1332,13 @@
   "actus": [
    {
     "date": "2026-11-24",
+    "titre": "Or : les capacités de raffinage en Afrique de l'Ouest dépassent la production",
+    "resume": "Plus de 1 000 tonnes par an de capacités annoncées depuis 2024 (Ghana, Guinée, Mali, Burkina) pour environ 585 tonnes produites, selon Reuters.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/afrique-ouest-or-capacites-raffinage-production-miniere/"
+   },
+   {
+    "date": "2026-11-24",
     "titre": "Douanes : Cotonou accueille les réunions financières de l'OMD pour l'Afrique de l'Ouest et du Centre",
     "resume": "Examen des contributions et du budget régional 2027 jusqu'au 24 novembre, avant la 95e session de la Commission de politique générale de l'OMD du 1er au 3 décembre.",
     "source": "Bénin Web TV",
@@ -1392,6 +1399,13 @@
     "resume": "La marque SùSù, produite à Glo-Djigbé à partir de coton béninois, ouvre un troisième showroom ; le gestionnaire de la zone revendique plus de 30 000 emplois.",
     "source": "Banouto",
     "url": "https://www.banouto.bj/economie/article/20261119-linge-de-maison-made-in-benin-draps-serviettes-et-taies-de-la-marque-susu-desormais-disponibles-a-porto-novo"
+   },
+   {
+    "date": "2026-11-20",
+    "titre": "Port de pêche de Cotonou : un financement de 103,1 millions d'euros bouclé",
+    "resume": "Subvention et prêt néerlandais d'Invest International (jusqu'à 46,55 millions d'euros chacun) et 10 millions apportés par le Port autonome et l'État financent le nouveau port de pêche de Xwlacodji, qui doit bénéficier à quelque 1 200 pêcheurs et 1 000 femmes de la filière.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.com/benin-port-peche-cotonou-103-millions-euros-financement-2026/"
    },
    {
     "date": "2026-11-20",
@@ -1595,20 +1609,6 @@
     "resume": "Plus bas niveau depuis six ans (14,63 % en septembre), inflation alimentaire à 19,13 % ; réunion de la banque centrale le 24 novembre (Business Post Nigeria).",
     "source": "Business Post Nigeria",
     "url": "https://businesspost.ng/economy/nigerias-inflation-rate-falls-to-six-year-low-of-14-06-in-october/"
-   },
-   {
-    "date": "2026-11-16",
-    "titre": "Sénégal : bons à 91 jours à 6,94 %",
-    "resume": "52,06 milliards FCFA levés pour 50 milliards proposés, couverture de 104 % (Le Jecos).",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/Senegal-52056-milliards-de-FCFA-mobilises-par-la-Direction-Generale-des-Financements-et-de-la-Dette_a31860.html"
-   },
-   {
-    "date": "2026-11-16",
-    "titre": "BRVM : le composite recule à 512,85 points",
-    "resume": "−0,60 % sur la séance du 16 novembre, capitalisation des actions à 20 112 milliards FCFA (Le Jecos).",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/Bourse-La-BRVM-demeure-toujours-en-zone-de-turbulence-ce-lundi-16-novembre-2026_a31859.html"
    }
   ]
  },
@@ -1805,6 +1805,34 @@
  ],
  "tendances": [
   {
+   "date": "2026-11-24",
+   "titre": "Rentabilité : les banques africaines s'attaquent à leurs coûts informatiques",
+   "resume": "Le sud-africain Absa vise 287 millions de dollars d'économies en trois ans pour ramener son coefficient d'exploitation (part des revenus absorbée par les charges) de 54 % à 50 %, notamment en supprimant environ 250 applications sur 1 000.",
+   "implication": "La baisse des marges pousse les banques à simplifier leur informatique : nos concurrents régionaux qui le feront pourront baisser leurs tarifs.",
+   "pistes": [
+    "Recenser les applications et outils redondants de la filiale et chiffrer les économies possibles avec le groupe.",
+    "Réaffecter une partie des gains à la banque digitale et au paiement instantané.",
+    "Comparer notre coefficient d'exploitation avec ceux publiés par la BIIC et BOA Bénin."
+   ],
+   "vigilance": "Des coupes trop rapides dans l'informatique peuvent fragiliser la continuité de service et la sécurité.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/24/absa-veut-reduire-ses-couts-de-287-millions-usd-pour-ameliorer-sa-rentabilite/"
+  },
+  {
+   "date": "2026-11-23",
+   "titre": "Fraude : l'IA détourne les circuits de validation des paiements",
+   "resume": "En Inde, l'agence de cybersécurité CERT-In signale des attaques assistées par l'IA qui exploitent des processus internes légitimes de banques et de fintechs pour faire valider des paiements non autorisés.",
+   "implication": "Avec la généralisation des paiements instantanés PI-SPI, une faille dans nos circuits de validation pourrait être exploitée en quelques secondes, sans retour possible des fonds.",
+   "pistes": [
+    "Faire tester par une équipe externe nos circuits de validation des virements et des paiements instantanés face à des scénarios d'attaque par l'IA.",
+    "Renforcer le double contrôle et les seuils d'alerte sur les ordres de paiement des entreprises clientes.",
+    "Partager avec l'APBEF et le groupe les nouveaux modes opératoires pour une veille commune."
+   ],
+   "vigilance": "Les montants en jeu ne sont pas publiés et ces attaques évoluent vite : un dispositif figé deviendra rapidement insuffisant.",
+   "source": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"
+  },
+  {
    "date": "2026-11-23",
    "titre": "Tokenisation : la BCE acceptera des titres numériques en garantie dès juin 2027",
    "resume": "Les titres émis sur des plateformes de registre distribué agréées dans l'Union européenne pourront servir de garantie pour se refinancer auprès de l'Eurosystème, à condition d'être reliés aux dépositaires centraux ; les règles détaillées seront publiées au printemps 2027.",
@@ -1831,20 +1859,6 @@
    "vigilance": "Les émetteurs étrangers ne sont pas autorisés à opérer dans l'UEMOA ; l'usage par nos clients doit rester dans le cadre de la réglementation des changes.",
    "source": "American Banker",
    "url": "https://www.americanbanker.com/news/moonpay-seeks-bank-charter-to-federally-issue-stablecoins"
-  },
-  {
-   "date": "2026-11-18",
-   "titre": "Stablecoins : les États-Unis fixent les règles du jeu, application au 18 janvier 2027",
-   "resume": "La règle finale de l'OCC encadre les émetteurs de stablecoins de paiement : réserves liquides, plafond d'exposition par contrepartie, audit annuel pour les plus gros et passage sous contrôle fédéral au-delà de 10 milliards de dollars en circulation.",
-   "implication": "Des stablecoins en dollars désormais encadrés gagneront en crédibilité pour les transferts de la diaspora et le commerce avec le Nigeria et l'Asie, au risque de capter une partie des flux qui passent aujourd'hui par nos comptes et nos services de transfert.",
-   "pistes": [
-    "Cartographier avec la direction Conformité les flux clients déjà liés aux cryptoactifs (rapatriements, paiements fournisseurs) pour mesurer l'exposition réelle.",
-    "Étudier avec le groupe une offre de transfert international rapide et bon marché, adossée au réseau panafricain, pour rester compétitif face aux stablecoins.",
-    "Préparer une note à l'attention de la BCEAO et de l'APBEF sur les usages observés au Bénin, en vue d'un futur cadre régional."
-   ],
-   "vigilance": "Les stablecoins restent hors du cadre de la BCEAO : toute exposition directe expose à des risques de blanchiment et de change à suivre de près.",
-   "source": "Consumer Finance Monitor (Ballard Spahr)",
-   "url": "https://www.consumerfinancemonitor.com/2026/11/18/occ-issues-final-genius-act-rule-establishing-a-federal-framework-for-payment-stablecoin-issuers/"
   },
   {
    "date": "2026-11-20",
@@ -1915,6 +1929,20 @@
    "vigilance": "Assouplir les règles sans mesure fine augmenterait le risque de fraude réelle : avancer par tests contrôlés.",
    "source": "Agence Ecofin",
    "url": "https://www.ecofinagency.com/news/1911-60969-ai-fraud-checks-can-block-real-customers-too"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "Stablecoins : les États-Unis fixent les règles du jeu, application au 18 janvier 2027",
+   "resume": "La règle finale de l'OCC encadre les émetteurs de stablecoins de paiement : réserves liquides, plafond d'exposition par contrepartie, audit annuel pour les plus gros et passage sous contrôle fédéral au-delà de 10 milliards de dollars en circulation.",
+   "implication": "Des stablecoins en dollars désormais encadrés gagneront en crédibilité pour les transferts de la diaspora et le commerce avec le Nigeria et l'Asie, au risque de capter une partie des flux qui passent aujourd'hui par nos comptes et nos services de transfert.",
+   "pistes": [
+    "Cartographier avec la direction Conformité les flux clients déjà liés aux cryptoactifs (rapatriements, paiements fournisseurs) pour mesurer l'exposition réelle.",
+    "Étudier avec le groupe une offre de transfert international rapide et bon marché, adossée au réseau panafricain, pour rester compétitif face aux stablecoins.",
+    "Préparer une note à l'attention de la BCEAO et de l'APBEF sur les usages observés au Bénin, en vue d'un futur cadre régional."
+   ],
+   "vigilance": "Les stablecoins restent hors du cadre de la BCEAO : toute exposition directe expose à des risques de blanchiment et de change à suivre de près.",
+   "source": "Consumer Finance Monitor (Ballard Spahr)",
+   "url": "https://www.consumerfinancemonitor.com/2026/11/18/occ-issues-final-genius-act-rule-establishing-a-federal-framework-for-payment-stablecoin-issuers/"
   },
   {
    "date": "2026-11-18",
@@ -2334,33 +2362,6 @@
    "vigilance": "Aucun cadre BCEAO n'autorise aujourd'hui les stablecoins dans l'UEMOA.",
    "source": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
-  },
-  {
-   "date": "2026-11-09",
-   "titre": "Nigeria : les stablecoins entrent dans un régime de licence avec capital minimum",
-   "resume": "La banque centrale du Nigeria exige depuis le 5 novembre une licence, 10 à 15 milliards de nairas de capital et une réserve couvrant intégralement les jetons émis, et interdit les stablecoins algorithmiques ; les acteurs ont 180 jours pour se conformer.",
-   "implication": "Le premier marché de la sous-région encadre les dollars numériques : les transferts Nigeria–Bénin pourraient à terme passer par des acteurs agréés, concurrents ou partenaires des banques.",
-   "pistes": [
-    "Suivre avec le groupe et nos homologues nigérians les premières licences accordées pour repérer des partenaires sérieux.",
-    "Évaluer l'exposition de nos clients commerçants du corridor Cotonou–Lagos qui règlent déjà en stablecoins.",
-    "Préparer une note de conformité sur les flux venant de plateformes de cryptoactifs, que la BCEAO exclut toujours de son bac à sable."
-   ],
-   "vigilance": "La BCEAO n'autorise pas ces actifs dans l'UEMOA : toute offre locale reste exclue tant que la réglementation régionale ne change pas.",
-   "source": "Naija News",
-   "url": "https://www.naijanews.com/2026/11/09/cbn-introduces-new-rules-for-stablecoin-operators/"
-  },
-  {
-   "date": "2026-11-06",
-   "titre": "Le Nigeria se dote d'un régime de licences pour les stablecoins",
-   "resume": "La banque centrale du Nigeria encadre depuis le 5 novembre les stablecoins adossés au naira et aux devises, interdit les stablecoins algorithmiques et donne 180 jours aux opérateurs pour se conformer.",
-   "implication": "Notre premier voisin commercial légalise un canal de paiement qui pourra concurrencer les transferts bancaires sur le corridor Bénin–Nigeria.",
-   "pistes": [
-    "Observer l'usage des stablecoins en naira par les commerçants du corridor Cotonou–Lagos.",
-    "Renforcer la détection des flux liés aux plateformes crypto dans la lutte anti-blanchiment."
-   ],
-   "vigilance": "Ces instruments restent hors cadre dans l'UEMOA ; l'exposition indirecte de nos clients doit être surveillée.",
-   "source": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
   }
  ],
  "marche": {
@@ -2748,18 +2749,18 @@
  },
  "opportunites": [
   {
-   "date": "2026-11-18",
-   "titre": "Financement du commerce : un déficit de 100 milliards de dollars en Afrique, surtout pour les PME",
-   "resume": "Afreximbank estime à 100 milliards de dollars le manque de financement du commerce sur le continent et met en avant la conformité et des données fiables sur les entreprises (plateforme MANSA) pour débloquer les crédits.",
-   "implication": "Les importateurs et exportateurs béninois (coton, cajou, réexport vers le Nigeria et le Niger) manquent de lignes de crédit documentaire et de garanties : c'est un terrain où le réseau Ecobank et les lignes d'Afreximbank peuvent faire la différence.",
+   "date": "2026-11-24",
+   "titre": "Microcrédit en ligne : la PNIF ouvre un guichet national, sans banque partenaire au démarrage",
+   "resume": "Lancée le 24 novembre, la Plateforme nationale d'inclusion financière (pnif.bj) permet de demander un microcrédit en ligne avec un versement sous 48 heures sur Mobile Money ou compte bancaire, sans frais de dossier liés à la plateforme ; 14 institutions de microfinance y participent (FECECAM, PADME, Finadev, Coris Meso Finance…).",
+   "implication": "Le crédit aux petits commerçants et artisans se digitalise via les microfinances : c'est un canal de clients et de flux qui se construit sans les banques, mais où celles-ci peuvent jouer le rôle de refinanceur et de teneur de comptes.",
    "pistes": [
-    "Démarcher les PME exportatrices de la GDIZ et des filières cajou et soja avec une offre de préfinancement d'exportation adossée aux contrats.",
-    "Mobiliser les lignes de garantie d'Afreximbank et de la SFI pour élargir le volume de lettres de crédit accordées aux PME.",
-    "Inscrire nos clients PME sur les plateformes de conformité (type MANSA) pour faciliter leurs relations avec les banques correspondantes."
+    "Proposer aux microfinances partenaires de la PNIF des lignes de refinancement et des comptes de règlement pour les décaissements.",
+    "Étudier une offre de compte et de carte pour les bénéficiaires qui grandissent, afin de les faire passer de la microfinance à la banque.",
+    "Prendre contact avec les promoteurs de la plateforme pour connaître les conditions d'adhésion d'une banque ou d'un établissement affilié."
    ],
-   "vigilance": "Le crédit commercial aux PME exige un contrôle rigoureux des documents et des marchandises pour éviter fraudes et impayés.",
-   "source": "Africa24",
-   "url": "https://africa24tv.com/afrique-100-milliards-usd-de-deficit-de-financement-du-commerce/"
+   "vigilance": "Le montant maximal des crédits et le modèle de garantie ne sont pas encore publiés : le risque de surendettement des petits emprunteurs reste à suivre.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/cest-possible-en-48h-lancement-officiel-de-la-pnif-permettant-dobtenir-un-microcredit-en-ligne/"
   },
   {
    "date": "2026-11-22",
@@ -2858,6 +2859,20 @@
    "vigilance": "Les primes et volumes dépendent de la politique publique et des récoltes : prévoir des garanties et suivre les retards de paiement dans la chaîne.",
    "source": "Matin Libre",
    "url": "https://matinlibre.com/2026/11/19/transformation-agricole-au-benin-des-productrices-simpregnent-des-realites-de-la-gdiz/"
+  },
+  {
+   "date": "2026-11-18",
+   "titre": "Financement du commerce : un déficit de 100 milliards de dollars en Afrique, surtout pour les PME",
+   "resume": "Afreximbank estime à 100 milliards de dollars le manque de financement du commerce sur le continent et met en avant la conformité et des données fiables sur les entreprises (plateforme MANSA) pour débloquer les crédits.",
+   "implication": "Les importateurs et exportateurs béninois (coton, cajou, réexport vers le Nigeria et le Niger) manquent de lignes de crédit documentaire et de garanties : c'est un terrain où le réseau Ecobank et les lignes d'Afreximbank peuvent faire la différence.",
+   "pistes": [
+    "Démarcher les PME exportatrices de la GDIZ et des filières cajou et soja avec une offre de préfinancement d'exportation adossée aux contrats.",
+    "Mobiliser les lignes de garantie d'Afreximbank et de la SFI pour élargir le volume de lettres de crédit accordées aux PME.",
+    "Inscrire nos clients PME sur les plateformes de conformité (type MANSA) pour faciliter leurs relations avec les banques correspondantes."
+   ],
+   "vigilance": "Le crédit commercial aux PME exige un contrôle rigoureux des documents et des marchandises pour éviter fraudes et impayés.",
+   "source": "Africa24",
+   "url": "https://africa24tv.com/afrique-100-milliards-usd-de-deficit-de-financement-du-commerce/"
   },
   {
    "date": "2026-11-18",
@@ -3287,20 +3302,6 @@
    "vigilance": "Le fonctionnement continu suppose des contrôles de conformité et de fraude eux aussi actifs la nuit et le week-end.",
    "source": "La Nouvelle Tribune",
    "url": "https://lanouvelletribune.info/2026/10/benin-le-port-de-cotonou-generalise-les-operations-denlevement-sept-jours-sur-sept/"
-  },
-  {
-   "date": "2026-10-23",
-   "titre": "Un salon pour préparer les PME au financement (SInAEB, 28-29 octobre)",
-   "resume": "Le premier Salon de l'investissement et de l'accompagnement des entreprises au Bénin réunira plus de 600 participants et 40 stands au Palais des congrès de Cotonou, avec rencontres d'affaires et entretiens individuels avec des experts ; la BSIC Bénin figure parmi les partenaires.",
-   "implication": "Un vivier de PME qui préparent une demande de crédit sera réuni en deux jours, et un concurrent y sera déjà visible.",
-   "pistes": [
-    "Envoyer une équipe PME pour rencontrer les entreprises présentes et repérer les dossiers finançables.",
-    "Présenter une liste simple des pièces à fournir pour un crédit PME et des garanties partielles disponibles (fonds de garantie, BOAD, BAD).",
-    "Proposer aux chefs d'entreprise un rendez-vous de suivi en agence dans les quinze jours."
-   ],
-   "vigilance": "Beaucoup de PME arrivent sans états financiers fiables : il faut éviter des promesses de financement avant analyse.",
-   "source": "Cadre Éco",
-   "url": "https://cadreco.media/entreprises/2026/financement-des-pme-au-benin-le-sinaeb-veut-rapprocher-entreprises-et-investisseurs"
   }
  ],
  "historique": {
@@ -4006,12 +4007,16 @@
   "BRVM Composite": "Indice qui mesure l'évolution de l'ensemble des actions cotées à la Bourse régionale des valeurs mobilières d'Abidjan.",
   "BDEAC": "Banque de développement des États de l'Afrique centrale : banque publique régionale qui finance les projets des six pays de la CEMAC.",
   "Collatéral": "Actif (titre, créance) remis en garantie pour obtenir un prêt, notamment auprès d'une banque centrale.",
-  "Limite de variation journalière": "À la BRVM, une action ne peut normalement pas monter ou baisser de plus de 7,5 % en une séance."
+  "Limite de variation journalière": "À la BRVM, une action ne peut normalement pas monter ou baisser de plus de 7,5 % en une séance.",
+  "PNIF": "Plateforme nationale d'inclusion financière du Bénin : site public (pnif.bj) où l'on demande un microcrédit en ligne auprès de microfinances partenaires, avec versement sous 48 heures.",
+  "Coefficient d'exploitation": "Part des revenus d'une banque absorbée par ses charges de fonctionnement : plus il est bas, plus la banque est efficace.",
+  "RNPG": "Résultat net part du groupe : bénéfice consolidé qui revient aux actionnaires de la maison mère, après la part des actionnaires minoritaires des filiales.",
+  "CERT-In": "Agence gouvernementale indienne chargée de répondre aux incidents de cybersécurité."
  },
  "journal": [
   {
    "date": "2026-11-24",
-   "synthese": "La Bourse régionale décroche (−3,3 %) et entraîne BIIC, BOA Bénin et Ecobank Transnational vers −7 %, à une semaine de l'offre de Coris Bank Côte d'Ivoire, tandis que le Nigeria attend la décision de sa banque centrale et durcit les règles sur les stablecoins.",
+   "synthese": "Le Bénin lance une plateforme de microcrédit en ligne en 48 heures portée par 14 microfinances, pendant que la Bourse régionale reste sous pression avant l'offre de Coris Bank Côte d'Ivoire et que le groupe Bank of Africa affiche un bénéfice en hausse de 13 %.",
    "articles": [
     {
      "theme": "Régulation et marchés",
@@ -4140,6 +4145,54 @@
      "resume": "Le texte prévoit des licences pour les plateformes et des stablecoins en won émis par des consortiums où les banques détiendraient plus de 50 %.",
      "source": "The Block",
      "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-24",
+     "titre": "Bénin : une plateforme nationale pour obtenir un microcrédit en ligne en 48 heures",
+     "resume": "La Plateforme nationale d'inclusion financière (PNIF, pnif.bj), lancée ce 24 novembre, permet aux commerçants, artisans et agriculteurs de demander un microcrédit sans se déplacer, versé sur Mobile Money ou compte bancaire sous 48 heures ; elle démarre avec 14 institutions de microfinance (FECECAM, PADME, Finadev…) et aucune banque.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/cest-possible-en-48h-lancement-officiel-de-la-pnif-permettant-dobtenir-un-microcredit-en-ligne/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-23",
+     "titre": "Groupe Bank of Africa : bénéfice en hausse de 13 % sur neuf mois",
+     "resume": "Le groupe marocain, maison mère de BOA Bénin, dégage un résultat net part du groupe d'environ 340 millions de dollars à fin septembre, avec des crédits et des dépôts en hausse de 9 % ; l'Afrique subsaharienne soutient la croissance.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/23/bank-of-africa-le-benefice-net-du-groupe-progresse-de-13-a-fin-septembre/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-24",
+     "titre": "Afrique du Sud : Absa veut économiser 287 millions de dollars en trois ans",
+     "resume": "La banque vise 5 milliards de rands d'économies pour ramener son coefficient d'exploitation d'environ 54 % à 50 %, en investissant 144 millions de dollars et en supprimant près d'un quart de ses 1 000 applications informatiques.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/24/absa-veut-reduire-ses-couts-de-287-millions-usd-pour-ameliorer-sa-rentabilite/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-24",
+     "titre": "Afrique de l'Ouest : les projets de raffinage d'or dépassent déjà la production",
+     "resume": "Selon une enquête Reuters, les raffineries lancées ou annoncées depuis 2024 (Ghana, Guinée, Mali, Burkina) totalisent plus de 1 000 tonnes par an, pour une production régionale d'environ 585 tonnes.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/afrique-ouest-or-capacites-raffinage-production-miniere/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-24",
+     "titre": "Corée du Sud : le projet de loi sur les cryptoactifs réserve les stablecoins en won aux banques",
+     "resume": "Le régulateur financier publie un texte qui autorise les levées de fonds en cryptoactifs et des stablecoins adossés au won, émis au départ par des consortiums détenus majoritairement par des banques ; il doit encore passer au Parlement.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-23",
+     "titre": "Inde : des attaques assistées par l'IA déclenchent des paiements frauduleux dans des banques",
+     "resume": "L'agence indienne de cybersécurité (CERT-In) alerte sur des attaques qui détournent des circuits de validation légitimes de banques et de fintechs pour faire passer des paiements non autorisés.",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"
     }
    ]
   },
