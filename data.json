@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-25T05:18:07Z",
+ "derniereMaj": "2026-11-25T12:18:38Z",
  "brief": {
   "periode": "Semaine du 23 novembre 2026",
   "titre": "Coris ouvre son capital au public, le budget 2027 entre dans sa dernière ligne droite et les fintechs se donnent rendez-vous à Cotonou",
@@ -784,6 +784,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-11-24",
+   "organisme": "BCEAO",
+   "titre": "Conditions de banque du premier semestre 2026 : crédits plafonnés à 14 % dans neuf banques béninoises",
+   "resume": "La BCEAO a publié fin octobre les conditions déclarées par les banques au 30 juin 2026 ; au Bénin, les taux de base vont de 6,13 % à 9,50 %, le taux débiteur maximum est de 14 % dans neuf banques sur quatorze (12 à 13 % ailleurs) et les dépôts à terme sont rémunérés jusqu'à 7 %.",
+   "implication": "Ces grilles publiques permettent aux grandes entreprises et aux déposants de comparer les banques ; avec un plafond de rémunération des dépôts à terme de 5 % au dernier relevé connu (premier semestre 2025), nous restons exposés à la concurrence sur l'épargne longue.",
+   "pistes": [
+    "Comparer nos conditions déclarées au premier semestre 2026 avec celles des concurrents, banque par banque, dès lecture du document officiel de la BCEAO.",
+    "Étudier une offre de dépôt à terme ciblée (montant minimal, durée de 12 à 24 mois) pour les entreprises et la diaspora, afin de capter l'épargne sans relever toute la grille.",
+    "Mettre en avant, auprès des PME, le coût total du crédit (frais compris) plutôt que le seul plafond de taux."
+   ],
+   "vigilance": "Ces chiffres sont des plafonds déclarés, pas des taux pratiqués ; une hausse généralisée de la rémunération des dépôts pèserait sur la marge d'intérêt.",
+   "source": "La Nation, d'après la BCEAO",
+   "url": "https://lanation.bj/economie/secteur-financier-au-benin-1er-semestre-2026-neuf-banques-affichent-un-taux-debiteur-maximum-de-14"
+  },
+  {
    "date": "2026-11-23",
    "organisme": "Banque centrale du Nigeria (CBN)",
    "titre": "Nigeria : un capital minimal de 15 milliards de nairas pour émettre des stablecoins en dollars",
@@ -1317,6 +1332,34 @@
   ],
   "actus": [
    {
+    "date": "2026-11-25",
+    "titre": "Togo : le FMI discute d'un nouvel accord de 22 mois pour la résilience",
+    "resume": "En plus du programme de 403,4 millions de dollars en cours, un accord au titre de la facilité pour la résilience et la durabilité est en discussion ; aucun montant n'est encore fixé.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/finance/2511-20752-togo-le-fmi-discute-dun-accord-de-22-mois-en-complement-du-programme-actuel"
+   },
+   {
+    "date": "2026-11-25",
+    "titre": "Togo : la Caisse des dépôts adoptée en première lecture",
+    "resume": "Elle centralisera consignations, comptes dormants et fonds non réclamés pour financer logement social, santé, énergie et PME ; la Caisse des dépôts du Bénin sert de référence avec 1 062 milliards FCFA de bilan en 2024.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/2511-20758-togo-la-future-caisse-des-depots-franchit-une-premiere-etape-au-parlement"
+   },
+   {
+    "date": "2026-11-25",
+    "titre": "Nigeria : jusqu'à 1 million de dollars en espèces pour les bureaux de change",
+    "resume": "La banque centrale relève le plafond de vente de dollars en billets par les banques aux bureaux de change, auparavant limité à 37 500 dollars par semaine en espèces.",
+    "source": "Nairametrics",
+    "url": "https://nairametrics.com/2026/11/25/cbn-authorises-banks-to-sell-up-to-1-million-in-cash-to-bdcs/"
+   },
+   {
+    "date": "2026-11-23",
+    "titre": "Burkina Faso : S&P relève la note souveraine à B-",
+    "resume": "Relèvement de CCC+ à B- avec perspective stable ; déficit public de 1,8 % du PIB en 2025 et croissance attendue de 4,5 % par an sur 2026-2029.",
+    "source": "L'Économiste du Faso",
+    "url": "https://leconomistedufaso.com/2026/11/23/notation-pays-la-signature-financiere-du-burkina-se-raffermit/"
+   },
+   {
     "date": "2026-11-24",
     "titre": "Pétrole : le Brent passe sous 90 dollars",
     "resume": "Le baril est tombé vers 89 dollars, au plus bas de trois mois, sur fond de négociations entre les États-Unis et l'Iran, mais des analystes jugent le risque de rebond élevé.",
@@ -1567,34 +1610,6 @@
     "resume": "Le gouvernement annonce une baisse des prix une fois le gaz disponible partout, mais les recharges de 6 kg restaient introuvables à Cotonou et Abomey-Calavi le 18 novembre.",
     "source": "La Nouvelle Tribune ; Matin Libre",
     "url": "https://lanouvelletribune.info/2026/11/gaz-au-benin-leandre-houngbedji-annonce-larrivee-dun-navire-pour-soulager-les-consommateurs/"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "Électricité : le Bénin ne couvre que 40 % de ses besoins",
-    "resume": "Le reste est importé du Nigeria et du Ghana ; le barrage de Dogo-Bis (128 MW) est mis en avant dans le programme d'action 2026-2033.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/electricite-au-benin-leandre-houngbedji-devoile-ce-que-prevoit-le-pag-2026-2033/"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "BRVM : le composite à 500,95 points après quatre séances de baisse",
-    "resume": "Recul de 0,34 % le 18 novembre, avec seulement 1,38 milliard FCFA de transactions.",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/BRVM-Quatrieme-journee-de-baisse-ininterrompue-des-indices-phares-ce-mercredi-18-novembre-2026_a31874.html"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "Nigeria : accord banque centrale–NNPC sur les devises",
-    "resume": "Le voisin cherche à mieux rapatrier ses recettes pétrolières pour stabiliser le naira, un enjeu pour le commerce frontalier avec le Bénin.",
-    "source": "CNBC Africa (Reuters)",
-    "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding"
-   },
-   {
-    "date": "2026-11-17",
-    "titre": "Nigeria : statu quo attendu à 23 % au comité monétaire des 23-24 novembre",
-    "resume": "L'inflation est tombée à 14,06 % en octobre, mais les analystes jugent prudent de maintenir le taux après la baisse de septembre.",
-    "source": "Lagos Metropolitan",
-    "url": "https://lagosmetropolitan.com/2026/11/17/analysts-expect-cbn-to-hold-interest-rate-at-23-as-mpc-meets-next-week/"
    }
   ]
  },
@@ -1804,6 +1819,34 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-25",
+   "titre": "Visa : l'argent liquide, et non le mobile money, est le vrai concurrent du paiement numérique",
+   "resume": "Le directeur de Visa pour l'Afrique de l'Ouest et du Centre estime que cartes et portefeuilles mobiles doivent coopérer pour faire reculer les espèces, qui dominent encore les paiements de la région.",
+   "implication": "La concurrence avec MTN MoMo et Moov Money peut aussi se jouer en partenariat, sur la conversion des paiements en espèces des commerçants et des ménages.",
+   "pistes": [
+    "Proposer aux commerçants de Cotonou un encaissement unique acceptant carte, QR code et mobile money, avec versement en compte le jour même.",
+    "Développer les cartes prépayées liées aux portefeuilles mobiles pour les achats en ligne et à l'étranger.",
+    "Lancer une campagne sur les paiements récurrents (écoles, loyers, factures) aujourd'hui réglés en espèces."
+   ],
+   "vigilance": "Des frais trop élevés pour les petits commerçants freineront l'adoption, quel que soit le moyen de paiement.",
+   "source": "Agence Ecofin",
+   "url": "https://www.agenceecofin.com/actualites/2511-143758-le-principal-concurrent-du-paiement-numerique-ce-nest-ni-le-mobile-money-ni-la-carte-cest-le-cash-ismahill-diaby-visa"
+  },
+  {
+   "date": "2026-11-23",
+   "titre": "Les banques américaines encadrent plus strictement leurs agents d'intelligence artificielle",
+   "resume": "Plusieurs banques limitent les accès, la durée d'activité et les identifiants des agents d'IA internes, isolent leurs environnements de test et étudient des coupe-circuits, selon Reuters.",
+   "implication": "Tout projet d'agent d'IA chez nous (service client, contrôle, back-office) devra prévoir dès le départ des droits limités et un arrêt d'urgence.",
+   "pistes": [
+    "Recenser les outils d'IA déjà utilisés par les équipes et les données auxquelles ils accèdent.",
+    "Fixer une règle simple : aucun agent d'IA avec accès aux comptes clients sans validation humaine et journal des actions.",
+    "Coordonner avec le groupe une charte d'usage de l'IA adaptée aux exigences de la BCEAO sur le risque opérationnel."
+   ],
+   "vigilance": "Un agent d'IA mal encadré peut exposer des données clients ou déclencher des opérations non voulues.",
+   "source": "BNN Bloomberg (Reuters)",
+   "url": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/23/some-us-banks-tighten-ai-agent-controls-on-concern-about-models-escaping-safeguards-reuters-exclusive"
+  },
   {
    "date": "2026-11-24",
    "titre": "Nigeria : la fraude interne coûte autant que les cyberattaques",
@@ -2335,34 +2378,6 @@
    "vigilance": "Le plan anti-blanchiment béninois 2026-2030 cible déjà les crypto-actifs : toute initiative devra attendre un cadre clair.",
    "source": "crypto.news",
    "url": "https://crypto.news/south-korea-bank-led-won-stablecoin-rules/"
-  },
-  {
-   "date": "2026-11-12",
-   "titre": "Commerce avec la Chine : le groupe BCP ouvre le règlement en yuan",
-   "resume": "Le groupe marocain Banque Centrale Populaire, actionnaire de Banque Atlantique, propose via sa filiale CIB Offshore le règlement direct en renminbi des échanges entre l'Afrique et la Chine.",
-   "implication": "Un concurrent présent au Bénin pourrait offrir aux importateurs de produits chinois un règlement sans passer par le dollar, sur un segment clé du commerce de Cotonou.",
-   "pistes": [
-    "Vérifier avec le groupe nos capacités de paiement en yuan et leur coût pour les importateurs béninois.",
-    "Cibler les importateurs de Dantokpa et de la GDIZ qui achètent en Chine avec une offre de change et de crédit documentaire.",
-    "Comparer nos délais et frais de transfert vers la Chine avec ceux annoncés par Banque Atlantique."
-   ],
-   "vigilance": "L'offre n'est pas encore annoncée pour la filiale béninoise ; ses conditions et son coût restent inconnus.",
-   "source": "Financial Afrik",
-   "url": "https://www.financialafrik.com/2026/11/12/maroc-la-bcp-mise-sur-le-yuan-pour-capter-les-flux-commerciaux-entre-lafrique-et-la-chine/"
-  },
-  {
-   "date": "2026-11-12",
-   "titre": "Actifs numériques : les grandes banques passent de l'annonce au service",
-   "resume": "Deutsche Bank ouvre en Europe la garde de bitcoins et d'ethers pour ses clients, tandis que l'américaine PNC permet à ses entreprises clientes de recevoir des paiements en USDC, un jeton adossé au dollar.",
-   "implication": "Les clients internationaux d'Ecobank Bénin pourraient demander à payer ou être payés en stablecoins, alors que la BCEAO n'autorise pas ces jetons dans l'UEMOA et que le Bénin renforce sa surveillance des cryptoactifs.",
-   "pistes": [
-    "Recenser les demandes de clients exportateurs ou de la diaspora portant sur des paiements en stablecoins pour mesurer le besoin réel.",
-    "Préparer avec la conformité une position claire et une réponse type aux clients, fondée sur les règles BCEAO et la stratégie anti-blanchiment 2026-2030.",
-    "Suivre avec le groupe les solutions de paiement international rapides et régulées (PAPSS, Swift) qui répondent au même besoin."
-   ],
-   "vigilance": "Les flux de cryptoactifs non déclarés passant par des comptes bancaires sont une cible prioritaire du nouveau plan national anti-blanchiment.",
-   "source": "The Paypers",
-   "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deutsche-bank-goes-live-with-digital-asset-custody-service"
   }
  ],
  "marche": {
@@ -2749,6 +2764,20 @@
   "url": "https://www.sikafinance.com/marches/brvm-la-pression-retombe-dun-cran-totalenergies-marketing-ci-sillustre_65921"
  },
  "opportunites": [
+  {
+   "date": "2026-11-25",
+   "titre": "Initiative africaine sur la notation souveraine (ASCRI) : vers un coût de la dette plus bas pour les États",
+   "resume": "La BAD et la Facilité africaine de soutien juridique ont lancé à Abidjan une initiative pour renforcer la capacité des États face aux agences de notation et améliorer leur information financière.",
+   "implication": "Une meilleure notation du Bénin abaisserait le coût de ses emprunts et, par ricochet, la référence de taux des grands crédits aux entreprises et des titres publics que nous détenons.",
+   "pistes": [
+    "Suivre la participation du Bénin à l'initiative et l'intégrer dans nos scénarios de taux sur les titres publics.",
+    "Préparer une offre de financement en devises pour les grandes entreprises béninoises si la note souveraine s'améliore.",
+    "Proposer aux clients institutionnels une veille commentée sur les notes souveraines de l'UEMOA."
+   ],
+   "vigilance": "Les effets sur les notes sont lents et incertains ; ne pas anticiper un gain avant une décision effective des agences.",
+   "source": "Financial Afrik",
+   "url": "https://www.financialafrik.com/2026/11/25/dette-africaine-la-bad-et-lalsf-sattaquent-au-surcout-du-financement-souverain/"
+  },
   {
    "date": "2026-11-24",
    "titre": "Afreximbank veut multiplier l'affacturage africain par près de cinq",
@@ -3289,20 +3318,6 @@
    "vigilance": "Tant que le taux de couverture, le coût de la garantie et les délais d'indemnisation ne sont pas connus, il faut éviter d'assouplir les critères de crédit par anticipation.",
    "source": "Financial Afrik",
    "url": "https://www.financialafrik.com/2026/10/26/benin-le-fonds-dinvestissement-et-de-garantie-des-pme-obtient-lagrement-de-la-bceao/"
-  },
-  {
-   "date": "2026-10-26",
-   "titre": "Le Luxembourg prépare un nouveau programme de coopération avec le Bénin",
-   "resume": "La troisième commission mixte Bénin–Luxembourg a fait le bilan des projets en cours et lancé la préparation du prochain programme indicatif de coopération, qui sera aligné sur le plan d'action du gouvernement ; aucun montant n'est encore fixé.",
-   "implication": "Le Luxembourg finance souvent l'inclusion financière et la formation ; un nouveau programme peut ouvrir des lignes de crédit ou des garanties pour les PME et les jeunes.",
-   "pistes": [
-    "Prendre contact avec la coopération luxembourgeoise et le ministère des Finances pour connaître les axes du futur programme.",
-    "Proposer la banque comme partenaire de distribution d'éventuelles lignes de crédit ou garanties pour PME, femmes entrepreneures ou jeunes.",
-    "Préparer un dossier sur notre offre digitale (paiement mobile, comptes à distance) en lien avec l'inclusion financière."
-   ],
-   "vigilance": "Le contenu et le calendrier du programme ne sont pas connus ; il s'agit d'une piste de moyen terme.",
-   "source": "Gouvernement du Bénin",
-   "url": "https://www.gouv.bj/article/3717/cooperation-benin%E2%80%93luxembourg-3%E1%B5%89-commission-mixte-trace-nouvelles-perspectives-partenariat-tourne-vers-avenir/"
   }
  ],
  "historique": {
@@ -4021,12 +4036,18 @@
   "CERT-In": "Agence gouvernementale indienne chargée de répondre aux incidents de cybersécurité.",
   "Affacturage": "Financement par lequel une banque ou une société spécialisée avance à une entreprise le montant de ses factures clients, puis se charge de les encaisser.",
   "Compartiment Prestige": "Segment de la BRVM réservé aux sociétés cotées les plus solides et transparentes, avec des exigences de taille, de rentabilité et d'information renforcées.",
-  "NIBSS": "Nigeria Inter-Bank Settlement System : la société qui gère les paiements interbancaires au Nigeria et publie des statistiques sur la fraude."
+  "NIBSS": "Nigeria Inter-Bank Settlement System : la société qui gère les paiements interbancaires au Nigeria et publie des statistiques sur la fraude.",
+  "Conditions de banque": "Relevé semestriel publié par la BCEAO des taux maximaux que chaque banque déclare appliquer sur ses crédits et ses dépôts.",
+  "Taux de base bancaire": "Taux de référence propre à chaque banque, à partir duquel elle fixe le taux de ses crédits en ajoutant une marge selon le client.",
+  "Facilité pour la résilience et la durabilité (FRD)": "Instrument du FMI qui prête à long terme aux pays pour financer des réformes face aux chocs climatiques ou sanitaires.",
+  "Bureau de change (BDC)": "Commerce agréé pour acheter et vendre des devises en espèces au public.",
+  "ASCRI": "Initiative de la BAD lancée en 2026 pour aider les États africains à mieux préparer leur notation par les agences et réduire le coût de leur dette.",
+  "CFTC": "Autorité américaine qui régule les marchés de produits dérivés et de matières premières."
  },
  "journal": [
   {
    "date": "2026-11-25",
-   "synthese": "La journée est dominée par le lancement de l'offre de Coris Bank Bénin (19,19 milliards FCFA, souscription du 7 au 11 décembre) avant son entrée en Bourse, dans une BRVM toujours en repli et un Nigeria qui maintient son taux à 23 % tout en réduisant son budget.",
+   "synthese": "La journée reste dominée par l'entrée en Bourse de Coris Bank Bénin (souscription du 7 au 11 décembre) et une BRVM toujours en repli ; s'y ajoutent les nouvelles conditions de banque de la BCEAO, qui montrent au Bénin des dépôts à terme rémunérés jusqu'à 7 %, et des voisins en mouvement (programme FMI et Caisse des dépôts au Togo, assouplissement du change au Nigeria).",
    "articles": [
     {
      "theme": "Banques et concurrents",
@@ -4059,22 +4080,6 @@
      "resume": "Les bouteilles de 6 kg manquent depuis le 6 novembre à Cotonou et Abomey-Calavi ; un navire est arrivé au port et le porte-parole du gouvernement a condamné les hausses de prix opportunistes.",
      "source": "La Nouvelle Tribune",
      "url": "https://lanouvelletribune.info/2026/11/gaz-au-benin-leandre-houngbedji-prevoit-une-stabilisation-de-la-situation-dici-deux-semaines/"
-    },
-    {
-     "theme": "Bénin",
-     "date": "2026-11-24",
-     "titre": "Médias : le ministère de la Communication associe banques et assureurs à la recherche de nouveaux revenus",
-     "resume": "Un atelier ouvert le 24 novembre à Cotonou réunit patrons de presse, banques et assureurs pour réduire la dépendance des médias à la publicité ; une feuille de route commune est visée en 2027.",
-     "source": "Bénin Web TV",
-     "url": "https://beninwebtv.bj/repenser-le-modele-economique-des-medias-le-ministere-de-la-communication-lance-la-reflexion-a-cotonou/"
-    },
-    {
-     "theme": "Bénin",
-     "date": "2026-11-23",
-     "titre": "Vodun Days 2027 : Ethiopian Airlines baisse de 12 % ses tarifs vers Cotonou",
-     "resume": "La réduction vaut pour les voyages vers Cotonou entre le 24 décembre 2026 et le 9 janvier 2027, en classe économique et affaires, un signal pour le tourisme et les entrées de devises de fin d'année.",
-     "source": "L'Économiste du Bénin",
-     "url": "https://leconomistebenin.bj/vodun-days-2027-ethiopian-airlines-baisse-les-prix/"
     },
     {
      "theme": "Régulation et marchés",
@@ -4125,14 +4130,6 @@
      "url": "https://nairametrics.com/2026/11/23/cbn-seeks-larger-stake-for-nigeria-in-ecowas-single-currency-governance"
     },
     {
-     "theme": "Banques et concurrents",
-     "date": "2026-11-24",
-     "titre": "Access, banque nigériane la plus internationalisée par ses revenus",
-     "resume": "Sur neuf mois, 29,5 % des revenus d'Access viennent de l'étranger, et ses filiales hors Nigeria fournissent 69,5 % du bénéfice avant impôt du groupe.",
-     "source": "Nairametrics",
-     "url": "https://nairametrics.com/2026/11/24/access-holdings-tops-nigerian-banks-with-n1-22-trillion-in-9m-2026-foreign-earnings/"
-    },
-    {
      "theme": "Afrique",
      "date": "2026-11-24",
      "titre": "Cajou : douze pays, dont le Bénin, préparent une bourse régionale",
@@ -4141,52 +4138,76 @@
      "url": "https://beninwebtv.bj/filiere-cajou-douze-pays-africains-bourse-abidjan/"
     },
     {
-     "theme": "Afrique",
+     "theme": "Régulation et marchés",
      "date": "2026-11-24",
-     "titre": "Afreximbank veut multiplier l'affacturage africain pour financer les PME",
-     "resume": "L'affacturage en Afrique est passé de 21,6 à 51,4 milliards d'euros entre 2017 et 2025 ; Afreximbank vise au moins 240 milliards, face à un déficit de financement des PME estimé à 300 milliards de dollars par an.",
-     "source": "AllAfrica",
-     "url": "https://fr.allafrica.com/stories/202611240606.html"
+     "titre": "Conditions de banque au Bénin : neuf banques sur quatorze plafonnent leurs crédits à 14 %",
+     "resume": "D'après les conditions de banque du premier semestre 2026 publiées par la BCEAO, les taux de base des 14 banques béninoises vont de 6,13 % à 9,50 % (neuf à 9 %), neuf déclarent un taux débiteur maximum de 14 % et la rémunération des dépôts à terme monte jusqu'à 7 %.",
+     "source": "La Nation",
+     "url": "https://lanation.bj/economie/secteur-financier-au-benin-1er-semestre-2026-neuf-banques-affichent-un-taux-debiteur-maximum-de-14"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Togo : le FMI discute d'un second programme de 22 mois axé sur la résilience",
+     "resume": "Après une mission à Lomé du 9 au 20 novembre, le FMI évoque un accord de 22 mois au titre de sa facilité pour la résilience et la durabilité, en plus du programme de 403,4 millions de dollars en cours ; montant et conditions restent à fixer.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/finance/2511-20752-togo-le-fmi-discute-dun-accord-de-22-mois-en-complement-du-programme-actuel"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Togo : les députés adoptent en première lecture la création d'une Caisse des dépôts",
+     "resume": "La future Caisse des dépôts et consignations togolaise centralisera consignations, garanties, comptes dormants et fonds non réclamés pour financer logement social, santé, énergie et PME ; l'article rappelle que celle du Bénin affichait 1 062 milliards FCFA de bilan en 2024.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2511-20758-togo-la-future-caisse-des-depots-franchit-une-premiere-etape-au-parlement"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Nigeria : les banques autorisées à vendre jusqu'à 1 million de dollars en espèces aux bureaux de change",
+     "resume": "La banque centrale du Nigeria relève fortement le plafond, auparavant de 150 000 dollars par semaine dont un quart seulement en billets, pour soulager la demande de devises en espèces.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/25/cbn-authorises-banks-to-sell-up-to-1-million-in-cash-to-bdcs/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "La BAD lance une initiative pour aider les États africains face aux agences de notation",
+     "resume": "La Banque africaine de développement et la Facilité africaine de soutien juridique ont lancé à Abidjan l'initiative ASCRI pour améliorer l'information financière des États et, à terme, réduire le coût de leurs emprunts internationaux.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/25/dette-africaine-la-bad-et-lalsf-sattaquent-au-surcout-du-financement-souverain/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Visa : le vrai concurrent du paiement numérique reste l'argent liquide",
+     "resume": "Le directeur de Visa pour l'Afrique de l'Ouest et du Centre, Ismahill Diaby, estime que cartes et mobile money ne sont pas rivaux : l'enjeu commun est de faire reculer l'usage des espèces.",
+     "source": "Agence Ecofin",
+     "url": "https://www.agenceecofin.com/actualites/2511-143758-le-principal-concurrent-du-paiement-numerique-ce-nest-ni-le-mobile-money-ni-la-carte-cest-le-cash-ismahill-diaby-visa"
     },
     {
      "theme": "Afrique",
      "date": "2026-11-23",
-     "titre": "Mastercard lance en Afrique son outil antifraude Identity Insights",
-     "resume": "Le service croise données d'identité, d'appareil et de paiement pour produire des scores de risque intégrés aux outils des commerçants et des prestataires de paiement.",
-     "source": "TechAfrica News",
-     "url": "https://techafricanews.com/2026/11/23/mastercard-partners-chargeforwards-to-strengthen-digital-fraud-detection-in-eemea/"
-    },
-    {
-     "theme": "Afrique",
-     "date": "2026-11-24",
-     "titre": "Nigeria : la fraude interne et les cyberattaques pèsent sur les banques",
-     "resume": "Selon NIBSS, la fraude a coûté 52,26 milliards de nairas en 2024, dont environ 30 milliards pour une seule fraude interne ; un dispositif de partage de renseignements sur la fraude est en préparation.",
-     "source": "Techpoint Africa",
-     "url": "https://techpoint.africa/insight/nigerian-banks-cybersecurity/"
-    },
-    {
-     "theme": "Afrique",
-     "date": "2026-11-23",
-     "titre": "RDC : l'interdiction des paiements en espèces en devises attire Wave et les fintechs",
-     "resume": "À partir du 9 avril 2027, les paiements en espèces en devises seront interdits en RDC ; Wave vient d'y obtenir le 5e agrément de monnaie électronique.",
-     "source": "WeeTracker",
-     "url": "https://weetracker.com/2026/11/23/drc-2027-cash-deadline-african-fintech-rush/"
+     "titre": "Burkina Faso : S&P relève la note à B-, les banques exposées au Sénégal à moins de 5 % de leurs actifs",
+     "resume": "La note souveraine passe de CCC+ à B- avec une perspective stable ; les banques burkinabè détiennent 386,5 milliards FCFA d'engagements sur le Sénégal et affichent une solvabilité de 15,8 % à fin juin 2026.",
+     "source": "L'Économiste du Faso",
+     "url": "https://leconomistedufaso.com/2026/11/23/notation-pays-la-signature-financiere-du-burkina-se-raffermit/"
     },
     {
      "theme": "Monde",
      "date": "2026-11-23",
-     "titre": "Payoneer obtient un premier feu vert pour une banque dédiée aux stablecoins",
-     "resume": "Le régulateur bancaire américain (OCC) a donné son accord conditionnel à PAYO Digital Bank, qui émettrait un stablecoin en dollars utilisable dans l'écosystème Payoneer, très utilisé par les freelances et exportateurs africains.",
+     "titre": "États-Unis : des banques resserrent le contrôle de leurs agents d'intelligence artificielle",
+     "resume": "Selon Reuters, plusieurs banques limitent les accès, la durée d'activité et les identifiants de leurs agents d'IA et étudient des coupe-circuits, après des incidents chez des entreprises technologiques.",
+     "source": "BNN Bloomberg (Reuters)",
+     "url": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/23/some-us-banks-tighten-ai-agent-controls-on-concern-about-models-escaping-safeguards-reuters-exclusive"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-24",
+     "titre": "États-Unis : le régulateur des dérivés admet les stablecoins dans les ressources financières, pas comme liquidités",
+     "resume": "Les services de la CFTC autorisent certaines plateformes et chambres de compensation à compter des stablecoins de paiement, avec décote, dans leurs ressources financières, mais pas dans leurs réserves minimales de liquidité.",
      "source": "PYMNTS",
-     "url": "https://www.pymnts.com/news/banking/2026/payoneer-lands-conditional-approval-to-open-stablecoin-bank/"
-    },
-    {
-     "theme": "Monde",
-     "date": "2026-11-24",
-     "titre": "Le dollar proche d'un plus haut de 20 mois, les marchés parient sur une hausse des taux de la Fed",
-     "resume": "L'euro est tombé vers 1,09 dollar, près d'un plus bas de 18 mois, ce qui renchérit pour la zone franc CFA les importations et dettes libellées en dollars.",
-     "source": "Business Recorder (Reuters)",
-     "url": "https://www.brecorder.com/news/40450476/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets?v=1ZmX-utI1CTjbZ61Pc1COgJV"
+     "url": "https://www.pymnts.com/cryptocurrency/2026/cftc-says-financial-institutions-can-count-stablecoins-financial-resources-not-cash/"
     }
    ]
   },
