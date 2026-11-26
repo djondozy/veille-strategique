@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-26T05:19:16Z",
+ "derniereMaj": "2026-11-26T12:13:03Z",
  "brief": {
   "periode": "Semaine du 23 novembre 2026",
   "titre": "Coris ouvre son capital au public, le budget 2027 entre dans sa dernière ligne droite et les fintechs se donnent rendez-vous à Cotonou",
@@ -135,6 +135,19 @@
    ],
    "source": "Linfodrome",
    "url": "https://www.linfodrome.com/economie/127164-bceao-centif-wave-mastercard-gozem-l-afrique-des-paiements-au-nff-2026-a-cotonou"
+  },
+  {
+   "date": "2026-11-27",
+   "titre": "Foire internationale de Lomé (27 novembre - 13 décembre)",
+   "detail": "La 21e Foire internationale de Lomé réunit exposants et commerçants de la sous-région pendant plus de deux semaines. La douane togolaise (OTR) y applique trois taux sur la valeur des marchandises importées : 7 % pour les produits agréés de l'UEMOA ou de la CEDEAO, 23 % pour les produits régionaux non agréés et 28 % pour ceux des pays tiers ; par exemple, un lot béninois non agréé de 1 million FCFA paiera 230 000 FCFA.",
+   "pourquoi": "Des commerçants et PME béninois clients vont exposer ou s'approvisionner à Lomé, avec des besoins de trésorerie, de paiements transfrontaliers et de change.",
+   "preparer": [
+    "Informer les clients commerçants exposants des taux applicables et de l'intérêt de l'agrément UEMOA/CEDEAO.",
+    "Proposer des avances de trésorerie courtes et des virements instantanés vers le Togo via le réseau du groupe.",
+    "Promouvoir le paiement par carte et QR code sur les stands pour limiter le transport d'espèces."
+   ],
+   "source": "Togo First",
+   "url": "https://www.togofirst.com/fr/finances-publiques/2511-20754-21e-foire-internationale-de-lome-l-otr-fixe-trois-taux-de-taxation-pour-les-marchandises-importees"
   },
   {
    "date": "2026-11-30",
@@ -1308,6 +1321,13 @@
   "actus": [
    {
     "date": "2026-11-26",
+    "titre": "Budget 2027 : les ministères défendent leurs crédits devant les députés",
+    "resume": "Le 25 novembre, la Santé (174,8 milliards FCFA) et la Décentralisation (62,9 milliards, dont 32,7 milliards d'investissement) ont présenté leurs budgets en commission, avant le vote en plénière prévu le 8 décembre.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/loi-de-finances-exercise-2027-17482-milliards-de-fcfa-pour-le-ministere-de-la-sante/"
+   },
+   {
+    "date": "2026-11-26",
     "titre": "Nigeria : le naira à 1 392 pour un dollar, réserves à 54 milliards de dollars",
     "resume": "Le naira s'est légèrement apprécié le 25 novembre après l'autorisation donnée aux banques de vendre jusqu'à 1 million de dollars en espèces par semaine aux bureaux de change.",
     "source": "BusinessDay",
@@ -1578,13 +1598,6 @@
     "resume": "Le recul de la monnaie nigériane renchérit les importations du Nigeria et influence les échanges informels à la frontière béninoise.",
     "source": "Nairametrics",
     "url": "https://nairametrics.com/2026/11/19/naira-weakens-to-n1379-99-as-interbank-fx-turnover-crosses-500-million/"
-   },
-   {
-    "date": "2026-11-18",
-    "titre": "Citi table sur un record d'émissions obligataires africaines en 2027",
-    "resume": "Les entreprises africaines ont levé un record de 21,2 milliards de dollars en 2026 et neuf États 16,9 milliards en eurobonds.",
-    "source": "BusinessDay",
-    "url": "https://businessday.ng/companies/article/citi-sees-africas-bond-sales-topping-2026-record-next-year/"
    }
   ]
  },
@@ -1794,6 +1807,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-25",
+   "titre": "Usurpation d'identité par IA : les régulateurs poussent les contrôles avant paiement",
+   "resume": "Le superviseur bancaire américain (OCC) recommande une revue humaine et une confirmation par un autre canal pour les paiements à risque, tandis qu'au Nigeria des experts réclament une plateforme interbancaire commune de signaux de fraude face aux voix clonées et vidéos truquées.",
+   "implication": "Avec la généralisation des virements instantanés PI-SPI, une fausse instruction d'un dirigeant ou d'un client peut vider un compte en quelques secondes, ce qui renforce l'intérêt de contrôles avant exécution.",
+   "pistes": [
+    "Mettre en place pour les entreprises clientes un rappel systématique par un second canal (numéro enregistré) au-delà d'un seuil de virement.",
+    "Proposer à l'APBEF et aux opérateurs mobiles un échange rapide d'alertes sur les numéros et comptes frauduleux au Bénin.",
+    "Former les chargés de clientèle et les clients PME à repérer les appels et messages vidéo truqués."
+   ],
+   "vigilance": "Un excès de contrôles ralentit les paiements urgents et peut pousser les clients vers des concurrents plus rapides.",
+   "source": "PYMNTS ; BusinessDay",
+   "url": "https://www.pymnts.com/news/banking/2026/occ-flags-extra-payment-checks-as-ai-aids-impersonators/"
+  },
   {
    "date": "2026-11-25",
    "titre": "Visa : l'argent liquide, et non le mobile money, est le vrai concurrent du paiement numérique",
@@ -2339,20 +2366,6 @@
    "vigilance": "Les contestations d'achats faits par un agent IA (« ce n'est pas moi qui ai validé ») pourraient augmenter : les règles de responsabilité restent à clarifier.",
    "source": "Quartz",
    "url": "https://fr.qz.com/openai-chatgpt-portefeuille-agents-ai-boutique-utilisateurs-111326"
-  },
-  {
-   "date": "2026-11-13",
-   "titre": "Banques régionales : Vista se recentre, Oragroup reste sans repreneur",
-   "resume": "Vista Group abandonne le rachat d'Oragroup, où il reste minoritaire, et fusionne au Burkina Vista Bank avec l'ex-Société Générale Burkina pour viser la 2e place du marché ; il prévoit aussi un 2e emprunt auprès de la diaspora en 2027.",
-   "implication": "L'avenir de l'actionnariat d'Orabank, concurrent direct au Bénin, reste ouvert, ce qui peut freiner ses projets ou créer des occasions de reprise de clients.",
-   "pistes": [
-    "Suivre de près les annonces d'Oragroup pour anticiper un changement d'actionnaire ou de stratégie d'Orabank Bénin.",
-    "Préparer une offre d'accueil ciblée pour les entreprises clientes d'Orabank qui chercheraient une banque au réseau régional stable.",
-    "Étudier le modèle d'emprunt auprès de la diaspora de Vista comme source possible de ressources longues pour le groupe."
-   ],
-   "vigilance": "Ne pas tirer de conclusion sur la solidité d'Orabank Bénin : aucune information publique ne la met en cause.",
-   "source": "Faso7 ; Financial Afrik",
-   "url": "https://faso7.com/2026/11/13/secteur-bancaire-vista-bank-burkina-confie-sa-direction-a-moumounou-gnankambary-avant-sa-fusion-avec-la-sgbf/"
   }
  ],
  "marche": {
@@ -4025,12 +4038,15 @@
   "ASCRI": "Initiative de la BAD lancée en 2026 pour aider les États africains à mieux préparer leur notation par les agences et réduire le coût de leur dette.",
   "CFTC": "Autorité américaine qui régule les marchés de produits dérivés et de matières premières.",
   "DeFi": "Finance décentralisée : services de prêt, d'échange ou de placement fonctionnant sur des chaînes de blocs, sans banque ni intermédiaire agréé.",
-  "Financement réciproque": "Accord par lequel deux institutions se prêtent mutuellement des ressources longues dans leurs monnaies respectives (par exemple FCFA contre euros) pour financer des projets sans risque de change."
+  "Financement réciproque": "Accord par lequel deux institutions se prêtent mutuellement des ressources longues dans leurs monnaies respectives (par exemple FCFA contre euros) pour financer des projets sans risque de change.",
+  "Échange de carte SIM (SIM swap)": "Fraude où l'escroc obtient une nouvelle carte SIM au nom de la victime pour recevoir ses codes de validation (OTP) et vider ses comptes.",
+  "OTR": "Office togolais des recettes : administration qui collecte les impôts et les droits de douane au Togo.",
+  "RINLCAO": "Réseau des institutions nationales de lutte contre la corruption en Afrique de l'Ouest, qui regroupe les autorités anticorruption de la région."
  },
  "journal": [
   {
    "date": "2026-11-26",
-   "synthese": "La journée est marquée par une neuvième baisse d'affilée de la BRVM (−1,54 %), qui touche aussi ETI et BOA Bénin, et par l'arrivée en force de la BERD en Afrique de l'Ouest (bureau à Abidjan, projet d'échange de ressources de 400 millions d'euros avec la BOAD) ; au Sénégal, le conflit sur le budget rectificatif lié au FMI s'aggrave.",
+   "synthese": "La journée reste dominée par la neuvième baisse d'affilée de la BRVM et l'arrivée de la BERD en Afrique de l'Ouest ; au Bénin, l'examen du budget 2027 se poursuit ministère par ministère (Santé, Décentralisation), tandis que la fraude numérique, notamment par usurpation d'identité grâce à l'IA, s'impose comme le sujet sensible des banques de la région.",
    "articles": [
     {
      "theme": "Régulation et marchés",
@@ -4119,6 +4135,70 @@
      "resume": "Le projet de loi présenté le 24 novembre exige que les banques détiennent ensemble la majorité des émetteurs, avec des réserves à 100 % et sans intérêts versés ; il doit encore passer au Parlement.",
      "source": "Coin Turk",
      "url": "https://en.coin-turk.com/south-koreas-stablecoin-bill-gives-banks-majority-control-fintechs-to-shape-usage/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-26",
+     "titre": "Budget 2027 : 174,8 milliards FCFA pour la Santé, plus de 500 recrutements prévus",
+     "resume": "Défendu le 25 novembre devant les députés, le budget du ministère de la Santé prévoit 77,5 milliards FCFA pour l'accès aux soins, le recrutement de plus de 500 contractuels et la formation de plus de 200 médecins spécialistes.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/loi-de-finances-exercise-2027-17482-milliards-de-fcfa-pour-le-ministere-de-la-sante/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-26",
+     "titre": "Budget 2027 : la décentralisation passe à 62,9 milliards FCFA, l'investissement des communes en hausse",
+     "resume": "Le ministère de la Décentralisation voit son budget passer de 54,9 à 62,9 milliards FCFA, porté par des dépenses d'investissement qui montent de 24,6 à 32,7 milliards ; le fonds d'appui aux communes (FADeC) reste le premier poste de fonctionnement.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/budget-2027-6294-milliards-de-fcfa-pour-la-decentralisation-et-la-gouvernance-locale/"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-25",
+     "titre": "UBA plaide pour un partage d'informations antifraude entre banques, opérateurs et régulateurs",
+     "resume": "Lors de sa semaine antifraude à Lagos, UBA a appelé banques, opérateurs télécoms, régulateurs et police à mettre en commun leurs alertes ; la police estime qu'environ 70 % des dossiers de fraude impliquent une complicité interne, et l'échange frauduleux de carte SIM reste une faille majeure.",
+     "source": "Leadership via AllAfrica",
+     "url": "https://allafrica.com/stories/202611250612.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-25",
+     "titre": "Paiements dans l'UEMOA : l'interopérabilité met la cybersécurité au premier plan",
+     "resume": "Après le Salon monétique de Dakar, les acteurs rappellent que l'UEMOA a traité 17 milliards de transactions pour 219 620 milliards FCFA et que le raccordement des microfinances au paiement instantané PI-SPI, attendu d'ici juin 2027, élargit la surface d'attaque.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/25/uemoa-linteroperabilite-des-paiements-a-lepreuve-de-la-cybersecurite/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Togo : la douane fixe trois taux de taxation pour la Foire internationale de Lomé",
+     "resume": "Pour la foire du 27 novembre au 13 décembre, l'Office togolais des recettes taxe les marchandises importées à 7 % (produits agréés UEMOA/CEDEAO), 23 % (produits régionaux non agréés) ou 28 % (pays tiers).",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/finances-publiques/2511-20754-21e-foire-internationale-de-lome-l-otr-fixe-trois-taux-de-taxation-pour-les-marchandises-importees"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Lutte contre la corruption : sept pays ouest-africains, dont le Bénin, réunis à Lomé",
+     "resume": "Le réseau des institutions anticorruption d'Afrique de l'Ouest (RINLCAO) a tenu son assemblée générale les 24 et 25 novembre avec le Togo, le Bénin, le Nigeria, le Ghana, la Côte d'Ivoire, la Guinée et le Liberia.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2511-20755-lutte-contre-la-corruption-sept-pays-ouest-africains-reunis-a-lome-pour-proteger-les-ressources-publiques"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-25",
+     "titre": "Nigeria : l'usurpation d'identité par IA pourrait devenir la première menace de fraude bancaire en 2027",
+     "resume": "Un expert nigérian alerte sur les voix clonées et vidéos truquées et propose une plateforme commune de signaux de fraude gérée par l'interbancaire NIBSS, avec une procédure unique de blocage des fonds entre banques.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/technology/article/ai-impersonation-could-become-nigerias-biggest-banking-fraud-threat-in-2027/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-25",
+     "titre": "Ukraine : une loi encadre le marché des cryptoactifs et vise 332 millions de dollars de recettes",
+     "resume": "Adoptée en lecture finale le 25 novembre, la loi partage la supervision entre le régulateur boursier et la banque centrale et doit entrer en vigueur le 1er juillet 2027, avec une fiscalité réduite jusqu'en 2028.",
+     "source": "The Block",
+     "url": "https://theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182"
     }
    ]
   },
