@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-27T05:19:00Z",
+ "derniereMaj": "2026-11-27T12:13:07Z",
  "brief": {
   "periode": "Semaine du 23 novembre 2026",
   "titre": "Coris ouvre son capital au public, le budget 2027 entre dans sa dernière ligne droite et les fintechs se donnent rendez-vous à Cotonou",
@@ -174,6 +174,19 @@
    ],
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.bj/benin-douanes-cotonou-budget-regional-2027-contributions-etats/"
+  },
+  {
+   "date": "2026-12-01",
+   "titre": "Douane : déclaration en ligne obligatoire des espèces pour les voyageurs",
+   "detail": "À partir du mardi 1er décembre 2026, tout voyageur qui entre au Bénin ou en sort avec plus de 5 millions FCFA en billets (hors UEMOA, l'Union économique et monétaire ouest-africaine) ou plus de 10 millions FCFA (vers un autre pays de l'UEMOA, comme le Togo ou le Niger) doit le déclarer gratuitement sur la plateforme douanière Customs Webb. Par exemple, un commerçant qui part à Lomé avec 12 millions FCFA en liquide doit remplir la déclaration en ligne puis la faire valider dans un bureau de douane sous cinq jours, faute de quoi elle expire.",
+   "pourquoi": "Le transport d'espèces devient plus contraignant, ce qui peut orienter une partie des commerçants et voyageurs d'affaires vers les virements, cartes et transferts bancaires.",
+   "preparer": [
+    "Informer les clients commerçants et voyageurs fréquents des nouveaux seuils par SMS et en agence",
+    "Mettre en avant nos solutions de virement régional et nos cartes de voyage comme alternative au liquide",
+    "Vérifier que nos procédures de retrait d'espèces importantes et de lutte contre le blanchiment tiennent compte de ces seuils"
+   ],
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-douane-declaration-argent-liquide-voyageurs-1er-decembre-2026/"
   },
   {
    "date": "2026-12-02",
@@ -746,6 +759,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-11-26",
+   "organisme": "Douanes du Bénin",
+   "titre": "Voyageurs : déclaration en ligne obligatoire des espèces au-delà de 5 ou 10 millions FCFA dès le 1er décembre",
+   "resume": "La circulaire n° 181 du 26 novembre 2026 oblige toute personne qui entre au Bénin ou en sort avec plus de 5 millions FCFA en billets (voyage hors UEMOA) ou plus de 10 millions FCFA (voyage dans l'UEMOA, seuil fixé par la BCEAO en mars 2025) à le déclarer gratuitement sur la plateforme Customs Webb, puis à faire valider la déclaration dans un bureau de douane sous cinq jours.",
+   "implication": "Les commerçants et voyageurs d'affaires qui transportent de grosses sommes en liquide, notamment vers le Nigeria, le Niger ou le Togo, auront davantage intérêt à passer par un virement, une carte ou un transfert bancaire.",
+   "pistes": [
+    "Proposer aux commerçants transfrontaliers (marché Dantokpa, axe Cotonou-Lagos) une offre de virement régional et de paiement fournisseurs à coût réduit comme alternative au transport d'espèces.",
+    "Mettre en avant nos cartes prépayées et de voyage multi-devises auprès des voyageurs d'affaires, avec une communication simple sur les nouveaux seuils.",
+    "Former les guichetiers à expliquer la nouvelle obligation et à délivrer les justificatifs de retrait que la douane pourrait demander."
+   ],
+   "vigilance": "Les retraits importants en espèces liés à des voyages pourront faire l'objet de questions de la douane ou de la CENTIF ; nos contrôles de lutte contre le blanchiment doivent rester cohérents avec ces seuils.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-douane-declaration-argent-liquide-voyageurs-1er-decembre-2026/"
+  },
+  {
    "date": "2026-11-24",
    "organisme": "BCEAO",
    "titre": "Conditions de banque du premier semestre 2026 : crédits plafonnés à 14 % dans neuf banques béninoises",
@@ -1295,6 +1323,13 @@
   "actus": [
    {
     "date": "2026-11-26",
+    "titre": "Togo : budget 2027 de 2 684 milliards FCFA adopté par les députés",
+    "resume": "Le budget recule de 2,5 % par rapport à 2026, avec une croissance prévue de 6,5 % en 2027 ; le collectif 2026 relève le déficit à 3,4 % du PIB contre 3 % prévu.",
+    "source": "Togo First",
+    "url": "https://www.togofirst.com/fr/gouvernance-economique/2711-20780-togo-l-assemblee-nationale-adopte-le-budget-2027-de-2684-milliards-fcfa"
+   },
+   {
+    "date": "2026-11-26",
     "titre": "UEMOA : 11 200 milliards FCFA levés par les États sur le marché des titres publics en 2026",
     "resume": "UMOA-Titres indique que le total pourrait atteindre 12 500 milliards FCFA fin 2026, soit environ 16 % du PIB de l'Union ; l'encours de dette des États est estimé entre 23 000 et 24 000 milliards FCFA.",
     "source": "APS via allAfrica",
@@ -1565,13 +1600,6 @@
     "resume": "Les conclusions de la mission du FMI confirment une activité soutenue et un déficit proche du plafond régional de 3 % l'an prochain.",
     "source": "La Nouvelle Tribune",
     "url": "https://lanouvelletribune.info/2026/11/economie-beninoise-le-fmi-releve-une-croissance-de-82-malgre-les-pressions-exterieures/"
-   },
-   {
-    "date": "2026-11-19",
-    "titre": "Sénégal : rejet de la première partie de la loi de finances 2027",
-    "resume": "Le blocage budgétaire du deuxième émetteur de l'Union peut peser sur les conditions du marché régional des titres publics.",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/Senegal-L-Assemblee-nationale-rejette-partiellement-le-projet-de-loi-de-finances-2027_a31875.html"
    }
   ]
  },
@@ -1788,6 +1816,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-26",
+   "titre": "Cartes bancaires : Visa prépare une carte qui puise au choix dans un solde classique ou en stablecoins",
+   "resume": "Visa s'associe à la fintech norvégienne NBX, à Tieto et à IDT Finance pour lancer en 2027, dans cinq pays européens, une carte unique pouvant débiter un compte en monnaie classique ou un stablecoin adossé au dollar ; le communiqué rappelle que ces jetons ne sont pas couverts par la garantie des dépôts.",
+   "implication": "Les réseaux de cartes intègrent désormais les stablecoins dans leurs produits grand public, ce qui pourrait à terme toucher les clients de la diaspora et les voyageurs béninois.",
+   "pistes": [
+    "Suivre la position de la BCEAO sur les cryptoactifs avant toute réflexion produit, et documenter les usages de stablecoins observés chez nos clients diaspora.",
+    "Étudier avec Visa et Mastercard les fonctions de carte multi-soldes déjà autorisées dans l'UEMOA (FCFA, euro, dollar) pour nos clients voyageurs.",
+    "Renforcer la pédagogie client sur la différence entre un dépôt garanti en banque et un jeton numérique non garanti."
+   ],
+   "vigilance": "Les stablecoins ne sont pas autorisés comme moyen de paiement dans l'UEMOA ; tout usage par nos clients via des plateformes étrangères doit rester sous surveillance au titre de la lutte contre le blanchiment.",
+   "source": "EuropaWire",
+   "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766"
+  },
   {
    "date": "2026-11-26",
    "titre": "Fintechs de l'UEMOA : 34 établissements de paiement agréés, le Bénin n'en compte que 4",
@@ -2333,20 +2375,6 @@
    "vigilance": "La gratuité réduit les commissions : il faut mesurer le manque à gagner avant d'aligner nos prix.",
    "source": "Bénin Web TV",
    "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/"
-  },
-  {
-   "date": "2026-11-13",
-   "titre": "Fraude : seuls 7 % des spécialistes se jugent prêts face aux attaques dopées à l'IA",
-   "resume": "L'étude 2026 de l'ACFE (association mondiale des examinateurs de fraude) et de SAS montre qu'un quart des organisations utilisent l'IA contre la fraude et que 77 % constatent une hausse des escroqueries par hypertrucage (deepfake).",
-   "implication": "Les arnaques par faux appels, fausses voix de dirigeants ou faux conseillers visant nos clients et nos équipes vont se sophistiquer, ce qui exige des contrôles renforcés sur les virements et la relation à distance.",
-   "pistes": [
-    "Instaurer un rappel systématique sur numéro connu pour tout ordre de virement important reçu par téléphone, courriel ou message vocal.",
-    "Lancer une campagne de sensibilisation clients en français et en fon sur les faux appels de la banque, comme le font déjà des concurrents.",
-    "Évaluer un outil de détection d'anomalies sur les transactions cartes et mobile banking."
-   ],
-   "vigilance": "Le risque de réputation est fort : une fraude médiatisée sur un client peut coûter plus que la perte financière elle-même.",
-   "source": "SAS (communiqué)",
-   "url": "https://www.sas.com/en_us/news/press-releases/2026/november/fraud-week-ai-threats-test-defenses.html"
   }
  ],
  "marche": {
@@ -4030,28 +4058,30 @@
   "OTR": "Office togolais des recettes : administration qui collecte les impôts et les droits de douane au Togo.",
   "RINLCAO": "Réseau des institutions nationales de lutte contre la corruption en Afrique de l'Ouest, qui regroupe les autorités anticorruption de la région.",
   "Établissement de paiement": "Société agréée par la BCEAO pour fournir des services de paiement (transferts, encaissement marchand, portefeuille) sans être une banque ni pouvoir accorder de crédit.",
-  "CNIN": "Centre national d'investigations numériques du Bénin : service chargé de la lutte contre la cybercriminalité."
+  "CNIN": "Centre national d'investigations numériques du Bénin : service chargé de la lutte contre la cybercriminalité.",
+  "Customs Webb": "Plateforme en ligne de la douane béninoise sur laquelle se font les formalités douanières, dont la déclaration des espèces transportées par les voyageurs.",
+  "Finance islamique": "Ensemble de produits financiers conformes aux principes de l'islam, qui excluent l'intérêt et reposent sur le partage des profits ou l'achat-revente de biens réels."
  },
  "journal": [
   {
    "date": "2026-11-27",
-   "synthese": "La journée est dominée par une dixième baisse d'affilée de la BRVM (−2,41 %) et par l'ampleur des emprunts des États de l'UEMOA (11 200 milliards FCFA levés en 2026) ; au Bénin, le Next Fintech Forum s'ouvre à Cotonou pendant que l'examen du budget 2027 se poursuit, et la fraude au mobile money reste un sujet de vigilance dans la région.",
+   "synthese": "La journée reste marquée par la dixième baisse d'affilée de la BRVM et l'ampleur des emprunts des États de l'UEMOA ; au Bénin, la douane impose dès le 1er décembre la déclaration en ligne des espèces transportées par les voyageurs, pendant que l'examen du budget 2027 se poursuit et que le Togo voisin a adopté le sien.",
    "articles": [
     {
-     "theme": "Régulation et marchés",
-     "date": "2026-11-26",
-     "titre": "Bourse régionale : dixième baisse d'affilée, le BRVM Composite chute de 2,41 %",
-     "resume": "Le BRVM Composite tombe à 453,57 points le 26 novembre et la capitalisation des actions perd près de 440 milliards FCFA en une séance ; Bank of Africa Bénin recule à 8 000 FCFA, la BIIC reste stable à 7 000 FCFA.",
-     "source": "Le Jecos ; Sika Finance",
-     "url": "https://lejecos.com/BRVM-10eme-journee-de-baisse-ininterrompue-des-indices-phares-de-la-Bourse-ce-jeudi-26-novembre-2026_a31913.html"
+     "theme": "Bénin",
+     "date": "2026-11-27",
+     "titre": "Douane : les voyageurs devront déclarer en ligne leurs espèces dès le 1er décembre",
+     "resume": "Une circulaire du 26 novembre impose, à partir du 1er décembre 2026, une déclaration gratuite sur la plateforme Customs Webb pour tout transport de billets au-delà de 5 millions FCFA hors UEMOA ou de 10 millions FCFA entre pays de l'Union ; elle doit être validée en bureau de douane sous cinq jours.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-douane-declaration-argent-liquide-voyageurs-1er-decembre-2026/"
     },
     {
-     "theme": "Régulation et marchés",
-     "date": "2026-11-26",
-     "titre": "Titres publics de l'UEMOA : 11 200 milliards FCFA déjà levés par les États en 2026",
-     "resume": "Selon UMOA-Titres, les États de l'Union ont déjà mobilisé 11 200 milliards FCFA sur le marché régional cette année et pourraient atteindre 12 500 milliards fin 2026, soit environ 16 % du PIB de l'Union.",
-     "source": "APS via allAfrica ; PressAfrik",
-     "url": "https://fr.allafrica.com/stories/202611260333.html"
+     "theme": "Bénin",
+     "date": "2026-11-27",
+     "titre": "Budget 2027 : 238,65 milliards FCFA d'investissements pour l'enseignement supérieur et technique",
+     "resume": "Le ministère demande 313,17 milliards FCFA (+13,19 %), dont 238,65 milliards pour 28 projets d'investissement : six lycées scientifiques, deux écoles normales supérieures et un institut d'intelligence artificielle et de robotique.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-budget-2027-enseignement-superieur-technique-investissements/"
     },
     {
      "theme": "Bénin",
@@ -4086,6 +4116,54 @@
      "url": "https://beninwebtv.bj/benin-budget-2027-739-milliards-de-fcfa-pour-le-commerce-interieur-et-la-formalisation/"
     },
     {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-26",
+     "titre": "Attijariwafa Bank, maison mère de CBAO et de la SIB : bénéfice en hausse de 10,3 % sur neuf mois",
+     "resume": "Le groupe marocain affiche 9,1 milliards de dirhams de résultat net part du groupe à fin septembre 2026, avec un coût du risque en forte baisse et un bilan en hausse de 6,2 %.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/26/banques-hausse-de-103-du-benefice-consolide-du-groupe-attijariwafa-bank-au-troisieme-trimestre-2026/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-26",
+     "titre": "Bourse régionale : dixième baisse d'affilée, le BRVM Composite chute de 2,41 %",
+     "resume": "Le BRVM Composite tombe à 453,57 points le 26 novembre et la capitalisation des actions perd près de 440 milliards FCFA en une séance ; Bank of Africa Bénin recule à 8 000 FCFA, la BIIC reste stable à 7 000 FCFA.",
+     "source": "Le Jecos ; Sika Finance",
+     "url": "https://lejecos.com/BRVM-10eme-journee-de-baisse-ininterrompue-des-indices-phares-de-la-Bourse-ce-jeudi-26-novembre-2026_a31913.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-26",
+     "titre": "Titres publics de l'UEMOA : 11 200 milliards FCFA déjà levés par les États en 2026",
+     "resume": "Selon UMOA-Titres, les États de l'Union ont déjà mobilisé 11 200 milliards FCFA sur le marché régional cette année et pourraient atteindre 12 500 milliards fin 2026, soit environ 16 % du PIB de l'Union.",
+     "source": "APS via allAfrica ; PressAfrik",
+     "url": "https://fr.allafrica.com/stories/202611260333.html"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-25",
+     "titre": "Nigeria à 23 %, UEMOA à 3 % : vingt points d'écart entre les taux directeurs voisins",
+     "resume": "La banque centrale du Nigeria garde un taux directeur de 23 % pour freiner l'inflation et soutenir le naira, quand la BCEAO reste à 3 % ; cet écart pèse sur le coût du crédit et les flux commerciaux à la frontière béninoise.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/25/nigeria-un-taux-directeur-de-23-contre-3-dans-luemoa-deux-mondes-monetaires/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Togo : les députés adoptent un budget 2027 de 2 684 milliards FCFA",
+     "resume": "Voté en première lecture le 26 novembre avant passage au Sénat, le budget recule de 2,5 % (moindre amortissement de la dette) ; le collectif 2026 porte le déficit à 3,4 % du PIB, avec 20 milliards FCFA de subvention supplémentaire aux produits pétroliers.",
+     "source": "Togo First",
+     "url": "https://www.togofirst.com/fr/gouvernance-economique/2711-20780-togo-l-assemblee-nationale-adopte-le-budget-2027-de-2684-milliards-fcfa"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Sénégal : premier forum international sur la finance islamique à Dakar",
+     "resume": "Organisé par la Banque Islamique du Sénégal, le forum ouvert le 26 novembre a vu le ministre des Finances appeler à développer ces produits, encadrés dans l'UMOA depuis 2017-2018.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/senegal-finance-islamique-acces-financement-forum-dakar/"
+    },
+    {
      "theme": "Afrique",
      "date": "2026-11-26",
      "titre": "PME africaines : la BAD et la BERD lancent à Abidjan une coalition de financement",
@@ -4110,14 +4188,6 @@
      "url": "https://nairametrics.com/2026/11/26/banks-impairment-charges-drop-33-but-bad-loans-still-pile-up-at-top-lenders/"
     },
     {
-     "theme": "Banques et concurrents",
-     "date": "2026-11-26",
-     "titre": "Attijariwafa Bank, maison mère de CBAO et de la SIB : bénéfice en hausse de 10,3 % sur neuf mois",
-     "resume": "Le groupe marocain affiche 9,1 milliards de dirhams de résultat net part du groupe à fin septembre 2026, avec un coût du risque en forte baisse et un bilan en hausse de 6,2 %.",
-     "source": "Financial Afrik",
-     "url": "https://www.financialafrik.com/2026/11/26/banques-hausse-de-103-du-benefice-consolide-du-groupe-attijariwafa-bank-au-troisieme-trimestre-2026/"
-    },
-    {
      "theme": "Afrique",
      "date": "2026-11-23",
      "titre": "Burkina Faso : 261 millions FCFA perdus en octobre à cause de la cybercriminalité, surtout via le mobile money",
@@ -4132,6 +4202,22 @@
      "resume": "Au terme de deux semaines de mission à Lomé, le Togo et le FMI n'ont pas conclu la cinquième revue du programme de 390 millions de dollars ; les discussions continuent sans calendrier, et le prochain décaissement en dépend.",
      "source": "Togonews via allAfrica",
      "url": "https://fr.allafrica.com/stories/202611230461.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-27",
+     "titre": "Zone euro : Pablo Hernández de Cos pressenti pour succéder à Christine Lagarde à la BCE",
+     "resume": "Retenu le 26 novembre par le Conseil européen, l'actuel directeur de la Banque des règlements internationaux prendrait ses fonctions le 7 février 2027 pour huit ans, sous réserve de sa nomination formelle en décembre.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/bce-pablo-hernandez-de-cos-succession-christine-lagarde/"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-26",
+     "titre": "Visa prépare une carte qui paie à la fois en euros et en stablecoins",
+     "resume": "Visa, la fintech norvégienne NBX, Tieto et IDT Finance annoncent pour 2027 une carte unique débitant au choix un solde classique ou un stablecoin adossé au dollar, d'abord en Norvège, Suède, Danemark, Finlande et Allemagne.",
+     "source": "EuropaWire",
+     "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766"
     }
    ]
   },
