@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-28T05:13:26Z",
+ "derniereMaj": "2026-11-28T12:20:09Z",
  "brief": {
   "periode": "Semaine du 23 novembre 2026",
   "titre": "Coris ouvre son capital au public, le budget 2027 entre dans sa dernière ligne droite et les fintechs se donnent rendez-vous à Cotonou",
@@ -147,6 +147,18 @@
    ],
    "source": "Burkina24",
    "url": "https://burkina24.com/2026/11/20/cote-divoire-coris-bank-international-ouvre-20-de-son-capital-au-public-a-7-720-fcfa-laction/"
+  },
+  {
+   "date": "2026-11-30",
+   "titre": "Négociation à l'ONU d'une convention fiscale internationale (Nairobi, 30 novembre - 10 décembre)",
+   "detail": "Les pays membres de l'ONU se réunissent à Nairobi pour la sixième session de négociation d'une convention-cadre sur la coopération fiscale internationale, qui doit fixer qui a le droit de taxer les bénéfices des multinationales et faciliter l'échange d'informations entre administrations fiscales. La Commission économique pour l'Afrique (CEA) pousse les pays africains, dont le Bénin, à défendre leur droit d'imposer les entreprises étrangères actives chez eux.",
+   "pourquoi": "Les règles qui en sortiront pèseront à terme sur la fiscalité des grandes entreprises clientes et sur les obligations d'échange d'informations fiscales des banques.",
+   "preparer": [
+    "Suivre les conclusions de la session pour anticiper d'éventuelles nouvelles obligations de déclaration fiscale.",
+    "Informer les grands clients multinationaux des évolutions possibles de leur fiscalité au Bénin."
+   ],
+   "source": "Le Jecos",
+   "url": "https://www.lejecos.com/Fiscalite-internationale-La-Cea-appelle-l-Afrique-a-defendre-ses-droits-d-imposition_a31916.html"
   },
   {
    "date": "2026-12-01",
@@ -759,6 +771,21 @@
  ],
  "reglementation": [
   {
+   "date": "2026-11-27",
+   "organisme": "Banque centrale du Nigeria (CBN)",
+   "titre": "Nigeria : un recueil unique des règles bancaires en 2027 après la recapitalisation des banques",
+   "resume": "La CBN annonce pour 2027 un référentiel complet de ses exigences de supervision ; la recapitalisation imposée aux banques s'est achevée avec 33 établissements et environ 4 650 milliards de nairas levés.",
+   "implication": "UBA, Access Bank et les autres groupes nigérians présents au Bénin sortent renforcés en capital et pourront soutenir plus agressivement leurs filiales régionales.",
+   "pistes": [
+    "Suivre les annonces de UBA Bénin et d'Access Bank sur des hausses de capital ou de nouvelles lignes de crédit aux grandes entreprises béninoises.",
+    "Mettre en avant auprès des clients importateurs et exportateurs le réseau panafricain d'Ecobank pour les flux Bénin-Nigeria, face à des concurrents nigérians mieux capitalisés.",
+    "Préparer un argumentaire sur la solidité et la conformité réglementaire du groupe pour les appels d'offres des grandes entreprises."
+   ],
+   "vigilance": "Des concurrents mieux capitalisés peuvent baisser leurs prix sur les grands comptes et les financements du commerce transfrontalier.",
+   "source": "BusinessDay",
+   "url": "https://businessday.ng/business-economy/article/cbn-plans-new-regulatory-rulebook-to-strengthen-banking-oversight/"
+  },
+  {
    "date": "2026-11-26",
    "organisme": "Douanes du Bénin",
    "titre": "Voyageurs : déclaration en ligne obligatoire des espèces au-delà de 5 ou 10 millions FCFA dès le 1er décembre",
@@ -1323,6 +1350,20 @@
   "actus": [
    {
     "date": "2026-11-27",
+    "titre": "Budget 2027 : 181,9 milliards FCFA pour l'Agriculture (+26 %)",
+    "resume": "Le ministère de l'Agriculture prévoit 123,1 milliards FCFA d'investissements et vise 724 281 tonnes de coton et 4,1 millions de tonnes de céréales pour la campagne 2027-2028.",
+    "source": "Bénin Web TV",
+    "url": "https://beninwebtv.bj/benin-budget-2027-agriculture-123-milliards-investissements/"
+   },
+   {
+    "date": "2026-11-27",
+    "titre": "Bourse régionale : le BRVM Composite se stabilise à 453,34 points",
+    "resume": "Après dix séances de baisse qui lui ont fait perdre 12,6 %, l'indice n'a cédé que 0,05 % vendredi, avec 1,3 milliard FCFA d'échanges.",
+    "source": "Le Jecos",
+    "url": "https://www.lejecos.com/BRVM-Evolutions-disparates-des-activites-du-marche-en-fin-de-semaine_a31924.html"
+   },
+   {
+    "date": "2026-11-27",
     "titre": "CUA-OCDE : la dette intérieure pèse 65 % de la dette des États ouest-africains",
     "resume": "Le rapport 2026 sur les dynamiques du développement en Afrique souligne que cette part élevée renforce l'exposition des banques à leurs États ; le Bénin y est cité comme le seul des dix pays étudiés à publier son plan d'emprunt avant ou pendant le vote du budget.",
     "source": "PressAfrik",
@@ -1586,20 +1627,6 @@
     "resume": "Signé à Abidjan, il prépare des approvisionnements concertés ; études financées par le programme PRIME-GAS de la Banque mondiale (140 millions de dollars, dont 45 pour le Bénin).",
     "source": "Bénin Web TV",
     "url": "https://beninwebtv.com/benin-togo-cote-ivoire-accord-gaz-gnl-19-novembre-2026/"
-   },
-   {
-    "date": "2026-11-19",
-    "titre": "BRVM : le composite recule de 1,40 % à 493,95 points",
-    "resume": "Cinquième séance de baisse ; 11,1 milliards FCFA échangés, Coris Bank International −6,33 %, BIIC −2,44 %.",
-    "source": "Le Jecos",
-    "url": "https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html"
-   },
-   {
-    "date": "2026-11-19",
-    "titre": "Inflation au Bénin : 2,5 % sur un an en octobre",
-    "resume": "Les transports (+17,9 %) et l'énergie (+14,6 %) tirent les prix, l'alimentation ne progressant que de 1,1 % ; l'inflation moyenne sur douze mois reste à 0,5 %.",
-    "source": "Matin Libre (données INStaD)",
-    "url": "https://matinlibre.com/2026/11/19/entre-flambee-des-transports-et-disparites-regionales-linflation-atteint-25-au-benin/"
    }
   ]
  },
@@ -1816,6 +1843,20 @@
   }
  ],
  "tendances": [
+  {
+   "date": "2026-11-25",
+   "titre": "Corée du Sud : les stablecoins en won réservés à des émetteurs contrôlés par des banques",
+   "resume": "Le projet de loi du régulateur sud-coréen impose aux banques plus de 50 % du capital de tout émetteur de stablecoin en won, avec 100 % de réserves, tout en levant l'interdiction des levées en cryptoactifs.",
+   "implication": "Après le Brésil et le Japon, un troisième grand pays place les banques au centre de la monnaie numérique privée, ce qui renforce le scénario d'un modèle « bancaire » si l'UEMOA ouvre un jour ce marché.",
+   "pistes": [
+    "Inclure ce modèle de stablecoin adossé aux banques dans la veille réglementaire transmise au groupe Ecobank.",
+    "Identifier les usages béninois où un jeton bancaire réglementé apporterait un gain réel (transferts de la diaspora, paiements transfrontaliers avec le Nigeria).",
+    "Renforcer la détection des flux liés aux cryptoactifs dans les dispositifs de lutte contre le blanchiment."
+   ],
+   "vigilance": "Aucun cadre n'autorise aujourd'hui les stablecoins dans l'UEMOA ; il faut éviter toute offre prématurée.",
+   "source": "Fintech Garden",
+   "url": "https://fintech.garden/news/2026-11-25-south-koreas-fsc-proposes-bank-majority-model-for-won-pegged-stablecoins-and-end/"
+  },
   {
    "date": "2026-11-27",
    "titre": "Stablecoins : les grandes banques et les banques centrales passent de l'observation à l'encadrement",
@@ -2361,20 +2402,6 @@
    "vigilance": "Des accords directs entre réseaux et opérateurs mobiles pourraient réduire le rôle des banques émettrices.",
    "source": "Le Jecos",
    "url": "https://www.lejecos.com/Paiements-numeriques-Visa-ouvre-un-bureau-a-Dakar-avec-une-forte-ambition-sous-regionale_a31846.html"
-  },
-  {
-   "date": "2026-11-14",
-   "titre": "Entreprises africaines : une dette encore très majoritairement en devises",
-   "resume": "Selon l'OCDE, 83 % de la dette émise par les entreprises africaines en 2025 l'a été en devises étrangères, et les prêts syndiqués représentent 81 % de leur endettement.",
-   "implication": "Les entreprises béninoises qui empruntent en dollars ou en euros pour importer ou investir supportent un risque de change que des financements en FCFA peuvent réduire.",
-   "pistes": [
-    "Repérer les grands clients endettés en devises (importateurs, industriels de la GDIZ) et leur proposer un refinancement partiel en FCFA.",
-    "Proposer des participations à des prêts syndiqués en FCFA avec d'autres banques de la place pour les gros projets.",
-    "Étudier avec la salle des marchés du groupe des couvertures de change simples pour les clients exportateurs de coton et de cajou."
-   ],
-   "vigilance": "Un refinancement en FCFA de dettes en devises consomme de la liquidité locale et doit rester compatible avec les limites de concentration.",
-   "source": "Agence Ecofin (rapport OCDE)",
-   "url": "https://www.ecofinagency.com/news-finances/1411-60816-83-of-africas-corporate-debt-issued-in-foreign-currency-in-2025-exposing-firms-to-exchange-rate-risks-report"
   }
  ],
  "marche": {
@@ -2739,7 +2766,7 @@
     "nom": "BIIC",
     "code": "BICB",
     "cours": "7 050",
-    "detail": "+0,71 % sur la séance du 27 novembre (7 000 FCFA la veille), cours provisoire ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %).",
+    "detail": "+0,71 % sur la séance du 27 novembre (7 000 FCFA la veille), clôture confirmée par la BRVM ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %).",
     "url": "https://www.sikafinance.com/marches/cotation_BICB.bj"
    },
    {
@@ -2757,10 +2784,38 @@
     "url": "https://www.sikafinance.com/marches/historiques/ETIT.tg"
    }
   ],
-  "source": "BRVM, séance du 27 novembre 2026 (cours provisoires avant le bulletin officiel) ; Richbourse ; Sika Finance ; brvmdata",
+  "source": "BRVM, séance du 27 novembre 2026 (fiche officielle BRVM pour la BIIC : clôture 7 050 FCFA) ; Richbourse ; Sika Finance ; brvmdata",
   "url": "https://brvmdata.com/actions/"
  },
  "opportunites": [
+  {
+   "date": "2026-11-28",
+   "titre": "Épargne de la diaspora : la BAD lance une initiative pour l'orienter vers des placements africains",
+   "resume": "Présentée à Paris avec le soutien du Bénin, l'Initiative Diaspora de la BAD veut canaliser une partie des plus de 124 milliards de dollars envoyés vers l'Afrique en 2025 vers l'investissement ; le Nigeria annonce de son côté 1 milliard de dollars de transferts par mois.",
+   "implication": "Les transferts et l'épargne de la diaspora béninoise deviennent un enjeu de collecte de ressources longues, pas seulement de commissions de transfert.",
+   "pistes": [
+    "Étudier une offre d'épargne ou de placement dédiée à la diaspora béninoise (compte en FCFA ouvert à distance, dépôt à terme, accès aux emprunts de l'État sur UMOA-Titres).",
+    "Approcher la BAD pour savoir comment une banque locale peut s'associer à l'Initiative Diaspora.",
+    "Mettre en avant le réseau d'Ecobank dans les pays d'accueil (France, États-Unis, Nigeria) pour proposer un parcours unique de transfert puis d'épargne."
+   ],
+   "vigilance": "Les produits proposés à des non-résidents doivent respecter la réglementation des changes de la BCEAO et les règles de connaissance du client.",
+   "source": "La Nouvelle Tribune ; Nairametrics",
+   "url": "https://lanouvelletribune.info/2026/11/a-paris-le-benin-defend-les-placements-africains-aupres-de-la-diaspora-devant-la-bad"
+  },
+  {
+   "date": "2026-11-27",
+   "titre": "Budget 2027 : l'Agriculture dotée de 181,9 milliards FCFA, objectif de 724 281 tonnes de coton",
+   "resume": "Le ministère de l'Agriculture voit son budget progresser de 26 %, avec 123,1 milliards FCFA d'investissements, et vise 4,1 millions de tonnes de céréales pour la campagne 2027-2028.",
+   "implication": "La hausse des investissements publics agricoles et l'objectif cotonnier annoncent davantage de besoins de financement de campagne, d'intrants et de matériel.",
+   "pistes": [
+    "Préparer une enveloppe de crédits de campagne pour les égreneurs, distributeurs d'intrants et coopératives, en lien avec les programmes publics.",
+    "Proposer aux entreprises qui gagneront les marchés publics agricoles des cautions de soumission et de bonne exécution.",
+    "Étudier un produit de paiement mobile des producteurs (versement des primes et du prix du coton sur compte ou wallet)."
+   ],
+   "vigilance": "La récolte 2025-2026 a reculé de 16 % ; un aléa climatique ou de prix peut fragiliser les remboursements des crédits agricoles.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-budget-2027-agriculture-123-milliards-investissements/"
+  },
   {
    "date": "2026-11-26",
    "titre": "Budget 2027 : 31,8 milliards FCFA de programmes PME et emploi financés par des bailleurs",
@@ -3290,32 +3345,6 @@
    "vigilance": "Selon La Marina, les dépenses de personnel des communes ont atteint 156 % de leurs recettes fiscales en 2025 : la capacité de remboursement doit être analysée commune par commune.",
    "source": "La Nouvelle Tribune",
    "url": "https://lanouvelletribune.info/2026/11/benin-abomey-calavi-adopte-un-budget-de-117-milliards-un-pret-autorise-pour-les-infrastructures/"
-  },
-  {
-   "date": "2026-11-07",
-   "titre": "Près de 200 milliards FCFA pour quatre centrales solaires",
-   "resume": "AXIAN, la CDC Bénin, la SFI (IFC) et Proparco ont signé le 29 octobre un accord pour quatre centrales de 62 mégawatts-crête au total à Natitingou, Djougou, Parakou et Bohicon, concédées pour 20 ans, avec une mise en service prévue début 2028.",
-   "implication": "Les chantiers vont générer des besoins de cautions, de comptes de projet et de financement des sous-traitants locaux pendant deux ans.",
-   "pistes": [
-    "Approcher AXIAN et la CDC Bénin pour les comptes de projet, garanties et paiements des fournisseurs.",
-    "Proposer du crédit d'équipement solaire aux PME des quatre villes concernées."
-   ],
-   "vigilance": "Le financement principal vient de la SFI et de Proparco ; la part ouverte aux banques locales n'est pas publiée.",
-   "source": "Banouto",
-   "url": "https://www.banouto.bj/economie/article/20261107-production-independante-d-electricite-pres-de-200-milliards-fcfa-pour-developper-le-solaire-dans-04-villes-du-benin"
-  },
-  {
-   "date": "2026-11-06",
-   "titre": "Terra Bénin : un million de certificats fonciers en dix ans",
-   "resume": "Le programme lancé avec la Banque mondiale doit enregistrer 1,5 million de parcelles et délivrer un million de certificats dans 14 communes, puis 30 autres ; un programme appuyé par les Pays-Bas couvre 12 communes dont Cotonou, Porto-Novo et Parakou.",
-   "implication": "Davantage de terrains titrés signifie davantage de garanties hypothécaires sûres pour le crédit immobilier et le crédit aux PME.",
-   "pistes": [
-    "Développer un crédit habitat et un crédit d'équipement adossés aux nouveaux certificats dans les communes couvertes en premier.",
-    "Nouer un partenariat avec l'agence foncière pour vérifier rapidement les titres présentés en garantie."
-   ],
-   "vigilance": "Aucun montant ni calendrier par commune n'est publié ; les effets seront progressifs.",
-   "source": "Gouvernement du Bénin",
-   "url": "https://www.gouv.bj/article/3734/modernisation-fonciere-benin-deux-nouveaux-programmes-accelerer-deploiement-cadastre-national/"
   }
  ],
  "historique": {
@@ -4071,13 +4100,97 @@
   "Dette intérieure": "Dette qu'un État emprunte sur son propre marché, en FCFA, surtout auprès des banques locales (bons et obligations du Trésor).",
   "Plan annuel d'emprunt": "Document où l'État annonce à l'avance combien il compte emprunter dans l'année, auprès de qui et sous quelle forme.",
   "ProDIJ": "Projet de la Banque mondiale au Bénin pour le développement des compétences, de l'entrepreneuriat et de l'emploi des jeunes.",
-  "Fonds souverain": "Fonds d'investissement détenu par un État, souvent alimenté par des recettes de matières premières, pour épargner et investir à long terme."
+  "Fonds souverain": "Fonds d'investissement détenu par un État, souvent alimenté par des recettes de matières premières, pour épargner et investir à long terme.",
+  "ARMP": "Autorité de régulation des marchés publics : elle contrôle les procédures d'attribution des marchés de l'État et des entreprises publiques au Bénin et tranche les litiges.",
+  "CEA": "Commission économique des Nations unies pour l'Afrique : organe de l'ONU basé à Addis-Abeba qui conseille les États africains en politique économique.",
+  "Initiative Diaspora (BAD)": "Programme de la Banque africaine de développement qui vise à orienter l'épargne des Africains vivant à l'étranger vers des investissements sur le continent.",
+  "FSC": "Financial Services Commission : régulateur financier de la Corée du Sud."
  },
  "journal": [
   {
    "date": "2026-11-28",
-   "synthese": "Journée calme à la veille du week-end : au Bénin, l'examen en commission du budget 2027 se poursuit (PME et emploi, Sécurité, Défense), un rapport CUA-OCDE souligne le poids croissant de la dette publique détenue par les banques ouest-africaines, et les banques centrales et grandes banques du monde accélèrent sur l'encadrement et l'émission de stablecoins.",
+   "synthese": "Fin de semaine dominée par l'examen du budget 2027 au Parlement (Agriculture, PME, Sécurité, Défense) et par une Bourse régionale qui se stabilise après dix séances de baisse ; à l'extérieur, la banque centrale du Nigeria se félicite d'un milliard de dollars de transferts mensuels de la diaspora et la Corée du Sud confie aux banques l'émission des stablecoins.",
    "articles": [
+    {
+     "theme": "Bénin",
+     "date": "2026-11-27",
+     "titre": "Budget 2027 : l'Agriculture monte à 181,9 milliards FCFA, dont 123,1 milliards d'investissements",
+     "resume": "Le ministère de l'Agriculture, de l'Élevage et de la Pêche voit sa dotation progresser de 26 % par rapport à 2026 ; il vise pour la campagne 2027-2028 environ 4,1 millions de tonnes de céréales et 724 281 tonnes de coton.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-budget-2027-agriculture-123-milliards-investissements/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-28",
+     "titre": "Port de Cotonou : l'autorité des marchés publics débloque le recrutement d'un consultant pour les études énergétiques",
+     "resume": "Par une décision du 20 novembre publiée le 27, l'ARMP a levé les réserves qui bloquaient la sélection du consultant chargé des études énergétiques du Port autonome ; le marché n'est pas encore attribué.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/port-de-cotonou-larmp-autorise-la-poursuite-du-marche-detudes-energetiques/"
+    },
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-28",
+     "titre": "Bourse régionale : séance quasi stable vendredi, la BIIC gagne 0,71 %",
+     "resume": "Le BRVM Composite a fini la semaine à 453,34 points (−0,05 %), avec 1,3 milliard FCFA échangés ; l'action BIIC a clôturé à 7 050 FCFA (+0,71 %) selon la fiche officielle de la BRVM.",
+     "source": "Le Jecos ; BRVM",
+     "url": "https://www.lejecos.com/BRVM-Evolutions-disparates-des-activites-du-marche-en-fin-de-semaine_a31924.html"
+    },
+    {
+     "theme": "Banques et concurrents",
+     "date": "2026-11-25",
+     "titre": "CBAO (groupe Attijariwafa) a intégré le paiement instantané de la BCEAO dans son application mobile",
+     "resume": "En marge du Salon monétique régional du GIM-UEMOA à Dakar, le directeur général adjoint de CBAO explique avoir branché la plateforme PI-SPI dans CBAO Mobile et place la lutte contre la fraude au cœur de ses priorités.",
+     "source": "Financial Afrik",
+     "url": "https://www.financialafrik.com/2026/11/25/salon-monetique-regional-entretien-avec-emmanuel-cullin-directeur-general-adjoint-de-cbao-groupe-attijariwafa-bank/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-28",
+     "titre": "Diaspora : le Bénin plaide à Paris pour orienter son épargne vers des placements africains",
+     "resume": "Lors de la présentation de l'Initiative Diaspora de la Banque africaine de développement (BAD), la ministre béninoise des Affaires étrangères a appelé à investir cette épargne ; la diaspora a envoyé plus de 124 milliards de dollars vers l'Afrique en 2025.",
+     "source": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/a-paris-le-benin-defend-les-placements-africains-aupres-de-la-diaspora-devant-la-bad"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Nigeria : les transferts de la diaspora atteignent 1 milliard de dollars par mois, la banque centrale vise 1,5 milliard",
+     "resume": "Le gouverneur de la Banque centrale du Nigeria (CBN) a annoncé que l'objectif fixé il y a deux ans est atteint via les sociétés de transfert agréées, et fixe un nouveau cap de 1,5 milliard de dollars mensuels d'ici mi-2027.",
+     "source": "Nairametrics",
+     "url": "https://nairametrics.com/2026/11/27/nigerias-monthly-remittances-hit-1-billion-cbn-sets-new-1-5-billion-target/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Nigeria : la banque centrale publiera en 2027 un recueil complet de ses règles bancaires",
+     "resume": "La CBN prépare un référentiel unique des exigences de supervision ; elle rappelle que la recapitalisation des banques s'est achevée avec 33 établissements et environ 4 650 milliards de nairas levés, et que l'inflation est revenue à 14,06 % en octobre.",
+     "source": "BusinessDay",
+     "url": "https://businessday.ng/business-economy/article/cbn-plans-new-regulatory-rulebook-to-strengthen-banking-oversight/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Fiscalité internationale : la Commission économique pour l'Afrique appelle à défendre les droits d'imposition africains",
+     "resume": "Avant la session de négociation de la convention fiscale de l'ONU à Nairobi (30 novembre - 10 décembre), la CEA rappelle que 20 pays africains prélèvent moins de 15 % du PIB en impôts et que les flux financiers illicites atteignent 88,6 milliards de dollars par an.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Fiscalite-internationale-La-Cea-appelle-l-Afrique-a-defendre-ses-droits-d-imposition_a31916.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-27",
+     "titre": "Commerce maritime mondial : croissance nulle attendue en 2026 selon la CNUCED",
+     "resume": "La Revue du transport maritime 2026 prévoit une stagnation cette année puis un rebond de 3,2 % en 2027, après un recul d'environ 95 % du trafic dans le détroit d'Ormuz début mars et une forte hausse du coût du carburant maritime.",
+     "source": "Le Jecos",
+     "url": "https://www.lejecos.com/Le-commerce-maritime-mondial-devrait-stagner-en-2026-en-raison-des-perturbations-dans-le-transport-maritime-et-de-l_a31922.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-25",
+     "titre": "Corée du Sud : les banques devront détenir la majorité des émetteurs de stablecoins en won",
+     "resume": "Le projet de loi du régulateur financier (FSC) impose aux banques plus de 50 % du capital de tout émetteur de stablecoin adossé au won, avec des réserves égales à 100 % des jetons émis, et lève l'interdiction des levées en cryptoactifs en vigueur depuis 2017.",
+     "source": "Fintech Garden",
+     "url": "https://fintech.garden/news/2026-11-25-south-koreas-fsc-proposes-bank-majority-model-for-won-pegged-stablecoins-and-end/"
+    },
     {
      "theme": "Régulation et marchés",
      "date": "2026-11-27",
