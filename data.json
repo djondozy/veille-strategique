@@ -1,5 +1,5 @@
 {
- "derniereMaj": "2026-11-27T12:13:07Z",
+ "derniereMaj": "2026-11-28T05:13:26Z",
  "brief": {
   "periode": "Semaine du 23 novembre 2026",
   "titre": "Coris ouvre son capital au public, le budget 2027 entre dans sa dernière ligne droite et les fintechs se donnent rendez-vous à Cotonou",
@@ -1322,6 +1322,13 @@
   ],
   "actus": [
    {
+    "date": "2026-11-27",
+    "titre": "CUA-OCDE : la dette intérieure pèse 65 % de la dette des États ouest-africains",
+    "resume": "Le rapport 2026 sur les dynamiques du développement en Afrique souligne que cette part élevée renforce l'exposition des banques à leurs États ; le Bénin y est cité comme le seul des dix pays étudiés à publier son plan d'emprunt avant ou pendant le vote du budget.",
+    "source": "PressAfrik",
+    "url": "https://www.pressafrik.com/%e2%80%8bAfrique-de-l-Ouest-65-de-dette-interieure-et-une-exposition-bancaire-accrue-selon-la-CUA-et-l-OCDE_a315193.html"
+   },
+   {
     "date": "2026-11-26",
     "titre": "Togo : budget 2027 de 2 684 milliards FCFA adopté par les députés",
     "resume": "Le budget recule de 2,5 % par rapport à 2026, avec une croissance prévue de 6,5 % en 2027 ; le collectif 2026 relève le déficit à 3,4 % du PIB contre 3 % prévu.",
@@ -1341,13 +1348,6 @@
     "resume": "Dixième séance de baisse d'affilée le 26 novembre (−2,41 %), avec une capitalisation des actions ramenée à 17 787 milliards FCFA.",
     "source": "Le Jecos",
     "url": "https://lejecos.com/BRVM-10eme-journee-de-baisse-ininterrompue-des-indices-phares-de-la-Bourse-ce-jeudi-26-novembre-2026_a31913.html"
-   },
-   {
-    "date": "2026-11-23",
-    "titre": "Togo : la cinquième revue du programme FMI n'est pas encore conclue",
-    "resume": "Les discussions sur le programme de 390 millions de dollars se poursuivent sans calendrier ; le prochain décaissement en dépend.",
-    "source": "Togonews via allAfrica",
-    "url": "https://fr.allafrica.com/stories/202611230461.html"
    },
    {
     "date": "2026-11-26",
@@ -1446,6 +1446,13 @@
     "resume": "Inflation à 14,06 % en octobre mais naira à environ 1 389 pour un dollar et réserves en léger recul à 54,6 milliards de dollars.",
     "source": "ThisDay",
     "url": "https://www.thisdaylive.com/2026/11/24/uwaleke-explains-why-cbn-may-not-change-policy-rates/"
+   },
+   {
+    "date": "2026-11-23",
+    "titre": "Togo : la cinquième revue du programme FMI n'est pas encore conclue",
+    "resume": "Les discussions sur le programme de 390 millions de dollars se poursuivent sans calendrier ; le prochain décaissement en dépend.",
+    "source": "Togonews via allAfrica",
+    "url": "https://fr.allafrica.com/stories/202611230461.html"
    },
    {
     "date": "2026-11-23",
@@ -1593,13 +1600,6 @@
     "resume": "Les transports (+17,9 %) et l'énergie (+14,6 %) tirent les prix, l'alimentation ne progressant que de 1,1 % ; l'inflation moyenne sur douze mois reste à 0,5 %.",
     "source": "Matin Libre (données INStaD)",
     "url": "https://matinlibre.com/2026/11/19/entre-flambee-des-transports-et-disparites-regionales-linflation-atteint-25-au-benin/"
-   },
-   {
-    "date": "2026-11-19",
-    "titre": "FMI : 8,2 % de croissance au premier semestre, déficit attendu à 2,9 % du PIB en 2027",
-    "resume": "Les conclusions de la mission du FMI confirment une activité soutenue et un déficit proche du plafond régional de 3 % l'an prochain.",
-    "source": "La Nouvelle Tribune",
-    "url": "https://lanouvelletribune.info/2026/11/economie-beninoise-le-fmi-releve-une-croissance-de-82-malgre-les-pressions-exterieures/"
    }
   ]
  },
@@ -1817,6 +1817,20 @@
  ],
  "tendances": [
   {
+   "date": "2026-11-27",
+   "titre": "Stablecoins : les grandes banques et les banques centrales passent de l'observation à l'encadrement",
+   "resume": "Au Brésil, la Bourse B3 et six grandes banques lanceront début 2027 un stablecoin en reais (Open BRL) ; le même jour, la Banque du Japon a demandé des règles strictes sur les réserves de ces jetons, après l'avis de la CFTC américaine les acceptant comme ressources financières.",
+   "implication": "La monnaie numérique émise par des banques réglementées devient un modèle concret, qui pourrait inspirer la BCEAO et redéfinir à terme les transferts de la diaspora vers le Bénin.",
+   "pistes": [
+    "Suivre les travaux de la BCEAO sur la monnaie numérique et les cryptoactifs pour être prêts si un cadre régional s'ouvre.",
+    "Mesurer, avec les équipes transferts, la part des envois de la diaspora qui passent déjà par des stablecoins via des plateformes étrangères.",
+    "Explorer avec le groupe Ecobank les expériences de dépôts tokenisés menées dans d'autres régions pour en tirer des enseignements."
+   ],
+   "vigilance": "Les stablecoins ne sont pas autorisés comme moyen de paiement dans l'UEMOA ; leur usage informel par des clients reste un risque de blanchiment à surveiller.",
+   "source": "CoinDesk ; The Block",
+   "url": "https://coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin"
+  },
+  {
    "date": "2026-11-26",
    "titre": "Cartes bancaires : Visa prépare une carte qui puise au choix dans un solde classique ou en stablecoins",
    "resume": "Visa s'associe à la fintech norvégienne NBX, à Tieto et à IDT Finance pour lancer en 2027, dans cinq pays européens, une carte unique pouvant débiter un compte en monnaie classique ou un stablecoin adossé au dollar ; le communiqué rappelle que ces jetons ne sont pas couverts par la garantie des dépôts.",
@@ -1843,20 +1857,6 @@
    "vigilance": "Un partenariat avec une fintech engage la banque sur la conformité (lutte contre le blanchiment, connaissance du client) : la sélection et le suivi des partenaires doivent être rigoureux.",
    "source": "Agence Ecofin",
    "url": "https://www.ecofinagency.com/news-digital/2611-61213-cotonou-fintech-forum-2026-focuses-on-scaling-west-africa-s-digital-finance-industry"
-  },
-  {
-   "date": "2026-11-23",
-   "titre": "Fraude au mobile money : au Burkina, les pertes de 2026 dépassent déjà celles de 2025",
-   "resume": "Au Burkina Faso, 956 victimes de cybercriminalité ont été recensées en octobre, dont 263 par fraude au mobile money ; au Bénin, le Centre national d'investigations numériques (CNIN) a alerté mi-novembre sur de faux agents qui demandent le code de validation reçu par SMS.",
-   "implication": "La même technique (faux agent, code SMS) vise aussi les clients bancaires reliés à leurs portefeuilles mobiles, avec des virements désormais instantanés et difficiles à rattraper.",
-   "pistes": [
-    "Diffuser aux clients particuliers et commerçants, par SMS et sur l'application, un rappel simple : la banque ne demande jamais de code par téléphone.",
-    "Ajouter un délai ou une confirmation supplémentaire sur le premier transfert vers un nouveau portefeuille mobile au-delà d'un montant fixé.",
-    "Proposer au CNIN et aux opérateurs un circuit rapide de signalement des numéros frauduleux."
-   ],
-   "vigilance": "Une hausse visible des fraudes peut ramener une partie des clients vers l'argent liquide et freiner l'usage des canaux numériques.",
-   "source": "Bénin Web TV ; Les 4 Vérités",
-   "url": "https://beninwebtv.bj/burkina-cybercriminalite-956-victimes-261-millions-octobre-2026/"
   },
   {
    "date": "2026-11-25",
@@ -1941,6 +1941,20 @@
    "vigilance": "Des coupes trop rapides dans l'informatique peuvent fragiliser la continuité de service et la sécurité.",
    "source": "Financial Afrik",
    "url": "https://www.financialafrik.com/2026/11/24/absa-veut-reduire-ses-couts-de-287-millions-usd-pour-ameliorer-sa-rentabilite/"
+  },
+  {
+   "date": "2026-11-23",
+   "titre": "Fraude au mobile money : au Burkina, les pertes de 2026 dépassent déjà celles de 2025",
+   "resume": "Au Burkina Faso, 956 victimes de cybercriminalité ont été recensées en octobre, dont 263 par fraude au mobile money ; au Bénin, le Centre national d'investigations numériques (CNIN) a alerté mi-novembre sur de faux agents qui demandent le code de validation reçu par SMS.",
+   "implication": "La même technique (faux agent, code SMS) vise aussi les clients bancaires reliés à leurs portefeuilles mobiles, avec des virements désormais instantanés et difficiles à rattraper.",
+   "pistes": [
+    "Diffuser aux clients particuliers et commerçants, par SMS et sur l'application, un rappel simple : la banque ne demande jamais de code par téléphone.",
+    "Ajouter un délai ou une confirmation supplémentaire sur le premier transfert vers un nouveau portefeuille mobile au-delà d'un montant fixé.",
+    "Proposer au CNIN et aux opérateurs un circuit rapide de signalement des numéros frauduleux."
+   ],
+   "vigilance": "Une hausse visible des fraudes peut ramener une partie des clients vers l'argent liquide et freiner l'usage des canaux numériques.",
+   "source": "Bénin Web TV ; Les 4 Vérités",
+   "url": "https://beninwebtv.bj/burkina-cybercriminalite-956-victimes-261-millions-octobre-2026/"
   },
   {
    "date": "2026-11-23",
@@ -2361,20 +2375,6 @@
    "vigilance": "Un refinancement en FCFA de dettes en devises consomme de la liquidité locale et doit rester compatible avec les limites de concentration.",
    "source": "Agence Ecofin (rapport OCDE)",
    "url": "https://www.ecofinagency.com/news-finances/1411-60816-83-of-africas-corporate-debt-issued-in-foreign-currency-in-2025-exposing-firms-to-exchange-rate-risks-report"
-  },
-  {
-   "date": "2026-11-14",
-   "titre": "Paiement instantané : les portefeuilles rendent la réception gratuite",
-   "resume": "Après l'entrée en vigueur de PI-SPI, le portefeuille malien SAMA Money offre la réception des virements instantanés et les envois jusqu'à 100 000 FCFA par jour ; la concurrence sur le prix des petits transferts s'étend dans l'UEMOA.",
-   "implication": "Les clients béninois compareront de plus en plus nos frais de virement à ceux des portefeuilles mobiles, qui font de la gratuité un argument d'acquisition.",
-   "pistes": [
-    "Comparer nos frais de virement PI-SPI à ceux de MTN MoMo, Moov Money et Celtiis pour les montants courants (moins de 100 000 FCFA).",
-    "Étudier une réception gratuite et un quota d'envois offerts pour les comptes salariés et les petits commerçants.",
-    "Mettre en avant notre interface entreprises homologuée pour capter les encaissements des PME plutôt que la seule bataille des petits envois."
-   ],
-   "vigilance": "La gratuité réduit les commissions : il faut mesurer le manque à gagner avant d'aligner nos prix.",
-   "source": "Bénin Web TV",
-   "url": "https://beninwebtv.bj/mali-sama-money-ouvre-la-reception-gratuite-des-virements-pi-spi-dans-luemoa/"
   }
  ],
  "marche": {
@@ -2733,34 +2733,48 @@
   "lecture": "Sur la liste PI-SPI du 31 juillet 2026, onze établissements béninois sont autorisés, dont NSIA Banque et MTN ; la BIIC et Société Générale Bénin n'y figurent pas. Selon la presse, la seule API PI-SPI Business approuvée au Bénin est celle d'Ecobank. En dehors d'UBA, aucune communication publique d'une banque béninoise sur le paiement par téléphone ou un crédit 100 % numérique : deux terrains encore peu occupés."
  },
  "bourse": {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "titres": [
    {
     "nom": "BIIC",
     "code": "BICB",
-    "cours": "7 000",
-    "detail": "Stable à 7 000 FCFA sur la séance du 26 novembre (0,00 %) ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %).",
+    "cours": "7 050",
+    "detail": "+0,71 % sur la séance du 27 novembre (7 000 FCFA la veille), cours provisoire ; bénéfice de 21,2 milliards FCFA sur neuf mois (+64 %).",
     "url": "https://www.sikafinance.com/marches/cotation_BICB.bj"
    },
    {
     "nom": "Bank of Africa Bénin",
     "code": "BOAB",
-    "cours": "8 000",
-    "detail": "−0,87 % sur la séance du 26 novembre (8 070 FCFA la veille) ; résultat net d'environ 15 milliards FCFA sur neuf mois.",
-    "url": "https://www.sikafinance.com/marches/cotation_BOAB.bj"
+    "cours": "8 150",
+    "detail": "Rebond de +1,88 % sur la séance du 27 novembre (8 000 FCFA la veille) ; résultat net d'environ 15 milliards FCFA sur neuf mois.",
+    "url": "https://www.richbourse.com/common/mouvements/index/BOAB"
    },
    {
     "nom": "Ecobank Transnational (groupe)",
     "code": "ETIT",
-    "cours": "51",
-    "detail": "51 FCFA sur la séance du 26 novembre selon Dabafinance (50 FCFA à la clôture du 25) ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %).",
-    "url": "https://dabafinance.com/en/capitalmarkets/brvm/etit"
+    "cours": "50",
+    "detail": "−1,96 % sur la séance du 27 novembre (51 FCFA la veille) ; bénéfice avant impôt sur neuf mois de 737 millions de dollars (+12 %).",
+    "url": "https://www.sikafinance.com/marches/historiques/ETIT.tg"
    }
   ],
-  "source": "BRVM, séance du 26 novembre 2026 (BRVM Composite −2,41 %, à 453,57 points, dixième baisse d'affilée) ; Sika Finance ; Dabafinance ; Le Jecos",
-  "url": "https://lejecos.com/BRVM-10eme-journee-de-baisse-ininterrompue-des-indices-phares-de-la-Bourse-ce-jeudi-26-novembre-2026_a31913.html"
+  "source": "BRVM, séance du 27 novembre 2026 (cours provisoires avant le bulletin officiel) ; Richbourse ; Sika Finance ; brvmdata",
+  "url": "https://brvmdata.com/actions/"
  },
  "opportunites": [
+  {
+   "date": "2026-11-26",
+   "titre": "Budget 2027 : 31,8 milliards FCFA de programmes PME et emploi financés par des bailleurs",
+   "resume": "Le ministère des PME et de l'Emploi verra son budget plus que doubler en 2027, à 41,8 milliards FCFA ; ses 31,8 milliards d'investissements sont financés par l'extérieur, notamment le projet ProDIJ de la Banque mondiale et le programme PAEB de l'Union européenne et de l'AFD.",
+   "implication": "Ces programmes vont accompagner des milliers de jeunes et de petites entreprises qui auront besoin d'un compte, de crédit et d'une banque partenaire pour recevoir et gérer les fonds.",
+   "pistes": [
+    "Proposer au ministère et aux bailleurs d'être banque partenaire pour le versement des subventions et le suivi des bénéficiaires.",
+    "Concevoir une offre « jeune entrepreneur » (compte, carte, petit crédit adossé à une garantie de programme) distribuée via les dispositifs publics.",
+    "Rapprocher nos équipes PME des fonds de garantie liés à ces programmes pour partager le risque sur les premiers crédits."
+   ],
+   "vigilance": "Les montants dépendent du rythme de décaissement des bailleurs, souvent plus lent que prévu ; éviter de dimensionner une offre sur les seules annonces budgétaires.",
+   "source": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/benin-budget-pme-emploi-2027-financements-exterieurs/"
+  },
   {
    "date": "2026-11-26",
    "titre": "BAD et BERD : une coalition pour le financement des PME africaines lancée à Abidjan",
@@ -3302,19 +3316,6 @@
    "vigilance": "Aucun montant ni calendrier par commune n'est publié ; les effets seront progressifs.",
    "source": "Gouvernement du Bénin",
    "url": "https://www.gouv.bj/article/3734/modernisation-fonciere-benin-deux-nouveaux-programmes-accelerer-deploiement-cadastre-national/"
-  },
-  {
-   "date": "2026-11-06",
-   "titre": "Fonds de garantie des PME : un directeur général nommé et 50 % des prêts garantis",
-   "resume": "Agréé le 13 octobre comme établissement financier (5 milliards FCFA de capital annoncé), le fonds prévoit de garantir 50 % des prêts éligibles et vise 4 milliards FCFA de prêts garantis ; Edouard M. Sehlin en a été nommé directeur général le 4 novembre.",
-   "implication": "Une garantie de 50 % réduit de moitié notre perte potentielle sur les crédits PME éligibles.",
-   "pistes": [
-    "Prendre rendez-vous avec le nouveau directeur général pour signer une convention de garantie dès le démarrage.",
-    "Sélectionner un portefeuille pilote de PME clientes éligibles pour tester le mécanisme."
-   ],
-   "vigilance": "Les conditions (commission de garantie, délais d'indemnisation) ne sont pas encore publiées.",
-   "source": "La Marina",
-   "url": "https://lamarina.bj/2026/11/06/financement-des-pme-au-benin-deux-ans-apres-sa-creation-comment-le-figpme-a-franchi-les-etapes-conduisant-a-son-agrement/"
   }
  ],
  "historique": {
@@ -3497,6 +3498,12 @@
     "BICB": 7000,
     "BOAB": 8000,
     "ETIT": 51
+   },
+   {
+    "date": "2026-11-27",
+    "BICB": 7050,
+    "BOAB": 8150,
+    "ETIT": 50
    }
   ]
  },
@@ -4060,9 +4067,99 @@
   "Établissement de paiement": "Société agréée par la BCEAO pour fournir des services de paiement (transferts, encaissement marchand, portefeuille) sans être une banque ni pouvoir accorder de crédit.",
   "CNIN": "Centre national d'investigations numériques du Bénin : service chargé de la lutte contre la cybercriminalité.",
   "Customs Webb": "Plateforme en ligne de la douane béninoise sur laquelle se font les formalités douanières, dont la déclaration des espèces transportées par les voyageurs.",
-  "Finance islamique": "Ensemble de produits financiers conformes aux principes de l'islam, qui excluent l'intérêt et reposent sur le partage des profits ou l'achat-revente de biens réels."
+  "Finance islamique": "Ensemble de produits financiers conformes aux principes de l'islam, qui excluent l'intérêt et reposent sur le partage des profits ou l'achat-revente de biens réels.",
+  "Dette intérieure": "Dette qu'un État emprunte sur son propre marché, en FCFA, surtout auprès des banques locales (bons et obligations du Trésor).",
+  "Plan annuel d'emprunt": "Document où l'État annonce à l'avance combien il compte emprunter dans l'année, auprès de qui et sous quelle forme.",
+  "ProDIJ": "Projet de la Banque mondiale au Bénin pour le développement des compétences, de l'entrepreneuriat et de l'emploi des jeunes.",
+  "Fonds souverain": "Fonds d'investissement détenu par un État, souvent alimenté par des recettes de matières premières, pour épargner et investir à long terme."
  },
  "journal": [
+  {
+   "date": "2026-11-28",
+   "synthese": "Journée calme à la veille du week-end : au Bénin, l'examen en commission du budget 2027 se poursuit (PME et emploi, Sécurité, Défense), un rapport CUA-OCDE souligne le poids croissant de la dette publique détenue par les banques ouest-africaines, et les banques centrales et grandes banques du monde accélèrent sur l'encadrement et l'émission de stablecoins.",
+   "articles": [
+    {
+     "theme": "Régulation et marchés",
+     "date": "2026-11-27",
+     "titre": "Afrique de l'Ouest : 65 % de la dette publique est empruntée localement, ce qui expose davantage les banques",
+     "resume": "Le rapport 2026 de la Commission de l'Union africaine et de l'OCDE sur les dynamiques du développement estime que la dette intérieure représente 65 % de l'encours des États ouest-africains sur 2020-2024 ; il cite le Bénin comme le seul des dix pays étudiés à publier son plan annuel d'emprunt avant ou pendant le vote du budget.",
+     "source": "PressAfrik",
+     "url": "https://www.pressafrik.com/%e2%80%8bAfrique-de-l-Ouest-65-de-dette-interieure-et-une-exposition-bancaire-accrue-selon-la-CUA-et-l-OCDE_a315193.html"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-26",
+     "titre": "Budget 2027 : 41,8 milliards FCFA pour les PME et l'emploi, dont les trois quarts financés par l'extérieur",
+     "resume": "La ministre Awaou Baco a défendu un budget plus que doublé (+110 %) ; les 31,8 milliards FCFA d'investissements reposent sur des financements extérieurs, notamment le projet ProDIJ de la Banque mondiale et le programme PAEB de l'Union européenne et de l'AFD.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-budget-pme-emploi-2027-financements-exterieurs/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-25",
+     "titre": "Budget 2027 : 90,7 milliards FCFA pour la Sécurité publique, en baisse de 6,5 milliards",
+     "resume": "Le ministre de l'Intérieur a présenté le 24 novembre en commission un budget de 90,73 milliards FCFA (97,18 milliards en 2026), dont 23,36 milliards d'investissements pour 15 nouvelles unités de police et cinq centres de protection civile.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/securite-djibril-mama-cisse-moussa-defend-un-projet-de-budget-2027-de-9073-milliards-de-fcfa/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-27",
+     "titre": "Budget 2027 de la Défense : le soutien aux familles des militaires tués parmi les priorités",
+     "resume": "Le ministre délégué Gildas Agonkan a présenté le 26 novembre le budget de la Défense en commission, en mettant l'accent sur l'aide aux veuves, enfants et parents de soldats morts au combat ; près de 900 enfants ont été aidés à la rentrée de septembre.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-defense-budget-2027-soutien-familles-soldats/"
+    },
+    {
+     "theme": "Bénin",
+     "date": "2026-11-25",
+     "titre": "Budget 2027 : 12,4 milliards FCFA pour la Communication et les médias publics",
+     "resume": "La ministre Aurélie Adam Soulé Zoumarou a défendu un budget dont 90 % va au programme communication et médias, qui finance notamment la SRTB, l'imprimerie nationale (ONIP) et la société de radiodiffusion SBIR.",
+     "source": "Bénin Web TV",
+     "url": "https://beninwebtv.bj/benin-budget-2027-communication-medias/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-26",
+     "titre": "Mastercard nomme Kari Tukur à la tête de l'Afrique de l'Ouest",
+     "resume": "Ancienne de Standard Chartered, Diamond Bank et Access Bank, chez Mastercard depuis 2019, elle devient vice-présidente senior et responsable pays pour l'Afrique de l'Ouest, chargée de la stratégie et de la croissance dans la région.",
+     "source": "P.M. News",
+     "url": "https://pmnewsnigeria.com/2026/11/26/mastercard-appoints-tukur-to-head-west-africa-operations/"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Ghana : le cedi recule face au dollar avec la demande de fin d'année",
+     "resume": "Le cedi a perdu 0,93 % en une semaine sur le marché interbancaire (11,80 cedis pour un dollar en moyenne) et 2,2 % au détail ; les analystes de Databank jugent l'offre de devises de la banque centrale insuffisante et s'attendent à une nouvelle baisse.",
+     "source": "GhanaWeb",
+     "url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-edges-closer-to-year-to-date-low-as-yuletide-dollar-demand-builds-2063308"
+    },
+    {
+     "theme": "Afrique",
+     "date": "2026-11-27",
+     "titre": "Guinée : le Parlement crée un fonds souverain alimenté par les recettes de Simandou",
+     "resume": "La loi adoptée le 25 novembre institue le Fonds souverain de Guinée, financé en partie par les revenus du gisement de fer de Simandou.",
+     "source": "allAfrica (revue de presse francophone)",
+     "url": "https://fr.allafrica.com/stories/202611270196.html"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-27",
+     "titre": "Brésil : la Bourse B3 et six grandes banques lancent un stablecoin en reais",
+     "resume": "Baptisé Open BRL, ce jeton adossé un pour un au real sera émis par Banco B3 au premier trimestre 2027 avec Itaú, Bradesco, Santander, BTG Pactual, Safra et XP, et servira aussi à régler des actions tokenisées.",
+     "source": "CoinDesk",
+     "url": "https://coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin"
+    },
+    {
+     "theme": "Monde",
+     "date": "2026-11-27",
+     "titre": "Banque du Japon : les stablecoins doivent être soumis à des règles strictes sur leurs réserves",
+     "resume": "Le directeur exécutif Kazushige Kamiyama estime qu'il faut contrôler les actifs de réserve des stablecoins et leurs liens avec la monnaie de banque centrale pour préserver l'unité de la monnaie ; la BoJ teste par ailleurs des paiements et obligations tokenisés.",
+     "source": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059"
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "synthese": "La journée reste marquée par la dixième baisse d'affilée de la BRVM et l'ampleur des emprunts des États de l'UEMOA ; au Bénin, la douane impose dès le 1er décembre la déclaration en ligne des espèces transportées par les voyageurs, pendant que l'examen du budget 2027 se poursuit et que le Togo voisin a adopté le sien.",
